@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Veille programmes neufs IDF</title>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 0; padding: 24px; background: #f6f6f4; color: #222; }
+  h1 { font-size: 1.5rem; margin: 0 0 16px; }
+  input { width: 100%; max-width: 420px; padding: 10px; border: 1px solid #ccc; border-radius: 8px; margin-bottom: 16px; font-size: 1rem; }
+  .carte { background: #fff; border-radius: 12px; padding: 16px; margin-bottom: 12px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+  .carte h2 { font-size: 1.05rem; margin: 0 0 6px; }
+  .meta { font-size: .9rem; color: #555; line-height: 1.6; }
+  a { color: #0a58ca; }
+  .vide { color: #777; }
+</style>
+</head>
+<body>
+<h1>Nouveaux programmes neufs en Île-de-France</h1>
+<input id="filtre" type="search" placeholder="Filtrer (nom, lieu, promoteur)…">
+<div id="liste"></div>
+
+<script>
+  // Cette page racine lit les données publiées dans le dossier docs/.
+  const DONNEES = "docs/programmes.json";
+  let tous = [];
+
+  function afficher(liste) {
+    const zone = document.getElementById("liste");
+    zone.replaceChildren();
+    if (!liste.length) {
+      const p = document.createElement("p");
+      p.className = "vide";
+      p.textContent = "Aucun programme pour le moment.";
+      zone.appendChild(p);
+      return;
+    }
+    for (const p of liste) {
+      const carte = document.createElement("div");
+      carte.className = "carte";
+
+      const titre = document.createElement("h2");
+      titre.textContent = p.nom;
+      carte.appendChild(titre);
+
+      const meta = document.createElement("div");
+      meta.className = "meta";
+      const contacts = (p.contacts || []).join(", ") || "non trouvé";
+      const detecte = new Date(p.detecte_le).toLocaleDateString("fr-FR");
+      meta.append(
+        `Lieu : ${p.lieu}`, document.createElement("br"),
+        `Promoteur : ${p.promoteur}`, document.createElement("br"),
+        `Contact : ${contacts}`, document.createElement("br"),
+        `Détecté le : ${detecte}`, document.createElement("br")
+      );
+      const lien = document.createElement("a");
+      lien.href = p.lien;
+      lien.target = "_blank";
+      lien.rel = "noopener";
+      lien.textContent = "Voir la source";
+      meta.appendChild(lien);
+
+      carte.appendChild(meta);
+      zone.appendChild(carte);
+    }
+  }
+
+  document.getElementById("filtre").addEventListener("input", (e) => {
+    const q = e.target.value.trim().toLowerCase();
+    afficher(tous.filter((p) =>
+      [p.nom, p.lieu, p.promoteur].some((c) => (c || "").toLowerCase().includes(q))
+    ));
+  });
+
+  fetch(DONNEES)
+    .then((r) => r.json())
+    .then((data) => {
+      tous = data.sort((a, b) => b.detecte_le.localeCompare(a.detecte_le));
+      afficher(tous);
+    })
+    .catch(() => afficher([]));
+</script>
+</body>
+</html>
