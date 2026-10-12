@@ -126,17 +126,23 @@ def trouver_programmes(source, url_page, html, mots):
     """Repère les blocs qui ressemblent à une annonce de programme en Île-de-France."""
     soup = BeautifulSoup(html, "html.parser")
     trouves = []
+    # Compteurs pour le journal : montrent à quelle étape les blocs sont écartés.
+    stats = {"blocs": 0, "avec_declencheur": 0, "avec_mot_programme": 0, "avec_localisation": 0}
     for bloc in soup.select(SELECTEUR_BLOCS):
         texte = normaliser(bloc.get_text(" "))
         if not 20 <= len(texte) <= 1500:
             continue
+        stats["blocs"] += 1
         if not contient(texte, mots["declencheurs"]):
             continue
+        stats["avec_declencheur"] += 1
         if not contient(texte, mots["programmes"]):
             continue
+        stats["avec_mot_programme"] += 1
         loc = IDF_LOCALISATION.search(texte)
         if not loc:
             continue
+        stats["avec_localisation"] += 1
 
         lien_el = bloc.find("a", href=True)
         lien = urljoin(url_page, lien_el["href"]) if lien_el else url_page
@@ -155,7 +161,7 @@ def trouver_programmes(source, url_page, html, mots):
             "date_publication": extraire_date(texte),
             "extrait": texte[:300],
         })
-    return trouves
+    return trouves, stats
 
 
 def chercher_contacts(lien, cache):
@@ -232,8 +238,11 @@ def main():
         for url_page in source["pages"]:
             html = telecharger(url_page)
             if not html:
+                print(f"  page non lue : {url_page}")
                 continue
-            for item in trouver_programmes(source, url_page, html, mots):
+            trouves, stats = trouver_programmes(source, url_page, html, mots)
+            print(f"  {url_page} : {len(html)} caractères, {stats}")
+            for item in trouves:
                 if item["id"] in seen or item["id"] in ids_vus_ce_passage:
                     continue
                 ids_vus_ce_passage.add(item["id"])
