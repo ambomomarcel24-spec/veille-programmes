@@ -1,0 +1,29 @@
+{
+  "declencheurs": [
+    "nouveauté",
+    "avant-première",
+    "avant première",
+    "exclusivité",
+    "exclusivite",
+    "nouveau programme",
+    "ouverture des ventes",
+    "lancement commercial",
+    "vient d'être mis en vente",
+    "mise en vente"
+  ],
+  "programmes": [
+    "programme",
+    "résidence",
+    "livraison",
+    "lots",
+    "appartements",
+    "logements",
+    "immobilier neuf",
+    "neuf",
+    "T1",
+    "T2",
+    "T3",
+    "T4",
+    "commercialisation"
+  ]
+}

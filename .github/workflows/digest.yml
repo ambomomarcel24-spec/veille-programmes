@@ -1,0 +1,32 @@
+name: Récapitulatif du vendredi
+
+on:
+  schedule:
+    # 15h à Paris : 13h UTC en été, 14h UTC en hiver.
+    # Le script vérifie l'heure de Paris et n'envoie qu'une fois.
+    - cron: "0 13 * * 5"
+    - cron: "0 14 * * 5"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Envoyer le récapitulatif
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+        run: python scripts/digest.py
