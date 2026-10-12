@@ -5,80 +5,259 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Veille programmes neufs IDF</title>
 <style>
-  body { font-family: system-ui, sans-serif; margin: 0; padding: 24px; background: #f6f6f4; color: #222; }
-  h1 { font-size: 1.5rem; margin: 0 0 16px; }
-  input { width: 100%; max-width: 420px; padding: 10px; border: 1px solid #ccc; border-radius: 8px; margin-bottom: 16px; font-size: 1rem; }
-  .carte { background: #fff; border-radius: 12px; padding: 16px; margin-bottom: 12px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
-  .carte h2 { font-size: 1.05rem; margin: 0 0 6px; }
-  .meta { font-size: .9rem; color: #555; line-height: 1.6; }
-  a { color: #0a58ca; }
-  .vide { color: #777; }
+  :root {
+    --fond: #f4f5f3;
+    --carte: #ffffff;
+    --texte: #1d1f1c;
+    --discret: #6b706a;
+    --bordure: #e2e4df;
+    --accent: #0b6e4f;
+    --nouveau: #0b6e4f;
+    --passe: #8a6d1d;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    background: var(--fond);
+    color: var(--texte);
+    line-height: 1.5;
+  }
+  header {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 28px 20px 8px;
+  }
+  h1 { font-size: 1.6rem; margin: 0 0 4px; }
+  .sous-titre { color: var(--discret); margin: 0 0 20px; }
+  .barre {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+  }
+  .periodes { display: inline-flex; border: 1px solid var(--bordure); border-radius: 10px; overflow: hidden; background: var(--carte); }
+  .periodes button {
+    border: 0;
+    background: transparent;
+    padding: 9px 14px;
+    font: inherit;
+    cursor: pointer;
+    color: var(--discret);
+  }
+  .periodes button[aria-pressed="true"] { background: var(--accent); color: #fff; }
+  input[type="search"] {
+    flex: 1;
+    min-width: 220px;
+    max-width: 360px;
+    padding: 10px 12px;
+    border: 1px solid var(--bordure);
+    border-radius: 10px;
+    font: inherit;
+    background: var(--carte);
+  }
+  .stats { color: var(--discret); font-size: .95rem; margin: 8px 0 20px; }
+  main { max-width: 960px; margin: 0 auto; padding: 0 20px 48px; }
+  .grille { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); }
+  .carte {
+    background: var(--carte);
+    border: 1px solid var(--bordure);
+    border-radius: 14px;
+    padding: 16px 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .carte-haut { display: flex; justify-content: space-between; gap: 10px; align-items: flex-start; }
+  .carte h2 { font-size: 1.05rem; margin: 0; }
+  .badge {
+    font-size: .75rem;
+    font-weight: 600;
+    padding: 3px 9px;
+    border-radius: 999px;
+    white-space: nowrap;
+    color: #fff;
+  }
+  .badge.nouveau { background: var(--nouveau); }
+  .badge.passe { background: var(--passe); }
+  dl { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; font-size: .92rem; }
+  dt { color: var(--discret); }
+  dd { margin: 0; word-break: break-word; }
+  .absent { color: var(--discret); font-style: italic; }
+  .actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: auto; padding-top: 4px; }
+  .actions a, .actions button {
+    font: inherit;
+    font-size: .9rem;
+    border-radius: 8px;
+    padding: 7px 11px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  .actions a { color: var(--accent); border: 1px solid var(--accent); background: transparent; }
+  .actions button { color: #fff; background: var(--accent); border: 1px solid var(--accent); }
+  .vide { text-align: center; color: var(--discret); padding: 40px 10px; background: var(--carte); border: 1px dashed var(--bordure); border-radius: 14px; }
+  footer { max-width: 960px; margin: 0 auto; padding: 0 20px 32px; color: var(--discret); font-size: .85rem; }
+  a { color: var(--accent); }
 </style>
 </head>
 <body>
-<h1>Nouveaux programmes neufs en Île-de-France</h1>
-<input id="filtre" type="search" placeholder="Filtrer (nom, lieu, promoteur)…">
-<div id="liste"></div>
+<header>
+  <h1>Nouveaux programmes neufs en Île-de-France</h1>
+  <p class="sous-titre">Programmes repérés sur les sites des promoteurs et portails du neuf.</p>
+  <div class="barre">
+    <div class="periodes" role="group" aria-label="Période">
+      <button type="button" data-periode="7" aria-pressed="false">7 derniers jours</button>
+      <button type="button" data-periode="30" aria-pressed="true">30 derniers jours</button>
+    </div>
+    <input id="recherche" type="search" placeholder="Rechercher un nom, une ville, un promoteur…" aria-label="Rechercher">
+  </div>
+  <p class="stats" id="stats"></p>
+</header>
+
+<main>
+  <div class="grille" id="liste"></div>
+</main>
+
+<footer>
+  Mise à jour automatique toutes les heures. La date affichée est celle de publication lorsque le site l'indique, sinon la date de détection.
+</footer>
 
 <script>
-  // Cette page racine lit les données publiées dans le dossier docs/.
+  // Données publiées par le workflow « Veille programmes » (dossier docs/).
   const DONNEES = "docs/programmes.json";
+  const JOUR = 86400000;
+
   let tous = [];
+  let periode = 30;
+  let recherche = "";
 
-  function afficher(liste) {
-    const zone = document.getElementById("liste");
-    zone.replaceChildren();
-    if (!liste.length) {
-      const p = document.createElement("p");
-      p.className = "vide";
-      p.textContent = "Aucun programme pour le moment.";
-      zone.appendChild(p);
-      return;
+  function el(tag, attrs = {}, ...enfants) {
+    const e = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs)) {
+      if (k === "class") e.className = v;
+      else if (k === "text") e.textContent = v;
+      else e.setAttribute(k, v);
     }
-    for (const p of liste) {
-      const carte = document.createElement("div");
-      carte.className = "carte";
-
-      const titre = document.createElement("h2");
-      titre.textContent = p.nom;
-      carte.appendChild(titre);
-
-      const meta = document.createElement("div");
-      meta.className = "meta";
-      const contacts = (p.contacts || []).join(", ") || "non trouvé";
-      const detecte = new Date(p.detecte_le).toLocaleDateString("fr-FR");
-      meta.append(
-        `Lieu : ${p.lieu}`, document.createElement("br"),
-        `Promoteur : ${p.promoteur}`, document.createElement("br"),
-        `Contact : ${contacts}`, document.createElement("br"),
-        `Détecté le : ${detecte}`, document.createElement("br")
-      );
-      const lien = document.createElement("a");
-      lien.href = p.lien;
-      lien.target = "_blank";
-      lien.rel = "noopener";
-      lien.textContent = "Voir la source";
-      meta.appendChild(lien);
-
-      carte.appendChild(meta);
-      zone.appendChild(carte);
-    }
+    e.append(...enfants);
+    return e;
   }
 
-  document.getElementById("filtre").addEventListener("input", (e) => {
-    const q = e.target.value.trim().toLowerCase();
-    afficher(tous.filter((p) =>
-      [p.nom, p.lieu, p.promoteur].some((c) => (c || "").toLowerCase().includes(q))
-    ));
+  function dateDeReference(p) {
+    return p.date_publication ? new Date(p.date_publication + "T12:00:00") : new Date(p.detecte_le);
+  }
+
+  function ageEnJours(p) {
+    return (Date.now() - dateDeReference(p).getTime()) / JOUR;
+  }
+
+  function formaterDate(p) {
+    const suffixe = p.date_publication ? "" : " (détecté)";
+    return dateDeReference(p).toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" }) + suffixe;
+  }
+
+  function ligne(liste, libelle, valeur) {
+    const dd = el("dd");
+    if (valeur instanceof Node) dd.append(valeur);
+    else dd.textContent = valeur;
+    liste.append(el("dt", { text: libelle }), dd);
+  }
+
+  function carte(p) {
+    const nouveau = ageEnJours(p) <= 7;
+    const contacts = p.contacts || [];
+
+    const contactEl = el("span");
+    if (contacts.length) {
+      contacts.forEach((c, i) => {
+        if (i) contactEl.append(", ");
+        contactEl.append(el("a", { href: "mailto:" + c, text: c }));
+      });
+    } else {
+      contactEl.append(el("span", { class: "absent", text: "non trouvé : voir la fiche" }));
+    }
+
+    const infos = el("dl");
+    ligne(infos, "Lieu", p.lieu);
+    ligne(infos, "Promoteur", p.promoteur);
+    ligne(infos, "Date", formaterDate(p));
+    ligne(infos, "Contact", contactEl);
+
+    const actions = el("div", { class: "actions" });
+    actions.append(el("a", { href: p.lien, target: "_blank", rel: "noopener", text: "Voir la source" }));
+    if (contacts.length) {
+      const bouton = el("button", { type: "button", text: "Copier le contact" });
+      bouton.addEventListener("click", async () => {
+        try {
+          await navigator.clipboard.writeText(contacts[0]);
+          bouton.textContent = "Copié ✓";
+        } catch (e) {
+          bouton.textContent = contacts[0];
+        }
+        setTimeout(() => (bouton.textContent = "Copier le contact"), 2000);
+      });
+      actions.append(bouton);
+    }
+
+    return el("article", { class: "carte" },
+      el("div", { class: "carte-haut" },
+        el("h2", { text: p.nom }),
+        el("span", { class: "badge " + (nouveau ? "nouveau" : "passe"), text: nouveau ? "Nouveau" : "Passé" })
+      ),
+      infos,
+      actions
+    );
+  }
+
+  function visibles() {
+    const q = recherche.trim().toLowerCase();
+    return tous
+      .filter((p) => ageEnJours(p) <= periode)
+      .filter((p) => !q || [p.nom, p.lieu, p.promoteur].some((c) => (c || "").toLowerCase().includes(q)))
+      .sort((a, b) => dateDeReference(b) - dateDeReference(a));
+  }
+
+  function rendre() {
+    const liste = visibles();
+    const zone = document.getElementById("liste");
+    zone.replaceChildren();
+
+    const nouveaux = liste.filter((p) => ageEnJours(p) <= 7).length;
+    const passes = liste.length - nouveaux;
+    document.getElementById("stats").textContent =
+      `${liste.length} programme(s) · ${nouveaux} nouveau(x) · ${passes} passé(s)`;
+
+    if (!tous.length) {
+      zone.append(el("div", { class: "vide", text: "Aucun programme pour le moment. Les nouveaux apparaîtront ici dès leur détection." }));
+      return;
+    }
+    if (!liste.length) {
+      zone.append(el("div", { class: "vide", text: "Aucun programme ne correspond à cette période ou à cette recherche." }));
+      return;
+    }
+    liste.forEach((p) => zone.append(carte(p)));
+  }
+
+  document.querySelectorAll("[data-periode]").forEach((b) => {
+    b.addEventListener("click", () => {
+      periode = Number(b.dataset.periode);
+      document.querySelectorAll("[data-periode]").forEach((x) =>
+        x.setAttribute("aria-pressed", String(x === b))
+      );
+      rendre();
+    });
   });
 
-  fetch(DONNEES)
+  document.getElementById("recherche").addEventListener("input", (e) => {
+    recherche = e.target.value;
+    rendre();
+  });
+
+  fetch(DONNEES, { cache: "no-store" })
     .then((r) => r.json())
-    .then((data) => {
-      tous = data.sort((a, b) => b.detecte_le.localeCompare(a.detecte_le));
-      afficher(tous);
-    })
-    .catch(() => afficher([]));
+    .then((data) => { tous = data; rendre(); })
+    .catch(() => { tous = []; rendre(); });
 </script>
 </body>
 </html>

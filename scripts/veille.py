@@ -15,6 +15,7 @@ import os
 import re
 import sys
 import time
+from datetime import date
 from urllib import robotparser
 from urllib.parse import urljoin, urlparse
 
@@ -27,7 +28,16 @@ USER_AGENT = "VeilleProgrammesFFY/1.0 (usage interne ; marcel.ambomo@flyingforyo
 TIMEOUT = 20
 DELAY_SECONDES = 2  # pause minimale entre deux requêtes vers un même site
 
-IDF_CP = re.compile(r"\b(75|77|78|91|92|93|94|95)\d{3}\b")
+# Localisation : code postal (75012) ou numéro de département entre parenthèses (Le Blanc-Mesnil (93))
+IDF_LOCALISATION = re.compile(r"\b(?:75|77|78|91|92|93|94|95)\d{3}\b|\((?:75|77|78|91|92|93|94|95)\)")
+# Dates : « 12/10/2026 », « 12 octobre 2026 », « 12 oct. 2026 »
+DATE_NUMERIQUE = re.compile(r"\b(\d{1,2})[/.-](\d{1,2})[/.-](20\d{2})\b")
+DATE_TEXTE = re.compile(r"\b(\d{1,2})\s+([A-Za-zéûèôÉ]+\.?)\s+(20\d{2})\b")
+MOIS_PREFIXES = [
+    ("janv", 1), ("févr", 2), ("fevr", 2), ("mars", 3), ("avr", 4), ("mai", 5),
+    ("juil", 7), ("juin", 6), ("août", 8), ("aout", 8), ("sept", 9), ("oct", 10),
+    ("nov", 11), ("déc", 12), ("dec", 12),
+]
 EMAIL_RE = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 PREFIXES_GENERIQUES = ("contact", "commercial", "info", "accueil", "reservation", "reservations", "hello")
 PAGES_CONTACT = ("/contact", "/contactez-nous", "/mentions-legales")
@@ -82,6 +92,36 @@ def contient(texte, mots):
     return any(m.lower() in t for m in mots)
 
 
+def mois_en_nombre(token):
+    t = token.lower().rstrip(".")
+    for prefixe, numero in MOIS_PREFIXES:
+        if t.startswith(prefixe):
+            return numero
+    return None
+
+
+def extraire_date(texte):
+    """Retourne la date de publication (AAAA-MM-JJ) si le texte en contient une, sinon None.
+
+    Les dates précédées de « livraison » (date de remise des logements) sont ignorées.
+    """
+    candidats = []
+    for m in DATE_NUMERIQUE.finditer(texte):
+        candidats.append((m.start(), int(m.group(3)), int(m.group(2)), int(m.group(1))))
+    for m in DATE_TEXTE.finditer(texte):
+        mois = mois_en_nombre(m.group(2))
+        if mois:
+            candidats.append((m.start(), int(m.group(3)), mois, int(m.group(1))))
+    for debut, annee, mois, jour in sorted(candidats):
+        if "livraison" in texte[max(0, debut - 30):debut].lower():
+            continue
+        try:
+            return date(annee, mois, jour).isoformat()
+        except ValueError:
+            continue
+    return None
+
+
 def trouver_programmes(source, url_page, html, mots):
     """Repère les blocs qui ressemblent à une annonce de programme en Île-de-France."""
     soup = BeautifulSoup(html, "html.parser")
@@ -94,17 +134,17 @@ def trouver_programmes(source, url_page, html, mots):
             continue
         if not contient(texte, mots["programmes"]):
             continue
-        cp = IDF_CP.search(texte)
-        if not cp:
+        loc = IDF_LOCALISATION.search(texte)
+        if not loc:
             continue
 
         lien_el = bloc.find("a", href=True)
         lien = urljoin(url_page, lien_el["href"]) if lien_el else url_page
         titre = bloc.find(["h1", "h2", "h3", "h4"])
         nom = normaliser(titre.get_text()) if titre else texte[:80]
-        avant = re.split(r"[.:;,!?]\s", texte[:cp.start()])[-1][-50:]
-        apres = re.split(r"[.:;,!?]", texte[cp.end():])[0][:40]
-        lieu = normaliser(avant + texte[cp.start():cp.end()] + apres)
+        avant = re.split(r"[.:;,!?]\s", texte[:loc.start()])[-1][-50:]
+        apres = re.split(r"[.:;,!?]", texte[loc.end():])[0][:40]
+        lieu = normaliser(avant + texte[loc.start():loc.end()] + apres)
 
         identifiant = hashlib.sha1(f"{lien}|{nom}".encode("utf-8")).hexdigest()[:16]
         trouves.append({
@@ -112,6 +152,7 @@ def trouver_programmes(source, url_page, html, mots):
             "nom": nom,
             "lieu": lieu,
             "lien": lien,
+            "date_publication": extraire_date(texte),
             "extrait": texte[:300],
         })
     return trouves
