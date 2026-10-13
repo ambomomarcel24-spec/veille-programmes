@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-13T10:55+00:00",
+  "date": "2026-10-13T11:14+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -62,10 +62,10 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2700,
-      "deja_connues": 300,
+      "deja_connues": 450,
       "lues": 150,
-      "idf": 10,
-      "sans_localisation": 140,
+      "idf": 48,
+      "sans_localisation": 102,
       "echec": 0
     },
     {
@@ -211,9 +211,53 @@
       "avec_localisation": 0
     }
   ],
-  "fiches_relues": 11,
-  "fiches_a_relire": 117,
-  "nouvelles_fiches": 15,
-  "alertes_en_attente": 12,
+  "fiches_relues": 48,
+  "enrichissement": {
+    "ok": 6,
+    "echec_telechargement": 126,
+    "sans_promoteur": 42,
+    "exemples_sans_promoteur": [
+      {
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/argenteuil-programme-passage-de-lutece-200182-10.html",
+        "longueur_texte": 9206,
+        "extrait": "gramme immobilier neuf. Nom : * Mme. M. Email : * Téléphone : * Code Postal : * Recevoir les offres promotionnelles des promoteurs (par email/sms) Oui Non Envoyer ma demande Afin d'obtenir toutes les informations que vous souhaitez sur ce programme immobilier neuf, il vous suffit de remplir le formu"
+      },
+      {
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/paris-15eme-programme-15eme-merveille-218092-13179.html",
+        "longueur_texte": 8731,
+        "extrait": "f 15ème merveille est un programme neuf situé au cœur du 15e arrondissement de Paris et à proximité du 7e. La résidence propose 13 appartements du studio au 5 pièces, tous dotés d'un espace extérieur privatif et d'une cave. 3 duplex bénéficient d'un toit terrasse équipé d'un SPA. Le quartier, bien d"
+      },
+      {
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/paris-12eme-programme-le-12-park-213890-771.html",
+        "longueur_texte": 10630,
+        "extrait": "gramme immobilier neuf. Nom : * Mme. M. Email : * Téléphone : * Code Postal : * Recevoir les offres promotionnelles des promoteurs (par email/sms) Oui Non Envoyer ma demande Afin d'obtenir toutes les informations que vous souhaitez sur ce programme immobilier neuf, il vous suffit de remplir le formu"
+      }
+    ],
+    "erreurs": [
+      {
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/le-blanc-mesnil-93/265132115/#m=classified_search_results_classified_detail_top_position",
+        "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/le-blanc-mesnil-93/265132115/#m=classified_search_results_classified_de"
+      },
+      {
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-cyr-l-ecole-78/268129833/#m=classified_search_results_classified_detail_top_position",
+        "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/saint-cyr-l-ecole-78/268129833/#m=classified_search_results_classified_"
+      },
+      {
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/puteaux-92/271900837/#m=classified_search_results_classified_detail_top_position",
+        "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/puteaux-92/271900837/#m=classified_search_results_classified_detail_top"
+      },
+      {
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/paris-14eme-75/266484663/#m=classified_search_results_classified_detail_top_position",
+        "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/paris-14eme-75/266484663/#m=classified_search_results_classified_detail"
+      },
+      {
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-cyr-l-ecole-78/265131817/#m=classified_search_results_classified_detail_top_position",
+        "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/saint-cyr-l-ecole-78/265131817/#m=classified_search_results_classified_"
+      }
+    ]
+  },
+  "fiches_a_relire": 126,
+  "nouvelles_fiches": 57,
+  "alertes_en_attente": 21,
   "echec_mail": true
 }
