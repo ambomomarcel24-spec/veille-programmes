@@ -117,5 +117,1662 @@
       "Trouver un logement neuf"
     ],
     "maj": "2026-10-13T11:26+00:00"
+  },
+  "care-promotion": {
+    "nom": "CARE PROMOTION",
+    "site": "https://care-promotion.fr",
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "O²",
+        "lieu": "Romainville (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/romainville-93/261333435/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "ALTER EGO",
+        "lieu": "Asnieres sur Seine (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/asnieres-sur-seine-92/251423123/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "Apogée",
+        "lieu": "Carrieres sous Poissy (78)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/carrieres-sous-poissy-78/272260675/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "nouvelle opportunité"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "cogedim": {
+    "nom": "Cogedim",
+    "site": "https://cogedim.com",
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Dernières opportunités !",
+        "lieu": "Evry (91)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/evry-91/276517851/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "Woodeum Paris Rive Gauche",
+        "lieu": "Woodeum Paris Rive Gauche - Paris 13ème (75)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/paris-13eme-programme-woodeum-paris-rive-gauche-211815-11707.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Résidence Eklo",
+        "lieu": "Résidence Eklo - Nanterre (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/nanterre-programme-residence-eklo-217119-11707.html",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)",
+      "Trouver un logement neuf"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "eiffage-immobilier": {
+    "nom": "EIFFAGE IMMOBILIER",
+    "site": "https://www.eiffage-immobilier.com",
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Domaine Des Prunais Chapitre 3",
+        "lieu": "Villiers sur Marne (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/villiers-sur-marne-94/281959231/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "Saint Denis",
+        "lieu": "s - les Venelles du Landy - Saint-Denis (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-denis-programme-saint-denis-les-venelles-du-landy-214379-11586.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Saint Denis",
+        "lieu": "s Venelles du Landy - BRS - Saint-Denis (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-denis-programme-saint-denis-les-venelles-du-landy-brs-214678-11586.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Valora",
+        "lieu": "lora - Val Francilia - Aulnay-sous-Bois (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/aulnay-sous-bois-programme-valora-val-francilia-211696-11586.html",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)",
+      "Trouver un logement neuf"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "emerige": {
+    "nom": "Emerige",
+    "site": "https://www.emerige.com",
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Avenue du Belvédère",
+        "lieu": "Le Pre Saint Gervais (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/le-pre-saint-gervais-93/258179707/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le Clos des Tilleuls",
+        "lieu": "Le Clos des Tilleuls - Paris / Colombes (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/colombes-programme-le-clos-des-tilleuls-212771-11202.html",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)",
+      "Trouver un logement neuf"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "fair-promotion": {
+    "nom": "FAIR'PROMOTION",
+    "site": "https://fair-promotion.fr",
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "L'Anatole",
+        "lieu": "Drancy (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/drancy-93/231697329/#m=classified_search_results_classified_detail_top_position",
+        "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "Le Moulin de Cerçay",
+        "lieu": "Brunoy (91)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/brunoy-91/243217317/#m=classified_search_results_classified_classified_detail_L",
+        "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "Arborea",
+        "lieu": "Boissy Saint Leger (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/boissy-saint-leger-94/276597253/#m=classified_search_results_classified_classified_detail_L",
+        "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "167 ARAGON",
+        "lieu": "Villejuif (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/villejuif-94/242867671/#m=classified_search_results_classified_detail_top_position",
+        "statut": "nouvelle opportunité"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "groupe-edouard-denis": {
+    "nom": "GROUPE EDOUARD DENIS",
+    "site": "https://edouarddenis-immobilier.com",
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "L'APARTÉ",
+        "lieu": "Vigneux sur Seine (91)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/vigneux-sur-seine-91/258976299/#m=classified_search_results_classified_classified_detail_L",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "kaufman-broad": {
+    "nom": "Kaufman & Broad",
+    "site": "https://kaufmanbroad.fr",
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Belvédère Charles Christofle",
+        "lieu": "Brunoy (91)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/brunoy-91/247433197/#m=classified_search_results_classified_classified_detail_L",
+        "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "L'Orée du Square",
+        "lieu": "Limeil Brevannes (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/limeil-brevannes-94/247433167/#m=classified_search_results_classified_classified_detail_L",
+        "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "Seinographic",
+        "lieu": "Villeneuve Saint Georges (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/villeneuve-saint-georges-94/247433165/#m=classified_search_results_classified_classified_detail_L",
+        "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "Koya",
+        "lieu": "Koya - Paris / Courbevoie (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/courbevoie-programme-koya-213468-361.html",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)",
+      "Trouver un logement neuf"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "legendre-immobilier": {
+    "nom": "LEGENDRE IMMOBILIER",
+    "site": "https://www.legendre-immobilier.com",
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Bellis",
+        "lieu": "Bretigny sur Orge (91)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bretigny-sur-orge-91/258790157/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "nouvelle opportunité"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "lutetia-promotion": {
+    "nom": "LUTETIA PROMOTION",
+    "site": "https://lutetiapromotion.com",
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Résidence Le Bel Air",
+        "lieu": "Saint Cloud (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-cloud-92/272180211/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "Résidence Élégancia",
+        "lieu": "Ozoir la Ferriere (77)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/ozoir-la-ferriere-77/259475165/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "les-nouveaux-constructeurs": {
+    "nom": "Les Nouveaux Constructeurs",
+    "site": "https://lnc.fr",
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Le Céleste",
+        "lieu": "Le Blanc Mesnil (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/le-blanc-mesnil-93/265132115/#m=classified_search_results_classified_detail_top_position",
+        "statut": "lancement commercial"
+      },
+      {
+        "nom": "Villas Péri - Coeur de Ville",
+        "lieu": "Saint Cyr L Ecole (78)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-cyr-l-ecole-78/265131817/#m=classified_search_results_classified_detail_top_position",
+        "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "Victoria's Village",
+        "lieu": "Puteaux (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/puteaux-92/265132031/#m=classified_search_results_classified_detail_top_position",
+        "statut": "lancement commercial"
+      },
+      {
+        "nom": "Villa Guynemer",
+        "lieu": "Villeneuve Saint Georges (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/villeneuve-saint-georges-94/265131831/#m=classified_search_results_classified_classified_detail_L",
+        "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "Carré des Arts",
+        "lieu": "Sartrouville (78)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/sartrouville-78/265131999/#m=classified_search_results_classified_detail_top_position",
+        "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "Signature",
+        "lieu": "Vitry sur Seine (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/vitry-sur-seine-94/278120849/#m=classified_search_results_classified_detail_top_position",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Terrasses Bel Air",
+        "lieu": "es Terrasses Bel Air - Paris / Colombes (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/colombes-programme-les-terrasses-bel-air-183945-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villa Augustine",
+        "lieu": "Villa Augustine - Paris / Colombes (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/colombes-programme-villa-augustine-212094-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villa Gabrielle",
+        "lieu": "Villa Gabrielle - Paris / Colombes (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/colombes-programme-villa-gabrielle-214322-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "New Art",
+        "lieu": "New Art - Asnières-sur-Seine (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/asnieres-sur-seine-programme-new-art-213844-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Terrasses Voltaire",
+        "lieu": "Terrasses Voltaire - Asnières-sur-Seine (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/asnieres-sur-seine-programme-les-terrasses-voltaire-206309-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Asnières",
+        "lieu": "Bécon les Bruyères - Asnières-sur-Seine (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/asnieres-sur-seine-programme-asnieres-quartier-becon-les-bruyeres-218506-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villa des Arts II",
+        "lieu": "Villa des Arts II - Asnières-sur-Seine (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/asnieres-sur-seine-programme-villa-des-arts-ii-196695-5891.html",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)",
+      "Trouver un logement neuf"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "marignan": {
+    "nom": "Marignan",
+    "site": "https://marignan-immobilier.com",
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Villa Henri",
+        "lieu": "L Hay les Roses (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/l-hay-les-roses-94/273179569/#m=classified_search_results_classified_detail_top_position",
+        "statut": "lancement commercial"
+      },
+      {
+        "nom": "ALBA",
+        "lieu": "Vanves (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/vanves-92/245496033/#m=classified_search_results_classified_detail_top_position",
+        "statut": "lancement commercial"
+      },
+      {
+        "nom": "Le Clos 86",
+        "lieu": "Champigny sur Marne (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/champigny-sur-marne-94/239371543/#m=classified_search_results_classified_detail_top_position",
+        "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "Le Jade",
+        "lieu": "Le Jade - Saint-Denis (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-denis-programme-le-jade-211797-672.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Parc en ciel",
+        "lieu": "Parc en ciel - Paris 13ème (75)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/paris-13eme-programme-parc-en-ciel-206398-672.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Lexington",
+        "lieu": "Lexington - Nanterre (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/nanterre-programme-lexington-214315-672.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "West Village",
+        "lieu": "West Village - Tribeca - Nanterre (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/nanterre-programme-west-village-tribeca-206374-672.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Esprit Valmy",
+        "lieu": "Esprit Valmy - Paris / Colombes (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/colombes-programme-esprit-valmy-215301-672.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Central C",
+        "lieu": "Central C - Paris / Colombes (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/colombes-programme-central-c-212986-672.html",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)",
+      "Trouver un logement neuf"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "nexity": {
+    "nom": "Nexity",
+    "site": "https://www.nexity.fr",
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "LE 5",
+        "lieu": "Argenteuil (95)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/argenteuil-95/235409069/#m=classified_search_results_classified_detail_top_position",
+        "statut": "autre"
+      },
+      {
+        "nom": "7 rue Gaston Monmousseau",
+        "lieu": "Ivry sur Seine (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/ivry-sur-seine-94/276550461/#m=classified_search_results_classified_detail_top_position",
+        "statut": "autre"
+      },
+      {
+        "nom": "Collection 14",
+        "lieu": "Valenton (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/valenton-94/238969491/#m=classified_search_results_classified_classified_detail_L",
+        "statut": "autre"
+      },
+      {
+        "nom": "VILLA RIVA",
+        "lieu": "Saint Germain en Laye (78)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-germain-en-laye-78/174608909/#m=classified_search_results_classified_detail_top_position",
+        "statut": "autre"
+      },
+      {
+        "nom": "L'ENVOL",
+        "lieu": "Courcouronnes (91)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/courcouronnes-91/171340583/#m=classified_search_results_classified_detail_top_position",
+        "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "Le 5",
+        "lieu": "Le 5 - Argenteuil (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/argenteuil-programme-le-5-212538-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Passage de Lutece",
+        "lieu": "Passage de Lutece - Argenteuil (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/argenteuil-programme-passage-de-lutece-200182-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Quartier Nature",
+        "lieu": "Quartier Nature - Montreuil (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/montreuil-programme-quartier-nature-173496-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Station Eiffel",
+        "lieu": "Station Eiffel - Créteil (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/creteil-programme-station-eiffel-211037-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Fontaine du Mesly",
+        "lieu": "Fontaine du Mesly - Créteil (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/creteil-programme-fontaine-du-mesly-211742-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Ovation Magellan Ilot 13",
+        "lieu": "ion Magellan Ilot 13 - Paris / Colombes (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/colombes-programme-ovation-magellan-ilot-13-211767-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Portes de Seine",
+        "lieu": "es Portes de Seine - Asnières-sur-Seine (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/asnieres-sur-seine-programme-les-portes-de-seine-214768-10.html",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)",
+      "Trouver un logement neuf"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "sogeprom-realisations": {
+    "nom": "SOGEPROM REALISATIONS",
+    "site": "https://www.sogeprom.fr",
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Flora",
+        "lieu": "Boissy Saint Leger (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/boissy-saint-leger-94/276033197/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "nouvelle opportunité"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "valloire-habitat": {
+    "nom": "VALLOIRE HABITAT",
+    "site": "https://www.valloire-habitat.com",
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Jules & Parc",
+        "lieu": "Arpajon (91)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/arpajon-91/279196937/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "vinci-immobilier": {
+    "nom": "VINCI Immobilier",
+    "site": "https://vinci-immobilier.com",
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "PLURIELLES",
+        "lieu": "Colombes (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/colombes-92/218381043/#m=classified_search_results_classified_detail_top_position",
+        "statut": "autre"
+      },
+      {
+        "nom": "SAINTE-MARTHE PARC",
+        "lieu": "Thiais (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/thiais-94/254827957/#m=classified_search_results_classified_detail_top_position",
+        "statut": "autre"
+      },
+      {
+        "nom": "ELEGANCE",
+        "lieu": "Drancy (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/drancy-93/268504637/#m=classified_search_results_classified_detail_top_position",
+        "statut": "autre"
+      },
+      {
+        "nom": "SQUARE FOCH - TRANCHE 2",
+        "lieu": "Meaux (77)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/meaux-77/273333409/#m=classified_search_results_classified_detail_top_position",
+        "statut": "autre"
+      },
+      {
+        "nom": "Apogee",
+        "lieu": "Apogee - Saint-Denis (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-denis-programme-apogee-202344-295.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Paris 18",
+        "lieu": "Paris 18 - Paris 18ème (75)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/paris-18eme-programme-paris-18-218340-295.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Plurielles",
+        "lieu": "Plurielles - Paris / Colombes (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/colombes-programme-plurielles-209575-295.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le Clos Chagall",
+        "lieu": "Le Clos Chagall - Aulnay-sous-Bois (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/aulnay-sous-bois-programme-le-clos-chagall-218678-295.html",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)",
+      "Trouver un logement neuf"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "simmeo": {
+    "nom": "SIMMEO",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "RETOUR DE LOTS & LANCEMENTS !",
+        "lieu": "Drancy (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/drancy-93/260535183/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "nouvelle opportunité"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "gill-promotion": {
+    "nom": "GILL PROMOTION",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "NOUVEL'R",
+        "lieu": "Brie Comte Robert (77)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/brie-comte-robert-77/279199201/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "lancement commercial"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "grand-paris-invest": {
+    "nom": "Grand Paris Invest",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "LES TERRASSES MOLIÈRE",
+        "lieu": "Montrouge (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montrouge-92/272908247/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "lancement commercial"
+      },
+      {
+        "nom": "LANCEMENT EXCEPTIONNEL",
+        "lieu": "Gagny (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/gagny-93/282212141/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "lancement commercial"
+      },
+      {
+        "nom": "Villa Berlioz",
+        "lieu": "Romainville (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/romainville-93/280581981/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "NOUVEAU À BAGNOLET",
+        "lieu": "Bagnolet (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bagnolet-93/279424227/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "NOUVEAU PROGRAMME A NEUILLY PLAISANCE",
+        "lieu": "Neuilly Plaisance (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/neuilly-plaisance-93/279424223/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "NOUVEL HORIZON",
+        "lieu": "L Hay les Roses (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/l-hay-les-roses-94/273580925/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "NOUVEAU LANCEMENT – Programme neuf à Villeneuve-la-Garenne",
+        "lieu": "Villeneuve la Garenne (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/villeneuve-la-garenne-92/281766789/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "NOUVEAU A ST CLOUD",
+        "lieu": "Saint Cloud (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-cloud-92/280415111/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "expansiel-promotion": {
+    "nom": "EXPANSIEL PROMOTION",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Villa Maurice",
+        "lieu": "Bourg la Reine (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bourg-la-reine-92/268129813/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Écrins",
+        "lieu": "Orly (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/orly-94/268129823/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "Résidence du Fief",
+        "lieu": "Villecresnes (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/villecresnes-94/268129811/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "Cours des Terres Douces",
+        "lieu": "Valenton (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/valenton-94/268080213/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "L'Aparté",
+        "lieu": "Saint Cyr L Ecole (78)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-cyr-l-ecole-78/268129833/#m=classified_search_results_classified_detail_top_position",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "serpi-promotion": {
+    "nom": "SERPI PROMOTION",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "LE 9 ROSE",
+        "lieu": "Clichy (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/clichy-92/250124649/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "le-courtier-du-neuf": {
+    "nom": "LE COURTIER DU NEUF",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "L'EMBLÈME",
+        "lieu": "Bois Colombes (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bois-colombes-92/270632799/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "Projets neufs Noisy le Grand",
+        "lieu": "Noisy le Grand (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/noisy-le-grand-93/234044663/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "ikory-services-immobiliers": {
+    "nom": "ikory services immobiliers",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Villa Verneuil",
+        "lieu": "Verneuil sur Seine (78)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/verneuil-sur-seine-78/261737207/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "tradi-art": {
+    "nom": "TRADI-ART",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "HARMONIA",
+        "lieu": "Viry Chatillon (91)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/viry-chatillon-91/194664701/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "accueil-immobilier": {
+    "nom": "ACCUEIL IMMOBILIER",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Carré Caillebotte",
+        "lieu": "Colombes (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/colombes-92/272344133/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "Le Plaza",
+        "lieu": "Goussainville (95)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/goussainville-95/262666023/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "Villa Vendôme",
+        "lieu": "Fontenay le Fleury (78)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/fontenay-le-fleury-78/238152759/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "elixium": {
+    "nom": "ELIXIUM",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "PROGRAMME NEUF CHATENAY-MALABRY",
+        "lieu": "Chatenay Malabry (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/chatenay-malabry-92/251302239/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "PROGRAMME NEUF CLAMART",
+        "lieu": "Clamart (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/clamart-92/235872583/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "CÔTÉ CHEVILLY",
+        "lieu": "Chevilly Larue (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/chevilly-larue-94/275891295/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Terrasses de Chevreuse",
+        "lieu": "Chevreuse (78)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/chevreuse-78/280948385/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "PROGRAMME NEUF BAGNEUX",
+        "lieu": "Bagneux (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bagneux-92/240328977/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "RESPIRATION",
+        "lieu": "Rueil Malmaison (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/rueil-malmaison-92/280650113/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "nehams-consulting": {
+    "nom": "NEHAMS consulting",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Côté Paris – Pantin",
+        "lieu": "Pantin (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/pantin-93/281401683/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "promogim": {
+    "nom": "PROMOGIM",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Les Demeures",
+        "lieu": "Plaisir (78)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/plaisir-78/187689983/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "rene-coche": {
+    "nom": "RENE COCHE",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "LE REUILLY",
+        "lieu": "Paris 12eme (75)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/paris-12eme-75/281000449/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "guy-hoquet-immobilier": {
+    "nom": "GUY HOQUET IMMOBILIER",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Les Terrasses De Fontenay",
+        "lieu": "Fontenay Tresigny (77)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/fontenay-tresigny-77/272325451/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "sodevim": {
+    "nom": "SODEVIM",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Villa des Roches",
+        "lieu": "Noisiel (77)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/noisiel-77/206133183/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "novaxia": {
+    "nom": "Novaxia",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Le Domaine des Arpèges",
+        "lieu": "Saint Germain en Laye (78)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-germain-en-laye-78/255312631/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "hibana": {
+    "nom": "HIBANA",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "HOUILLES ILOT CARNOT",
+        "lieu": "Houilles (78)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/houilles-78/258757897/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "BAGNEUX NINA SIMONE",
+        "lieu": "Bagneux (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bagneux-92/252600435/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "HIBANA - IVRY-SUR-SEINE - SAINT-JUST",
+        "lieu": "Ivry sur Seine (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/ivry-sur-seine-94/224369695/#m=classified_search_results_classified_detail_top_position",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "pissaro-co": {
+    "nom": "PISSARO & Co",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Le Patio",
+        "lieu": "Bagnolet (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bagnolet-93/226205133/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "revimmob": {
+    "nom": "REVIMMOB",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "L'ECRIN DU PARC",
+        "lieu": "Saint Maur des Fosses (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-maur-des-fosses-94/235715847/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "mendes-promotion": {
+    "nom": "Mendes Promotion",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Résidence LEANE",
+        "lieu": "Le Raincy (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/le-raincy-93/258737979/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "neocity-promotion": {
+    "nom": "Neocity Promotion",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "FAUBOURG 45",
+        "lieu": "Boulogne Billancourt (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/boulogne-billancourt-92/253516013/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "regardneuf": {
+    "nom": "RegardNeuf",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "RESIDENCE ELINE",
+        "lieu": "L Isle Adam (95)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/l-isle-adam-95/240572839/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "valeurs-actives": {
+    "nom": "VALEURS ACTIVES",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Le Victor Hugo",
+        "lieu": "Aubervilliers (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/aubervilliers-93/273740317/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le Clos des Arts",
+        "lieu": "Champigny sur Marne (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/champigny-sur-marne-94/274016663/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "l-p-immobilier": {
+    "nom": "L & P IMMOBILIER",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "VILLA RENAN",
+        "lieu": "Issy les Moulineaux (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/issy-les-moulineaux-92/215934075/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "fonciere-de-la-ville-de-paris": {
+    "nom": "Foncière de la Ville de Paris",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "162 rue Lamarck",
+        "lieu": "Paris 18eme (75)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/paris-18eme-75/281035713/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "aic-ile-de-france": {
+    "nom": "AIC ILE DE FRANCE",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "L'AVENUE",
+        "lieu": "Le Blanc Mesnil (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/le-blanc-mesnil-93/205249603/#m=classified_search_results_classified_detail_top_position",
+        "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "PLEIN AIR",
+        "lieu": "Montreuil (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montreuil-93/250891657/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "crenn-odeau": {
+    "nom": "CRENN & ODEAU",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Le 6",
+        "lieu": "Paris 16eme (75)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/paris-16eme-75/269503583/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "montoit": {
+    "nom": "MONTOIT",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "VILLA NANY",
+        "lieu": "Saint Maur des Fosses (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-maur-des-fosses-94/227514843/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "nouvelle opportunité"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "immobiliere-3f": {
+    "nom": "IMMOBILIERE 3F",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "PASSERELLE",
+        "lieu": "Paris 11eme (75)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/paris-11eme-75/228132473/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "OPUS",
+        "lieu": "Vigneux sur Seine (91)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/vigneux-sur-seine-91/278877607/#m=classified_search_results_classified_classified_detail_L",
+        "statut": "nouvelle opportunité"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "aps-gambetta": {
+    "nom": "APS GAMBETTA",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "le 30 WILSON",
+        "lieu": "Levallois Perret (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/levallois-perret-92/262936893/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "genestone": {
+    "nom": "Genestone",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Clos Saint Erembert",
+        "lieu": "Saint Germain en Laye (78)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-germain-en-laye-78/200579751/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "logih": {
+    "nom": "LOGIH",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "BRIQ",
+        "lieu": "Gennevilliers (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/gennevilliers-92/281781355/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "nouvelle opportunité"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "novanea": {
+    "nom": "NOVANEA",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "T4 À FONTENAY-SOUS-BOIS - PROCHE TRANSPORTS",
+        "lieu": "Fontenay sous Bois (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/fontenay-sous-bois-94/281849559/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "APPARTEMENTS NEUFS - LIVRAISON IMMÉDIATE",
+        "lieu": "Fontenay sous Bois (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/fontenay-sous-bois-94/281849569/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "DU T3 AU T4 - VILLEJUIF",
+        "lieu": "Villejuif (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/villejuif-94/281849581/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "LLI – INVESTISSEZ AUX PORTES DE PARIS",
+        "lieu": "Corbeil Essonnes (91)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/corbeil-essonnes-91/281827543/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "T3 EN TVA 20 % - PROX TRANSPORTS",
+        "lieu": "L Hay les Roses (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/l-hay-les-roses-94/281849485/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "RÉSIDENCE NEUVES - PROCHE DE TOUTS LES COMMERCES",
+        "lieu": "Bussy Saint Georges (77)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bussy-saint-georges-77/281817251/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "NEUF - QUARTIER RECHERCHÉ",
+        "lieu": "Courcouronnes (91)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/courcouronnes-91/281827495/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "APPARTEMENTS NEUFS T2 ET T3 - CENTRE VILLE",
+        "lieu": "Bretigny sur Orge (91)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bretigny-sur-orge-91/281827515/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "RÉSIDENCE NEUVE - TVA 20%",
+        "lieu": "Gif sur Yvette (91)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/gif-sur-yvette-91/281827465/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "MAISONS MODERNES ET CHALEUREUSES - PROX ÉCOLES",
+        "lieu": "Sannois (95)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/sannois-95/281835797/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "T5 EN TVA 5,5 % - PROX TRANSPORTS",
+        "lieu": "L Hay les Roses (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/l-hay-les-roses-94/281849503/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "INVESTISSEZ À COLOMBES - À PROXIMITÉ DES UNIVERSITÉ",
+        "lieu": "Colombes (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/colombes-92/281847211/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "APPARTEMENTS NEUVE - TVA 5,5%",
+        "lieu": "Villiers sur Marne (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/villiers-sur-marne-94/281849497/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "RÉSIDENCE CONFORT SITUÉ À PROVINS - T2 AU T4",
+        "lieu": "Provins (77)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/provins-77/281821117/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "RÉSIDENCE RÉNOVÉ A NEUF À CHESSY SITUÉ PROCHE DES COMMODITÉS",
+        "lieu": "Chessy (77)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/chessy-77/281827417/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "APPARTEMENTS NEUFS - PROX LAC",
+        "lieu": "Mantes la Jolie (78)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/mantes-la-jolie-78/281817213/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "T3 AU T4 À ARGENTEUIL - PROCHE RER C",
+        "lieu": "Argenteuil (95)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/argenteuil-95/281831727/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "DES T2 IDÉALEMENT SITUÉS - PROX COMMERCES",
+        "lieu": "Orsay (91)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/orsay-91/281827385/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "RÉSIDENCE LANDY - PROX PARIS",
+        "lieu": "Saint Denis (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-denis-93/281946699/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      },
+      {
+        "nom": "RÉSIDENCE NEUVE - TVA RÉDUITE",
+        "lieu": "Brunoy (91)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/brunoy-91/279472933/#m=classified_search_results_classified_classified_detail_L",
+        "statut": "autre"
+      },
+      {
+        "nom": "T4 TVA 5,5 % - PROX ÉCOLES",
+        "lieu": "Boissy Saint Leger (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/boissy-saint-leger-94/281849477/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "green-eco": {
+    "nom": "GREEN ECO",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Le Chemin du Roy",
+        "lieu": "Brunoy (91)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/brunoy-91/214524095/#m=classified_search_results_classified_classified_detail_L",
+        "statut": "nouvelle opportunité"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "essia": {
+    "nom": "ESSIA",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "ART DECO",
+        "lieu": "Brunoy (91)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/brunoy-91/215352175/#m=classified_search_results_classified_classified_detail_M",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "arcade-vyv-promotion-idf": {
+    "nom": "ARCADE-VYV PROMOTION IDF",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Canopia",
+        "lieu": "Valenton (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/valenton-94/232709583/#m=classified_search_results_classified_classified_detail_L",
+        "statut": "autre"
+      },
+      {
+        "nom": "Vert & Sens",
+        "lieu": "Servon (77)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/servon-77/245314895/#m=classified_search_results_classified_classified_detail_L",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "enoma-partners-pour-pajimmo": {
+    "nom": "Enoma Partners pour PAJIMMO",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Le Clos Jacquard",
+        "lieu": "Limeil Brevannes (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/limeil-brevannes-94/253811921/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "nouvelle opportunité"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "groupe-pierreval": {
+    "nom": "GROUPE PIERREVAL",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Arbor&Sens",
+        "lieu": "Boissy Saint Leger (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/boissy-saint-leger-94/235124957/#m=classified_search_results_classified_classified_detail_L",
+        "statut": "nouvelle opportunité"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "groupe-zenith": {
+    "nom": "GROUPE ZENITH",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "RER A / RETOURS DE LOTS ET LANCEMENTS",
+        "lieu": "Boissy Saint Leger (94)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/boissy-saint-leger-94/281517495/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "diagonale": {
+    "nom": "DIAGONALE",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Apostrophe",
+        "lieu": "Puteaux (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/puteaux-92/271900837/#m=classified_search_results_classified_detail_top_position",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "quartus-residentiel": {
+    "nom": "QUARTUS Résidentiel",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Pavillon Raspail",
+        "lieu": "Paris 14eme (75)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/paris-14eme-75/266484663/#m=classified_search_results_classified_detail_top_position",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "brownfields": {
+    "nom": "BROWNFIELDS",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Central Square",
+        "lieu": "Nanterre (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/nanterre-92/273866321/#m=classified_search_results_classified_detail_top_position",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "polycites": {
+    "nom": "POLYCITES",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "ICÔNE",
+        "lieu": "Aubervilliers (93)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/aubervilliers-93/262294749/#m=classified_search_results_classified_detail_top_position",
+        "statut": "lancement commercial"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "terabilis-neovarim": {
+    "nom": "TERABILIS - NEOVARIM",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "L'Atelier Barral",
+        "lieu": "Sceaux (92)",
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/sceaux-92/246895577/#m=classified_search_results_classified_classified_detail_S",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "SeLoger Neuf (Île-de-France)"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "bouygues-immobilier": {
+    "nom": "Bouygues Immobilier",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "15ème Merveille",
+        "lieu": "15ème Merveille - Paris 15ème (75)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/paris-15eme-programme-15eme-merveille-218092-13179.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Plurielles",
+        "lieu": "Plurielles - Paris / Colombes (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/colombes-programme-plurielles-218038-13179.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Arche Vive",
+        "lieu": "Arche Vive - Asnières-sur-Seine (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/asnieres-sur-seine-programme-arche-vive-217951-13179.html",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "Trouver un logement neuf"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
+  },
+  "icade-promotion": {
+    "nom": "Icade Promotion",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Les Bosquets du Roi",
+        "lieu": "osquets du Roi - Maisons 2 - Versailles (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/versailles-programme-les-bosquets-du-roi-maisons-2-215163-8598.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "L'Allée des Roses",
+        "lieu": "L'Allée des Roses - Versailles (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/versailles-programme-lallee-des-roses-217624-8598.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Promenade du Château",
+        "lieu": "Promenade du Château - Versailles (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/versailles-programme-promenade-du-chateau-213206-8598.html",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "Trouver un logement neuf"
+    ],
+    "maj": "2026-10-13T11:42+00:00"
   }
 }

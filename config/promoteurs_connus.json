@@ -1,1 +1,77 @@
-[]
+[
+  {
+    "nom": "CARE PROMOTION",
+    "site": "https://care-promotion.fr",
+    "emails": []
+  },
+  {
+    "nom": "Cogedim",
+    "site": "https://cogedim.com",
+    "emails": []
+  },
+  {
+    "nom": "EIFFAGE IMMOBILIER",
+    "site": "https://www.eiffage-immobilier.com",
+    "emails": []
+  },
+  {
+    "nom": "Emerige",
+    "site": "https://www.emerige.com",
+    "emails": []
+  },
+  {
+    "nom": "FAIR'PROMOTION",
+    "site": "https://fair-promotion.fr",
+    "emails": []
+  },
+  {
+    "nom": "GROUPE EDOUARD DENIS",
+    "site": "https://edouarddenis-immobilier.com",
+    "emails": []
+  },
+  {
+    "nom": "Kaufman & Broad",
+    "site": "https://kaufmanbroad.fr",
+    "emails": []
+  },
+  {
+    "nom": "LEGENDRE IMMOBILIER",
+    "site": "https://www.legendre-immobilier.com",
+    "emails": []
+  },
+  {
+    "nom": "LUTETIA PROMOTION",
+    "site": "https://lutetiapromotion.com",
+    "emails": []
+  },
+  {
+    "nom": "Les Nouveaux Constructeurs",
+    "site": "https://lnc.fr",
+    "emails": []
+  },
+  {
+    "nom": "Marignan",
+    "site": "https://marignan-immobilier.com",
+    "emails": []
+  },
+  {
+    "nom": "Nexity",
+    "site": "https://www.nexity.fr",
+    "emails": []
+  },
+  {
+    "nom": "SOGEPROM REALISATIONS",
+    "site": "https://www.sogeprom.fr",
+    "emails": []
+  },
+  {
+    "nom": "VALLOIRE HABITAT",
+    "site": "https://www.valloire-habitat.com",
+    "emails": []
+  },
+  {
+    "nom": "VINCI Immobilier",
+    "site": "https://vinci-immobilier.com",
+    "emails": []
+  }
+]

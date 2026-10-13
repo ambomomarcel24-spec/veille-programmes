@@ -79,6 +79,8 @@ session.headers["User-Agent"] = USER_AGENT
 _robots = {}
 _derniere_requete = {}
 DERNIERE_ERREUR = {"texte": ""}
+FICHES_CONNUES = {}
+PROMOTEURS_TROUVER = {}  # identifiant promoteur (fin d'URL Trouver un logement neuf) -> nom
 DIAGNOSTIC = {"ok": 0, "echec_telechargement": 0, "sans_promoteur": 0, "exemples_sans_promoteur": [],
               "erreurs": []}
 
@@ -411,8 +413,25 @@ def enregistrer_promoteur(registre, nom, site=None, emails=None, programme=None,
     p["maj"] = now_iso()
 
 
+def cle_fiche(lien):
+    """Lien de fiche sans le fragment (#...) ni les paramètres, pour les correspondances."""
+    return lien.split("#")[0].split("?")[0].rstrip("/")
+
+
 def enrichir(item, registre, cache_contacts, portail_domaine):
     """Relit la fiche pour trouver le promoteur, son site et son mail générique."""
+    connue = FICHES_CONNUES.get(cle_fiche(item["lien"]))
+    if connue:
+        item["promoteur"] = connue["promoteur"]
+        item["promoteur_site"] = connue.get("site")
+        item["contacts"] = connue.get("emails") or (
+            chercher_contacts_site(connue["site"], cache_contacts) if connue.get("site") else [])
+        enregistrer_promoteur(registre, connue["promoteur"], site=connue.get("site"),
+                              emails=item["contacts"], programme=item, source=item.get("source"))
+        item["enrichi"] = True
+        DIAGNOSTIC["ok"] += 1
+        return True
+
     html = telecharger(item["lien"])
     if not html:
         DIAGNOSTIC["echec_telechargement"] += 1
@@ -420,8 +439,9 @@ def enrichir(item, registre, cache_contacts, portail_domaine):
             DIAGNOSTIC["erreurs"].append({"lien": item["lien"], "erreur": DERNIERE_ERREUR["texte"]})
         return False
     soup = BeautifulSoup(html, "html.parser")
-    texte = normaliser(soup.get_text(" "))
-    nom = extraire_promoteur(soup, texte)
+    meta = soup.find("meta", attrs={"name": "description"}) or soup.find("meta", attrs={"property": "og:description"})
+    texte = normaliser((meta.get("content", "") if meta else "") + " " + soup.get_text(" "))
+    nom = extraire_promoteur(soup, texte) or promoteur_par_identifiant(item["lien"])
     if not nom:
         DIAGNOSTIC["sans_promoteur"] += 1
         if len(DIAGNOSTIC["exemples_sans_promoteur"]) < 3:
@@ -446,6 +466,18 @@ def enrichir(item, registre, cache_contacts, portail_domaine):
                               source=item.get("source"))
     item["enrichi"] = True
     return True
+
+
+def promoteur_par_identifiant(lien):
+    """Trouver un logement neuf : le dernier nombre de l'URL (-<id programme>-<id promoteur>.html) désigne le promoteur."""
+    m = re.search(r"-(\d+)-(\d+)\.html", lien)
+    return PROMOTEURS_TROUVER.get(m.group(2)) if m else None
+
+
+def charger_fiches_connues():
+    """config/fiches_connues.json : promoteur (et site, mail) renseignés à la main pour certaines fiches."""
+    donnees = load_json(os.path.join(CONFIG_DIR, "fiches_connues.json"), {})
+    return {cle_fiche(k): v for k, v in donnees.items()}
 
 
 def site_connu(nom):
@@ -501,6 +533,8 @@ def main():
     programmes = load_json(os.path.join(DATA_DIR, "programmes.json"), [])
     registre = load_json(os.path.join(DATA_DIR, "promoteurs.json"), {})
     fusionner_promoteurs_connus(registre)
+    FICHES_CONNUES.update(charger_fiches_connues())
+    PROMOTEURS_TROUVER.update(load_json(os.path.join(CONFIG_DIR, "promoteurs_trouver.json"), {}))
     for p in programmes:  # fiches enregistrées avant l'ajout des statuts
         if "statut" not in p:
             p["statut"] = detecter_statut(p.get("mention", ""))
@@ -574,10 +608,11 @@ def main():
     a_relire.sort(key=lambda p: (p.get("origine") != "alerte", p.get("detecte_le", "")), reverse=False)
     relues = 0
     for item in a_relire:
-        if relues >= MAX_ENRICHISSEMENTS:
-            break
+        connue = cle_fiche(item["lien"]) in FICHES_CONNUES  # renseignée à la main : pas de téléchargement
+        if not connue and relues >= MAX_ENRICHISSEMENTS:
+            continue
         domaine = urlparse(item["lien"]).netloc.removeprefix("www.")
-        if enrichir(item, registre, cache_contacts, domaine):
+        if enrichir(item, registre, cache_contacts, domaine) and not connue:
             relues += 1
     rapport["fiches_relues"] = relues
     rapport["enrichissement"] = DIAGNOSTIC
