@@ -154,6 +154,51 @@ def detecter_statut(texte):
     return STATUT_AUTRE
 
 
+def sans_accents(texte):
+    return unicodedata.normalize("NFKD", texte or "").encode("ascii", "ignore").decode().lower()
+
+
+THEMES = load_json(os.path.join(CONFIG_DIR, "themes.json"), {})
+MOTIF_COMMERCIALISATEUR = re.compile(r"courtier|agence|consult|services immobiliers|regardneuf", re.IGNORECASE)
+
+
+def etiquettes(texte):
+    """Statut principal et étiquettes (statut + thèmes) d'un programme, d'après son texte."""
+    statut = detecter_statut(texte)
+    t = sans_accents(texte)
+    tags = [] if statut == STATUT_AUTRE else [statut]
+    for cle, theme in THEMES.items():
+        if any(sans_accents(m) in t for m in theme["mots"]):
+            tags.append(cle)
+    return statut, (tags or [STATUT_AUTRE])
+
+
+def type_promoteur(nom):
+    """« commercialisateur » pour les intermédiaires listés dans config/commercialisateurs.json, sinon « promoteur »."""
+    if not nom:
+        return "promoteur"
+    connus = {cle_promoteur(n) for n in load_json(os.path.join(CONFIG_DIR, "commercialisateurs.json"), [])}
+    if cle_promoteur(nom) in connus or MOTIF_COMMERCIALISATEUR.search(nom):
+        return "commercialisateur"
+    return "promoteur"
+
+
+def actualiser_programmes(programmes, registre):
+    """Recalcule statut, étiquettes et type de chaque programme et de chaque promoteur."""
+    for p in programmes:
+        texte = " ".join(p.get(k) or "" for k in ("nom", "mention", "extrait", "texte"))
+        p["statut"], p["tags"] = etiquettes(texte)
+        nom = p.get("promoteur") or ""
+        if nom and not nom.startswith("à identifier"):
+            p["promoteur_cle"] = cle_promoteur(nom)
+            p["promoteur_type"] = type_promoteur(nom)
+    statuts = {p["lien"]: p["statut"] for p in programmes}
+    for cle, entree in registre.items():
+        entree["type"] = type_promoteur(entree["nom"])
+        for ref in entree.get("programmes", []):
+            ref["statut"] = statuts.get(ref["lien"], ref.get("statut", STATUT_AUTRE))
+
+
 def mois_en_nombre(token):
     t = token.lower().rstrip(".")
     for prefixe, numero in MOIS_PREFIXES:
@@ -450,6 +495,7 @@ def enrichir(item, registre, cache_contacts, portail_domaine):
     soup = BeautifulSoup(html, "html.parser")
     meta = soup.find("meta", attrs={"name": "description"}) or soup.find("meta", attrs={"property": "og:description"})
     texte = normaliser((meta.get("content", "") if meta else "") + " " + soup.get_text(" "))
+    item["texte"] = normaliser(meta.get("content", "") if meta else "")[:600]
     nom = extraire_promoteur(soup, texte) or promoteur_par_identifiant(item["lien"])
     if not nom:
         DIAGNOSTIC["sans_promoteur"] += 1
@@ -544,9 +590,6 @@ def main():
     fusionner_promoteurs_connus(registre)
     FICHES_CONNUES.update(charger_fiches_connues())
     PROMOTEURS_TROUVER.update(load_json(os.path.join(CONFIG_DIR, "promoteurs_trouver.json"), {}))
-    for p in programmes:  # fiches enregistrées avant l'ajout des statuts
-        if "statut" not in p:
-            p["statut"] = detecter_statut(p.get("mention", ""))
 
     premier_passage = not seen
     if premier_passage:
@@ -635,6 +678,7 @@ def main():
             f["alerte_envoyee"] = False
         programmes.append(f)
 
+    actualiser_programmes(programmes, registre)
     en_attente = [p for p in programmes if p.get("origine") == "alerte" and not p.get("alerte_envoyee")]
     print(f"{len(ajouts)} nouvelle(s) fiche(s), {relues} fiche(s) relue(s), {len(en_attente)} alerte(s) à envoyer.")
     echec_mail = False

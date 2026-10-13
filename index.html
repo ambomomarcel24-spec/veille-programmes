@@ -13,12 +13,14 @@
     --bordure: #e2e4df;
     --accent: #0b6e4f;
     --autre: #6b706a;
+    --nouveau-fond: #e6f4ee;
   }
   * { box-sizing: border-box; }
   body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background: var(--fond); color: var(--texte); line-height: 1.5; }
-  header, main, footer { max-width: 1040px; margin: 0 auto; padding-left: 20px; padding-right: 20px; }
+  header, main, footer { max-width: 1040px; margin: 0 auto; padding-left: 16px; padding-right: 16px; }
   header { padding-top: 26px; }
   h1 { font-size: 1.6rem; margin: 0 0 4px; }
+  h2.section { font-size: 1rem; margin: 22px 0 10px; color: var(--discret); text-transform: uppercase; letter-spacing: .04em; }
   .sous-titre { color: var(--discret); margin: 0 0 18px; }
   a { color: var(--accent); }
   .onglets { display: inline-flex; border: 1px solid var(--bordure); border-radius: 10px; overflow: hidden; background: var(--carte); margin-bottom: 16px; }
@@ -26,11 +28,13 @@
   .onglets button[aria-selected="true"] { background: var(--accent); color: #fff; }
   .barre { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 12px; }
   input[type="search"] { flex: 1; min-width: 220px; max-width: 380px; padding: 10px 12px; border: 1px solid var(--bordure); border-radius: 10px; font: inherit; background: var(--carte); }
-  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; }
+  .chips.themes { margin-bottom: 12px; }
+  .chips .etiquette-groupe { color: var(--discret); font-size: .8rem; align-self: center; margin: 0 4px 0 6px; text-transform: uppercase; letter-spacing: .04em; }
   .chips button { border: 1px solid var(--bordure); background: var(--carte); border-radius: 999px; padding: 6px 12px; font: inherit; font-size: .9rem; cursor: pointer; color: var(--texte); }
   .chips button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
   .stats { color: var(--discret); font-size: .95rem; margin: 6px 0 16px; }
-  .grille { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+  .grille { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); }
   .carte { background: var(--carte); border: 1px solid var(--bordure); border-radius: 14px; padding: 16px 18px; display: flex; flex-direction: column; gap: 10px; }
   .carte-haut { display: flex; justify-content: space-between; gap: 10px; align-items: flex-start; }
   .carte h2 { font-size: 1.05rem; margin: 0; }
@@ -40,26 +44,47 @@
   .statut-exclusivité { background: #9c2f5b; }
   .statut-nouvelle-opportunité { background: #b35c00; }
   .statut-lancement-commercial { background: #1d5fa7; }
+  .themes-carte { display: flex; flex-wrap: wrap; gap: 6px; }
+  .theme { font-size: .75rem; border: 1px solid var(--bordure); border-radius: 6px; padding: 2px 7px; color: var(--discret); }
   dl { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; font-size: .92rem; }
   dt { color: var(--discret); }
   dd { margin: 0; word-break: break-word; }
   .absent { color: var(--discret); font-style: italic; }
   .actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: auto; }
-  .actions a, .actions button { font: inherit; font-size: .9rem; border-radius: 8px; padding: 7px 11px; cursor: pointer; text-decoration: none; }
-  .actions a { color: var(--accent); border: 1px solid var(--accent); background: transparent; }
-  .actions button { color: #fff; background: var(--accent); border: 1px solid var(--accent); }
-  .promoteur { background: var(--carte); border: 1px solid var(--bordure); border-radius: 14px; padding: 16px 18px; margin-bottom: 12px; }
-  .promoteur h2 { font-size: 1.05rem; margin: 0 0 6px; }
-  .promoteur ul { margin: 8px 0 0; padding-left: 18px; font-size: .92rem; }
+  .actions a { font-size: .9rem; border-radius: 8px; padding: 7px 11px; text-decoration: none; color: var(--accent); border: 1px solid var(--accent); }
+  .bande { background: var(--carte); border: 1px solid var(--bordure); border-radius: 12px; margin-bottom: 8px; overflow: hidden; }
+  .bande-tete { all: unset; box-sizing: border-box; width: 100%; display: flex; align-items: center; gap: 12px; padding: 12px 14px; cursor: pointer; flex-wrap: wrap; }
+  .bande-tete:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+  .logo { width: 36px; height: 36px; border-radius: 8px; border: 1px solid var(--bordure); background: #fff; object-fit: contain; flex: none; }
+  .logo-repli { display: inline-flex; align-items: center; justify-content: center; font-weight: 700; font-size: .85rem; color: var(--discret); background: var(--fond); }
+  .bande-titre { flex: 1; min-width: 160px; display: flex; flex-direction: column; }
+  .bande-nom { font-weight: 600; }
+  .bande-sous { font-size: .8rem; color: var(--discret); }
+  .compte { font-size: .9rem; color: var(--discret); }
+  .nouveaux { font-size: .8rem; font-weight: 600; color: var(--accent); background: var(--nouveau-fond); border-radius: 999px; padding: 3px 9px; }
+  .fleche { font-size: 1rem; color: var(--discret); transition: transform .15s; margin-left: 4px; }
+  .fleche.ouvert { transform: rotate(180deg); }
+  .bande-corps { padding: 4px 14px 14px; border-top: 1px solid var(--bordure); }
+  .bande-corps dl { margin: 10px 0 12px; }
+  .liste-progs { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+  .liste-progs li { font-size: .92rem; padding-bottom: 6px; border-bottom: 1px dashed var(--bordure); }
+  .liste-progs li:last-child { border-bottom: 0; }
+  .ligne-prog { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+  .liste-progs .lieu { color: var(--discret); font-size: .85rem; }
   .vide { text-align: center; color: var(--discret); padding: 40px 10px; background: var(--carte); border: 1px dashed var(--bordure); border-radius: 14px; }
-  footer { padding-top: 6px; padding-bottom: 32px; color: var(--discret); font-size: .85rem; }
+  footer { padding-top: 10px; padding-bottom: 32px; color: var(--discret); font-size: .85rem; }
   [hidden] { display: none !important; }
+  @media (max-width: 560px) {
+    .compte { width: 100%; padding-left: 48px; margin-top: -6px; }
+    .fleche { margin-left: auto; }
+    input[type="search"] { max-width: none; width: 100%; }
+  }
 </style>
 </head>
 <body>
 <header>
   <h1>Programmes neufs en Île-de-France</h1>
-  <p class="sous-titre">Veille quotidienne sur les portails du neuf, classée par statut, avec le promoteur et ses coordonnées.</p>
+  <p class="sous-titre">Veille quotidienne sur les portails du neuf, avec le promoteur (ou le commercialisateur) et ses coordonnées.</p>
   <div class="onglets" role="tablist">
     <button type="button" role="tab" id="onglet-programmes" aria-controls="vue-programmes" aria-selected="true">Programmes</button>
     <button type="button" role="tab" id="onglet-promoteurs" aria-controls="vue-promoteurs" aria-selected="false">Promoteurs</button>
@@ -72,13 +97,14 @@
       <input id="recherche-programmes" type="search" placeholder="Rechercher un programme, une ville, un promoteur…" aria-label="Rechercher un programme">
     </div>
     <div class="chips" id="chips-statuts" role="group" aria-label="Statut"></div>
+    <div class="chips themes" id="chips-themes" role="group" aria-label="Thèmes"></div>
     <p class="stats" id="stats-programmes"></p>
     <div class="grille" id="liste-programmes"></div>
   </section>
 
   <section id="vue-promoteurs" role="tabpanel" aria-labelledby="onglet-promoteurs" hidden>
     <div class="barre">
-      <input id="recherche-promoteurs" type="search" placeholder="Rechercher un promoteur…" aria-label="Rechercher un promoteur">
+      <input id="recherche-promoteurs" type="search" placeholder="Rechercher un promoteur ou un commercialisateur…" aria-label="Rechercher un promoteur">
     </div>
     <p class="stats" id="stats-promoteurs"></p>
     <div id="liste-promoteurs"></div>
@@ -86,8 +112,9 @@
 </main>
 
 <footer>
-  Mise à jour chaque jour. Le statut vient des mentions affichées par les portails ; « Autre » = aucune mention.
-  Un champ vide (site ou mail) signifie qu'il n'a pas encore été trouvé : le robot le cherche aux passages suivants.
+  Mise à jour chaque jour. Le statut vient des mentions des portails ; « Sans mention » = aucun des mots-clés des statuts.
+  Les thèmes (TVA réduite, frais offerts, etc.) viennent de la fiche et de l'annonce. Un programme est « nouveau » s'il a été repéré par une alerte il y a moins de 7 jours.
+  Le logo est l'icône du site du promoteur. Un champ vide signifie qu'il n'a pas encore été trouvé : le robot le cherche aux passages suivants.
 </footer>
 
 <script>
@@ -95,19 +122,27 @@
   const FICHIER_PROGRAMMES = "docs/programmes.json";
   const FICHIER_PROMOTEURS = "docs/promoteurs.json";
 
-  const STATUTS = ["nouveau", "avant-première", "exclusivité", "nouvelle opportunité", "lancement commercial", "autre"];
-  const LIBELLES = {
-    "nouveau": "Nouveau",
-    "avant-première": "Avant-première",
-    "exclusivité": "Exclusivité",
-    "nouvelle opportunité": "Nouvelle opportunité",
-    "lancement commercial": "Lancement commercial",
-    "autre": "Autre",
+  const STATUTS = [
+    ["nouveau", "Nouveau"],
+    ["avant-première", "Avant-première"],
+    ["exclusivité", "Exclusivité"],
+    ["nouvelle opportunité", "Nouvelle opportunité"],
+    ["lancement commercial", "Lancement commercial"],
+  ];
+  const THEMES = {
+    tva_reduite: "TVA réduite",
+    frais_offerts: "Frais de notaire offerts",
+    travaux_en_cours: "Travaux en cours",
+    livraison_immediate: "Livraison immédiate",
+    investissement: "Investissement locatif",
+    bons_plans: "Bons plans et remises",
   };
+  const SANS_MENTION = "autre";
+  const LIBELLES = Object.fromEntries([...STATUTS, [SANS_MENTION, "Sans mention"]]);
 
   let programmes = [];
   let promoteurs = {};
-  let statutChoisi = "tous";
+  let filtreProgrammes = "tous";
   let rechercheProgrammes = "";
   let recherchePromoteurs = "";
 
@@ -118,16 +153,21 @@
       else if (k === "text") e.textContent = v;
       else e.setAttribute(k, v);
     }
-    e.append(...enfants);
+    e.append(...enfants.filter((x) => x !== "" && x != null));
     return e;
   }
 
   function classeStatut(s) {
-    return "statut-" + (s || "autre").replace(/\s+/g, "-");
+    return "statut-" + (s || SANS_MENTION).replace(/\s+/g, "-");
   }
 
-  function libelleStatut(s) {
-    return LIBELLES[s] || "Autre";
+  function etiquettes(p) {
+    return p.tags && p.tags.length ? p.tags : [p.statut || SANS_MENTION];
+  }
+
+  function estNouveau(p) {
+    if (p.origine !== "alerte" || !p.detecte_le) return false;
+    return Date.now() - new Date(p.detecte_le).getTime() < 7 * 24 * 3600 * 1000;
   }
 
   function lienSite(url) {
@@ -152,56 +192,70 @@
     liste.append(el("dt", { text: libelle }), dd);
   }
 
+  function badgeStatut(statut) {
+    return el("span", { class: "badge " + classeStatut(statut), text: LIBELLES[statut] || "Sans mention" });
+  }
+
   // --- Onglet Programmes ---
 
   function carteProgramme(p) {
     const infos = el("dl");
     ligne(infos, "Lieu", p.lieu || "");
-    ligne(infos, "Promoteur", p.promoteur && p.promoteur !== "à identifier" ? p.promoteur : "à identifier");
+    const promoteur = p.promoteur && !p.promoteur.startsWith("à identifier") ? p.promoteur : "à identifier";
+    const type = p.promoteur_type === "commercialisateur" ? " (commercialisateur)" : "";
+    ligne(infos, p.promoteur_type === "commercialisateur" ? "Commercialisateur" : "Promoteur", promoteur + type);
     ligne(infos, "Site", lienSite(p.promoteur_site));
     ligne(infos, "Mail", listeMails(p.contacts));
-    if (p.mention) ligne(infos, "Mention", p.mention);
     ligne(infos, "Portail", p.source || "");
     ligne(infos, "Repéré le", new Date(p.detecte_le).toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" }));
 
-    const actions = el("div", { class: "actions" });
-    actions.append(el("a", { href: p.lien, target: "_blank", rel: "noopener", text: "Voir la fiche" }));
+    const themes = etiquettes(p).filter((t) => THEMES[t]).map((t) => el("span", { class: "theme", text: THEMES[t] }));
+    const haut = el("div", { class: "carte-haut" },
+      el("h2", { text: p.nom }),
+      el("span", { class: "badge " + classeStatut(p.statut), text: LIBELLES[p.statut] || "Sans mention" }));
 
     return el("article", { class: "carte" },
-      el("div", { class: "carte-haut" },
-        el("h2", { text: p.nom }),
-        el("span", { class: "badge " + classeStatut(p.statut), text: libelleStatut(p.statut) })),
+      haut,
+      themes.length ? el("div", { class: "themes-carte" }, ...themes) : "",
       infos,
-      actions);
+      el("div", { class: "actions" }, el("a", { href: p.lien, target: "_blank", rel: "noopener", text: "Voir la fiche" })));
   }
 
   function programmesVisibles() {
     const q = rechercheProgrammes.trim().toLowerCase();
     return programmes
-      .filter((p) => statutChoisi === "tous" || (p.statut || "autre") === statutChoisi)
+      .filter((p) => filtreProgrammes === "tous" || etiquettes(p).includes(filtreProgrammes))
       .filter((p) => !q || [p.nom, p.lieu, p.promoteur, p.source].some((c) => (c || "").toLowerCase().includes(q)))
       .sort((a, b) => {
-        const ordre = STATUTS.indexOf(a.statut || "autre") - STATUTS.indexOf(b.statut || "autre");
-        return ordre !== 0 ? ordre : (b.detecte_le || "").localeCompare(a.detecte_le || "");
+        const ordreStatut = (a.statut === SANS_MENTION ? 99 : STATUTS.findIndex(([c]) => c === a.statut)) -
+                            (b.statut === SANS_MENTION ? 99 : STATUTS.findIndex(([c]) => c === b.statut));
+        return ordreStatut !== 0 ? ordreStatut : (b.detecte_le || "").localeCompare(a.detecte_le || "");
       });
   }
 
-  function dessinerChips() {
-    const zone = document.getElementById("chips-statuts");
-    zone.replaceChildren();
-    const compte = (s) => programmes.filter((p) => (p.statut || "autre") === s).length;
-    const tousBtn = el("button", { type: "button", "aria-pressed": String(statutChoisi === "tous"), text: `Tous (${programmes.length})` });
-    tousBtn.addEventListener("click", () => { statutChoisi = "tous"; rendreProgrammes(); });
-    zone.append(tousBtn);
-    STATUTS.forEach((s) => {
-      const b = el("button", { type: "button", "aria-pressed": String(statutChoisi === s), text: `${LIBELLES[s]} (${compte(s)})` });
-      b.addEventListener("click", () => { statutChoisi = s; rendreProgrammes(); });
-      zone.append(b);
-    });
+  function bouton(libelle, compte, actif, action) {
+    const b = el("button", { type: "button", "aria-pressed": String(actif), text: `${libelle} (${compte})` });
+    b.addEventListener("click", action);
+    return b;
+  }
+
+  function dessinerFiltres() {
+    const compte = (cle) => programmes.filter((p) => etiquettes(p).includes(cle)).length;
+    const statuts = document.getElementById("chips-statuts");
+    statuts.replaceChildren(
+      bouton("Tous", programmes.length, filtreProgrammes === "tous", () => { filtreProgrammes = "tous"; rendreProgrammes(); }),
+      ...STATUTS.map(([cle, libelle]) => bouton(libelle, compte(cle), filtreProgrammes === cle, () => { filtreProgrammes = cle; rendreProgrammes(); })),
+      bouton("Sans mention", compte(SANS_MENTION), filtreProgrammes === SANS_MENTION, () => { filtreProgrammes = SANS_MENTION; rendreProgrammes(); }));
+
+    const themes = document.getElementById("chips-themes");
+    const presents = Object.keys(THEMES).filter((cle) => compte(cle) > 0);
+    themes.replaceChildren(
+      ...(presents.length ? [el("span", { class: "etiquette-groupe", text: "Thèmes" })] : []),
+      ...presents.map((cle) => bouton(THEMES[cle], compte(cle), filtreProgrammes === cle, () => { filtreProgrammes = cle; rendreProgrammes(); })));
   }
 
   function rendreProgrammes() {
-    dessinerChips();
+    dessinerFiltres();
     const liste = programmesVisibles();
     const zone = document.getElementById("liste-programmes");
     zone.replaceChildren();
@@ -212,7 +266,7 @@
       return;
     }
     if (!liste.length) {
-      zone.append(el("div", { class: "vide", text: "Aucun programme ne correspond à ce statut ou à cette recherche." }));
+      zone.append(el("div", { class: "vide", text: "Aucun programme ne correspond à ce filtre ou à cette recherche." }));
       return;
     }
     liste.forEach((p) => zone.append(carteProgramme(p)));
@@ -220,51 +274,117 @@
 
   // --- Onglet Promoteurs ---
 
-  function cartePromoteur(p) {
-    const progs = (p.programmes || []);
-    const bloc = el("article", { class: "promoteur" },
-      el("h2", { text: p.nom }));
-    const infos = el("dl");
-    ligne(infos, "Site", lienSite(p.site));
-    ligne(infos, "Mail générique", listeMails(p.emails));
-    ligne(infos, "Programmes", String(progs.length));
-    bloc.append(infos);
-    if (progs.length) {
-      const ul = el("ul");
-      progs.forEach((x) => {
-        ul.append(el("li", {},
-          el("a", { href: x.lien, target: "_blank", rel: "noopener", text: x.nom }),
-          ` — ${x.lieu || ""} · ${libelleStatut(x.statut)}`));
+  // Regroupe les promoteurs du registre et ceux relevés sur les programmes.
+  function groupesPromoteurs() {
+    const groupes = {};
+    Object.entries(promoteurs).forEach(([cle, e]) => {
+      groupes[cle] = { cle, nom: e.nom, site: e.site || null, emails: e.emails || [], type: e.type || "promoteur", progs: [] };
+    });
+    programmes.forEach((p) => {
+      if (!p.promoteur_cle) return;
+      const g = groupes[p.promoteur_cle] || (groupes[p.promoteur_cle] = {
+        cle: p.promoteur_cle, nom: p.promoteur, site: null, emails: [], type: p.promoteur_type || "promoteur", progs: [],
       });
-      bloc.append(ul);
-    }
-    return bloc;
+      g.progs.push(p);
+      if (!g.site && p.promoteur_site) g.site = p.promoteur_site;
+      if (!g.emails.length && (p.contacts || []).length) g.emails = p.contacts;
+    });
+    return Object.values(groupes);
+  }
+
+  function logo(g) {
+    const initiales = (g.nom || "?").split(/\s+/).filter(Boolean).slice(0, 2).map((m) => m[0]).join("").toUpperCase();
+    const repli = el("span", { class: "logo logo-repli", "aria-hidden": "true", text: initiales });
+    if (!g.site) return repli;
+    const hote = g.site.replace(/^https?:\/\//, "").split("/")[0];
+    const image = el("img", {
+      class: "logo",
+      src: "https://www.google.com/s2/favicons?domain=" + encodeURIComponent(hote) + "&sz=64",
+      alt: "",
+      loading: "lazy",
+      referrerpolicy: "no-referrer",
+    });
+    image.addEventListener("error", () => image.replaceWith(repli));
+    return image;
+  }
+
+  function bandePromoteur(g) {
+    const nouveaux = g.progs.filter(estNouveau).length;
+    const corps = el("div", { class: "bande-corps" });
+    corps.hidden = true;
+
+    const infos = el("dl");
+    ligne(infos, "Site", lienSite(g.site));
+    ligne(infos, "Mail générique", listeMails(g.emails));
+    corps.append(infos);
+
+    const liste = el("ul", { class: "liste-progs" });
+    [...g.progs]
+      .sort((a, b) => (b.detecte_le || "").localeCompare(a.detecte_le || ""))
+      .forEach((p) => liste.append(el("li", {},
+        el("div", { class: "ligne-prog" },
+          el("a", { href: p.lien, target: "_blank", rel: "noopener", text: p.nom }),
+          badgeStatut(p.statut),
+          estNouveau(p) ? el("span", { class: "nouveaux", text: "nouveau" }) : ""),
+        el("div", { class: "lieu", text: p.lieu || "" }))));
+    corps.append(liste);
+
+    const fleche = el("span", { class: "fleche", "aria-hidden": "true", text: "▾" });
+    const tete = el("button", { type: "button", class: "bande-tete", "aria-expanded": "false" },
+      logo(g),
+      el("span", { class: "bande-titre" },
+        el("span", { class: "bande-nom", text: g.nom }),
+        el("span", { class: "bande-sous", text: g.type === "commercialisateur" ? "Commercialisateur" : "Promoteur" })),
+      el("span", { class: "compte", text: `${g.progs.length} programme${g.progs.length > 1 ? "s" : ""}` }),
+      nouveaux ? el("span", { class: "nouveaux", text: `${nouveaux} nouveau${nouveaux > 1 ? "x" : ""}` }) : "",
+      fleche);
+    tete.addEventListener("click", () => {
+      const ouvert = tete.getAttribute("aria-expanded") === "true";
+      tete.setAttribute("aria-expanded", String(!ouvert));
+      corps.hidden = ouvert;
+      fleche.classList.toggle("ouvert", !ouvert);
+    });
+    return el("article", { class: "bande" }, tete, corps);
   }
 
   function rendrePromoteurs() {
     const q = recherchePromoteurs.trim().toLowerCase();
-    const liste = Object.values(promoteurs)
-      .filter((p) => !q || [p.nom, p.site].some((c) => (c || "").toLowerCase().includes(q)))
-      .sort((a, b) => (b.programmes || []).length - (a.programmes || []).length || a.nom.localeCompare(b.nom));
+    const tous = groupesPromoteurs();
+    const liste = tous
+      .filter((g) => !q || [g.nom, g.site].some((c) => (c || "").toLowerCase().includes(q)))
+      .sort((a, b) => {
+        const nA = a.progs.filter(estNouveau).length, nB = b.progs.filter(estNouveau).length;
+        return nB - nA || b.progs.length - a.progs.length || a.nom.localeCompare(b.nom);
+      });
     const zone = document.getElementById("liste-promoteurs");
     zone.replaceChildren();
+
+    const nbNouveaux = programmes.filter(estNouveau).length;
+    const nbProm = tous.filter((g) => g.type !== "commercialisateur").length;
+    const nbCom = tous.length - nbProm;
     document.getElementById("stats-promoteurs").textContent =
-      `${liste.length} promoteur(s) référencé(s) · ${Object.values(promoteurs).filter((p) => p.site).length} avec site · ${Object.values(promoteurs).filter((p) => (p.emails || []).length).length} avec mail générique`;
+      `${nbProm} promoteur(s) · ${nbCom} commercialisateur(s) · ${nbNouveaux} nouveau(x) programme(s)`;
+
     if (!liste.length) {
       zone.append(el("div", { class: "vide", text: "Aucun promoteur référencé pour le moment." }));
       return;
     }
-    liste.forEach((p) => zone.append(cartePromoteur(p)));
+    [["promoteur", "Promoteurs"], ["commercialisateur", "Commercialisateurs"]].forEach(([type, titre]) => {
+      const groupe = liste.filter((g) => g.type === type);
+      if (!groupe.length) return;
+      zone.append(el("h2", { class: "section", text: `${titre} (${groupe.length})` }));
+      groupe.forEach((g) => zone.append(bandePromoteur(g)));
+    });
   }
 
   // --- Onglets ---
 
   function choisirOnglet(nom) {
     const estProgrammes = nom === "programmes";
-    document.getElementById("vue-programmes").hidden = !estProgrammes;
-    document.getElementById("vue-promoteurs").hidden = estProgrammes;
     document.getElementById("onglet-programmes").setAttribute("aria-selected", String(estProgrammes));
     document.getElementById("onglet-promoteurs").setAttribute("aria-selected", String(!estProgrammes));
+    document.getElementById("vue-programmes").hidden = !estProgrammes;
+    document.getElementById("vue-promoteurs").hidden = estProgrammes;
   }
 
   document.getElementById("onglet-programmes").addEventListener("click", () => choisirOnglet("programmes"));
@@ -272,15 +392,25 @@
   document.getElementById("recherche-programmes").addEventListener("input", (e) => { rechercheProgrammes = e.target.value; rendreProgrammes(); });
   document.getElementById("recherche-promoteurs").addEventListener("input", (e) => { recherchePromoteurs = e.target.value; rendrePromoteurs(); });
 
-  Promise.all([
-    fetch(FICHIER_PROGRAMMES, { cache: "no-store" }).then((r) => r.json()).catch(() => []),
-    fetch(FICHIER_PROMOTEURS, { cache: "no-store" }).then((r) => r.json()).catch(() => ({})),
-  ]).then(([p, pr]) => {
-    programmes = Array.isArray(p) ? p : [];
-    promoteurs = pr && typeof pr === "object" ? pr : {};
-    rendreProgrammes();
-    rendrePromoteurs();
-  });
+  // --- Chargement ---
+
+  async function charger(fichier) {
+    const r = await fetch(fichier, { cache: "no-store" });
+    if (!r.ok) throw new Error(fichier + " : " + r.status);
+    return r.json();
+  }
+
+  Promise.all([charger(FICHIER_PROGRAMMES), charger(FICHIER_PROMOTEURS)])
+    .then(([p, pr]) => {
+      programmes = p;
+      promoteurs = pr;
+      rendreProgrammes();
+      rendrePromoteurs();
+    })
+    .catch((err) => {
+      document.getElementById("liste-programmes").replaceChildren(
+        el("div", { class: "vide", text: "Les données ne peuvent pas être chargées pour le moment (" + err.message + ")." }));
+    });
 </script>
 </body>
 </html>

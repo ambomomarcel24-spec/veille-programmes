@@ -14,7 +14,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T11:05+00:00"
+    "maj": "2026-10-13T11:05+00:00",
+    "type": "promoteur"
   },
   "icade-46": {
     "nom": "ICADE 46",
@@ -31,7 +32,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T11:24+00:00"
+    "maj": "2026-10-13T11:24+00:00",
+    "type": "promoteur"
   },
   "icade-23": {
     "nom": "ICADE 23",
@@ -48,7 +50,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T11:24+00:00"
+    "maj": "2026-10-13T11:24+00:00",
+    "type": "promoteur"
   },
   "lelievre-immobilier-61": {
     "nom": "LELIEVRE IMMOBILIER 61",
@@ -65,7 +68,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T11:25+00:00"
+    "maj": "2026-10-13T11:25+00:00",
+    "type": "promoteur"
   },
   "icade-promotion-458": {
     "nom": "ICADE PROMOTION 458",
@@ -82,7 +86,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T11:25+00:00"
+    "maj": "2026-10-13T11:25+00:00",
+    "type": "promoteur"
   },
   "ogic-voir-le-site-ogic-fr-a-vitry-sur-seine": {
     "nom": "Ogic Voir le site : ogic.fr A Vitry-sur-Seine",
@@ -99,7 +104,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T11:25+00:00"
+    "maj": "2026-10-13T11:25+00:00",
+    "type": "promoteur"
   },
   "bureau-de-vente-4-allee-de-villemomble": {
     "nom": "Bureau de vente 4 Allée de Villemomble",
@@ -116,7 +122,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T11:26+00:00"
+    "maj": "2026-10-13T11:26+00:00",
+    "type": "promoteur"
   },
   "care-promotion": {
     "nom": "CARE PROMOTION",
@@ -145,7 +152,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T12:01+00:00"
+    "maj": "2026-10-13T12:01+00:00",
+    "type": "promoteur"
   },
   "cogedim": {
     "nom": "Cogedim",
@@ -205,7 +213,8 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:13+00:00"
+    "maj": "2026-10-13T12:13+00:00",
+    "type": "promoteur"
   },
   "eiffage-immobilier": {
     "nom": "EIFFAGE IMMOBILIER",
@@ -271,7 +280,8 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:14+00:00"
+    "maj": "2026-10-13T12:14+00:00",
+    "type": "promoteur"
   },
   "emerige": {
     "nom": "Emerige",
@@ -282,7 +292,7 @@
         "nom": "Avenue du Belvédère",
         "lieu": "Le Pre Saint Gervais (93)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/le-pre-saint-gervais-93/258179707/#m=classified_search_results_classified_classified_detail_S",
-        "statut": "autre"
+        "statut": "nouvelle opportunité"
       },
       {
         "nom": "Le Clos des Tilleuls",
@@ -319,7 +329,8 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:12+00:00"
+    "maj": "2026-10-13T12:12+00:00",
+    "type": "promoteur"
   },
   "fair-promotion": {
     "nom": "FAIR'PROMOTION",
@@ -342,7 +353,7 @@
         "nom": "Arborea",
         "lieu": "Boissy Saint Leger (94)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/boissy-saint-leger-94/276597253/#m=classified_search_results_classified_classified_detail_L",
-        "statut": "nouvelle opportunité"
+        "statut": "avant-première"
       },
       {
         "nom": "167 ARAGON",
@@ -354,7 +365,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T12:01+00:00"
+    "maj": "2026-10-13T12:01+00:00",
+    "type": "promoteur"
   },
   "groupe-edouard-denis": {
     "nom": "GROUPE EDOUARD DENIS",
@@ -371,7 +383,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T12:01+00:00"
+    "maj": "2026-10-13T12:01+00:00",
+    "type": "promoteur"
   },
   "kaufman-broad": {
     "nom": "Kaufman & Broad",
@@ -407,7 +420,8 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:01+00:00"
+    "maj": "2026-10-13T12:01+00:00",
+    "type": "promoteur"
   },
   "legendre-immobilier": {
     "nom": "LEGENDRE IMMOBILIER",
@@ -424,7 +438,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T12:01+00:00"
+    "maj": "2026-10-13T12:01+00:00",
+    "type": "promoteur"
   },
   "lutetia-promotion": {
     "nom": "LUTETIA PROMOTION",
@@ -447,7 +462,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T12:01+00:00"
+    "maj": "2026-10-13T12:01+00:00",
+    "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
     "nom": "Les Nouveaux Constructeurs",
@@ -458,7 +474,7 @@
         "nom": "Le Céleste",
         "lieu": "Le Blanc Mesnil (93)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/le-blanc-mesnil-93/265132115/#m=classified_search_results_classified_detail_top_position",
-        "statut": "lancement commercial"
+        "statut": "nouvelle opportunité"
       },
       {
         "nom": "Villas Péri - Coeur de Ville",
@@ -470,7 +486,7 @@
         "nom": "Victoria's Village",
         "lieu": "Puteaux (92)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/puteaux-92/265132031/#m=classified_search_results_classified_detail_top_position",
-        "statut": "lancement commercial"
+        "statut": "nouvelle opportunité"
       },
       {
         "nom": "Villa Guynemer",
@@ -669,7 +685,8 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:15+00:00"
+    "maj": "2026-10-13T12:15+00:00",
+    "type": "promoteur"
   },
   "marignan": {
     "nom": "Marignan",
@@ -680,7 +697,7 @@
         "nom": "Villa Henri",
         "lieu": "L Hay les Roses (94)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/l-hay-les-roses-94/273179569/#m=classified_search_results_classified_detail_top_position",
-        "statut": "lancement commercial"
+        "statut": "nouvelle opportunité"
       },
       {
         "nom": "ALBA",
@@ -783,7 +800,8 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:13+00:00"
+    "maj": "2026-10-13T12:13+00:00",
+    "type": "promoteur"
   },
   "nexity": {
     "nom": "Nexity",
@@ -794,13 +812,13 @@
         "nom": "LE 5",
         "lieu": "Argenteuil (95)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/argenteuil-95/235409069/#m=classified_search_results_classified_detail_top_position",
-        "statut": "autre"
+        "statut": "avant-première"
       },
       {
         "nom": "7 rue Gaston Monmousseau",
         "lieu": "Ivry sur Seine (94)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/ivry-sur-seine-94/276550461/#m=classified_search_results_classified_detail_top_position",
-        "statut": "autre"
+        "statut": "avant-première"
       },
       {
         "nom": "Collection 14",
@@ -927,7 +945,8 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:15+00:00"
+    "maj": "2026-10-13T12:15+00:00",
+    "type": "promoteur"
   },
   "sogeprom-realisations": {
     "nom": "SOGEPROM REALISATIONS",
@@ -944,7 +963,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T12:01+00:00"
+    "maj": "2026-10-13T12:01+00:00",
+    "type": "promoteur"
   },
   "valloire-habitat": {
     "nom": "VALLOIRE HABITAT",
@@ -961,7 +981,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T12:01+00:00"
+    "maj": "2026-10-13T12:01+00:00",
+    "type": "promoteur"
   },
   "vinci-immobilier": {
     "nom": "VINCI Immobilier",
@@ -1021,7 +1042,8 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:01+00:00"
+    "maj": "2026-10-13T12:01+00:00",
+    "type": "promoteur"
   },
   "simmeo": {
     "nom": "SIMMEO",
@@ -1038,7 +1060,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "gill-promotion": {
     "nom": "GILL PROMOTION",
@@ -1049,13 +1072,14 @@
         "nom": "NOUVEL'R",
         "lieu": "Brie Comte Robert (77)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/brie-comte-robert-77/279199201/#m=classified_search_results_classified_classified_detail_S",
-        "statut": "lancement commercial"
+        "statut": "nouvelle opportunité"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "grand-paris-invest": {
     "nom": "Grand Paris Invest",
@@ -1072,13 +1096,13 @@
         "nom": "LANCEMENT EXCEPTIONNEL",
         "lieu": "Gagny (93)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/gagny-93/282212141/#m=classified_search_results_classified_classified_detail_S",
-        "statut": "lancement commercial"
+        "statut": "avant-première"
       },
       {
         "nom": "Villa Berlioz",
         "lieu": "Romainville (93)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/romainville-93/280581981/#m=classified_search_results_classified_classified_detail_S",
-        "statut": "autre"
+        "statut": "nouvelle opportunité"
       },
       {
         "nom": "NOUVEAU À BAGNOLET",
@@ -1090,7 +1114,7 @@
         "nom": "NOUVEAU PROGRAMME A NEUILLY PLAISANCE",
         "lieu": "Neuilly Plaisance (93)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/neuilly-plaisance-93/279424223/#m=classified_search_results_classified_classified_detail_S",
-        "statut": "autre"
+        "statut": "nouveau"
       },
       {
         "nom": "NOUVEL HORIZON",
@@ -1102,7 +1126,7 @@
         "nom": "NOUVEAU LANCEMENT – Programme neuf à Villeneuve-la-Garenne",
         "lieu": "Villeneuve la Garenne (92)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/villeneuve-la-garenne-92/281766789/#m=classified_search_results_classified_classified_detail_S",
-        "statut": "autre"
+        "statut": "nouveau"
       },
       {
         "nom": "NOUVEAU A ST CLOUD",
@@ -1114,7 +1138,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "expansiel-promotion": {
     "nom": "EXPANSIEL PROMOTION",
@@ -1161,7 +1186,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T12:08+00:00"
+    "maj": "2026-10-13T12:08+00:00",
+    "type": "promoteur"
   },
   "serpi-promotion": {
     "nom": "SERPI PROMOTION",
@@ -1178,7 +1204,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "le-courtier-du-neuf": {
     "nom": "LE COURTIER DU NEUF",
@@ -1201,7 +1228,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "commercialisateur"
   },
   "ikory-services-immobiliers": {
     "nom": "ikory services immobiliers",
@@ -1218,7 +1246,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "commercialisateur"
   },
   "tradi-art": {
     "nom": "TRADI-ART",
@@ -1235,7 +1264,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "accueil-immobilier": {
     "nom": "ACCUEIL IMMOBILIER",
@@ -1264,7 +1294,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "commercialisateur"
   },
   "elixium": {
     "nom": "ELIXIUM",
@@ -1311,7 +1342,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "commercialisateur"
   },
   "nehams-consulting": {
     "nom": "NEHAMS consulting",
@@ -1328,7 +1360,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "commercialisateur"
   },
   "promogim": {
     "nom": "PROMOGIM",
@@ -1339,13 +1372,14 @@
         "nom": "Les Demeures",
         "lieu": "Plaisir (78)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/plaisir-78/187689983/#m=classified_search_results_classified_classified_detail_S",
-        "statut": "autre"
+        "statut": "nouvelle opportunité"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "rene-coche": {
     "nom": "RENE COCHE",
@@ -1362,7 +1396,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "commercialisateur"
   },
   "guy-hoquet-immobilier": {
     "nom": "GUY HOQUET IMMOBILIER",
@@ -1379,7 +1414,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "commercialisateur"
   },
   "sodevim": {
     "nom": "SODEVIM",
@@ -1396,7 +1432,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "novaxia": {
     "nom": "Novaxia",
@@ -1413,7 +1450,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "hibana": {
     "nom": "HIBANA",
@@ -1424,7 +1462,7 @@
         "nom": "HOUILLES ILOT CARNOT",
         "lieu": "Houilles (78)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/houilles-78/258757897/#m=classified_search_results_classified_classified_detail_S",
-        "statut": "autre"
+        "statut": "nouveau"
       },
       {
         "nom": "BAGNEUX NINA SIMONE",
@@ -1442,7 +1480,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "pissaro-co": {
     "nom": "PISSARO & Co",
@@ -1459,7 +1498,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "revimmob": {
     "nom": "REVIMMOB",
@@ -1476,7 +1516,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "mendes-promotion": {
     "nom": "Mendes Promotion",
@@ -1493,7 +1534,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "neocity-promotion": {
     "nom": "Neocity Promotion",
@@ -1510,7 +1552,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "regardneuf": {
     "nom": "RegardNeuf",
@@ -1527,7 +1570,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "commercialisateur"
   },
   "valeurs-actives": {
     "nom": "VALEURS ACTIVES",
@@ -1550,7 +1594,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "l-p-immobilier": {
     "nom": "L & P IMMOBILIER",
@@ -1567,7 +1612,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "fonciere-de-la-ville-de-paris": {
     "nom": "Foncière de la Ville de Paris",
@@ -1584,7 +1630,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "aic-ile-de-france": {
     "nom": "AIC ILE DE FRANCE",
@@ -1607,7 +1654,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "crenn-odeau": {
     "nom": "CRENN & ODEAU",
@@ -1624,7 +1672,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "montoit": {
     "nom": "MONTOIT",
@@ -1641,7 +1690,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "immobiliere-3f": {
     "nom": "IMMOBILIERE 3F",
@@ -1658,13 +1708,14 @@
         "nom": "OPUS",
         "lieu": "Vigneux sur Seine (91)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/vigneux-sur-seine-91/278877607/#m=classified_search_results_classified_classified_detail_L",
-        "statut": "nouvelle opportunité"
+        "statut": "avant-première"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "aps-gambetta": {
     "nom": "APS GAMBETTA",
@@ -1681,7 +1732,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "genestone": {
     "nom": "Genestone",
@@ -1692,13 +1744,14 @@
         "nom": "Clos Saint Erembert",
         "lieu": "Saint Germain en Laye (78)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-germain-en-laye-78/200579751/#m=classified_search_results_classified_classified_detail_S",
-        "statut": "autre"
+        "statut": "exclusivité"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "logih": {
     "nom": "LOGIH",
@@ -1715,7 +1768,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "novanea": {
     "nom": "NOVANEA",
@@ -1774,7 +1828,7 @@
         "nom": "RÉSIDENCE NEUVE - TVA 20%",
         "lieu": "Gif sur Yvette (91)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/gif-sur-yvette-91/281827465/#m=classified_search_results_classified_classified_detail_S",
-        "statut": "autre"
+        "statut": "nouveau"
       },
       {
         "nom": "MAISONS MODERNES ET CHALEUREUSES - PROX ÉCOLES",
@@ -1804,7 +1858,7 @@
         "nom": "RÉSIDENCE CONFORT SITUÉ À PROVINS - T2 AU T4",
         "lieu": "Provins (77)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/provins-77/281821117/#m=classified_search_results_classified_classified_detail_S",
-        "statut": "autre"
+        "statut": "nouvelle opportunité"
       },
       {
         "nom": "RÉSIDENCE RÉNOVÉ A NEUF À CHESSY SITUÉ PROCHE DES COMMODITÉS",
@@ -1846,13 +1900,14 @@
         "nom": "T4 TVA 5,5 % - PROX ÉCOLES",
         "lieu": "Boissy Saint Leger (94)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/boissy-saint-leger-94/281849477/#m=classified_search_results_classified_classified_detail_S",
-        "statut": "autre"
+        "statut": "nouvelle opportunité"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "commercialisateur"
   },
   "green-eco": {
     "nom": "GREEN ECO",
@@ -1869,7 +1924,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "essia": {
     "nom": "ESSIA",
@@ -1880,13 +1936,14 @@
         "nom": "ART DECO",
         "lieu": "Brunoy (91)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/brunoy-91/215352175/#m=classified_search_results_classified_classified_detail_M",
-        "statut": "autre"
+        "statut": "nouvelle opportunité"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "arcade-vyv-promotion-idf": {
     "nom": "ARCADE-VYV PROMOTION IDF",
@@ -1903,13 +1960,14 @@
         "nom": "Vert & Sens",
         "lieu": "Servon (77)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/servon-77/245314895/#m=classified_search_results_classified_classified_detail_L",
-        "statut": "autre"
+        "statut": "nouvelle opportunité"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "enoma-partners-pour-pajimmo": {
     "nom": "Enoma Partners pour PAJIMMO",
@@ -1926,7 +1984,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "groupe-pierreval": {
     "nom": "GROUPE PIERREVAL",
@@ -1943,7 +2002,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "groupe-zenith": {
     "nom": "GROUPE ZENITH",
@@ -1960,7 +2020,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "diagonale": {
     "nom": "DIAGONALE",
@@ -1977,7 +2038,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "quartus-residentiel": {
     "nom": "QUARTUS Résidentiel",
@@ -1994,7 +2056,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "brownfields": {
     "nom": "BROWNFIELDS",
@@ -2011,7 +2074,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "polycites": {
     "nom": "POLYCITES",
@@ -2028,7 +2092,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "terabilis-neovarim": {
     "nom": "TERABILIS - NEOVARIM",
@@ -2045,7 +2110,8 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "bouygues-immobilier": {
     "nom": "Bouygues Immobilier",
@@ -2074,7 +2140,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T11:42+00:00"
+    "maj": "2026-10-13T11:42+00:00",
+    "type": "promoteur"
   },
   "icade-promotion": {
     "nom": "Icade Promotion",
@@ -2139,7 +2206,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:14+00:00"
+    "maj": "2026-10-13T12:14+00:00",
+    "type": "promoteur"
   },
   "sas-capi": {
     "nom": "Sas Capi",
@@ -2174,7 +2242,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:13+00:00"
+    "maj": "2026-10-13T12:13+00:00",
+    "type": "promoteur"
   },
   "bnp-paribas-real-estate": {
     "nom": "Bnp Paribas Real Estate",
@@ -2263,7 +2332,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:14+00:00"
+    "maj": "2026-10-13T12:14+00:00",
+    "type": "promoteur"
   },
   "quartus": {
     "nom": "Quartus",
@@ -2304,7 +2374,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:12+00:00"
+    "maj": "2026-10-13T12:12+00:00",
+    "type": "promoteur"
   },
   "demathieu-bard-immobilier": {
     "nom": "Demathieu Bard Immobilier",
@@ -2333,7 +2404,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:14+00:00"
+    "maj": "2026-10-13T12:14+00:00",
+    "type": "promoteur"
   },
   "ogic": {
     "nom": "Ogic",
@@ -2368,7 +2440,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T11:52+00:00"
+    "maj": "2026-10-13T11:52+00:00",
+    "type": "promoteur"
   },
   "bouygues-immobilier-national": {
     "nom": "Bouygues Immobilier National",
@@ -2469,7 +2542,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:15+00:00"
+    "maj": "2026-10-13T12:15+00:00",
+    "type": "promoteur"
   },
   "interconstruction-amenagement": {
     "nom": "Interconstruction Amenagement",
@@ -2492,7 +2566,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T11:53+00:00"
+    "maj": "2026-10-13T11:53+00:00",
+    "type": "promoteur"
   },
   "medicis-immobilier-neuf": {
     "nom": "Medicis Immobilier Neuf",
@@ -2540,7 +2615,8 @@
       "Trouver un logement neuf",
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T12:08+00:00"
+    "maj": "2026-10-13T12:08+00:00",
+    "type": "commercialisateur"
   },
   "vinci-immobilier-promotion": {
     "nom": "VINCI Immobilier Promotion",
@@ -2581,7 +2657,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:14+00:00"
+    "maj": "2026-10-13T12:14+00:00",
+    "type": "promoteur"
   },
   "kaufman-et-broad": {
     "nom": "Kaufman Et Broad",
@@ -2616,7 +2693,8 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:14+00:00"
+    "maj": "2026-10-13T12:14+00:00",
+    "type": "promoteur"
   },
   "edouard-denis": {
     "nom": "Edouard Denis",
@@ -2639,6 +2717,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:14+00:00"
+    "maj": "2026-10-13T12:14+00:00",
+    "type": "promoteur"
   }
 }

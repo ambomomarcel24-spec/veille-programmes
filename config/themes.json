@@ -1,0 +1,61 @@
+{
+  "tva_reduite": {
+    "libelle": "TVA réduite",
+    "mots": [
+      "tva réduite",
+      "tva a 5",
+      "tva à 5",
+      "tva 5,5",
+      "tva 5 %",
+      "tva 5%",
+      "tva a 10",
+      "tva à 10"
+    ]
+  },
+  "frais_offerts": {
+    "libelle": "Frais de notaire offerts",
+    "mots": [
+      "frais de notaire offert",
+      "frais de notaire offerts"
+    ]
+  },
+  "travaux_en_cours": {
+    "libelle": "Travaux en cours",
+    "mots": [
+      "travaux en cours",
+      "en cours de construction",
+      "en travaux",
+      "chantier en cours"
+    ]
+  },
+  "livraison_immediate": {
+    "libelle": "Livraison immédiate",
+    "mots": [
+      "livraison immediate",
+      "emmenagement immediat",
+      "disponible immediatement",
+      "pret a vivre",
+      "livre prochainement"
+    ]
+  },
+  "investissement": {
+    "libelle": "Investissement locatif",
+    "mots": [
+      "investissement",
+      "pinel",
+      "lmnp",
+      "loueur",
+      "rendement"
+    ]
+  },
+  "bons_plans": {
+    "libelle": "Bons plans et remises",
+    "mots": [
+      "bons plans",
+      "bon plan",
+      "de remise",
+      "remise de",
+      "prix promoteur"
+    ]
+  }
+}
