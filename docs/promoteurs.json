@@ -1,0 +1,19 @@
+{
+  "icade-place-du-front-populaire": {
+    "nom": "ICADE Place du Front Populaire",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Time",
+        "lieu": "Time - Saint-Denis (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-denis-programme-time-209373-8598.html",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "Trouver un logement neuf"
+    ],
+    "maj": "2026-10-13T11:05+00:00"
+  }
+}

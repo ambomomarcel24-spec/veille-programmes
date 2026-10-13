@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-13T10:39+00:00",
+  "date": "2026-10-13T10:55+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -62,10 +62,10 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2700,
-      "deja_connues": 150,
+      "deja_connues": 300,
       "lues": 150,
-      "idf": 0,
-      "sans_localisation": 150,
+      "idf": 10,
+      "sans_localisation": 140,
       "echec": 0
     },
     {
@@ -156,7 +156,7 @@
     {
       "source": "Cogedim",
       "page": "https://www.cogedim.com/",
-      "blocs": 122,
+      "blocs": 127,
       "avec_declencheur": 0,
       "avec_mot_programme": 0,
       "avec_localisation": 0
@@ -211,7 +211,9 @@
       "avec_localisation": 0
     }
   ],
-  "nouvelles_fiches": 7,
-  "alertes_en_attente": 7,
+  "fiches_relues": 11,
+  "fiches_a_relire": 117,
+  "nouvelles_fiches": 15,
+  "alertes_en_attente": 12,
   "echec_mail": true
 }
