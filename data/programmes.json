@@ -2367,13 +2367,14 @@
     "detecte_le": "2026-10-13T10:16+00:00",
     "origine": "catalogue",
     "statut": "autre",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "sas-capi",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Paris C1 à Paris (75) : programme neuf T4, à partir de 1 399 900 €. Vendu par Sas Capi."
   },
   {
     "id": "bfa105d8c42aa877",
@@ -2674,13 +2675,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T10:55+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "bnp-paribas-real-estate",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Highlife 2 à Boulogne-Billancourt (92) : programme neuf du T3 au T5, à partir de 699 000 €. Vendu par Bnp Paribas Real Estate."
   },
   {
     "id": "941a8df75bb25ced",
@@ -2696,13 +2698,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T10:55+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "bnp-paribas-real-estate",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Bellevie à Boulogne-Billancourt (92) : programme neuf du T2 au T5, à partir de 450 000 €. Vendu par Bnp Paribas Real Estate."
   },
   {
     "id": "90791e441cb76be6",
@@ -2718,13 +2721,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T10:55+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "bnp-paribas-real-estate",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Highlife à Boulogne-Billancourt (92) : programme neuf du T1 au T5, à partir de 424 000 €. Vendu par Bnp Paribas Real Estate."
   },
   {
     "id": "5f4e5e23b8364228",
@@ -2736,16 +2740,18 @@
     "date_publication": null,
     "extrait": "Apogee - Saint-Denis (93)",
     "source": "Trouver un logement neuf",
-    "promoteur": "VINCI Immobilier",
+    "promoteur": "VINCI Immobilier Promotion",
     "contacts": [],
     "detecte_le": "2026-10-13T10:55+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
-    "promoteur_cle": "vinci-immobilier",
-    "promoteur_type": "promoteur"
+    "promoteur_cle": "vinci-immobilier-promotion",
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Apogee à Saint-Denis (93) : programme neuf T1, à partir de 239 000 €. Vendu par VINCI Immobilier Promotion.",
+    "promoteur_site": null
   },
   {
     "id": "8fb03f28006e255c",
@@ -2761,13 +2767,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T10:55+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "quartus",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Reflets à Saint-Denis (93) : programme neuf du T3 au T5, à partir de 276 000 €. Vendu par Quartus."
   },
   {
     "id": "af1015ed8edfdb64",
@@ -2779,17 +2786,18 @@
     "date_publication": null,
     "extrait": "Time - Saint-Denis (93)",
     "source": "Trouver un logement neuf",
-    "promoteur": "ICADE Place du Front Populaire",
+    "promoteur": "Icade Promotion",
     "contacts": [],
     "detecte_le": "2026-10-13T10:55+00:00",
     "origine": "catalogue",
-    "enrichi": false,
-    "promoteur_site": null,
+    "enrichi": true,
+    "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
     ],
-    "promoteur_cle": "icade-place-du-front-populaire",
-    "promoteur_type": "promoteur"
+    "promoteur_cle": "icade-promotion",
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Time à Saint-Denis (93) : programme neuf du T2 au T4, à partir de 198 800 €. Vendu par Icade Promotion."
   },
   {
     "id": "b35a2ab0df778a99",
@@ -2805,12 +2813,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T10:55+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "eiffage-immobilier",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Saint Denis - les Venelles du Landy à Saint-Denis (93) : programme neuf du T3 au T5, à partir de 314 000 €. Vendu par Eiffage Immobilier.",
+    "promoteur_site": "https://www.eiffage-immobilier.com"
   },
   {
     "id": "a7e5663d2474b4b3",
@@ -2826,12 +2836,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T10:55+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "marignan",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Le Jade à Saint-Denis (93) : programme neuf du T1 au T4, à partir de 184 000 €. Vendu par Marignan.",
+    "promoteur_site": "https://marignan-immobilier.com"
   },
   {
     "id": "72ac596b99b84b03",
@@ -2847,12 +2859,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T10:55+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "eiffage-immobilier",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Saint Denis - les Venelles du Landy - BRS à Saint-Denis (93) : programme neuf du T2 au T5, à partir de 206 680 €. Vendu par Eiffage Immobilier.",
+    "promoteur_site": "https://www.eiffage-immobilier.com"
   },
   {
     "id": "50f218cee07bd73f",
@@ -2868,12 +2882,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T10:55+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "nexity",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Le 5 à Argenteuil (95) : programme neuf du T2 au T4, à partir de 214 000 €. Vendu par Nexity.",
+    "promoteur_site": "https://www.nexity.fr"
   },
   {
     "id": "ef7338f48711398e",
@@ -3104,12 +3120,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "nexity",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Passage de Lutece à Argenteuil (95) : programme neuf T1, à partir de 190 000 €. Vendu par Nexity.",
+    "promoteur_site": "https://www.nexity.fr"
   },
   {
     "id": "ea92b5607f74f0fd",
@@ -3121,17 +3139,18 @@
     "date_publication": null,
     "extrait": "Villa Nymphea - Argenteuil (95)",
     "source": "Trouver un logement neuf",
-    "promoteur": "ICADE 46",
+    "promoteur": "Icade Promotion",
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
-    "promoteur_site": null,
+    "enrichi": true,
+    "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
     ],
-    "promoteur_cle": "icade-46",
-    "promoteur_type": "promoteur"
+    "promoteur_cle": "icade-promotion",
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Villa Nymphea à Argenteuil (95) : programme neuf du T2 au T4, à partir de 249 000 €. Vendu par Icade Promotion."
   },
   {
     "id": "3fb039e365fd4e4d",
@@ -3143,16 +3162,18 @@
     "date_publication": null,
     "extrait": "15ème Merveille - Paris 15ème (75)",
     "source": "Trouver un logement neuf",
-    "promoteur": "Bouygues Immobilier",
+    "promoteur": "Bouygues Immobilier National",
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
-    "promoteur_cle": "bouygues-immobilier",
-    "promoteur_type": "promoteur"
+    "promoteur_cle": "bouygues-immobilier-national",
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez 15ème Merveille à Paris 15ème (75) : programme neuf du T3 au T5, à partir de 1 090 000 €. Vendu par Bouygues Immobilier National.",
+    "promoteur_site": null
   },
   {
     "id": "d3e14750e732084b",
@@ -3168,13 +3189,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "bnp-paribas-real-estate",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Le 12 Park à Paris 12ème (75) : programme neuf du T1 au T5, à partir de 370 000 €. Vendu par Bnp Paribas Real Estate."
   },
   {
     "id": "31df1d9b84158906",
@@ -3190,13 +3212,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "demathieu-bard-immobilier",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Gambetta Garden à Paris 20ème (75) : programme neuf, à partir de 995 000 €. Vendu par Demathieu Bard Immobilier."
   },
   {
     "id": "bbe23d373e0afe93",
@@ -3208,16 +3231,18 @@
     "date_publication": null,
     "extrait": "Paris 18 - Paris 18ème (75)",
     "source": "Trouver un logement neuf",
-    "promoteur": "VINCI Immobilier",
+    "promoteur": "VINCI Immobilier Promotion",
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
-    "promoteur_cle": "vinci-immobilier",
-    "promoteur_type": "promoteur"
+    "promoteur_cle": "vinci-immobilier-promotion",
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Paris 18 à Paris 18ème (75) : programme neuf du T1 au T5, à partir de 208 000 €. Vendu par VINCI Immobilier Promotion.",
+    "promoteur_site": null
   },
   {
     "id": "c6964e8daa7a843a",
@@ -3233,13 +3258,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "quartus",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Pavillon Raspail à Paris 14ème (75) : programme neuf du T1 au T5, à partir de 470 000 €. Vendu par Quartus."
   },
   {
     "id": "bde8e119d05cae2e",
@@ -3255,13 +3281,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "ogic",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Village Saint-Vincent-de-Paul à Paris 14ème (75) : programme neuf du T1 au T5, à partir de 395 000 €. Vendu par Ogic."
   },
   {
     "id": "3ae2e43fd769ab41",
@@ -3273,17 +3300,18 @@
     "date_publication": null,
     "extrait": "23 Petrelle - Paris 9ème (75)",
     "source": "Trouver un logement neuf",
-    "promoteur": "ICADE 23",
+    "promoteur": "Icade Promotion",
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
     ],
-    "promoteur_cle": "icade-23",
-    "promoteur_type": "promoteur"
+    "promoteur_cle": "icade-promotion",
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez 23 Petrelle à Paris 9ème (75) : programme neuf du T2 au T4, à partir de 560 000 €. Vendu par Icade Promotion."
   },
   {
     "id": "1301dae37143c160",
@@ -3299,13 +3327,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "ogic",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez N.19 Passy à Paris 16ème (75) : programme neuf du T2 au T5, à partir de 740 000 €. Vendu par Ogic."
   },
   {
     "id": "05ae6df0adc7126b",
@@ -3321,13 +3350,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "ogic",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Le 117 Bis à Paris 20ème (75) : programme neuf du T1 au T4, à partir de 365 000 €. Vendu par Ogic."
   },
   {
     "id": "3e54cdac02d553f4",
@@ -3343,12 +3373,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "cogedim",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Woodeum Paris Rive Gauche à Paris 13ème (75) : programme neuf du T1 au T4, à partir de 349 000 €. Vendu par Cogedim.",
+    "promoteur_site": "https://cogedim.com"
   },
   {
     "id": "4ea7bd98c7fb64c8",
@@ -3360,17 +3392,18 @@
     "date_publication": null,
     "extrait": "Les Jardins de Galleron - Paris 20ème (75)",
     "source": "Trouver un logement neuf",
-    "promoteur": "LELIEVRE IMMOBILIER 61",
+    "promoteur": "Lelievre Immobilier",
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
-    "promoteur_cle": "lelievre-immobilier-61",
-    "promoteur_type": "promoteur"
+    "promoteur_cle": "lelievre-immobilier",
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Les Jardins de Galleron à Paris 20ème (75) : programme neuf du T2 au T4, à partir de 620 000 €. Vendu par Lelievre Immobilier."
   },
   {
     "id": "33f0bcde82d2b7f9",
@@ -3386,12 +3419,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "marignan",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Parc en ciel à Paris 13ème (75) : programme neuf T2, à partir de 654 200 €. Vendu par Marignan.",
+    "promoteur_site": "https://marignan-immobilier.com"
   },
   {
     "id": "8ddef0d2553258a0",
@@ -3407,12 +3442,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "nexity",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Quartier Nature à Montreuil (93) : programme neuf du T2 au T5, à partir de 268 000 €. Vendu par Nexity.",
+    "promoteur_site": "https://www.nexity.fr"
   },
   {
     "id": "f350b9db2dfd6441",
@@ -3428,13 +3465,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "quartus",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Jardin Hanaé - Petit Nanterre à Nanterre (92) : programme neuf du T1 au T5, à partir de 215 000 €. Vendu par Quartus."
   },
   {
     "id": "ca810ffbcf05129c",
@@ -3446,17 +3484,18 @@
     "date_publication": null,
     "extrait": "Beau Chemin - Nanterre (92)",
     "source": "Trouver un logement neuf",
-    "promoteur": "ICADE PROMOTION 458",
+    "promoteur": "Icade Promotion",
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
-    "promoteur_site": null,
+    "enrichi": true,
+    "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
     ],
-    "promoteur_cle": "icade-promotion-458",
-    "promoteur_type": "promoteur"
+    "promoteur_cle": "icade-promotion",
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Beau Chemin à Nanterre (92) : programme neuf du T1 au T5, à partir de 284 400 €. Vendu par Icade Promotion."
   },
   {
     "id": "2d3044ffe29ad9e0",
@@ -3472,13 +3511,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "bnp-paribas-real-estate",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Central View - West Village à Nanterre (92) : programme neuf du T1 au T5, à partir de 196 000 €. Vendu par Bnp Paribas Real Estate."
   },
   {
     "id": "0f32cbcbcaba49b7",
@@ -3494,12 +3534,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "marignan",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Lexington à Nanterre (92) : programme neuf du T2 au T4, à partir de 280 000 €. Vendu par Marignan.",
+    "promoteur_site": "https://marignan-immobilier.com"
   },
   {
     "id": "855b948e4153566d",
@@ -3515,12 +3557,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "cogedim",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Résidence Eklo à Nanterre (92) : programme neuf du T2 au T4, à partir de 215 000 €. Vendu par Cogedim.",
+    "promoteur_site": "https://cogedim.com"
   },
   {
     "id": "e7da0ff093a8bf55",
@@ -3536,12 +3580,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "marignan",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez West Village - Tribeca à Nanterre (92) : programme neuf du T2 au T4, à partir de 294 000 €. Vendu par Marignan.",
+    "promoteur_site": "https://marignan-immobilier.com"
   },
   {
     "id": "ff765f6ae07bbde4",
@@ -3557,12 +3603,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "nexity",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Station Eiffel à Créteil (94) : programme neuf du T1 au T4, à partir de 236 000 €. Vendu par Nexity.",
+    "promoteur_site": "https://www.nexity.fr"
   },
   {
     "id": "d9533094f0100a92",
@@ -3578,12 +3626,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "nexity",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Fontaine du Mesly à Créteil (94) : programme neuf du T1 au T2, à partir de 185 000 €. Vendu par Nexity.",
+    "promoteur_site": "https://www.nexity.fr"
   },
   {
     "id": "0a8fc1986e91fc6c",
@@ -3599,12 +3649,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "icade-promotion",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Les Bosquets du Roi - Maisons 2 à Versailles (78) : programme neuf, à partir de 665 000 €. Vendu par Icade Promotion.",
+    "promoteur_site": "http://www.icade-immobilier.com"
   },
   {
     "id": "deb0d369beff7907",
@@ -3620,12 +3672,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "icade-promotion",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez L'Allée des Roses à Versailles (78) : programme neuf du T2 au T5, à partir de 295 500 €. Vendu par Icade Promotion.",
+    "promoteur_site": "http://www.icade-immobilier.com"
   },
   {
     "id": "4f21db92474b2c72",
@@ -3641,12 +3695,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "icade-promotion",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Promenade du Château à Versailles (78) : programme neuf, à partir de 753 000 €. Vendu par Icade Promotion.",
+    "promoteur_site": "http://www.icade-immobilier.com"
   },
   {
     "id": "bae382bc06d41129",
@@ -3662,13 +3718,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "quartus",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Satory Park à Versailles (78) : programme neuf du T1 au T4, à partir de 180 000 €. Vendu par Quartus."
   },
   {
     "id": "041d08a7712b9d97",
@@ -3684,12 +3741,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "les-nouveaux-constructeurs",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Les Terrasses Bel Air à Colombes (92) : programme neuf du T3 au T4, à partir de 386 000 €. Vendu par Les Nouveaux Constructeurs.",
+    "promoteur_site": "https://lnc.fr"
   },
   {
     "id": "3410a8cf1fa8837c",
@@ -3705,12 +3764,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "les-nouveaux-constructeurs",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Villa Augustine à Colombes (92) : programme neuf du T2 au T4, à partir de 286 200 €. Vendu par Les Nouveaux Constructeurs.",
+    "promoteur_site": "https://lnc.fr"
   },
   {
     "id": "008221b619fe1d0c",
@@ -3726,12 +3787,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "les-nouveaux-constructeurs",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Villa Gabrielle à Colombes (92) : programme neuf du T2 au T5, à partir de 260 800 €. Vendu par Les Nouveaux Constructeurs.",
+    "promoteur_site": "https://lnc.fr"
   },
   {
     "id": "5ea5f5b4f311d434",
@@ -3747,12 +3810,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "marignan",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Esprit Valmy à Colombes (92) : programme neuf du T2 au T4, à partir de 252 200 €. Vendu par Marignan.",
+    "promoteur_site": "https://marignan-immobilier.com"
   },
   {
     "id": "4c8280e14116e371",
@@ -3764,16 +3829,18 @@
     "date_publication": null,
     "extrait": "Plurielles - Paris / Colombes (92)",
     "source": "Trouver un logement neuf",
-    "promoteur": "VINCI Immobilier",
+    "promoteur": "VINCI Immobilier Promotion",
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
-    "promoteur_cle": "vinci-immobilier",
-    "promoteur_type": "promoteur"
+    "promoteur_cle": "vinci-immobilier-promotion",
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Plurielles à Colombes (92) : programme neuf du T2 au T5, à partir de 259 000 €. Vendu par VINCI Immobilier Promotion.",
+    "promoteur_site": null
   },
   {
     "id": "5c1d8934b5578691",
@@ -3789,12 +3856,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "nexity",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Ovation Magellan Ilot 13 à Colombes (92) : programme neuf du T1 au T4, à partir de 205 000 €. Vendu par Nexity.",
+    "promoteur_site": "https://www.nexity.fr"
   },
   {
     "id": "09a91020cb092fab",
@@ -3806,16 +3875,18 @@
     "date_publication": null,
     "extrait": "Plurielles - Paris / Colombes (92)",
     "source": "Trouver un logement neuf",
-    "promoteur": "Bouygues Immobilier",
+    "promoteur": "Bouygues Immobilier National",
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
-    "promoteur_cle": "bouygues-immobilier",
-    "promoteur_type": "promoteur"
+    "promoteur_cle": "bouygues-immobilier-national",
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Plurielles à Colombes (92) : programme neuf du T1 au T5, à partir de 209 000 €. Vendu par Bouygues Immobilier National.",
+    "promoteur_site": null
   },
   {
     "id": "16c0be36e227ef28",
@@ -3831,12 +3902,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "emerige",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Le Clos des Tilleuls à Colombes (92) : programme neuf du T1 au T4, à partir de 186 750 €. Vendu par Emerige.",
+    "promoteur_site": "https://www.emerige.com"
   },
   {
     "id": "16bf1881cf935219",
@@ -3852,12 +3925,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "marignan",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Central C à Colombes (92) : programme neuf T2, à partir de 317 077 €. Vendu par Marignan.",
+    "promoteur_site": "https://marignan-immobilier.com"
   },
   {
     "id": "68ec6dc6aef1460f",
@@ -3869,17 +3944,18 @@
     "date_publication": null,
     "extrait": "Jardins en Seine - Vitry-sur-Seine (94)",
     "source": "Trouver un logement neuf",
-    "promoteur": "Ogic Voir le site : ogic.fr A Vitry-sur-Seine",
+    "promoteur": "Ogic",
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
-    "promoteur_cle": "ogic-voir-le-site-ogic-fr-a-vitry-sur-seine",
-    "promoteur_type": "promoteur"
+    "promoteur_cle": "ogic",
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Jardins en Seine à Vitry-sur-Seine (94) : programme neuf du T2 au T5, à partir de 233 500 €. Vendu par Ogic."
   },
   {
     "id": "261cebe01a5822cb",
@@ -3891,16 +3967,18 @@
     "date_publication": null,
     "extrait": "Koya - Paris / Courbevoie (92)",
     "source": "Trouver un logement neuf",
-    "promoteur": "Kaufman & Broad",
+    "promoteur": "Kaufman Et Broad",
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
-    "promoteur_cle": "kaufman-broad",
-    "promoteur_type": "promoteur"
+    "promoteur_cle": "kaufman-et-broad",
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Koya à Courbevoie (92) : programme neuf du T1 au T4, à partir de 286 000 €. Vendu par Kaufman Et Broad.",
+    "promoteur_site": null
   },
   {
     "id": "4efeec2701db8b98",
@@ -3916,12 +3994,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "les-nouveaux-constructeurs",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez New Art à Asnières-sur-Seine (92) : programme neuf du T1 au T5, à partir de 245 000 €. Vendu par Les Nouveaux Constructeurs.",
+    "promoteur_site": "https://lnc.fr"
   },
   {
     "id": "04bf9b1da7526053",
@@ -3933,16 +4013,18 @@
     "date_publication": null,
     "extrait": "Arche Vive - Asnières-sur-Seine (92)",
     "source": "Trouver un logement neuf",
-    "promoteur": "Bouygues Immobilier",
+    "promoteur": "Bouygues Immobilier National",
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
-    "promoteur_cle": "bouygues-immobilier",
-    "promoteur_type": "promoteur"
+    "promoteur_cle": "bouygues-immobilier-national",
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Arche Vive à Asnières-sur-Seine (92) : programme neuf du T1 au T5, à partir de 228 250 €. Vendu par Bouygues Immobilier National.",
+    "promoteur_site": null
   },
   {
     "id": "64c1b0e5c81e7edc",
@@ -3958,12 +4040,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "les-nouveaux-constructeurs",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Les Terrasses Voltaire à Asnières-sur-Seine (92) : programme neuf du T2 au T5, à partir de 355 100 €. Vendu par Les Nouveaux Constructeurs.",
+    "promoteur_site": "https://lnc.fr"
   },
   {
     "id": "ec1a22cfe8e7c496",
@@ -3979,12 +4063,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "les-nouveaux-constructeurs",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Asnières - Quartier Bécon les Bruyères à Asnières-sur-Seine (92) : programme neuf. Vendu par Les Nouveaux Constructeurs.",
+    "promoteur_site": "https://lnc.fr"
   },
   {
     "id": "f11de90e7f94f808",
@@ -4000,12 +4086,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "nexity",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Les Portes de Seine à Asnières-sur-Seine (92) : programme neuf du T2 au T4, à partir de 299 000 €. Vendu par Nexity.",
+    "promoteur_site": "https://www.nexity.fr"
   },
   {
     "id": "dff589a4abc0f7a0",
@@ -4021,12 +4109,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "les-nouveaux-constructeurs",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Villa des Arts II à Asnières-sur-Seine (92) : programme neuf T1, à partir de 227 600 €. Vendu par Les Nouveaux Constructeurs.",
+    "promoteur_site": "https://lnc.fr"
   },
   {
     "id": "78a697aad88fe019",
@@ -4042,12 +4132,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "eiffage-immobilier",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Valora - Val Francilia à Aulnay-sous-Bois (93) : programme neuf du T1 au T4, à partir de 171 494 €. Vendu par Eiffage Immobilier.",
+    "promoteur_site": "https://www.eiffage-immobilier.com"
   },
   {
     "id": "b09bd81eba565017",
@@ -4059,16 +4151,18 @@
     "date_publication": null,
     "extrait": "Le Clos Chagall - Aulnay-sous-Bois (93)",
     "source": "Trouver un logement neuf",
-    "promoteur": "VINCI Immobilier",
+    "promoteur": "VINCI Immobilier Promotion",
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "tags": [
       "autre"
     ],
-    "promoteur_cle": "vinci-immobilier",
-    "promoteur_type": "promoteur"
+    "promoteur_cle": "vinci-immobilier-promotion",
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Le Clos Chagall à Aulnay-sous-Bois (93) : programme neuf T2, à partir de 226 350 €. Vendu par VINCI Immobilier Promotion.",
+    "promoteur_site": null
   },
   {
     "id": "67bb03c0aad694fb",
@@ -4080,17 +4174,18 @@
     "date_publication": null,
     "extrait": "Évidence - Aulnay-sous-Bois (93)",
     "source": "Trouver un logement neuf",
-    "promoteur": "Bureau de vente 4 Allée de Villemomble",
+    "promoteur": "Medicis Immobilier Neuf",
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
-    "promoteur_cle": "bureau-de-vente-4-allee-de-villemomble",
-    "promoteur_type": "promoteur"
+    "promoteur_cle": "medicis-immobilier-neuf",
+    "promoteur_type": "commercialisateur",
+    "texte": "Découvrez Évidence à Aulnay-sous-Bois (93) : programme neuf du T1 au T4, à partir de 146 000 €. Vendu par Medicis Immobilier Neuf."
   },
   {
     "id": "d015e5d0ff533341",
@@ -4106,13 +4201,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:14+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "bnp-paribas-real-estate",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Origami à Rueil-Malmaison (92) : programme neuf du T2 au T5, à partir de 349 000 €. Vendu par Bnp Paribas Real Estate."
   },
   {
     "id": "18e5830a3f1d5627",
@@ -4223,13 +4319,14 @@
     "contacts": [],
     "detecte_le": "2026-10-13T11:42+00:00",
     "origine": "catalogue",
-    "enrichi": false,
+    "enrichi": true,
     "promoteur_site": null,
     "tags": [
       "autre"
     ],
     "promoteur_cle": "sas-capi",
-    "promoteur_type": "promoteur"
+    "promoteur_type": "promoteur",
+    "texte": "Découvrez Saint-Maur-des-Fossés C1 à Saint-Maur-des-Fossés (94) : programme neuf du T1 au T4, à partir de 260 000 €. Vendu par Sas Capi."
   },
   {
     "id": "72fba8a89e21d0ac",
@@ -6801,6 +6898,1609 @@
     "promoteur": "à identifier",
     "contacts": [],
     "detecte_le": "2026-10-13T12:01+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "6fa222ab5be0a919",
+    "nom": "L'Atelier",
+    "lieu": "Stains (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/stains-93/265131691/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Offre spéciale",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale Travaux en cours L'Atelier Stains Du 2 pièces au 4 pièces à partir de 176 500 € Balcon Parking Proposé par LES NOUVEAUX CONSTRUCTEURS PRIME NOUVEAUX PROPRIÉTAIRES : REMISE DE 3 000 EUROS PAR PIÈCE + FRAIS DE NOTAIRE ET DE COURTAGE OFFERTS*EN BONUS, JUSQU'AU 31/10 : VOS INTÉRÊTS OFFERT",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "nouvelle opportunité",
+      "travaux_en_cours",
+      "bons_plans"
+    ]
+  },
+  {
+    "id": "d9629ccea8159cad",
+    "nom": "Résidences Colombes",
+    "lieu": "Colombes (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/colombes-92/223090289/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Résidences Colombes Colombes Du studio au 5 pièces à partir de 180 000 € Balcon Box Ascenseur Adapté PMR Digicode À COLOMBES (92) : Une nouvelle résidence moderne ! Découvrez notre projet immobilier neuf situé dans un quartier résidentiel prisé de Colombes, à proximité des transports en commun. Nous",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "bb65943784d07122",
+    "nom": "VILLA MURIERS",
+    "lieu": "Montfermeil (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Travaux en cours",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "VILLA MURIERS Montfermeil Du 2 pièces au 4 pièces à partir de 182 900 € Terrasse Balcon Parking Digicode Profitez du chèque bonus accession de 2 500€ pour devenir propriétaire ! TRAVAUX EN COURS : DEVENEZ PROPRIETAIRE de votre résidence principale ou INVESTISSEZ grâce au dispositif JEANBRUN !! Nouve",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "travaux_en_cours"
+    ]
+  },
+  {
+    "id": "97aeb9e68ae4f407",
+    "nom": "214 Avenue du Président Wilson",
+    "lieu": "Saint Denis (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-denis-93/279198165/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Offre spéciale",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale 214 Avenue du Président Wilson Saint-Denis Appartement 5 pièces 462 000 € Balcon Ascenseur OFFRE SPÉCIALE : FRAIS DE NOTAIRE OFFERTS* Visitez notre appartement témoin sur rendez-vous et appréciez la qualité des prestations, les volumes et les finitions de la résidence : 01 78 05 45 [.",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "nouvelle opportunité",
+      "frais_offerts"
+    ]
+  },
+  {
+    "id": "a37f2e98c45c57f3",
+    "nom": "Côté Forêt",
+    "lieu": "Chaville (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/chaville-92/205728135/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Travaux en cours",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Côté Forêt Chaville Du 2 pièces au 5 pièces à partir de 322 000 € Terrasse Balcon Ascenseur Adapté PMR Digicode TRAVAUX EN COURS Au cœur du quartier recherché des Petits Bois, découvrez « Côté Forêt », une résidence qui conjugue nature et praticité au quotidien. Un cadre de vie privilégié : Imaginez",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "travaux_en_cours"
+    ]
+  },
+  {
+    "id": "2d95cc4794dd2698",
+    "nom": "ECHAPPEE VERTE",
+    "lieu": "Cesson (77)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/cesson-77/225071227/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Emménagement immédiat",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "ECHAPPEE VERTE Cesson Du 3 pièces au 4 pièces à partir de 213 000 € Ascenseur Digicode Emménagement immédiat - Devenez propriétaire maintenant et emménagez cet été ! Achat exclusivement en résidence principale. Découvrez L'Échappée Verte à Cesson. Située dans la nouvelle ZAC de [...]",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "livraison_immediate"
+    ]
+  },
+  {
+    "id": "ac18bb2478ed3b2c",
+    "nom": "LES IRIS",
+    "lieu": "Massy (91)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/massy-91/254827959/#m=classified_search_results_classified_detail_top_position",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "LES IRIS Massy Du 2 pièces au 4 pièces à partir de 227 000 € Terrasse Proposé par VINCI IMMOBILIER PROMOTION Livraison 4 ème trimèstre 2028 - NOUVEAU À MASSY (91) – Dans le quartier Canopée, au plus près de la nature, VINCI Immobilier vous invite à découvrir LES IRIS, la dernière résidence réalisée ",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "9122df729fb91735",
+    "nom": "LE HAMEAU DU LAC",
+    "lieu": "Cergy (95)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/cergy-95/250938213/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "LE HAMEAU DU LAC Cergy Maisons 5 pièces à partir de 379 000 € Jardin Parking Adapté PMR Succès commercial ! Dernières opportunités disponibles Le Hameau du Lac — Maisons neuves avec jardin à Cergy Un cadre de vie verdoyant aux portes de Paris À seulement 30 km de Paris, au cœur du [...]",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "nouvelle opportunité"
+    ]
+  },
+  {
+    "id": "bf1cfed3218cdb17",
+    "nom": "QUINTESSENCE",
+    "lieu": "Drancy (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/drancy-93/251697705/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "QUINTESSENCE Drancy Du 2 pièces au 4 pièces à partir de 168 000 € Balcon Parking Ascenseur Adapté PMR Digicode Appartements neufs à Drancy (93700) Du 2 au 5 pièces aux portes de Paris Un cadre de vie privilégié à quelques minutes de la capitale Située à Drancy, la résidence QUINTESSENCE s’intègre da",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "68a7b8b994f09110",
+    "nom": "Quartier Lallier - Saison 1",
+    "lieu": "L Hay les Roses (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/l-hay-les-roses-94/234815093/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Quartier Lallier - Saison 1 L'Haÿ-les-Roses Du 2 pièces au 5 pièces à partir de 280 000 € Terrasse Balcon Ascenseur La construction de votre future résidence est lancée ! Pourquoi être locataire quand on peut être propriétaire ! Votre appartement familial à partir de 1 262 €/mois* Opportunité rare à",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "nouvelle opportunité"
+    ]
+  },
+  {
+    "id": "d52c4171424e95eb",
+    "nom": "PROGRAMME NEUF SAINT-MAUR-DES-FOSSES",
+    "lieu": "Saint Maur des Fosses (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-maur-des-fosses-94/240475193/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "PROGRAMME NEUF SAINT-MAUR-DES-FOSSES Saint-Maur-des-Fossés Du studio au 5 pièces à partir de 260 000 € Terrasse Balcon Digicode Appartements neufs à Saint-Maur-des-Fossés. Vous recherchez un appartement neuf à Saint-Maur-des-Fossés alliant confort, modernité et emplacement stratégique ? Dans le cadr",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "39007d84b795e057",
+    "nom": "Les Aviatrices (Elise, Amélia, Caroline)",
+    "lieu": "Longjumeau (91)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/longjumeau-91/273841315/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Les Aviatrices (Elise, Amélia, Caroline) Longjumeau Du 2 pièces au 5 pièces à partir de 121 000 € Terrasse Balcon Parking Ascenseur Adapté PMR FRAIS DE NOTAIRE OFFERTS LONGJUMEAU, une ville connectée aux portes de Paris A seulement 19 kms au sud de Paris, Longjumeau bénéficie d'une situation privilé",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "frais_offerts"
+    ]
+  },
+  {
+    "id": "d603b13487ee7d97",
+    "nom": "Résidence Innova",
+    "lieu": "Gif sur Yvette (91)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/gif-sur-yvette-91/268129803/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Résidence Innova Gif-sur-Yvette Appartement 3 pièces 274 000 € Parking La résidence se situe à Gif-sur-Yvette, dans un environnement privilégié alliant qualité de vie, nature et accessibilité. Elle bénéficie d'une excellente desserte avec la future gare « Orsay-Gif » de [...]",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "e0bce7a4044ad126",
+    "nom": "SO HERITAGE",
+    "lieu": "Saint Ouen (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-ouen-93/247447147/#m=classified_search_results_classified_detail_top_position",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "SO HERITAGE Saint-Ouen Du studio au 4 pièces à partir de 254 637 € Balcon Parking Proposé par NEXITY VENEZ VISITER nos appartements décorés ! VIVEZ L'HERITAGE DANS LE VILLAGE DES ATHLETES Venez visiter sur rendez vous des logements d'exceptions neufs aux prestations de standings situés dans le [...]",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "eb84a98860b57963",
+    "nom": "Domaine Rosalind Franklin",
+    "lieu": "Fresnes (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/fresnes-94/268079857/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Avant-première",
+    "statut": "avant-première",
+    "date_publication": null,
+    "extrait": "Domaine Rosalind Franklin Fresnes Du studio au 4 pièces à partir de 138 200 € Jardin Parking La résidence se situe à Fresnes, dans un environnement résidentiel en plein développement, offrant un cadre de vie agréable et connecté aux commodités du quotidien. En avant-première, elle propose [...]",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "avant-première"
+    ]
+  },
+  {
+    "id": "ec1778fb40f6914c",
+    "nom": "LE QUATORZE",
+    "lieu": "Thiais (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/thiais-94/270807163/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Lancement commercial",
+    "statut": "lancement commercial",
+    "date_publication": null,
+    "extrait": "Lancement commercial LE QUATORZE Thiais Du studio au 4 pièces à partir de 182 000 € Jardin Terrasse Balcon Parking Proposé par MARIGNAN NOUVEAU à Thiais ! Soyez parmi les premiers à choisir votre appartement neuf avec espace extérieur. Idéalement située au coeur du quartier de la Belle Épine, cette ",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "lancement commercial"
+    ]
+  },
+  {
+    "id": "d3b94ab29580fef2",
+    "nom": "PROXIMITÉ MAIRIE - FONTENAY-SOUS-BOIS",
+    "lieu": "Fontenay sous Bois (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/fontenay-sous-bois-94/281849539/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "PROXIMITÉ MAIRIE - FONTENAY-SOUS-BOIS Fontenay-sous-Bois Du 2 pièces au 3 pièces à partir de 324 000 € Terrasse Balcon Ascenseur Adapté PMR Digicode RÉSIDENCE NEUVE – DU T2 AU T3 À FONTENAY-SOUS-BOIS À Fontenay-sous-Bois, découvrez une résidence neuve dans un environnement résidentiel recherché, à p",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "66c4be435accfe5f",
+    "nom": "DU NOUVEAUX À NANTERRE - APPARTEMENTS DU T2 AU T4",
+    "lieu": "Nanterre (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/nanterre-92/281852787/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "DU NOUVEAUX À NANTERRE - APPARTEMENTS DU T2 AU T4 Nanterre Du 2 pièces au 4 pièces à partir de 291 000 € Terrasse Balcon Ascenseur Adapté PMR RÉSIDENCE NEUVE – DU T2 AU T4 À NANTERRE À Nanterre, découvrez une résidence neuve au cœur d'un secteur dynamique, offrant un cadre de vie pratique et une exc",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "6ca7ca000f114368",
+    "nom": "RÉSIDENCE AGATHE - LLI",
+    "lieu": "Le Blanc Mesnil (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/le-blanc-mesnil-93/281946693/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "RÉSIDENCE AGATHE - LLI Le Blanc-Mesnil Appartements 3 pièces à partir de 270 417 € Jardin Terrasse Balcon Parking Box LLI : l'immobilier qui coche toutes les cases Un appartement T3 neuf au Blanc-Mesnil. Une ville dynamique aux portes de Paris. Une demande locative soutenue et un cadre fiscal [...]",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "d8bed478a98a84b1",
+    "nom": "L'Orée du Parc",
+    "lieu": "Carrieres sous Poissy (78)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/carrieres-sous-poissy-78/276408435/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Lancement commercial",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale Lancement commercial L'Orée du Parc Carrières-sous-Poissy Du studio au 5 pièces à partir de 158 000 € Balcon Parking Proposé par FAIR PROMOTION GRAND LANCEMENT LE 3 OCTOBRE 2026 ! Profitez de prix maîtrisés* et des frais de notaire OFFERTS* ! Votre 2 pièces à partir de 199 000 euros T",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "nouvelle opportunité",
+      "frais_offerts"
+    ]
+  },
+  {
+    "id": "37f1ea7ad3a516cc",
+    "nom": "L'Ecrin du Perreux",
+    "lieu": "Le Perreux sur Marne (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/le-perreux-sur-marne-94/265131619/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Lancement commercial",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale Lancement commercial L'Ecrin du Perreux Le Perreux-sur-Marne Du studio au 4 pièces à partir de 229 900 € Balcon Parking Proposé par LES NOUVEAUX CONSTRUCTEURS OFFRE EXCEPTIONNELLE : FRAIS DE NOTAIRE OFFERTS*Devenez propriétaire de votre 2 pièces à partir de 967euros/mois* ! Cette nouv",
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "nouvelle opportunité",
+      "frais_offerts"
+    ]
+  },
+  {
+    "id": "ecad4d186eca289b",
+    "nom": "L'Orfèvre",
+    "lieu": "L'Orfèvre - Clamart (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/clamart-programme-lorfevre-208643-11586.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "L'Orfèvre - Clamart (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "5bfa70f83e41771f",
+    "nom": "Aori",
+    "lieu": "Aori - Meudon (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meudon-programme-aori-211785-8598.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Aori - Meudon (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "b07e7c9a9f2e4a78",
+    "nom": "Solen",
+    "lieu": "Solen - Meudon (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meudon-programme-solen-216804-8598.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Solen - Meudon (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "e7b59869bb748d8f",
+    "nom": "Vue en Scène",
+    "lieu": "Vue en Scène - Meudon (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meudon-programme-vue-en-scene-214595-361.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Vue en Scène - Meudon (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "04b65da903637f2d",
+    "nom": "Vue en Scene",
+    "lieu": "Vue en Scene - Meudon (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meudon-programme-vue-en-scene-215202-295.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Vue en Scene - Meudon (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "211910ce481bfc66",
+    "nom": "Chrome",
+    "lieu": "Chrome - Meudon (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meudon-programme-chrome-213620-8598.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Chrome - Meudon (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "2ae92f18920c9dd0",
+    "nom": "Jolie Seine",
+    "lieu": "Jolie Seine - Mantes-la-Jolie (78)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/mantes-la-jolie-programme-jolie-seine-216813-11707.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Jolie Seine - Mantes-la-Jolie (78)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "8d8bc908df0db273",
+    "nom": "Prochainement",
+    "lieu": "Prochainement - Mantes-la-Jolie (78)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/mantes-la-jolie-programme-prochainement-217731-672.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Prochainement - Mantes-la-Jolie (78)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "219194d79619f72c",
+    "nom": "Villas Gassicourt",
+    "lieu": "Villas Gassicourt - Mantes-la-Jolie (78)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/mantes-la-jolie-programme-villas-gassicourt-217671-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Villas Gassicourt - Mantes-la-Jolie (78)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "0479ff213cb1c517",
+    "nom": "Dans le Quartier de Gassicourt",
+    "lieu": "uartier de Gassicourt - Mantes-la-Jolie (78)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/mantes-la-jolie-programme-dans-le-quartier-de-gassicourt-218972-5891.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Dans le Quartier de Gassicourt - Mantes-la-Jolie (78)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "aa0daf4e3e5a3b06",
+    "nom": "Carré Péri",
+    "lieu": "Carré Péri - Gennevilliers (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/gennevilliers-programme-carre-peri-216815-11035.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Carré Péri - Gennevilliers (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "e9cc96114ccbc70a",
+    "nom": "Le 28 Camélinat",
+    "lieu": "Le 28 Camélinat - Gennevilliers (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/gennevilliers-programme-le-28-camelinat-215515-11707.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Le 28 Camélinat - Gennevilliers (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "78da8702e9a6a87d",
+    "nom": "Hana",
+    "lieu": "Hana - Gennevilliers (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/gennevilliers-programme-hana-210123-11636.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Hana - Gennevilliers (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "9dffc4bef0dc7ac4",
+    "nom": "Replay",
+    "lieu": "Replay - Gennevilliers (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/gennevilliers-programme-replay-201189-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Replay - Gennevilliers (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "7c9687948af249ec",
+    "nom": "Boklair",
+    "lieu": "Boklair - Rosny-sous-Bois (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/rosny-sous-bois-programme-boklair-215095-771.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Boklair - Rosny-sous-Bois (93)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "5b3a075545dfac4b",
+    "nom": "Villa Leclerc",
+    "lieu": "Villa Leclerc - Rosny-sous-Bois (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/rosny-sous-bois-programme-villa-leclerc-201267-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Villa Leclerc - Rosny-sous-Bois (93)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "e7fcfbd2b7ffd6ca",
+    "nom": "Clos Saint-Louis Acte 2",
+    "lieu": "- Ilots 4 et 5 - Saint-Germain-en-Laye (78)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-germain-en-laye-programme-clos-saint-louis-acte-2-ilots-4-et-5-218874-672.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Clos Saint-Louis Acte 2 - Ilots 4 et 5 - Saint-Germain-en-Laye (78)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "00a12b3a26a1679a",
+    "nom": "Villa Riva",
+    "lieu": "Villa Riva - Saint-Germain-en-Laye (78)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-germain-en-laye-programme-villa-riva-190990-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Villa Riva - Saint-Germain-en-Laye (78)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "e2a63f2ba6bad681",
+    "nom": "Clos Saint-Louis",
+    "lieu": "sidence Désoyer - Saint-Germain-en-Laye (78)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-germain-en-laye-programme-clos-saint-louis-acte-i-residence-desoyer-218875-672.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Clos Saint-Louis - Acte I - Résidence Désoyer - Saint-Germain-en-Laye (78)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "2ef02f8a933d88fd",
+    "nom": "Clos Saint-Louis",
+    "lieu": "idences Ourches - Saint-Germain-en-Laye (78)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-germain-en-laye-programme-clos-saint-louis-acte-iv-residences-ourches-218873-672.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Clos Saint-Louis - Acte IV - Résidences Ourches - Saint-Germain-en-Laye (78)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "11e71082e1f5d436",
+    "nom": "Le Jardin des Carmes",
+    "lieu": "rdin des Carmes - Saint-Germain-en-Laye (78)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-germain-en-laye-programme-le-jardin-des-carmes-218114-13179.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Le Jardin des Carmes - Saint-Germain-en-Laye (78)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "f03a71dfadf6ddd2",
+    "nom": "Clos Saint-Louis Acte 3",
+    "lieu": "Acte 3 - Ilot 9 - Saint-Germain-en-Laye (78)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-germain-en-laye-programme-clos-saint-louis-acte-3-ilot-9-218909-672.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Clos Saint-Louis Acte 3 - Ilot 9 - Saint-Germain-en-Laye (78)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "65dc20ad13dd3f9d",
+    "nom": "Jordaan District",
+    "lieu": "Jordaan District - Puteaux (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-jordaan-district-213650-5891.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Jordaan District - Puteaux (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "a97a2f02fa80d763",
+    "nom": "Terrasses Belles Vues",
+    "lieu": "Terrasses Belles Vues - Puteaux (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-terrasses-belles-vues-214984-5891.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Terrasses Belles Vues - Puteaux (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "2572f9566a3573ea",
+    "nom": "Victoria's Village",
+    "lieu": "Victoria's Village - Puteaux (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-victorias-village-210602-5891.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Victoria's Village - Puteaux (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "a405192e13cfaf91",
+    "nom": "Villa Sakura",
+    "lieu": "Villa Sakura - Puteaux (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-villa-sakura-217719-5891.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Villa Sakura - Puteaux (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "e73cf7fee0e2e996",
+    "nom": "Quai de Dion-Bouton",
+    "lieu": "Quai de Dion-Bouton - Puteaux (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-quai-de-dion-bouton-209346-11202.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Quai de Dion-Bouton - Puteaux (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "597066ffe6af6830",
+    "nom": "Wallace",
+    "lieu": "Wallace - Puteaux (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-wallace-213169-8355.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Wallace - Puteaux (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "a35684eb2363315c",
+    "nom": "Villa Collin",
+    "lieu": "Villa Collin - Puteaux (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-villa-collin-209624-5891.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Villa Collin - Puteaux (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "7c64f0601ab64af6",
+    "nom": "Villa Marius",
+    "lieu": "Villa Marius - Puteaux (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-villa-marius-218164-13179.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Villa Marius - Puteaux (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "91e3d569713b695b",
+    "nom": "Villa Majesty",
+    "lieu": "Villa Majesty - Puteaux (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-villa-majesty-203502-5891.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Villa Majesty - Puteaux (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "a2695b1a07bd8df7",
+    "nom": "Prochainement à Puteaux",
+    "lieu": "Prochainement à Puteaux - Puteaux (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-prochainement-a-puteaux-218850-11202.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Prochainement à Puteaux - Puteaux (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "d522268125ab70c3",
+    "nom": "Jardin Cézanne",
+    "lieu": "Jardin Cézanne - Corbeil-Essonnes (91)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/corbeil-essonnes-programme-jardin-cezanne-218086-13179.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Jardin Cézanne - Corbeil-Essonnes (91)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "ebd17df928effc67",
+    "nom": "Atelier Gauguin",
+    "lieu": "Atelier Gauguin - Corbeil-Essonnes (91)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/corbeil-essonnes-programme-atelier-gauguin-218672-13179.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Atelier Gauguin - Corbeil-Essonnes (91)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "1ff6e6b24ae9b2e8",
+    "nom": "So Green",
+    "lieu": "So Green - Corbeil-Essonnes (91)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/corbeil-essonnes-programme-so-green-173125-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "So Green - Corbeil-Essonnes (91)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "4246fbdda4e0471f",
+    "nom": "Le Jardin d'Aurea",
+    "lieu": "Le Jardin d'Aurea - Livry-Gargan (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/livry-gargan-programme-le-jardin-daurea-218673-13179.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Le Jardin d'Aurea - Livry-Gargan (93)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "abff5bb5091f311e",
+    "nom": "Green Harmony",
+    "lieu": "Green Harmony - Livry-Gargan (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/livry-gargan-programme-green-harmony-215321-29.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Green Harmony - Livry-Gargan (93)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "739a9300d2b40f28",
+    "nom": "Le Village des Rosiers",
+    "lieu": "lage des Rosiers - Saint-Ouen-sur-Seine (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-ouen-sur-seine-programme-le-village-des-rosiers-167398-771.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Le Village des Rosiers - Saint-Ouen-sur-Seine (93)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "40c5fc3156ddaa2f",
+    "nom": "Mundo",
+    "lieu": "Mundo - Saint-Ouen-sur-Seine (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-ouen-sur-seine-programme-mundo-202700-8598.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Mundo - Saint-Ouen-sur-Seine (93)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "87c9fa0357a81315",
+    "nom": "So 2024 Saint-Ouen-sur-Seine",
+    "lieu": "t-Ouen-sur-Seine - Saint-Ouen-sur-Seine (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-ouen-sur-seine-programme-so-2024-saint-ouen-sur-seine-211603-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "So 2024 Saint-Ouen-sur-Seine - Saint-Ouen-sur-Seine (93)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "edad6efc071110a8",
+    "nom": "Le Rivage",
+    "lieu": "Le Rivage - Saint-Ouen-sur-Seine (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-ouen-sur-seine-programme-le-rivage-215432-12154.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Le Rivage - Saint-Ouen-sur-Seine (93)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "fed6c6ee0777e351",
+    "nom": "So Heritage",
+    "lieu": "So Heritage - Saint-Ouen-sur-Seine (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-ouen-sur-seine-programme-so-heritage-214422-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "So Heritage - Saint-Ouen-sur-Seine (93)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "dd40c9d06f2e6d86",
+    "nom": "Linéa Parc",
+    "lieu": "Linéa Parc - Noisy-le-Sec (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/noisy-le-sec-programme-linea-parc-218176-13179.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Linéa Parc - Noisy-le-Sec (93)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "c430227c86c3eb1b",
+    "nom": "Nouvelle Résidence",
+    "lieu": "Nouvelle Résidence - Noisy-le-Sec (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/noisy-le-sec-programme-nouvelle-residence-218897-361.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Nouvelle Résidence - Noisy-le-Sec (93)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "098389021664b264",
+    "nom": "Osmoz",
+    "lieu": "Osmoz - Noisy-le-Sec (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/noisy-le-sec-programme-osmoz-218266-13179.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Osmoz - Noisy-le-Sec (93)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "9af61b2ebd82c84f",
+    "nom": "89 Brement",
+    "lieu": "89 Brement - Noisy-le-Sec (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/noisy-le-sec-programme-89-brement-214762-295.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "89 Brement - Noisy-le-Sec (93)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "08a47bac2f7dbd63",
+    "nom": "Les Terrasses Flammarion",
+    "lieu": "Les Terrasses Flammarion - Melun (77)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/melun-programme-les-terrasses-flammarion-213564-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Les Terrasses Flammarion - Melun (77)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "64e05997e93d9af5",
+    "nom": "Les Allées du Bois",
+    "lieu": "Les Allées du Bois - Tva 7% - Melun (77)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/melun-programme-les-allees-du-bois-tva-7-217851-29.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Les Allées du Bois - Tva 7% - Melun (77)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "9fe52d6ccac732fe",
+    "nom": "Chromatic",
+    "lieu": "Chromatic - Melun (77)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/melun-programme-chromatic-217964-13179.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Chromatic - Melun (77)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "4ed86cacf329771e",
+    "nom": "Serenova",
+    "lieu": "Serenova - Melun (77)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/melun-programme-serenova-210484-361.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Serenova - Melun (77)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "22722c22e67cdb19",
+    "nom": "Green Line",
+    "lieu": "Green Line - Bagneux (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bagneux-programme-green-line-205000-771.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Green Line - Bagneux (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "d3df440df517bd71",
+    "nom": "Virtuo",
+    "lieu": "Virtuo - Bagneux (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bagneux-programme-virtuo-213174-8355.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Virtuo - Bagneux (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "1a3f0ea12f9b225f",
+    "nom": "Upside",
+    "lieu": "Upside - Bagneux (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bagneux-programme-upside-218607-361.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Upside - Bagneux (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "bb845e0d5367a87d",
+    "nom": "Les Iris",
+    "lieu": "Les Iris - Massy (91)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/massy-programme-les-iris-215352-295.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Les Iris - Massy (91)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "6cc576e23153be37",
+    "nom": "Reminiscence",
+    "lieu": "Reminiscence - Massy (91)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/massy-programme-reminiscence-195044-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Reminiscence - Massy (91)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "13b2e43ef2a3ee30",
+    "nom": "Le Patterson",
+    "lieu": "Le Patterson - Massy (91)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/massy-programme-le-patterson-217209-8355.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Le Patterson - Massy (91)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "8b0867bb0b7088c0",
+    "nom": "Reminiscence",
+    "lieu": "Reminiscence - Massy (91)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/massy-programme-reminiscence-193807-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Reminiscence - Massy (91)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "24950f35d4826b46",
+    "nom": "Urban Eden",
+    "lieu": "Urban Eden - Massy (91)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/massy-programme-urban-eden-201583-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Urban Eden - Massy (91)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "e19b9b0d1b742a5d",
+    "nom": "Gravure",
+    "lieu": "Gravure - Montrouge (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/montrouge-programme-gravure-218134-13179.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Gravure - Montrouge (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "96d73e1470d6703d",
+    "nom": "8 Clos",
+    "lieu": "8 Clos - Montrouge (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/montrouge-programme-8-clos-217026-11035.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "8 Clos - Montrouge (92)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "91d5328891fdc843",
+    "nom": "Arbor & Home",
+    "lieu": "Arbor & Home - Gagny (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/gagny-programme-arbor-home-205013-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Arbor & Home - Gagny (93)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
+    "origine": "catalogue",
+    "enrichi": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "b24d1916a1da82a4",
+    "nom": "Villa Mare",
+    "lieu": "Villa Mare - Gagny (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/gagny-programme-villa-mare-215493-672.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Villa Mare - Gagny (93)",
+    "source": "Trouver un logement neuf",
+    "promoteur": "à identifier",
+    "contacts": [],
+    "detecte_le": "2026-10-13T14:26+00:00",
     "origine": "catalogue",
     "enrichi": false,
     "tags": [

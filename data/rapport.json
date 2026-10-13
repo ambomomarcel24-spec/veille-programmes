@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-13T12:01+00:00",
+  "date": "2026-10-13T14:26+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -26,16 +26,16 @@
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/91/",
-      "liens_programme": 40,
+      "liens_programme": 42,
       "hors_idf": 0,
-      "idf": 20
+      "idf": 21
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/92/",
-      "liens_programme": 42,
+      "liens_programme": 6,
       "hors_idf": 0,
-      "idf": 21
+      "idf": 3
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -62,11 +62,11 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2700,
-      "deja_connues": 750,
-      "lues": 149,
-      "idf": 50,
-      "sans_localisation": 99,
-      "echec": 1
+      "deja_connues": 899,
+      "lues": 150,
+      "idf": 62,
+      "sans_localisation": 88,
+      "echec": 0
     },
     {
       "source": "Nexity",
@@ -213,8 +213,8 @@
   ],
   "fiches_relues": 60,
   "enrichissement": {
-    "ok": 64,
-    "echec_telechargement": 2,
+    "ok": 60,
+    "echec_telechargement": 23,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -225,22 +225,33 @@
       {
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bezons-95/281106861/#m=classified_search_results_classified_detail_top_position",
         "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/bezons-95/281106861/#m=classified_search_results_classified_detail_top_"
+      },
+      {
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/stains-93/265131691/#m=classified_search_results_classified_detail_top_position",
+        "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/stains-93/265131691/#m=classified_search_results_classified_detail_top_"
+      },
+      {
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/colombes-92/223090289/#m=classified_search_results_classified_classified_detail_S",
+        "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/colombes-92/223090289/#m=classified_search_results_classified_classifie"
+      },
+      {
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classified_detail_S",
+        "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classi"
       }
     ],
     "sites": {
-      "interrogés": 8,
+      "interrogés": 7,
       "pages_lues": 9,
       "avec_mail": 0,
       "sans_page": [
-        "https://www.lnc.fr",
-        "https://lnc.fr",
+        "https://www.eiffage-immobilier.com",
         "https://www.nexity.fr",
-        "https://www.eiffage-immobilier.com"
+        "https://lnc.fr"
       ]
     }
   },
-  "fiches_a_relire": 15,
-  "nouvelles_fiches": 52,
-  "alertes_en_attente": 27,
+  "fiches_a_relire": 202,
+  "nouvelles_fiches": 83,
+  "alertes_en_attente": 48,
   "echec_mail": true
 }

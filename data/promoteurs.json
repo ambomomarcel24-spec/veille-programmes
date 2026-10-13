@@ -152,7 +152,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T12:01+00:00",
+    "maj": "2026-10-13T14:26+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -213,7 +213,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:13+00:00",
+    "maj": "2026-10-13T14:35+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -280,7 +280,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:14+00:00",
+    "maj": "2026-10-13T14:38+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -329,7 +329,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:12+00:00",
+    "maj": "2026-10-13T14:37+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -365,7 +365,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T12:01+00:00",
+    "maj": "2026-10-13T14:26+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -383,7 +383,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T12:01+00:00",
+    "maj": "2026-10-13T14:26+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -420,7 +420,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:01+00:00",
+    "maj": "2026-10-13T14:26+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -438,7 +438,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T12:01+00:00",
+    "maj": "2026-10-13T14:26+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -462,7 +462,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T12:01+00:00",
+    "maj": "2026-10-13T14:26+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -685,7 +685,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:15+00:00",
+    "maj": "2026-10-13T14:37+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -800,7 +800,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:13+00:00",
+    "maj": "2026-10-13T14:37+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -945,7 +945,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:15+00:00",
+    "maj": "2026-10-13T14:37+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -963,7 +963,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T12:01+00:00",
+    "maj": "2026-10-13T14:26+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -981,7 +981,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T12:01+00:00",
+    "maj": "2026-10-13T14:26+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -1042,7 +1042,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:01+00:00",
+    "maj": "2026-10-13T14:26+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -2201,12 +2201,36 @@
         "lieu": "Tandem - Meaux (77)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meaux-programme-tandem-214170-8598.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Time",
+        "lieu": "Time - Saint-Denis (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-denis-programme-time-209373-8598.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villa Nymphea",
+        "lieu": "Villa Nymphea - Argenteuil (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/argenteuil-programme-villa-nymphea-209251-8598.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "23 Petrelle",
+        "lieu": "23 Petrelle - Paris 9ème (75)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/paris-9eme-programme-23-petrelle-208511-8598.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Beau Chemin",
+        "lieu": "Beau Chemin - Nanterre (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/nanterre-programme-beau-chemin-209908-8598.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:14+00:00",
+    "maj": "2026-10-13T14:35+00:00",
     "type": "promoteur"
   },
   "sas-capi": {
@@ -2242,7 +2266,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:13+00:00",
+    "maj": "2026-10-13T14:38+00:00",
     "type": "promoteur"
   },
   "bnp-paribas-real-estate": {
@@ -2332,7 +2356,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:14+00:00",
+    "maj": "2026-10-13T14:38+00:00",
     "type": "promoteur"
   },
   "quartus": {
@@ -2374,7 +2398,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:12+00:00",
+    "maj": "2026-10-13T14:35+00:00",
     "type": "promoteur"
   },
   "demathieu-bard-immobilier": {
@@ -2404,7 +2428,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:14+00:00",
+    "maj": "2026-10-13T14:34+00:00",
     "type": "promoteur"
   },
   "ogic": {
@@ -2435,12 +2459,18 @@
         "lieu": "Botany - Aubervilliers (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/aubervilliers-programme-botany-214631-11035.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Jardins en Seine",
+        "lieu": "Jardins en Seine - Vitry-sur-Seine (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/vitry-sur-seine-programme-jardins-en-seine-217748-11035.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T11:52+00:00",
+    "maj": "2026-10-13T14:37+00:00",
     "type": "promoteur"
   },
   "bouygues-immobilier-national": {
@@ -2537,12 +2567,30 @@
         "lieu": "Parc Horizons - Le Blanc Mesnil (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-blanc-mesnil-programme-parc-horizons-218028-13179.html",
         "statut": "autre"
+      },
+      {
+        "nom": "15ème Merveille",
+        "lieu": "15ème Merveille - Paris 15ème (75)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/paris-15eme-programme-15eme-merveille-218092-13179.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Plurielles",
+        "lieu": "Plurielles - Paris / Colombes (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/colombes-programme-plurielles-218038-13179.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Arche Vive",
+        "lieu": "Arche Vive - Asnières-sur-Seine (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/asnieres-sur-seine-programme-arche-vive-217951-13179.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:15+00:00",
+    "maj": "2026-10-13T14:37+00:00",
     "type": "promoteur"
   },
   "interconstruction-amenagement": {
@@ -2609,13 +2657,19 @@
         "lieu": "Le Perreux sur Marne (94)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/le-perreux-sur-marne-94/265035865/#m=classified_search_results_classified_classified_detail_S",
         "statut": "autre"
+      },
+      {
+        "nom": "Évidence",
+        "lieu": "Évidence - Aulnay-sous-Bois (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/aulnay-sous-bois-programme-evidence-212364-29.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf",
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T12:08+00:00",
+    "maj": "2026-10-13T14:38+00:00",
     "type": "commercialisateur"
   },
   "vinci-immobilier-promotion": {
@@ -2652,12 +2706,36 @@
         "lieu": "Square Foch - Meaux (77)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meaux-programme-square-foch-204707-295.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Apogee",
+        "lieu": "Apogee - Saint-Denis (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-denis-programme-apogee-202344-295.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Paris 18",
+        "lieu": "Paris 18 - Paris 18ème (75)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/paris-18eme-programme-paris-18-218340-295.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Plurielles",
+        "lieu": "Plurielles - Paris / Colombes (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/colombes-programme-plurielles-209575-295.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le Clos Chagall",
+        "lieu": "Le Clos Chagall - Aulnay-sous-Bois (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/aulnay-sous-bois-programme-le-clos-chagall-218678-295.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:14+00:00",
+    "maj": "2026-10-13T14:38+00:00",
     "type": "promoteur"
   },
   "kaufman-et-broad": {
@@ -2688,12 +2766,18 @@
         "lieu": "Les Jardins Kléber - Pantin (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/pantin-programme-les-jardins-kleber-212623-361.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Koya",
+        "lieu": "Koya - Paris / Courbevoie (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/courbevoie-programme-koya-213468-361.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:14+00:00",
+    "maj": "2026-10-13T14:37+00:00",
     "type": "promoteur"
   },
   "edouard-denis": {
@@ -2718,6 +2802,24 @@
       "Trouver un logement neuf"
     ],
     "maj": "2026-10-13T12:14+00:00",
+    "type": "promoteur"
+  },
+  "lelievre-immobilier": {
+    "nom": "Lelievre Immobilier",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Les Jardins de Galleron",
+        "lieu": "Les Jardins de Galleron - Paris 20ème (75)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/paris-20eme-programme-les-jardins-de-galleron-205308-12801.html",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "Trouver un logement neuf"
+    ],
+    "maj": "2026-10-13T14:34+00:00",
     "type": "promoteur"
   }
 }
