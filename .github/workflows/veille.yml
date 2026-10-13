@@ -15,6 +15,7 @@ concurrency:
 jobs:
   veille:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
@@ -39,5 +40,7 @@ jobs:
           git add data docs
           if ! git diff --staged --quiet; then
             git commit -m "Mise à jour de la veille"
+            # Le dépôt a pu être modifié entre-temps (README, page) : on rejoue nos données par-dessus.
+            git pull --rebase -X theirs origin main
             git push
           fi
