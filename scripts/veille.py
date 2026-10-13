@@ -430,32 +430,36 @@ def main():
                 item["origine"] = "catalogue" if premier_passage else "alerte"
                 ajouts.append(item)
 
-    alertes = [f for f in ajouts if f["origine"] == "alerte"]
-    print(f"{len(ajouts)} nouvelle(s) fiche(s) enregistrée(s), dont {len(alertes)} déclenchent un mail.")
-
-    echec_mail = False
-    if alertes:
-        sujet = f"[Veille] {len(alertes)} nouveau(x) programme(s) en Île-de-France"
-        html, texte = construire_mail(alertes)
-        if not send_mail(sujet, html, texte):
-            # Les alertes ne sont pas enregistrées : elles seront retentées au passage suivant.
-            echec_mail = True
-            ajouts = [f for f in ajouts if f["origine"] != "alerte"]
-
     for cle, valeur in marques_vues.items():
         seen.setdefault(cle, valeur)
     for f in ajouts:
         seen[f["id"]] = {"detecte_le": f["detecte_le"]}
+        if f["origine"] == "alerte":
+            f["alerte_envoyee"] = False
         programmes.append(f)
 
+    # Alertes pas encore envoyées : les nouvelles et celles d'un passage précédent dont le mail a échoué.
+    en_attente = [p for p in programmes if p.get("origine") == "alerte" and not p.get("alerte_envoyee")]
+    print(f"{len(ajouts)} nouvelle(s) fiche(s) enregistrée(s), {len(en_attente)} alerte(s) à envoyer.")
+    echec_mail = False
+    if en_attente:
+        sujet = f"[Veille] {len(en_attente)} nouveau(x) programme(s) en Île-de-France"
+        html, texte = construire_mail(en_attente)
+        if send_mail(sujet, html, texte):
+            for p in en_attente:
+                p["alerte_envoyee"] = True
+        else:
+            # Les données sont tout de même enregistrées ; le mail sera retenté au passage suivant.
+            echec_mail = True
+
     rapport["nouvelles_fiches"] = len(ajouts)
-    rapport["alertes_envoyees"] = 0 if echec_mail else len(alertes)
+    rapport["alertes_en_attente"] = len(en_attente)
     rapport["echec_mail"] = echec_mail
     save_json(os.path.join(DATA_DIR, "rapport.json"), rapport)
     save_json(os.path.join(DATA_DIR, "seen.json"), seen)
     save_json(os.path.join(DATA_DIR, "programmes.json"), programmes)
     save_json(os.path.join(DOCS_DIR, "programmes.json"), programmes)
-    return 1 if echec_mail else 0
+    return 0
 
 
 if __name__ == "__main__":
