@@ -36,7 +36,7 @@ Dans le dépôt : **Settings → Secrets and variables → Actions → New repos
 
 | Nom | Valeur |
 |---|---|
-| `BREVO_API_KEY` | `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` |
+| `BREVO_API_KEY` | la clé API Brevo (ne jamais l'écrire dans ce fichier) |
 | `MAIL_TO` | `marcel.ambomo@flyingforyou.fr` |
 | `MAIL_FROM` | `ambomo.marcel24@gmail.com` |
 
