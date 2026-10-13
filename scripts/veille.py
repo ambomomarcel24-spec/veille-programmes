@@ -372,10 +372,12 @@ def chercher_contacts_site(site, cache):
     p = urlparse(site)
     domaine = p.netloc.removeprefix("www.")
     trouves = []
+    pages_lues = 0
     for url in [site + "/"] + [site + c for c in PAGES_CONTACT]:
         html = telecharger(url)
         if not html:
             continue
+        pages_lues += 1
         for adresse in EMAIL_RE.findall(html):
             adresse = adresse.lower()
             local, _, dom = adresse.partition("@")
@@ -385,6 +387,13 @@ def chercher_contacts_site(site, cache):
         if trouves:
             break
     cache[site] = trouves
+    bilan = DIAGNOSTIC.setdefault("sites", {"interrogés": 0, "pages_lues": 0, "avec_mail": 0, "sans_page": []})
+    bilan["interrogés"] += 1
+    bilan["pages_lues"] += pages_lues
+    if trouves:
+        bilan["avec_mail"] += 1
+    elif pages_lues == 0 and len(bilan["sans_page"]) < 10:
+        bilan["sans_page"].append(site)
     return trouves
 
 
