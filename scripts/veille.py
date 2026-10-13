@@ -372,6 +372,7 @@ def main():
         print("Premier passage : enregistrement de la référence initiale, sans envoi de mail.")
 
     maintenant = now_iso()
+    rapport = {"date": maintenant, "premier_passage": premier_passage, "sources": []}
     ajouts = []          # fiches nouvelles à enregistrer
     alertes = []         # fiches nouvelles qui déclenchent un mail
     marques_vues = {}    # clés lues (même hors IDF) pour ne pas les relire
@@ -388,6 +389,7 @@ def main():
             for url_plan in source["pages"]:
                 fiches, lues, stats = trouver_catalogue(url_plan, seen)
                 print(f"  {url_plan} : {stats}")
+                rapport["sources"].append({"source": source["nom"], "page": url_plan, **stats})
                 for cle in lues:
                     marques_vues[cle] = {"detecte_le": maintenant}
                 for f in fiches:
@@ -403,12 +405,14 @@ def main():
             html = telecharger(url_page)
             if not html:
                 print(f"  page non lue : {url_page}")
+                rapport["sources"].append({"source": source["nom"], "page": url_page, "non_lue": True})
                 continue
             if fmt == "liste":
                 trouves, stats = trouver_listing(url_page, html)
             else:
                 trouves, stats = trouver_promoteur(url_page, html, mots)
             print(f"  {url_page} : {len(html)} caractères, {stats}")
+            rapport["sources"].append({"source": source["nom"], "page": url_page, **stats})
 
             for item in trouves:
                 if item["id"] in seen or item["id"] in ids_vus:
@@ -444,6 +448,10 @@ def main():
         seen[f["id"]] = {"detecte_le": f["detecte_le"]}
         programmes.append(f)
 
+    rapport["nouvelles_fiches"] = len(ajouts)
+    rapport["alertes_envoyees"] = 0 if echec_mail else len(alertes)
+    rapport["echec_mail"] = echec_mail
+    save_json(os.path.join(DATA_DIR, "rapport.json"), rapport)
     save_json(os.path.join(DATA_DIR, "seen.json"), seen)
     save_json(os.path.join(DATA_DIR, "programmes.json"), programmes)
     save_json(os.path.join(DOCS_DIR, "programmes.json"), programmes)
