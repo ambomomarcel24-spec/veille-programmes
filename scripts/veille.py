@@ -78,6 +78,9 @@ session = requests.Session()
 session.headers["User-Agent"] = USER_AGENT
 _robots = {}
 _derniere_requete = {}
+DERNIERE_ERREUR = {"texte": ""}
+DIAGNOSTIC = {"ok": 0, "echec_telechargement": 0, "sans_promoteur": 0, "exemples_sans_promoteur": [],
+              "erreurs": []}
 
 
 # --- Accès aux sites -------------------------------------------------------------------------
@@ -110,6 +113,7 @@ def telecharger(url):
         r.raise_for_status()
     except requests.RequestException as e:
         print(f"  erreur sur {url} : {e}")
+        DERNIERE_ERREUR["texte"] = f"{type(e).__name__}: {str(e)[:160]}"
         return None
     return r.text
 
@@ -411,10 +415,24 @@ def enrichir(item, registre, cache_contacts, portail_domaine):
     """Relit la fiche pour trouver le promoteur, son site et son mail générique."""
     html = telecharger(item["lien"])
     if not html:
+        DIAGNOSTIC["echec_telechargement"] += 1
+        if DERNIERE_ERREUR["texte"] and len(DIAGNOSTIC["erreurs"]) < 5:
+            DIAGNOSTIC["erreurs"].append({"lien": item["lien"], "erreur": DERNIERE_ERREUR["texte"]})
         return False
     soup = BeautifulSoup(html, "html.parser")
     texte = normaliser(soup.get_text(" "))
     nom = extraire_promoteur(soup, texte)
+    if not nom:
+        DIAGNOSTIC["sans_promoteur"] += 1
+        if len(DIAGNOSTIC["exemples_sans_promoteur"]) < 3:
+            indice = re.search(r"(vendu|propos|vendeur|promoteur|commercialis|réalis)", texte, re.IGNORECASE)
+            debut = max(0, indice.start() - 120) if indice else 0
+            DIAGNOSTIC["exemples_sans_promoteur"].append({
+                "lien": item["lien"], "longueur_texte": len(texte),
+                "extrait": texte[debut:debut + 300],
+            })
+    else:
+        DIAGNOSTIC["ok"] += 1
     cle = cle_promoteur(nom) if nom else None
     site = None
     if nom:
@@ -562,6 +580,7 @@ def main():
         if enrichir(item, registre, cache_contacts, domaine):
             relues += 1
     rapport["fiches_relues"] = relues
+    rapport["enrichissement"] = DIAGNOSTIC
     rapport["fiches_a_relire"] = len([p for p in programmes + ajouts if not p.get("enrichi")])
 
     for cle, valeur in marques_vues.items():
