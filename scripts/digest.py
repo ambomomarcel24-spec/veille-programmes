@@ -21,7 +21,12 @@ def main(forcer=False):
 
     programmes = load_json(os.path.join(DATA_DIR, "programmes.json"), [])
     limite = datetime.now(timezone.utc) - timedelta(days=7)
-    semaine = [p for p in programmes if datetime.fromisoformat(p["detecte_le"]) >= limite]
+    # Seules les fiches découvertes après le premier passage comptent pour la semaine ;
+    # le catalogue (programmes déjà en vente au moment du premier passage) n'y figure pas.
+    semaine = [
+        p for p in programmes
+        if p.get("origine") == "alerte" and datetime.fromisoformat(p["detecte_le"]) >= limite
+    ]
     semaine.sort(key=lambda p: p["detecte_le"], reverse=True)
 
     if not semaine:

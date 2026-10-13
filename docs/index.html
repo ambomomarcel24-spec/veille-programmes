@@ -14,6 +14,7 @@
     --accent: #0b6e4f;
     --nouveau: #0b6e4f;
     --passe: #8a6d1d;
+    --catalogue: #4a5a78;
   }
   * { box-sizing: border-box; }
   body {
@@ -23,78 +24,37 @@
     color: var(--texte);
     line-height: 1.5;
   }
-  header {
-    max-width: 960px;
-    margin: 0 auto;
-    padding: 28px 20px 8px;
-  }
+  header { max-width: 960px; margin: 0 auto; padding: 28px 20px 8px; }
   h1 { font-size: 1.6rem; margin: 0 0 4px; }
   .sous-titre { color: var(--discret); margin: 0 0 20px; }
-  .barre {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 12px;
-  }
+  .barre { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between; margin-bottom: 12px; }
   .periodes { display: inline-flex; border: 1px solid var(--bordure); border-radius: 10px; overflow: hidden; background: var(--carte); }
-  .periodes button {
-    border: 0;
-    background: transparent;
-    padding: 9px 14px;
-    font: inherit;
-    cursor: pointer;
-    color: var(--discret);
-  }
+  .periodes button { border: 0; background: transparent; padding: 9px 14px; font: inherit; cursor: pointer; color: var(--discret); }
   .periodes button[aria-pressed="true"] { background: var(--accent); color: #fff; }
   input[type="search"] {
-    flex: 1;
-    min-width: 220px;
-    max-width: 360px;
-    padding: 10px 12px;
-    border: 1px solid var(--bordure);
-    border-radius: 10px;
-    font: inherit;
-    background: var(--carte);
+    flex: 1; min-width: 220px; max-width: 360px; padding: 10px 12px;
+    border: 1px solid var(--bordure); border-radius: 10px; font: inherit; background: var(--carte);
   }
   .stats { color: var(--discret); font-size: .95rem; margin: 8px 0 20px; }
   main { max-width: 960px; margin: 0 auto; padding: 0 20px 48px; }
   .grille { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); }
   .carte {
-    background: var(--carte);
-    border: 1px solid var(--bordure);
-    border-radius: 14px;
-    padding: 16px 18px;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+    background: var(--carte); border: 1px solid var(--bordure); border-radius: 14px;
+    padding: 16px 18px; display: flex; flex-direction: column; gap: 10px;
   }
   .carte-haut { display: flex; justify-content: space-between; gap: 10px; align-items: flex-start; }
   .carte h2 { font-size: 1.05rem; margin: 0; }
-  .badge {
-    font-size: .75rem;
-    font-weight: 600;
-    padding: 3px 9px;
-    border-radius: 999px;
-    white-space: nowrap;
-    color: #fff;
-  }
+  .badge { font-size: .75rem; font-weight: 600; padding: 3px 9px; border-radius: 999px; white-space: nowrap; color: #fff; }
   .badge.nouveau { background: var(--nouveau); }
   .badge.passe { background: var(--passe); }
+  .badge.catalogue { background: var(--catalogue); }
   dl { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; font-size: .92rem; }
   dt { color: var(--discret); }
   dd { margin: 0; word-break: break-word; }
   .absent { color: var(--discret); font-style: italic; }
+  .mention { font-weight: 600; color: var(--accent); }
   .actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: auto; padding-top: 4px; }
-  .actions a, .actions button {
-    font: inherit;
-    font-size: .9rem;
-    border-radius: 8px;
-    padding: 7px 11px;
-    cursor: pointer;
-    text-decoration: none;
-  }
+  .actions a, .actions button { font: inherit; font-size: .9rem; border-radius: 8px; padding: 7px 11px; cursor: pointer; text-decoration: none; }
   .actions a { color: var(--accent); border: 1px solid var(--accent); background: transparent; }
   .actions button { color: #fff; background: var(--accent); border: 1px solid var(--accent); }
   .vide { text-align: center; color: var(--discret); padding: 40px 10px; background: var(--carte); border: 1px dashed var(--bordure); border-radius: 14px; }
@@ -104,8 +64,8 @@
 </head>
 <body>
 <header>
-  <h1>Nouveaux programmes neufs en Île-de-France</h1>
-  <p class="sous-titre">Programmes repérés sur les sites des promoteurs et portails du neuf.</p>
+  <h1>Programmes neufs en Île-de-France</h1>
+  <p class="sous-titre">Programmes repérés chaque jour sur les portails du neuf. Les nouveautés sont marquées « Nouveau » pendant 7 jours.</p>
   <div class="barre">
     <div class="periodes" role="group" aria-label="Période">
       <button type="button" data-periode="7" aria-pressed="false">7 derniers jours</button>
@@ -121,11 +81,13 @@
 </main>
 
 <footer>
-  Mise à jour automatique toutes les heures. La date affichée est celle de publication lorsque le site l'indique, sinon la date de détection.
+  Mise à jour chaque jour. « Catalogue » = programme déjà en vente repéré lors de la mise en place de la veille ;
+  « Nouveau » / « Passé » = programme découvert après la mise en place, selon sa date de détection (ou de publication
+  quand le site l'indique). Les fiches « Catalogue » restent visibles quelle que soit la période choisie.
 </footer>
 
 <script>
-  // Données publiées par le workflow « Veille programmes » (même dossier que cette page).
+  // Données publiées par le workflow « Veille programmes » (dossier docs/).
   const DONNEES = "programmes.json";
   const JOUR = 86400000;
 
@@ -144,6 +106,10 @@
     return e;
   }
 
+  function estCatalogue(p) {
+    return p.origine === "catalogue";
+  }
+
   function dateDeReference(p) {
     return p.date_publication ? new Date(p.date_publication + "T12:00:00") : new Date(p.detecte_le);
   }
@@ -152,20 +118,30 @@
     return (Date.now() - dateDeReference(p).getTime()) / JOUR;
   }
 
+  function estNouveau(p) {
+    return !estCatalogue(p) && ageEnJours(p) <= 7;
+  }
+
   function formaterDate(p) {
     const suffixe = p.date_publication ? "" : " (détecté)";
     return dateDeReference(p).toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" }) + suffixe;
   }
 
-  function ligne(liste, libelle, valeur) {
-    const dd = el("dd");
+  function ligne(liste, libelle, valeur, classe) {
+    const dd = el("dd", classe ? { class: classe } : {});
     if (valeur instanceof Node) dd.append(valeur);
     else dd.textContent = valeur;
     liste.append(el("dt", { text: libelle }), dd);
   }
 
+  function badge(p) {
+    if (estCatalogue(p)) return el("span", { class: "badge catalogue", text: "Catalogue" });
+    return estNouveau(p)
+      ? el("span", { class: "badge nouveau", text: "Nouveau" })
+      : el("span", { class: "badge passe", text: "Passé" });
+  }
+
   function carte(p) {
-    const nouveau = ageEnJours(p) <= 7;
     const contacts = p.contacts || [];
 
     const contactEl = el("span");
@@ -181,8 +157,10 @@
     const infos = el("dl");
     ligne(infos, "Lieu", p.lieu);
     ligne(infos, "Promoteur", p.promoteur);
+    if (p.mention) ligne(infos, "Mention", p.mention, "mention");
     ligne(infos, "Date", formaterDate(p));
     ligne(infos, "Contact", contactEl);
+    if (p.source) ligne(infos, "Portail", p.source);
 
     const actions = el("div", { class: "actions" });
     actions.append(el("a", { href: p.lien, target: "_blank", rel: "noopener", text: "Voir la source" }));
@@ -201,10 +179,7 @@
     }
 
     return el("article", { class: "carte" },
-      el("div", { class: "carte-haut" },
-        el("h2", { text: p.nom }),
-        el("span", { class: "badge " + (nouveau ? "nouveau" : "passe"), text: nouveau ? "Nouveau" : "Passé" })
-      ),
+      el("div", { class: "carte-haut" }, el("h2", { text: p.nom }), badge(p)),
       infos,
       actions
     );
@@ -213,9 +188,13 @@
   function visibles() {
     const q = recherche.trim().toLowerCase();
     return tous
-      .filter((p) => ageEnJours(p) <= periode)
-      .filter((p) => !q || [p.nom, p.lieu, p.promoteur].some((c) => (c || "").toLowerCase().includes(q)))
-      .sort((a, b) => dateDeReference(b) - dateDeReference(a));
+      .filter((p) => estCatalogue(p) || ageEnJours(p) <= periode)
+      .filter((p) => !q || [p.nom, p.lieu, p.promoteur, p.source].some((c) => (c || "").toLowerCase().includes(q)))
+      .sort((a, b) => {
+        // Les nouveautés d'abord, puis par date décroissante.
+        if (estNouveau(a) !== estNouveau(b)) return estNouveau(a) ? -1 : 1;
+        return dateDeReference(b) - dateDeReference(a);
+      });
   }
 
   function rendre() {
@@ -223,17 +202,17 @@
     const zone = document.getElementById("liste");
     zone.replaceChildren();
 
-    const nouveaux = liste.filter((p) => ageEnJours(p) <= 7).length;
-    const passes = liste.length - nouveaux;
+    const nouveaux = liste.filter(estNouveau).length;
+    const catalogue = liste.filter(estCatalogue).length;
     document.getElementById("stats").textContent =
-      `${liste.length} programme(s) · ${nouveaux} nouveau(x) · ${passes} passé(s)`;
+      `${liste.length} programme(s) · ${nouveaux} nouveau(x) · ${catalogue} au catalogue`;
 
     if (!tous.length) {
-      zone.append(el("div", { class: "vide", text: "Aucun programme pour le moment. Les nouveaux apparaîtront ici dès leur détection." }));
+      zone.append(el("div", { class: "vide", text: "Aucun programme pour le moment. Les nouveautés apparaîtront ici dès leur détection." }));
       return;
     }
     if (!liste.length) {
-      zone.append(el("div", { class: "vide", text: "Aucun programme ne correspond à cette période ou à cette recherche." }));
+      zone.append(el("div", { class: "vide", text: "Aucun programme ne correspond à cette recherche." }));
       return;
     }
     liste.forEach((p) => zone.append(carte(p)));

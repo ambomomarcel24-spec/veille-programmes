@@ -1,74 +1,146 @@
 [
   {
+    "nom": "SeLoger Neuf (Île-de-France)",
+    "type": "portail",
+    "format": "liste",
+    "actif": true,
+    "pages": [
+      "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/75/",
+      "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/77/",
+      "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/78/",
+      "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/91/",
+      "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/92/",
+      "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/93/",
+      "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/94/",
+      "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/95/"
+    ]
+  },
+  {
+    "nom": "Trouver un logement neuf",
+    "type": "portail",
+    "format": "catalogue",
+    "actif": true,
+    "pages": [
+      "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt"
+    ]
+  },
+  {
     "nom": "Nexity",
     "type": "promoteur",
     "actif": true,
-    "pages": ["https://www.nexity.fr/", "https://www.nexity.fr/programmes"]
+    "pages": [
+      "https://www.nexity.fr/",
+      "https://www.nexity.fr/programmes"
+    ],
+    "format": "promoteur"
   },
   {
     "nom": "Bouygues Immobilier",
     "type": "promoteur",
     "actif": true,
-    "pages": ["https://www.bouygues-immobilier.com/", "https://www.bouygues-immobilier.com/programmes"]
+    "pages": [
+      "https://www.bouygues-immobilier.com/",
+      "https://www.bouygues-immobilier.com/programmes"
+    ],
+    "format": "promoteur"
   },
   {
     "nom": "Kaufman & Broad",
     "type": "promoteur",
     "actif": true,
-    "pages": ["https://www.kaufmanbroad.fr/", "https://www.kaufmanbroad.fr/programmes"]
+    "pages": [
+      "https://www.kaufmanbroad.fr/",
+      "https://www.kaufmanbroad.fr/programmes"
+    ],
+    "format": "promoteur"
   },
   {
     "nom": "Vinci Immobilier",
     "type": "promoteur",
     "actif": true,
-    "pages": ["https://www.vinci-immobilier.com/", "https://www.vinci-immobilier.com/programmes"]
+    "pages": [
+      "https://www.vinci-immobilier.com/",
+      "https://www.vinci-immobilier.com/programmes"
+    ],
+    "format": "promoteur"
   },
   {
     "nom": "Icade Promotion",
     "type": "promoteur",
     "actif": true,
-    "pages": ["https://www.icade.fr/", "https://www.icade.fr/programmes"]
+    "pages": [
+      "https://www.icade.fr/",
+      "https://www.icade.fr/programmes"
+    ],
+    "format": "promoteur"
   },
   {
     "nom": "Emerige",
     "type": "promoteur",
     "actif": true,
-    "pages": ["https://www.emerige.com/", "https://www.emerige.com/programmes"]
+    "pages": [
+      "https://www.emerige.com/",
+      "https://www.emerige.com/programmes"
+    ],
+    "format": "promoteur"
   },
   {
     "nom": "Sogeprom",
     "type": "promoteur",
     "actif": true,
-    "pages": ["https://www.sogeprom.com/", "https://www.sogeprom.com/programmes"]
+    "pages": [
+      "https://www.sogeprom.com/",
+      "https://www.sogeprom.com/programmes"
+    ],
+    "format": "promoteur"
   },
   {
     "nom": "Cogedim",
     "type": "promoteur",
     "actif": true,
-    "pages": ["https://www.cogedim.com/", "https://www.cogedim.com/programmes"]
+    "pages": [
+      "https://www.cogedim.com/",
+      "https://www.cogedim.com/programmes"
+    ],
+    "format": "promoteur"
   },
   {
     "nom": "Bouwfonds Marignan",
     "type": "promoteur",
     "actif": true,
-    "pages": ["https://www.bouwfonds-marignan.fr/", "https://www.bouwfonds-marignan.fr/programmes"]
+    "pages": [
+      "https://www.bouwfonds-marignan.fr/",
+      "https://www.bouwfonds-marignan.fr/programmes"
+    ],
+    "format": "promoteur"
   },
   {
     "nom": "Pichet",
     "type": "promoteur",
     "actif": true,
-    "pages": ["https://www.pichet.fr/", "https://www.pichet.fr/programmes"]
+    "pages": [
+      "https://www.pichet.fr/",
+      "https://www.pichet.fr/programmes"
+    ],
+    "format": "promoteur"
   },
   {
     "nom": "Edelis",
     "type": "promoteur",
     "actif": true,
-    "pages": ["https://www.edelis.fr/", "https://www.edelis.fr/programmes"]
+    "pages": [
+      "https://www.edelis.fr/",
+      "https://www.edelis.fr/programmes"
+    ],
+    "format": "promoteur"
   },
   {
     "nom": "Immobilier-neuf.com",
-    "type": "portail",
+    "type": "promoteur",
     "actif": true,
-    "pages": ["https://www.immobilier-neuf.com/"]
+    "pages": [
+      "https://www.immobilier-neuf.com/"
+    ],
+    "format": "promoteur"
   }
 ]

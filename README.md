@@ -3,7 +3,8 @@
 Surveille les sites de promoteurs et de portails du neuf, repère les nouveaux programmes
 (« nouveauté », « avant-première », « exclusivité »…), et envoie :
 
-- **un mail dès qu'un nouveau programme est détecté** (au plus une fois par heure, et seulement s'il y a du nouveau) ;
+- **chaque jour**, le robot relève les programmes publiés sur les portails (SeLoger Neuf par département, et le plan du site de Trouver un logement neuf) et ne garde que l'Île-de-France ;
+- **un mail dès qu'une nouvelle fiche apparaît** sur SeLoger Neuf (au plus une fois par jour, et seulement s'il y a du nouveau) ;
 - **un récapitulatif chaque vendredi à 15h** (heure de Paris) avec tous les programmes détectés dans la semaine.
 
 Une page web listant les programmes est publiée via GitHub Pages.
@@ -14,7 +15,7 @@ Une page web listant les programmes est publiée via GitHub Pages.
 |---|---|
 | `config/sources.json` | Liste des promoteurs et portails surveillés (ajoutez-y un site en copiant un bloc). |
 | `config/keywords.json` | Mots-clés de détection (déclencheurs et mots liés aux programmes). |
-| `scripts/veille.py` | Parcourt les sites, détecte les nouveautés, envoie l'alerte. Tourne toutes les heures. |
+| `scripts/veille.py` | Relève les programmes IDF sur les portails, enregistre les nouveautés, envoie l'alerte. Tourne chaque jour. |
 | `scripts/digest.py` | Envoie le récapitulatif du vendredi à 15h (heure de Paris). |
 | `data/programmes.json` | Historique des programmes détectés. |
 | `data/seen.json` | Identifiants déjà traités, pour ne jamais envoyer deux fois la même alerte. |
@@ -52,6 +53,9 @@ les programmes déjà en ligne **sans envoyer de mail** (sinon vous recevriez de
 
 ## Limites à connaître
 
+- **Premier passage = catalogue.** Les programmes déjà en vente au premier passage sont classés « Catalogue » et n'envoient pas de mail.
+- **Le plan du site de Trouver un logement neuf** est lu au rythme de 150 fiches par jour, pour rester raisonnable : le catalogue complet se constitue sur plusieurs jours.
+- **SeLoger Neuf** : seule la première page de chaque département est lue (21 programmes). Une nouvelle fiche plus loin dans la liste ne sera pas détectée.
 - **Les sites changent de structure.** Les pages listées dans `sources.json` sont des suppositions à valider au premier lancement :
   si une page ne donne rien, ajustez son adresse ou retirez-la. Les logs de l'onglet Actions indiquent les erreurs.
 - **Les sites très dynamiques** (chargés par JavaScript) ne livrent pas leur contenu au robot. Ils seront à suivre à la main.
