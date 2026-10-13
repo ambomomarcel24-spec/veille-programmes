@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-13T10:39+00:00",
+  "premier_passage": false,
+  "sources": [
+    {
+      "source": "SeLoger Neuf (Île-de-France)",
+      "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/75/",
+      "liens_programme": 42,
+      "hors_idf": 0,
+      "idf": 21
+    },
+    {
+      "source": "SeLoger Neuf (Île-de-France)",
+      "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/77/",
+      "liens_programme": 42,
+      "hors_idf": 0,
+      "idf": 21
+    },
+    {
+      "source": "SeLoger Neuf (Île-de-France)",
+      "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/78/",
+      "liens_programme": 42,
+      "hors_idf": 0,
+      "idf": 21
+    },
+    {
+      "source": "SeLoger Neuf (Île-de-France)",
+      "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/91/",
+      "liens_programme": 40,
+      "hors_idf": 0,
+      "idf": 20
+    },
+    {
+      "source": "SeLoger Neuf (Île-de-France)",
+      "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/92/",
+      "liens_programme": 42,
+      "hors_idf": 0,
+      "idf": 21
+    },
+    {
+      "source": "SeLoger Neuf (Île-de-France)",
+      "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/93/",
+      "liens_programme": 42,
+      "hors_idf": 0,
+      "idf": 21
+    },
+    {
+      "source": "SeLoger Neuf (Île-de-France)",
+      "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/94/",
+      "liens_programme": 42,
+      "hors_idf": 0,
+      "idf": 21
+    },
+    {
+      "source": "SeLoger Neuf (Île-de-France)",
+      "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/95/",
+      "liens_programme": 42,
+      "hors_idf": 0,
+      "idf": 21
+    },
+    {
+      "source": "Trouver un logement neuf",
+      "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
+      "urls_dans_plan": 2700,
+      "deja_connues": 150,
+      "lues": 150,
+      "idf": 0,
+      "sans_localisation": 150,
+      "echec": 0
+    },
+    {
+      "source": "Nexity",
+      "page": "https://www.nexity.fr/",
+      "non_lue": true
+    },
+    {
+      "source": "Nexity",
+      "page": "https://www.nexity.fr/programmes",
+      "non_lue": true
+    },
+    {
+      "source": "Bouygues Immobilier",
+      "page": "https://www.bouygues-immobilier.com/",
+      "blocs": 114,
+      "avec_declencheur": 2,
+      "avec_mot_programme": 2,
+      "avec_localisation": 0
+    },
+    {
+      "source": "Bouygues Immobilier",
+      "page": "https://www.bouygues-immobilier.com/programmes",
+      "non_lue": true
+    },
+    {
+      "source": "Kaufman & Broad",
+      "page": "https://www.kaufmanbroad.fr/",
+      "non_lue": true
+    },
+    {
+      "source": "Kaufman & Broad",
+      "page": "https://www.kaufmanbroad.fr/programmes",
+      "non_lue": true
+    },
+    {
+      "source": "Vinci Immobilier",
+      "page": "https://www.vinci-immobilier.com/",
+      "blocs": 164,
+      "avec_declencheur": 14,
+      "avec_mot_programme": 14,
+      "avec_localisation": 0
+    },
+    {
+      "source": "Vinci Immobilier",
+      "page": "https://www.vinci-immobilier.com/programmes",
+      "non_lue": true
+    },
+    {
+      "source": "Icade Promotion",
+      "page": "https://www.icade.fr/",
+      "blocs": 32,
+      "avec_declencheur": 0,
+      "avec_mot_programme": 0,
+      "avec_localisation": 0
+    },
+    {
+      "source": "Icade Promotion",
+      "page": "https://www.icade.fr/programmes",
+      "non_lue": true
+    },
+    {
+      "source": "Emerige",
+      "page": "https://www.emerige.com/",
+      "blocs": 117,
+      "avec_declencheur": 0,
+      "avec_mot_programme": 0,
+      "avec_localisation": 0
+    },
+    {
+      "source": "Emerige",
+      "page": "https://www.emerige.com/programmes",
+      "non_lue": true
+    },
+    {
+      "source": "Sogeprom",
+      "page": "https://www.sogeprom.com/",
+      "blocs": 52,
+      "avec_declencheur": 5,
+      "avec_mot_programme": 5,
+      "avec_localisation": 0
+    },
+    {
+      "source": "Sogeprom",
+      "page": "https://www.sogeprom.com/programmes",
+      "non_lue": true
+    },
+    {
+      "source": "Cogedim",
+      "page": "https://www.cogedim.com/",
+      "blocs": 122,
+      "avec_declencheur": 0,
+      "avec_mot_programme": 0,
+      "avec_localisation": 0
+    },
+    {
+      "source": "Cogedim",
+      "page": "https://www.cogedim.com/programmes",
+      "non_lue": true
+    },
+    {
+      "source": "Bouwfonds Marignan",
+      "page": "https://www.bouwfonds-marignan.fr/",
+      "non_lue": true
+    },
+    {
+      "source": "Bouwfonds Marignan",
+      "page": "https://www.bouwfonds-marignan.fr/programmes",
+      "non_lue": true
+    },
+    {
+      "source": "Pichet",
+      "page": "https://www.pichet.fr/",
+      "blocs": 244,
+      "avec_declencheur": 10,
+      "avec_mot_programme": 10,
+      "avec_localisation": 0
+    },
+    {
+      "source": "Pichet",
+      "page": "https://www.pichet.fr/programmes",
+      "non_lue": true
+    },
+    {
+      "source": "Edelis",
+      "page": "https://www.edelis.fr/",
+      "blocs": 0,
+      "avec_declencheur": 0,
+      "avec_mot_programme": 0,
+      "avec_localisation": 0
+    },
+    {
+      "source": "Edelis",
+      "page": "https://www.edelis.fr/programmes",
+      "non_lue": true
+    },
+    {
+      "source": "Immobilier-neuf.com",
+      "page": "https://www.immobilier-neuf.com/",
+      "blocs": 7,
+      "avec_declencheur": 0,
+      "avec_mot_programme": 0,
+      "avec_localisation": 0
+    }
+  ],
+  "nouvelles_fiches": 7,
+  "alertes_en_attente": 7,
+  "echec_mail": true
+}
