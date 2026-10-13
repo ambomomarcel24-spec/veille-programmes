@@ -12,88 +12,104 @@
     --discret: #6b706a;
     --bordure: #e2e4df;
     --accent: #0b6e4f;
-    --nouveau: #0b6e4f;
-    --passe: #8a6d1d;
-    --catalogue: #4a5a78;
+    --autre: #6b706a;
   }
   * { box-sizing: border-box; }
-  body {
-    margin: 0;
-    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-    background: var(--fond);
-    color: var(--texte);
-    line-height: 1.5;
-  }
-  header { max-width: 960px; margin: 0 auto; padding: 28px 20px 8px; }
+  body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background: var(--fond); color: var(--texte); line-height: 1.5; }
+  header, main, footer { max-width: 1040px; margin: 0 auto; padding-left: 20px; padding-right: 20px; }
+  header { padding-top: 26px; }
   h1 { font-size: 1.6rem; margin: 0 0 4px; }
-  .sous-titre { color: var(--discret); margin: 0 0 20px; }
-  .barre { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between; margin-bottom: 12px; }
-  .periodes { display: inline-flex; border: 1px solid var(--bordure); border-radius: 10px; overflow: hidden; background: var(--carte); }
-  .periodes button { border: 0; background: transparent; padding: 9px 14px; font: inherit; cursor: pointer; color: var(--discret); }
-  .periodes button[aria-pressed="true"] { background: var(--accent); color: #fff; }
-  input[type="search"] {
-    flex: 1; min-width: 220px; max-width: 360px; padding: 10px 12px;
-    border: 1px solid var(--bordure); border-radius: 10px; font: inherit; background: var(--carte);
-  }
-  .stats { color: var(--discret); font-size: .95rem; margin: 8px 0 20px; }
-  main { max-width: 960px; margin: 0 auto; padding: 0 20px 48px; }
-  .grille { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); }
-  .carte {
-    background: var(--carte); border: 1px solid var(--bordure); border-radius: 14px;
-    padding: 16px 18px; display: flex; flex-direction: column; gap: 10px;
-  }
+  .sous-titre { color: var(--discret); margin: 0 0 18px; }
+  a { color: var(--accent); }
+  .onglets { display: inline-flex; border: 1px solid var(--bordure); border-radius: 10px; overflow: hidden; background: var(--carte); margin-bottom: 16px; }
+  .onglets button { border: 0; background: transparent; padding: 10px 18px; font: inherit; cursor: pointer; color: var(--discret); }
+  .onglets button[aria-selected="true"] { background: var(--accent); color: #fff; }
+  .barre { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 12px; }
+  input[type="search"] { flex: 1; min-width: 220px; max-width: 380px; padding: 10px 12px; border: 1px solid var(--bordure); border-radius: 10px; font: inherit; background: var(--carte); }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+  .chips button { border: 1px solid var(--bordure); background: var(--carte); border-radius: 999px; padding: 6px 12px; font: inherit; font-size: .9rem; cursor: pointer; color: var(--texte); }
+  .chips button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .stats { color: var(--discret); font-size: .95rem; margin: 6px 0 16px; }
+  .grille { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+  .carte { background: var(--carte); border: 1px solid var(--bordure); border-radius: 14px; padding: 16px 18px; display: flex; flex-direction: column; gap: 10px; }
   .carte-haut { display: flex; justify-content: space-between; gap: 10px; align-items: flex-start; }
   .carte h2 { font-size: 1.05rem; margin: 0; }
-  .badge { font-size: .75rem; font-weight: 600; padding: 3px 9px; border-radius: 999px; white-space: nowrap; color: #fff; }
-  .badge.nouveau { background: var(--nouveau); }
-  .badge.passe { background: var(--passe); }
-  .badge.catalogue { background: var(--catalogue); }
+  .badge { font-size: .75rem; font-weight: 600; padding: 3px 9px; border-radius: 999px; white-space: nowrap; color: #fff; background: var(--autre); }
+  .statut-nouveau { background: #0b6e4f; }
+  .statut-avant-première { background: #5b3fa0; }
+  .statut-exclusivité { background: #9c2f5b; }
+  .statut-nouvelle-opportunité { background: #b35c00; }
+  .statut-lancement-commercial { background: #1d5fa7; }
   dl { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; font-size: .92rem; }
   dt { color: var(--discret); }
   dd { margin: 0; word-break: break-word; }
   .absent { color: var(--discret); font-style: italic; }
-  .mention { font-weight: 600; color: var(--accent); }
-  .actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: auto; padding-top: 4px; }
+  .actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: auto; }
   .actions a, .actions button { font: inherit; font-size: .9rem; border-radius: 8px; padding: 7px 11px; cursor: pointer; text-decoration: none; }
   .actions a { color: var(--accent); border: 1px solid var(--accent); background: transparent; }
   .actions button { color: #fff; background: var(--accent); border: 1px solid var(--accent); }
+  .promoteur { background: var(--carte); border: 1px solid var(--bordure); border-radius: 14px; padding: 16px 18px; margin-bottom: 12px; }
+  .promoteur h2 { font-size: 1.05rem; margin: 0 0 6px; }
+  .promoteur ul { margin: 8px 0 0; padding-left: 18px; font-size: .92rem; }
   .vide { text-align: center; color: var(--discret); padding: 40px 10px; background: var(--carte); border: 1px dashed var(--bordure); border-radius: 14px; }
-  footer { max-width: 960px; margin: 0 auto; padding: 0 20px 32px; color: var(--discret); font-size: .85rem; }
-  a { color: var(--accent); }
+  footer { padding-top: 6px; padding-bottom: 32px; color: var(--discret); font-size: .85rem; }
+  [hidden] { display: none !important; }
 </style>
 </head>
 <body>
 <header>
   <h1>Programmes neufs en Île-de-France</h1>
-  <p class="sous-titre">Programmes repérés chaque jour sur les portails du neuf. Les nouveautés sont marquées « Nouveau » pendant 7 jours.</p>
-  <div class="barre">
-    <div class="periodes" role="group" aria-label="Période">
-      <button type="button" data-periode="7" aria-pressed="false">7 derniers jours</button>
-      <button type="button" data-periode="30" aria-pressed="true">30 derniers jours</button>
-    </div>
-    <input id="recherche" type="search" placeholder="Rechercher un nom, une ville, un promoteur…" aria-label="Rechercher">
+  <p class="sous-titre">Veille quotidienne sur les portails du neuf, classée par statut, avec le promoteur et ses coordonnées.</p>
+  <div class="onglets" role="tablist">
+    <button type="button" role="tab" id="onglet-programmes" aria-controls="vue-programmes" aria-selected="true">Programmes</button>
+    <button type="button" role="tab" id="onglet-promoteurs" aria-controls="vue-promoteurs" aria-selected="false">Promoteurs</button>
   </div>
-  <p class="stats" id="stats"></p>
 </header>
 
 <main>
-  <div class="grille" id="liste"></div>
+  <section id="vue-programmes" role="tabpanel" aria-labelledby="onglet-programmes">
+    <div class="barre">
+      <input id="recherche-programmes" type="search" placeholder="Rechercher un programme, une ville, un promoteur…" aria-label="Rechercher un programme">
+    </div>
+    <div class="chips" id="chips-statuts" role="group" aria-label="Statut"></div>
+    <p class="stats" id="stats-programmes"></p>
+    <div class="grille" id="liste-programmes"></div>
+  </section>
+
+  <section id="vue-promoteurs" role="tabpanel" aria-labelledby="onglet-promoteurs" hidden>
+    <div class="barre">
+      <input id="recherche-promoteurs" type="search" placeholder="Rechercher un promoteur…" aria-label="Rechercher un promoteur">
+    </div>
+    <p class="stats" id="stats-promoteurs"></p>
+    <div id="liste-promoteurs"></div>
+  </section>
 </main>
 
 <footer>
-  Mise à jour chaque jour. « Catalogue » = programme déjà en vente repéré lors de la mise en place de la veille ;
-  « Nouveau » / « Passé » = programme découvert après la mise en place, selon sa date de détection (ou de publication
-  quand le site l'indique). Les fiches « Catalogue » restent visibles quelle que soit la période choisie.
+  Mise à jour chaque jour. Le statut vient des mentions affichées par les portails ; « Autre » = aucune mention.
+  Un champ vide (site ou mail) signifie qu'il n'a pas encore été trouvé : le robot le cherche aux passages suivants.
 </footer>
 
 <script>
   // Données publiées par le workflow « Veille programmes » (dossier docs/).
-  const DONNEES = "docs/programmes.json";
-  const JOUR = 86400000;
+  const FICHIER_PROGRAMMES = "docs/programmes.json";
+  const FICHIER_PROMOTEURS = "docs/promoteurs.json";
 
-  let tous = [];
-  let periode = 30;
-  let recherche = "";
+  const STATUTS = ["nouveau", "avant-première", "exclusivité", "nouvelle opportunité", "lancement commercial", "autre"];
+  const LIBELLES = {
+    "nouveau": "Nouveau",
+    "avant-première": "Avant-première",
+    "exclusivité": "Exclusivité",
+    "nouvelle opportunité": "Nouvelle opportunité",
+    "lancement commercial": "Lancement commercial",
+    "autre": "Autre",
+  };
+
+  let programmes = [];
+  let promoteurs = {};
+  let statutChoisi = "tous";
+  let rechercheProgrammes = "";
+  let recherchePromoteurs = "";
 
   function el(tag, attrs = {}, ...enfants) {
     const e = document.createElement(tag);
@@ -106,137 +122,165 @@
     return e;
   }
 
-  function estCatalogue(p) {
-    return p.origine === "catalogue";
+  function classeStatut(s) {
+    return "statut-" + (s || "autre").replace(/\s+/g, "-");
   }
 
-  function dateDeReference(p) {
-    return p.date_publication ? new Date(p.date_publication + "T12:00:00") : new Date(p.detecte_le);
+  function libelleStatut(s) {
+    return LIBELLES[s] || "Autre";
   }
 
-  function ageEnJours(p) {
-    return (Date.now() - dateDeReference(p).getTime()) / JOUR;
+  function lienSite(url) {
+    if (!url) return el("span", { class: "absent", text: "site non trouvé" });
+    return el("a", { href: url, target: "_blank", rel: "noopener", text: url.replace(/^https?:\/\//, "").replace(/\/$/, "") });
   }
 
-  function estNouveau(p) {
-    return !estCatalogue(p) && ageEnJours(p) <= 7;
+  function listeMails(mails) {
+    if (!mails || !mails.length) return el("span", { class: "absent", text: "non trouvé" });
+    const s = el("span");
+    mails.forEach((m, i) => {
+      if (i) s.append(", ");
+      s.append(el("a", { href: "mailto:" + m, text: m }));
+    });
+    return s;
   }
 
-  function formaterDate(p) {
-    const suffixe = p.date_publication ? "" : " (détecté)";
-    return dateDeReference(p).toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" }) + suffixe;
-  }
-
-  function ligne(liste, libelle, valeur, classe) {
-    const dd = el("dd", classe ? { class: classe } : {});
+  function ligne(liste, libelle, valeur) {
+    const dd = el("dd");
     if (valeur instanceof Node) dd.append(valeur);
     else dd.textContent = valeur;
     liste.append(el("dt", { text: libelle }), dd);
   }
 
-  function badge(p) {
-    if (estCatalogue(p)) return el("span", { class: "badge catalogue", text: "Catalogue" });
-    return estNouveau(p)
-      ? el("span", { class: "badge nouveau", text: "Nouveau" })
-      : el("span", { class: "badge passe", text: "Passé" });
-  }
+  // --- Onglet Programmes ---
 
-  function carte(p) {
-    const contacts = p.contacts || [];
-
-    const contactEl = el("span");
-    if (contacts.length) {
-      contacts.forEach((c, i) => {
-        if (i) contactEl.append(", ");
-        contactEl.append(el("a", { href: "mailto:" + c, text: c }));
-      });
-    } else {
-      contactEl.append(el("span", { class: "absent", text: "non trouvé : voir la fiche" }));
-    }
-
+  function carteProgramme(p) {
     const infos = el("dl");
-    ligne(infos, "Lieu", p.lieu);
-    ligne(infos, "Promoteur", p.promoteur);
-    if (p.mention) ligne(infos, "Mention", p.mention, "mention");
-    ligne(infos, "Date", formaterDate(p));
-    ligne(infos, "Contact", contactEl);
-    if (p.source) ligne(infos, "Portail", p.source);
+    ligne(infos, "Lieu", p.lieu || "");
+    ligne(infos, "Promoteur", p.promoteur && p.promoteur !== "à identifier" ? p.promoteur : "à identifier");
+    ligne(infos, "Site", lienSite(p.promoteur_site));
+    ligne(infos, "Mail", listeMails(p.contacts));
+    if (p.mention) ligne(infos, "Mention", p.mention);
+    ligne(infos, "Portail", p.source || "");
+    ligne(infos, "Repéré le", new Date(p.detecte_le).toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" }));
 
     const actions = el("div", { class: "actions" });
-    actions.append(el("a", { href: p.lien, target: "_blank", rel: "noopener", text: "Voir la source" }));
-    if (contacts.length) {
-      const bouton = el("button", { type: "button", text: "Copier le contact" });
-      bouton.addEventListener("click", async () => {
-        try {
-          await navigator.clipboard.writeText(contacts[0]);
-          bouton.textContent = "Copié ✓";
-        } catch (e) {
-          bouton.textContent = contacts[0];
-        }
-        setTimeout(() => (bouton.textContent = "Copier le contact"), 2000);
-      });
-      actions.append(bouton);
-    }
+    actions.append(el("a", { href: p.lien, target: "_blank", rel: "noopener", text: "Voir la fiche" }));
 
     return el("article", { class: "carte" },
-      el("div", { class: "carte-haut" }, el("h2", { text: p.nom }), badge(p)),
+      el("div", { class: "carte-haut" },
+        el("h2", { text: p.nom }),
+        el("span", { class: "badge " + classeStatut(p.statut), text: libelleStatut(p.statut) })),
       infos,
-      actions
-    );
+      actions);
   }
 
-  function visibles() {
-    const q = recherche.trim().toLowerCase();
-    return tous
-      .filter((p) => estCatalogue(p) || ageEnJours(p) <= periode)
+  function programmesVisibles() {
+    const q = rechercheProgrammes.trim().toLowerCase();
+    return programmes
+      .filter((p) => statutChoisi === "tous" || (p.statut || "autre") === statutChoisi)
       .filter((p) => !q || [p.nom, p.lieu, p.promoteur, p.source].some((c) => (c || "").toLowerCase().includes(q)))
       .sort((a, b) => {
-        // Les nouveautés d'abord, puis par date décroissante.
-        if (estNouveau(a) !== estNouveau(b)) return estNouveau(a) ? -1 : 1;
-        return dateDeReference(b) - dateDeReference(a);
+        const ordre = STATUTS.indexOf(a.statut || "autre") - STATUTS.indexOf(b.statut || "autre");
+        return ordre !== 0 ? ordre : (b.detecte_le || "").localeCompare(a.detecte_le || "");
       });
   }
 
-  function rendre() {
-    const liste = visibles();
-    const zone = document.getElementById("liste");
+  function dessinerChips() {
+    const zone = document.getElementById("chips-statuts");
     zone.replaceChildren();
+    const compte = (s) => programmes.filter((p) => (p.statut || "autre") === s).length;
+    const tousBtn = el("button", { type: "button", "aria-pressed": String(statutChoisi === "tous"), text: `Tous (${programmes.length})` });
+    tousBtn.addEventListener("click", () => { statutChoisi = "tous"; rendreProgrammes(); });
+    zone.append(tousBtn);
+    STATUTS.forEach((s) => {
+      const b = el("button", { type: "button", "aria-pressed": String(statutChoisi === s), text: `${LIBELLES[s]} (${compte(s)})` });
+      b.addEventListener("click", () => { statutChoisi = s; rendreProgrammes(); });
+      zone.append(b);
+    });
+  }
 
-    const nouveaux = liste.filter(estNouveau).length;
-    const catalogue = liste.filter(estCatalogue).length;
-    document.getElementById("stats").textContent =
-      `${liste.length} programme(s) · ${nouveaux} nouveau(x) · ${catalogue} au catalogue`;
-
-    if (!tous.length) {
-      zone.append(el("div", { class: "vide", text: "Aucun programme pour le moment. Les nouveautés apparaîtront ici dès leur détection." }));
+  function rendreProgrammes() {
+    dessinerChips();
+    const liste = programmesVisibles();
+    const zone = document.getElementById("liste-programmes");
+    zone.replaceChildren();
+    document.getElementById("stats-programmes").textContent =
+      `${liste.length} programme(s) affiché(s) sur ${programmes.length}`;
+    if (!programmes.length) {
+      zone.append(el("div", { class: "vide", text: "Aucun programme pour le moment. Ils apparaîtront ici dès le premier passage du robot." }));
       return;
     }
     if (!liste.length) {
-      zone.append(el("div", { class: "vide", text: "Aucun programme ne correspond à cette recherche." }));
+      zone.append(el("div", { class: "vide", text: "Aucun programme ne correspond à ce statut ou à cette recherche." }));
       return;
     }
-    liste.forEach((p) => zone.append(carte(p)));
+    liste.forEach((p) => zone.append(carteProgramme(p)));
   }
 
-  document.querySelectorAll("[data-periode]").forEach((b) => {
-    b.addEventListener("click", () => {
-      periode = Number(b.dataset.periode);
-      document.querySelectorAll("[data-periode]").forEach((x) =>
-        x.setAttribute("aria-pressed", String(x === b))
-      );
-      rendre();
-    });
-  });
+  // --- Onglet Promoteurs ---
 
-  document.getElementById("recherche").addEventListener("input", (e) => {
-    recherche = e.target.value;
-    rendre();
-  });
+  function cartePromoteur(p) {
+    const progs = (p.programmes || []);
+    const bloc = el("article", { class: "promoteur" },
+      el("h2", { text: p.nom }));
+    const infos = el("dl");
+    ligne(infos, "Site", lienSite(p.site));
+    ligne(infos, "Mail générique", listeMails(p.emails));
+    ligne(infos, "Programmes", String(progs.length));
+    bloc.append(infos);
+    if (progs.length) {
+      const ul = el("ul");
+      progs.forEach((x) => {
+        ul.append(el("li", {},
+          el("a", { href: x.lien, target: "_blank", rel: "noopener", text: x.nom }),
+          ` — ${x.lieu || ""} · ${libelleStatut(x.statut)}`));
+      });
+      bloc.append(ul);
+    }
+    return bloc;
+  }
 
-  fetch(DONNEES, { cache: "no-store" })
-    .then((r) => r.json())
-    .then((data) => { tous = data; rendre(); })
-    .catch(() => { tous = []; rendre(); });
+  function rendrePromoteurs() {
+    const q = recherchePromoteurs.trim().toLowerCase();
+    const liste = Object.values(promoteurs)
+      .filter((p) => !q || [p.nom, p.site].some((c) => (c || "").toLowerCase().includes(q)))
+      .sort((a, b) => (b.programmes || []).length - (a.programmes || []).length || a.nom.localeCompare(b.nom));
+    const zone = document.getElementById("liste-promoteurs");
+    zone.replaceChildren();
+    document.getElementById("stats-promoteurs").textContent =
+      `${liste.length} promoteur(s) référencé(s) · ${Object.values(promoteurs).filter((p) => p.site).length} avec site · ${Object.values(promoteurs).filter((p) => (p.emails || []).length).length} avec mail générique`;
+    if (!liste.length) {
+      zone.append(el("div", { class: "vide", text: "Aucun promoteur référencé pour le moment." }));
+      return;
+    }
+    liste.forEach((p) => zone.append(cartePromoteur(p)));
+  }
+
+  // --- Onglets ---
+
+  function choisirOnglet(nom) {
+    const estProgrammes = nom === "programmes";
+    document.getElementById("vue-programmes").hidden = !estProgrammes;
+    document.getElementById("vue-promoteurs").hidden = estProgrammes;
+    document.getElementById("onglet-programmes").setAttribute("aria-selected", String(estProgrammes));
+    document.getElementById("onglet-promoteurs").setAttribute("aria-selected", String(!estProgrammes));
+  }
+
+  document.getElementById("onglet-programmes").addEventListener("click", () => choisirOnglet("programmes"));
+  document.getElementById("onglet-promoteurs").addEventListener("click", () => choisirOnglet("promoteurs"));
+  document.getElementById("recherche-programmes").addEventListener("input", (e) => { rechercheProgrammes = e.target.value; rendreProgrammes(); });
+  document.getElementById("recherche-promoteurs").addEventListener("input", (e) => { recherchePromoteurs = e.target.value; rendrePromoteurs(); });
+
+  Promise.all([
+    fetch(FICHIER_PROGRAMMES, { cache: "no-store" }).then((r) => r.json()).catch(() => []),
+    fetch(FICHIER_PROMOTEURS, { cache: "no-store" }).then((r) => r.json()).catch(() => ({})),
+  ]).then(([p, pr]) => {
+    programmes = Array.isArray(p) ? p : [];
+    promoteurs = pr && typeof pr === "object" ? pr : {};
+    rendreProgrammes();
+    rendrePromoteurs();
+  });
 </script>
 </body>
 </html>
