@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-13T11:42+00:00",
+  "date": "2026-10-13T12:01+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -62,11 +62,11 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2700,
-      "deja_connues": 600,
-      "lues": 150,
-      "idf": 68,
-      "sans_localisation": 82,
-      "echec": 0
+      "deja_connues": 750,
+      "lues": 149,
+      "idf": 50,
+      "sans_localisation": 99,
+      "echec": 1
     },
     {
       "source": "Nexity",
@@ -117,7 +117,7 @@
     {
       "source": "Icade Promotion",
       "page": "https://www.icade.fr/",
-      "blocs": 33,
+      "blocs": 32,
       "avec_declencheur": 0,
       "avec_mot_programme": 0,
       "avec_localisation": 0
@@ -213,31 +213,34 @@
   ],
   "fiches_relues": 60,
   "enrichissement": {
-    "ok": 60,
-    "echec_telechargement": 4,
+    "ok": 64,
+    "echec_telechargement": 2,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
       {
-        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/le-perreux-sur-marne-94/265035865/#m=classified_search_results_classified_classified_detail_S",
-        "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/le-perreux-sur-marne-94/265035865/#m=classified_search_results_classifi"
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/chennevieres-sur-marne-94/255917371/#m=classified_search_results_classified_detail_top_position",
+        "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/chennevieres-sur-marne-94/255917371/#m=classified_search_results_classi"
       },
       {
-        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/villejuif-94/268129819/#m=classified_search_results_classified_detail_top_position",
-        "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/villejuif-94/268129819/#m=classified_search_results_classified_detail_t"
-      },
-      {
-        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/ivry-sur-seine-94/265132079/#m=classified_search_results_classified_detail_top_position",
-        "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/ivry-sur-seine-94/265132079/#m=classified_search_results_classified_det"
-      },
-      {
-        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/puteaux-92/217573091/#m=classified_search_results_classified_detail_top_position",
-        "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/puteaux-92/217573091/#m=classified_search_results_classified_detail_top"
+        "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bezons-95/281106861/#m=classified_search_results_classified_detail_top_position",
+        "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/bezons-95/281106861/#m=classified_search_results_classified_detail_top_"
       }
-    ]
+    ],
+    "sites": {
+      "interrogés": 8,
+      "pages_lues": 9,
+      "avec_mail": 0,
+      "sans_page": [
+        "https://www.lnc.fr",
+        "https://lnc.fr",
+        "https://www.nexity.fr",
+        "https://www.eiffage-immobilier.com"
+      ]
+    }
   },
-  "fiches_a_relire": 27,
-  "nouvelles_fiches": 72,
-  "alertes_en_attente": 25,
+  "fiches_a_relire": 15,
+  "nouvelles_fiches": 52,
+  "alertes_en_attente": 27,
   "echec_mail": true
 }
