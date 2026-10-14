@@ -2,7 +2,7 @@ name: Veille programmes
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # chaque jour à 6h UTC (8h ou 7h à Paris)
+    - cron: "0 * * * *"   # toutes les heures
   workflow_dispatch:       # lancement manuel possible depuis l'onglet Actions
 
 permissions:

@@ -135,6 +135,20 @@ def identifiant(*morceaux):
     return hashlib.sha1("|".join(morceaux).encode("utf-8")).hexdigest()[:16]
 
 
+def numero_programme(lien):
+    """Numéro attribué par le portail à la création de la fiche : il ne fait que croître, donc une
+    fiche dont le numéro dépasse le plus grand déjà vu est une publication nouvelle."""
+    m = re.search(r"/programme/[^/]+/(\d+)/", lien or "") or re.search(r"-(\d{5,7})-\d+\.html", lien or "")
+    return int(m.group(1)) if m else None
+
+
+def origine_nouvelle(numero, repere):
+    """« alerte » seulement pour une fiche plus récente que la dernière référence connue de la source."""
+    if repere is None or numero is None:
+        return "catalogue"
+    return "alerte" if numero > repere else "catalogue"
+
+
 def slug(texte):
     """« SEQENS ACCESSION » -> « seqens accession » (sans accents), pour comparer les noms."""
     t = unicodedata.normalize("NFKD", texte or "").encode("ascii", "ignore").decode()
@@ -339,12 +353,15 @@ def trouver_catalogue(url_sitemap, deja_connus):
 
     urls = [l.strip() for l in texte_plan.splitlines() if l.strip().startswith("http")]
     stats["urls_dans_plan"] = len(urls)
+    numeros = [numero_programme(u) or 0 for u in urls]
+    stats["numero_max"] = max(numeros) if numeros else None
     a_lire = []
     for u in urls:
         if identifiant("catalogue", u) in deja_connus:
             stats["deja_connues"] += 1
         else:
             a_lire.append(u)
+    a_lire.sort(key=lambda u: numero_programme(u) or 0, reverse=True)
 
     idf, lues = [], []
     for u in a_lire[:MAX_FICHES_CATALOGUE]:
@@ -375,6 +392,7 @@ def trouver_catalogue(url_sitemap, deja_connus):
             "statut": detecter_statut(f"{titre} {description}"),
             "date_publication": None,
             "extrait": titre[:300],
+            "numero": numero_programme(u),
         })
     return idf, lues, stats
 
@@ -592,12 +610,20 @@ def main():
     PROMOTEURS_TROUVER.update(load_json(os.path.join(CONFIG_DIR, "promoteurs_trouver.json"), {}))
 
     premier_passage = not seen
+    reperes = load_json(os.path.join(DATA_DIR, "reperes.json"), {})
+    for source in sources:  # référence initiale : le plus grand numéro déjà enregistré pour la source
+        if source["nom"] not in reperes:
+            numeros = [numero_programme(p["lien"]) for p in programmes if p.get("source") == source["nom"]]
+            numeros = [n for n in numeros if n]
+            if numeros:
+                reperes[source["nom"]] = max(numeros)
     if premier_passage:
         print("Premier passage : enregistrement de la référence initiale, sans envoi de mail.")
 
     maintenant = now_iso()
     rapport = {"date": maintenant, "premier_passage": premier_passage, "sources": []}
     ajouts, ids_vus, marques_vues = [], set(), {}
+    reperes_avant = dict(reperes)  # références du passage précédent : seules les fiches plus récentes alertent
     cache_contacts = {}
 
     for source in sources:
@@ -617,9 +643,13 @@ def main():
                     if f["id"] in ids_vus:
                         continue
                     ids_vus.add(f["id"])
+                    origine = "catalogue" if premier_passage else origine_nouvelle(
+                        f.get("numero"), reperes_avant.get(source["nom"]))
                     f.update({"source": source["nom"], "promoteur": "à identifier", "contacts": [],
-                              "detecte_le": maintenant, "origine": "catalogue", "enrichi": False})
+                              "detecte_le": maintenant, "enrichi": False, "origine": origine})
                     ajouts.append(f)
+                if stats.get("numero_max") is not None:
+                    reperes[source["nom"]] = max(reperes.get(source["nom"], 0), stats["numero_max"])
             continue
 
         for url_page in source["pages"]:
@@ -638,6 +668,9 @@ def main():
             for item in trouves:
                 if item["id"] in seen or item["id"] in ids_vus:
                     continue
+                item["numero"] = numero_programme(item["lien"])
+                if item["numero"]:
+                    reperes[source["nom"]] = max(reperes.get(source["nom"], 0), item["numero"])
                 ids_vus.add(item["id"])
                 item["source"] = source["nom"]
                 item["detecte_le"] = maintenant
@@ -652,7 +685,11 @@ def main():
                     item["contacts"] = chercher_contacts_site(site_source, cache_contacts)
                 else:
                     item["promoteur"] = "à identifier"
-                item["origine"] = "catalogue" if premier_passage else "alerte"
+                if fmt == "liste":
+                    item["origine"] = "catalogue" if premier_passage else origine_nouvelle(
+                        item["numero"], reperes_avant.get(source["nom"]))
+                else:
+                    item["origine"] = "catalogue" if premier_passage else "alerte"
                 ajouts.append(item)
 
     # Promoteur, site et mail générique des fiches pas encore relues (nouvelles d'abord).
@@ -695,6 +732,11 @@ def main():
     rapport["alertes_en_attente"] = len(en_attente)
     rapport["echec_mail"] = echec_mail
     save_json(os.path.join(DATA_DIR, "rapport.json"), rapport)
+    save_json(os.path.join(DATA_DIR, "reperes.json"), reperes)
+    save_json(os.path.join(DOCS_DIR, "miseajour.json"), {
+        "date": maintenant,
+        "nouveaux": len([f for f in ajouts if f.get("origine") == "alerte"]),
+    })
     save_json(os.path.join(DATA_DIR, "seen.json"), seen)
     save_json(os.path.join(DATA_DIR, "programmes.json"), programmes)
     save_json(os.path.join(DATA_DIR, "promoteurs.json"), registre)

@@ -21,7 +21,9 @@
   header { padding-top: 26px; }
   h1 { font-size: 1.6rem; margin: 0 0 4px; }
   h2.section { font-size: 1rem; margin: 22px 0 10px; color: var(--discret); text-transform: uppercase; letter-spacing: .04em; }
-  .sous-titre { color: var(--discret); margin: 0 0 18px; }
+  .sous-titre { color: var(--discret); margin: 0 0 8px; }
+  .maj { color: var(--discret); font-size: .88rem; margin: 0 0 18px; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+  .maj button { font: inherit; font-size: .85rem; border: 1px solid var(--accent); color: var(--accent); background: transparent; border-radius: 8px; padding: 4px 10px; cursor: pointer; }
   a { color: var(--accent); }
   .onglets { display: inline-flex; border: 1px solid var(--bordure); border-radius: 10px; overflow: hidden; background: var(--carte); margin-bottom: 16px; }
   .onglets button { border: 0; background: transparent; padding: 10px 18px; font: inherit; cursor: pointer; color: var(--discret); }
@@ -84,7 +86,8 @@
 <body>
 <header>
   <h1>Programmes neufs en Île-de-France</h1>
-  <p class="sous-titre">Veille quotidienne sur les portails du neuf, avec le promoteur (ou le commercialisateur) et ses coordonnées.</p>
+  <p class="sous-titre">Veille sur les portails du neuf, avec le promoteur (ou le commercialisateur) et ses coordonnées. Une vérification a lieu chaque heure.</p>
+  <p class="maj"><span id="maj">Chargement…</span> <button type="button" id="actualiser">Actualiser</button></p>
   <div class="onglets" role="tablist">
     <button type="button" role="tab" id="onglet-programmes" aria-controls="vue-programmes" aria-selected="true">Programmes</button>
     <button type="button" role="tab" id="onglet-promoteurs" aria-controls="vue-promoteurs" aria-selected="false">Promoteurs</button>
@@ -121,6 +124,7 @@
   // Données publiées par le workflow « Veille programmes » (dossier docs/).
   const FICHIER_PROGRAMMES = "programmes.json";
   const FICHIER_PROMOTEURS = "promoteurs.json";
+  const FICHIER_MISE_A_JOUR = "miseajour.json";
 
   const STATUTS = [
     ["nouveau", "Nouveau"],
@@ -393,24 +397,54 @@
   document.getElementById("recherche-promoteurs").addEventListener("input", (e) => { recherchePromoteurs = e.target.value; rendrePromoteurs(); });
 
   // --- Chargement ---
+  // Les données sont relues à chaque ouverture, à chaque retour sur la page et toutes les 10 minutes.
+  // La page n'est redessinée que si la veille a changé depuis le dernier chargement.
+  let dateChargee = null;
+  let dernierChargement = 0;
 
   async function charger(fichier) {
-    const r = await fetch(fichier, { cache: "no-store" });
+    const r = await fetch(fichier + "?t=" + Date.now(), { cache: "no-store" });
     if (!r.ok) throw new Error(fichier + " : " + r.status);
     return r.json();
   }
 
-  Promise.all([charger(FICHIER_PROGRAMMES), charger(FICHIER_PROMOTEURS)])
-    .then(([p, pr]) => {
+  function afficherMiseAJour(date) {
+    const quand = date
+      ? new Date(date).toLocaleString("fr-FR", { day: "numeric", month: "long", hour: "2-digit", minute: "2-digit" })
+      : "inconnue";
+    document.getElementById("maj").textContent = "Dernière vérification : " + quand;
+  }
+
+  async function actualiser() {
+    dernierChargement = Date.now();
+    try {
+      const [p, pr, maj] = await Promise.all([
+        charger(FICHIER_PROGRAMMES),
+        charger(FICHIER_PROMOTEURS),
+        charger(FICHIER_MISE_A_JOUR).catch(() => ({})),
+      ]);
+      afficherMiseAJour(maj.date);
+      if (maj.date && maj.date === dateChargee) return;
+      dateChargee = maj.date || String(Date.now());
       programmes = p;
       promoteurs = pr;
       rendreProgrammes();
       rendrePromoteurs();
-    })
-    .catch((err) => {
-      document.getElementById("liste-programmes").replaceChildren(
-        el("div", { class: "vide", text: "Les données ne peuvent pas être chargées pour le moment (" + err.message + ")." }));
-    });
+    } catch (err) {
+      document.getElementById("maj").textContent = "Données indisponibles pour le moment (" + err.message + ")";
+      if (!programmes.length) {
+        document.getElementById("liste-programmes").replaceChildren(
+          el("div", { class: "vide", text: "Les données ne peuvent pas être chargées pour le moment." }));
+      }
+    }
+  }
+
+  document.getElementById("actualiser").addEventListener("click", actualiser);
+  document.addEventListener("visibilitychange", () => {
+    if (!document.hidden && Date.now() - dernierChargement > 60 * 1000) actualiser();
+  });
+  setInterval(actualiser, 10 * 60 * 1000);
+  actualiser();
 </script>
 </body>
 </html>
