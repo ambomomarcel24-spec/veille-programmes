@@ -25,7 +25,7 @@ def main(forcer=False):
     # le catalogue (programmes déjà en vente au moment du premier passage) n'y figure pas.
     semaine = [
         p for p in programmes
-        if p.get("origine") == "alerte" and datetime.fromisoformat(p["detecte_le"]) >= limite
+        if p.get("origine") == "alerte" and not p.get("vendu") and datetime.fromisoformat(p["detecte_le"]) >= limite
     ]
     semaine.sort(key=lambda p: p["detecte_le"], reverse=True)
 

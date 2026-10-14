@@ -176,6 +176,63 @@ THEMES = load_json(os.path.join(CONFIG_DIR, "themes.json"), {})
 MOTIF_COMMERCIALISATEUR = re.compile(r"courtier|agence|consult|services immobiliers|regardneuf", re.IGNORECASE)
 
 
+# Formulations qui signalent un programme entièrement vendu (texte sans accents, en minuscules).
+VENTE_PHRASES = [
+    "tous nos lots sont vendus", "tous les lots sont vendus", "tous les logements sont vendus",
+    "tous les biens sont vendus", "entierement vendu", "programme vendu", "programme est vendu",
+    "programme complet", "vendu a 100", "complet a 100", "plus aucun lot disponible",
+    "plus aucun logement disponible", "plus de lot disponible", "plus de logement disponible",
+    "commercialisation terminee", "programme entierement commercialise", "sold out",
+]
+VERIFICATIONS_VENTE = 25  # fiches revérifiées à chaque passage pour repérer les ventes complètes
+
+
+def texte_visible(soup):
+    """Texte de la page sans les scripts ni les styles."""
+    for balise in soup(["script", "style", "noscript"]):
+        balise.decompose()
+    return normaliser(soup.get_text(" "))
+
+
+def detecter_vente(texte):
+    t = sans_accents(texte)
+    return any(phrase in t for phrase in VENTE_PHRASES)
+
+
+def verifier_ventes(programmes, maintenant):
+    """Relit quelques fiches (les moins récemment vérifiées) et marque celles qui sont entièrement vendues."""
+    stats = {"verifiees": 0, "vendus_detectes": 0}
+    candidats = [p for p in programmes
+                 if not p.get("vendu") and p.get("lien") and "selogerneuf" not in p["lien"]]
+    candidats.sort(key=lambda p: p.get("verifie_le") or "")
+    for p in candidats[:VERIFICATIONS_VENTE]:
+        html = telecharger(p["lien"])
+        p["verifie_le"] = maintenant
+        stats["verifiees"] += 1
+        if not html:
+            continue
+        if detecter_vente(texte_visible(BeautifulSoup(html, "html.parser"))):
+            p["vendu"] = True
+            p["vendu_le"] = maintenant
+            stats["vendus_detectes"] += 1
+            print(f"  programme vendu : {p['nom']} ({p.get('lieu', '')})")
+    return stats
+
+
+def appliquer_ventes_manuelles(programmes, maintenant):
+    """config/ventes.json : liste de liens de fiches ou de noms de programmes déclarés vendus à la main."""
+    marques = {m.strip().lower() for m in load_json(os.path.join(CONFIG_DIR, "ventes.json"), [])}
+    n = 0
+    for p in programmes:
+        if p.get("vendu"):
+            continue
+        if cle_fiche(p.get("lien", "")).lower() in marques or p.get("nom", "").strip().lower() in marques:
+            p["vendu"] = True
+            p["vendu_le"] = maintenant
+            n += 1
+    return n
+
+
 def etiquettes(texte):
     """Statut principal et étiquettes (statut + thèmes) d'un programme, d'après son texte."""
     statut = detecter_statut(texte)
@@ -514,6 +571,10 @@ def enrichir(item, registre, cache_contacts, portail_domaine):
     meta = soup.find("meta", attrs={"name": "description"}) or soup.find("meta", attrs={"property": "og:description"})
     texte = normaliser((meta.get("content", "") if meta else "") + " " + soup.get_text(" "))
     item["texte"] = normaliser(meta.get("content", "") if meta else "")[:600]
+    if detecter_vente(texte_visible(BeautifulSoup(html, "html.parser"))):
+        item["vendu"] = True
+        item["vendu_le"] = now_iso()
+    item["verifie_le"] = now_iso()
     nom = extraire_promoteur(soup, texte) or promoteur_par_identifiant(item["lien"])
     if not nom:
         DIAGNOSTIC["sans_promoteur"] += 1
@@ -716,7 +777,10 @@ def main():
         programmes.append(f)
 
     actualiser_programmes(programmes, registre)
-    en_attente = [p for p in programmes if p.get("origine") == "alerte" and not p.get("alerte_envoyee")]
+    rapport["ventes"] = verifier_ventes(programmes, maintenant)
+    rapport["ventes"]["declares_a_la_main"] = appliquer_ventes_manuelles(programmes, maintenant)
+    en_attente = [p for p in programmes if p.get("origine") == "alerte" and not p.get("alerte_envoyee")
+                  and not p.get("vendu")]
     print(f"{len(ajouts)} nouvelle(s) fiche(s), {relues} fiche(s) relue(s), {len(en_attente)} alerte(s) à envoyer.")
     echec_mail = False
     if en_attente:
@@ -740,8 +804,13 @@ def main():
     save_json(os.path.join(DATA_DIR, "seen.json"), seen)
     save_json(os.path.join(DATA_DIR, "programmes.json"), programmes)
     save_json(os.path.join(DATA_DIR, "promoteurs.json"), registre)
-    save_json(os.path.join(DOCS_DIR, "programmes.json"), programmes)
-    save_json(os.path.join(DOCS_DIR, "promoteurs.json"), registre)
+    publies = [p for p in programmes if not p.get("vendu")]
+    save_json(os.path.join(DOCS_DIR, "programmes.json"), publies)
+    actifs = {p.get("promoteur_cle") for p in publies}
+    publie = {cle: {**entree, "programmes": [r for r in entree.get("programmes", [])
+                                             if r["lien"] in {p["lien"] for p in publies}]}
+              for cle, entree in registre.items() if cle in actifs}
+    save_json(os.path.join(DOCS_DIR, "promoteurs.json"), publie)
     return 0
 
 

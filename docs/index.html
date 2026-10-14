@@ -36,6 +36,10 @@
   .chips button { border: 1px solid var(--bordure); background: var(--carte); border-radius: 999px; padding: 6px 12px; font: inherit; font-size: .9rem; cursor: pointer; color: var(--texte); }
   .chips button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
   .stats { color: var(--discret); font-size: .95rem; margin: 6px 0 16px; }
+  .periode { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 0 0 10px; font-size: .92rem; }
+  .periode select, .periode input { font: inherit; padding: 6px 8px; border: 1px solid var(--bordure); border-radius: 8px; background: var(--carte); }
+  .periode input[type="number"] { width: 72px; }
+  .periode button { font: inherit; font-size: .85rem; border: 1px solid var(--accent); color: var(--accent); background: transparent; border-radius: 8px; padding: 5px 10px; cursor: pointer; }
   .grille { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); }
   .carte { background: var(--carte); border: 1px solid var(--bordure); border-radius: 14px; padding: 16px 18px; display: flex; flex-direction: column; gap: 10px; }
   .carte-haut { display: flex; justify-content: space-between; gap: 10px; align-items: flex-start; }
@@ -101,6 +105,24 @@
     </div>
     <div class="chips" id="chips-statuts" role="group" aria-label="Statut"></div>
     <div class="chips themes" id="chips-themes" role="group" aria-label="Thèmes"></div>
+    <div class="periode" role="group" aria-label="Période de détection">
+      <label for="periode-mode">Repérés</label>
+      <select id="periode-mode">
+        <option value="tous">à tout moment</option>
+        <option value="jours">sur les derniers jours</option>
+        <option value="semaine">sur une semaine</option>
+        <option value="plage">entre deux dates</option>
+      </select>
+      <span id="periode-jours-bloc" hidden>
+        <input type="number" id="periode-jours" min="1" max="366" value="7" aria-label="Nombre de jours"> jours
+      </span>
+      <span id="periode-semaine-bloc" hidden>
+        <input type="week" id="periode-semaine" aria-label="Semaine"> <button type="button" id="semaine-courante">cette semaine</button>
+      </span>
+      <span id="periode-plage-bloc" hidden>
+        du <input type="date" id="periode-du" aria-label="Du"> au <input type="date" id="periode-au" aria-label="Au">
+      </span>
+    </div>
     <p class="stats" id="stats-programmes"></p>
     <div class="grille" id="liste-programmes"></div>
   </section>
@@ -117,6 +139,7 @@
 <footer>
   Mise à jour chaque jour. Le statut vient des mentions des portails ; « Sans mention » = aucun des mots-clés des statuts.
   Les thèmes (TVA réduite, frais offerts, etc.) viennent de la fiche et de l'annonce. Un programme est « nouveau » s'il a été repéré par une alerte il y a moins de 7 jours.
+  Les programmes entièrement vendus sont retirés de la page. Le filtre par période porte sur la date où le robot a repéré le programme.
   Le logo est l'icône du site du promoteur. Un champ vide signifie qu'il n'a pas encore été trouvé : le robot le cherche aux passages suivants.
 </footer>
 
@@ -225,9 +248,71 @@
       el("div", { class: "actions" }, el("a", { href: p.lien, target: "_blank", rel: "noopener", text: "Voir la fiche" })));
   }
 
+  // Période de détection : « repéré le » par le robot (la date de mise en vente peut être antérieure).
+  function isoSemaine(d) {
+    const t = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
+    t.setUTCDate(t.getUTCDate() - ((t.getUTCDay() + 6) % 7) + 3);
+    const annee = t.getUTCFullYear();
+    const premierJeudi = new Date(Date.UTC(annee, 0, 4));
+    const semaine = 1 + Math.round(((t - premierJeudi) / 86400000 - 3 + ((premierJeudi.getUTCDay() + 6) % 7)) / 7);
+    return annee + "-W" + String(semaine).padStart(2, "0");
+  }
+
+  // Renvoie [début, fin) de la période choisie, ou null si aucune borne.
+  function bornesPeriode() {
+    const mode = document.getElementById("periode-mode").value;
+    if (mode === "jours") {
+      const n = Math.max(1, parseInt(document.getElementById("periode-jours").value, 10) || 1);
+      const debut = new Date();
+      debut.setHours(0, 0, 0, 0);
+      debut.setDate(debut.getDate() - (n - 1));
+      return [debut, null];
+    }
+    if (mode === "semaine") {
+      const m = /^(\d{4})-W(\d{2})$/.exec(document.getElementById("periode-semaine").value || "");
+      if (!m) return null;
+      const jan4 = new Date(Number(m[1]), 0, 4);
+      const lundi = new Date(jan4);
+      lundi.setDate(jan4.getDate() - ((jan4.getDay() + 6) % 7) + (Number(m[2]) - 1) * 7);
+      const fin = new Date(lundi);
+      fin.setDate(lundi.getDate() + 7);
+      return [lundi, fin];
+    }
+    if (mode === "plage") {
+      const du = document.getElementById("periode-du").value;
+      const au = document.getElementById("periode-au").value;
+      if (!du && !au) return null;
+      const fin = au ? new Date(au + "T00:00:00") : null;
+      if (fin) fin.setDate(fin.getDate() + 1);
+      return [du ? new Date(du + "T00:00:00") : null, fin];
+    }
+    return null;
+  }
+
+  function dansPeriode(p) {
+    const bornes = bornesPeriode();
+    if (!bornes) return true;
+    const [debut, fin] = bornes;
+    const d = new Date(p.detecte_le);
+    return (!debut || d >= debut) && (!fin || d < fin);
+  }
+
+  function programmesPeriode() {
+    return programmes.filter(dansPeriode);
+  }
+
+  function miseAJourChampsPeriode() {
+    const mode = document.getElementById("periode-mode").value;
+    document.getElementById("periode-jours-bloc").hidden = mode !== "jours";
+    document.getElementById("periode-semaine-bloc").hidden = mode !== "semaine";
+    document.getElementById("periode-plage-bloc").hidden = mode !== "plage";
+    const semaine = document.getElementById("periode-semaine");
+    if (mode === "semaine" && !semaine.value) semaine.value = isoSemaine(new Date());
+  }
+
   function programmesVisibles() {
     const q = rechercheProgrammes.trim().toLowerCase();
-    return programmes
+    return programmesPeriode()
       .filter((p) => filtreProgrammes === "tous" || etiquettes(p).includes(filtreProgrammes))
       .filter((p) => !q || [p.nom, p.lieu, p.promoteur, p.source].some((c) => (c || "").toLowerCase().includes(q)))
       .sort((a, b) => {
@@ -244,10 +329,11 @@
   }
 
   function dessinerFiltres() {
-    const compte = (cle) => programmes.filter((p) => etiquettes(p).includes(cle)).length;
+    const base = programmesPeriode();
+    const compte = (cle) => base.filter((p) => etiquettes(p).includes(cle)).length;
     const statuts = document.getElementById("chips-statuts");
     statuts.replaceChildren(
-      bouton("Tous", programmes.length, filtreProgrammes === "tous", () => { filtreProgrammes = "tous"; rendreProgrammes(); }),
+      bouton("Tous", base.length, filtreProgrammes === "tous", () => { filtreProgrammes = "tous"; rendreProgrammes(); }),
       ...STATUTS.map(([cle, libelle]) => bouton(libelle, compte(cle), filtreProgrammes === cle, () => { filtreProgrammes = cle; rendreProgrammes(); })),
       bouton("Sans mention", compte(SANS_MENTION), filtreProgrammes === SANS_MENTION, () => { filtreProgrammes = SANS_MENTION; rendreProgrammes(); }));
 
@@ -263,8 +349,10 @@
     const liste = programmesVisibles();
     const zone = document.getElementById("liste-programmes");
     zone.replaceChildren();
+    const plusDePeriode = programmesPeriode().length !== programmes.length;
     document.getElementById("stats-programmes").textContent =
-      `${liste.length} programme(s) affiché(s) sur ${programmes.length}`;
+      `${liste.length} programme(s) affiché(s) sur ${programmes.length}` +
+      (plusDePeriode ? ` · ${programmesPeriode().length} repéré(s) sur la période` : "");
     if (!programmes.length) {
       zone.append(el("div", { class: "vide", text: "Aucun programme pour le moment. Ils apparaîtront ici dès le premier passage du robot." }));
       return;
@@ -440,6 +528,13 @@
   }
 
   document.getElementById("actualiser").addEventListener("click", actualiser);
+  ["periode-mode", "periode-jours", "periode-semaine", "periode-du", "periode-au"].forEach((id) =>
+    document.getElementById(id).addEventListener("input", () => { miseAJourChampsPeriode(); rendreProgrammes(); }));
+  document.getElementById("periode-mode").addEventListener("change", () => { miseAJourChampsPeriode(); rendreProgrammes(); });
+  document.getElementById("semaine-courante").addEventListener("click", () => {
+    document.getElementById("periode-semaine").value = isoSemaine(new Date());
+    rendreProgrammes();
+  });
   document.addEventListener("visibilitychange", () => {
     if (!document.hidden && Date.now() - dernierChargement > 60 * 1000) actualiser();
   });
