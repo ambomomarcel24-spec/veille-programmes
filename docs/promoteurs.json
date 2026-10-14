@@ -26,7 +26,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-14T13:32+00:00",
+    "maj": "2026-10-14T15:45+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -87,13 +87,25 @@
         "lieu": "Domaine du Chevalier - Le Blanc Mesnil (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-blanc-mesnil-programme-le-domaine-du-chevalier-211172-11707.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Jolie Seine",
+        "lieu": "Jolie Seine - Mantes-la-Jolie (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/mantes-la-jolie-programme-jolie-seine-216813-11707.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le 28 Camélinat",
+        "lieu": "Le 28 Camélinat - Gennevilliers (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/gennevilliers-programme-le-28-camelinat-215515-11707.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T13:45+00:00",
+    "maj": "2026-10-14T15:55+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -172,7 +184,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T13:45+00:00",
+    "maj": "2026-10-14T15:45+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -221,13 +233,25 @@
         "lieu": "Terrasses Lamartine - Villejuif (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/villejuif-programme-terrasses-lamartine-218849-11202.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Quai de Dion-Bouton",
+        "lieu": "Quai de Dion-Bouton - Puteaux (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-quai-de-dion-bouton-209346-11202.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Prochainement à Puteaux",
+        "lieu": "Prochainement à Puteaux - Puteaux (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-prochainement-a-puteaux-218850-11202.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T13:45+00:00",
+    "maj": "2026-10-14T15:55+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -263,7 +287,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-14T13:32+00:00",
+    "maj": "2026-10-14T15:45+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -281,7 +305,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-14T13:32+00:00",
+    "maj": "2026-10-14T15:45+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -318,7 +342,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T13:32+00:00",
+    "maj": "2026-10-14T15:45+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -336,7 +360,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-14T13:32+00:00",
+    "maj": "2026-10-14T15:45+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -360,7 +384,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-14T13:32+00:00",
+    "maj": "2026-10-14T15:45+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -589,13 +613,55 @@
         "lieu": "s Terrasses de Paris - Épinay-sur-Seine (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/epinay-sur-seine-programme-les-terrasses-de-paris-212093-5891.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Dans le Quartier de Gassicourt",
+        "lieu": "uartier de Gassicourt - Mantes-la-Jolie (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/mantes-la-jolie-programme-dans-le-quartier-de-gassicourt-218972-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Jordaan District",
+        "lieu": "Jordaan District - Puteaux (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-jordaan-district-213650-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Terrasses Belles Vues",
+        "lieu": "Terrasses Belles Vues - Puteaux (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-terrasses-belles-vues-214984-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Victoria's Village",
+        "lieu": "Victoria's Village - Puteaux (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-victorias-village-210602-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villa Sakura",
+        "lieu": "Villa Sakura - Puteaux (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-villa-sakura-217719-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villa Collin",
+        "lieu": "Villa Collin - Puteaux (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-villa-collin-209624-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villa Majesty",
+        "lieu": "Villa Majesty - Puteaux (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-villa-majesty-203502-5891.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T13:45+00:00",
+    "maj": "2026-10-14T15:55+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -710,13 +776,49 @@
         "lieu": "Villa du Golf - Sevran (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sevran-programme-villa-du-golf-217808-672.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Prochainement",
+        "lieu": "Prochainement - Mantes-la-Jolie (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/mantes-la-jolie-programme-prochainement-217731-672.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Clos Saint-Louis Acte 2",
+        "lieu": "- Ilots 4 et 5 - Saint-Germain-en-Laye (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-germain-en-laye-programme-clos-saint-louis-acte-2-ilots-4-et-5-218874-672.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Clos Saint-Louis",
+        "lieu": "sidence Désoyer - Saint-Germain-en-Laye (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-germain-en-laye-programme-clos-saint-louis-acte-i-residence-desoyer-218875-672.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Clos Saint-Louis",
+        "lieu": "idences Ourches - Saint-Germain-en-Laye (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-germain-en-laye-programme-clos-saint-louis-acte-iv-residences-ourches-218873-672.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Clos Saint-Louis Acte 3",
+        "lieu": "Acte 3 - Ilot 9 - Saint-Germain-en-Laye (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-germain-en-laye-programme-clos-saint-louis-acte-3-ilot-9-218909-672.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villa Mare",
+        "lieu": "Villa Mare - Gagny (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/gagny-programme-villa-mare-215493-672.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T13:45+00:00",
+    "maj": "2026-10-14T15:56+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -867,13 +969,85 @@
         "lieu": "Villa Joffre - Épinay-sur-Seine (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/epinay-sur-seine-programme-villa-joffre-216701-10.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Villas Gassicourt",
+        "lieu": "Villas Gassicourt - Mantes-la-Jolie (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/mantes-la-jolie-programme-villas-gassicourt-217671-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Replay",
+        "lieu": "Replay - Gennevilliers (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/gennevilliers-programme-replay-201189-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villa Leclerc",
+        "lieu": "Villa Leclerc - Rosny-sous-Bois (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/rosny-sous-bois-programme-villa-leclerc-201267-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villa Riva",
+        "lieu": "Villa Riva - Saint-Germain-en-Laye (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-germain-en-laye-programme-villa-riva-190990-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "So Green",
+        "lieu": "So Green - Corbeil-Essonnes (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/corbeil-essonnes-programme-so-green-173125-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "So 2024 Saint-Ouen-sur-Seine",
+        "lieu": "t-Ouen-sur-Seine - Saint-Ouen-sur-Seine (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-ouen-sur-seine-programme-so-2024-saint-ouen-sur-seine-211603-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "So Heritage",
+        "lieu": "So Heritage - Saint-Ouen-sur-Seine (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-ouen-sur-seine-programme-so-heritage-214422-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Terrasses Flammarion",
+        "lieu": "Les Terrasses Flammarion - Melun (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/melun-programme-les-terrasses-flammarion-213564-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Reminiscence",
+        "lieu": "Reminiscence - Massy (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/massy-programme-reminiscence-195044-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Reminiscence",
+        "lieu": "Reminiscence - Massy (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/massy-programme-reminiscence-193807-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Urban Eden",
+        "lieu": "Urban Eden - Massy (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/massy-programme-urban-eden-201583-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Arbor & Home",
+        "lieu": "Arbor & Home - Gagny (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/gagny-programme-arbor-home-205013-10.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T13:45+00:00",
+    "maj": "2026-10-14T15:56+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -891,7 +1065,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-14T13:32+00:00",
+    "maj": "2026-10-14T15:45+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -909,7 +1083,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-14T13:32+00:00",
+    "maj": "2026-10-14T15:45+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -970,7 +1144,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T13:32+00:00",
+    "maj": "2026-10-14T15:45+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -2141,12 +2315,30 @@
         "lieu": "Aori - Meudon (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meudon-programme-aori-211785-8598.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Solen",
+        "lieu": "Solen - Meudon (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meudon-programme-solen-216804-8598.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Chrome",
+        "lieu": "Chrome - Meudon (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meudon-programme-chrome-213620-8598.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Mundo",
+        "lieu": "Mundo - Saint-Ouen-sur-Seine (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-ouen-sur-seine-programme-mundo-202700-8598.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T13:45+00:00",
+    "maj": "2026-10-14T15:56+00:00",
     "type": "promoteur"
   },
   "sas-capi": {
@@ -2267,12 +2459,30 @@
         "lieu": "Esprit 153 - Le Blanc Mesnil (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-blanc-mesnil-programme-esprit-153-208601-771.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Boklair",
+        "lieu": "Boklair - Rosny-sous-Bois (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/rosny-sous-bois-programme-boklair-215095-771.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le Village des Rosiers",
+        "lieu": "lage des Rosiers - Saint-Ouen-sur-Seine (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-ouen-sur-seine-programme-le-village-des-rosiers-167398-771.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Green Line",
+        "lieu": "Green Line - Bagneux (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bagneux-programme-green-line-205000-771.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T13:44+00:00",
+    "maj": "2026-10-14T15:56+00:00",
     "type": "promoteur"
   },
   "quartus": {
@@ -2339,12 +2549,18 @@
         "lieu": "Les Terrasses Mansart - Clamart (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/clamart-programme-les-terrasses-mansart-209725-11636.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Hana",
+        "lieu": "Hana - Gennevilliers (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/gennevilliers-programme-hana-210123-11636.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T13:44+00:00",
+    "maj": "2026-10-14T15:55+00:00",
     "type": "promoteur"
   },
   "ogic": {
@@ -2381,12 +2597,24 @@
         "lieu": "Jardins en Seine - Vitry-sur-Seine (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/vitry-sur-seine-programme-jardins-en-seine-217748-11035.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Carré Péri",
+        "lieu": "Carré Péri - Gennevilliers (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/gennevilliers-programme-carre-peri-216815-11035.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "8 Clos",
+        "lieu": "8 Clos - Montrouge (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/montrouge-programme-8-clos-217026-11035.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:20+00:00",
+    "maj": "2026-10-14T15:56+00:00",
     "type": "promoteur"
   },
   "bouygues-immobilier-national": {
@@ -2501,12 +2729,66 @@
         "lieu": "Arche Vive - Asnières-sur-Seine (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/asnieres-sur-seine-programme-arche-vive-217951-13179.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Le Jardin des Carmes",
+        "lieu": "rdin des Carmes - Saint-Germain-en-Laye (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-germain-en-laye-programme-le-jardin-des-carmes-218114-13179.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villa Marius",
+        "lieu": "Villa Marius - Puteaux (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-villa-marius-218164-13179.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Jardin Cézanne",
+        "lieu": "Jardin Cézanne - Corbeil-Essonnes (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/corbeil-essonnes-programme-jardin-cezanne-218086-13179.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Atelier Gauguin",
+        "lieu": "Atelier Gauguin - Corbeil-Essonnes (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/corbeil-essonnes-programme-atelier-gauguin-218672-13179.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le Jardin d'Aurea",
+        "lieu": "Le Jardin d'Aurea - Livry-Gargan (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/livry-gargan-programme-le-jardin-daurea-218673-13179.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Linéa Parc",
+        "lieu": "Linéa Parc - Noisy-le-Sec (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/noisy-le-sec-programme-linea-parc-218176-13179.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Osmoz",
+        "lieu": "Osmoz - Noisy-le-Sec (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/noisy-le-sec-programme-osmoz-218266-13179.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Chromatic",
+        "lieu": "Chromatic - Melun (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/melun-programme-chromatic-217964-13179.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Gravure",
+        "lieu": "Gravure - Montrouge (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/montrouge-programme-gravure-218134-13179.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T13:44+00:00",
+    "maj": "2026-10-14T15:56+00:00",
     "type": "promoteur"
   },
   "interconstruction-amenagement": {
@@ -2525,12 +2807,30 @@
         "lieu": "Cadence - Drancy (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/drancy-programme-cadence-213172-8355.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Wallace",
+        "lieu": "Wallace - Puteaux (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/puteaux-programme-wallace-213169-8355.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Virtuo",
+        "lieu": "Virtuo - Bagneux (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bagneux-programme-virtuo-213174-8355.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le Patterson",
+        "lieu": "Le Patterson - Massy (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/massy-programme-le-patterson-217209-8355.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:21+00:00",
+    "maj": "2026-10-14T15:56+00:00",
     "type": "promoteur"
   },
   "medicis-immobilier-neuf": {
@@ -2585,13 +2885,25 @@
         "lieu": "L'Orée des Coudriers - Chelles (77)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/chelles-programme-loree-des-coudriers-218375-29.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Green Harmony",
+        "lieu": "Green Harmony - Livry-Gargan (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/livry-gargan-programme-green-harmony-215321-29.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Allées du Bois",
+        "lieu": "Les Allées du Bois - Tva 7% - Melun (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/melun-programme-les-allees-du-bois-tva-7-217851-29.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf",
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-14T13:45+00:00",
+    "maj": "2026-10-14T15:56+00:00",
     "type": "commercialisateur"
   },
   "vinci-immobilier-promotion": {
@@ -2658,12 +2970,30 @@
         "lieu": "Metamorphose - Suresnes (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/suresnes-programme-metamorphose-199653-295.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Vue en Scene",
+        "lieu": "Vue en Scene - Meudon (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meudon-programme-vue-en-scene-215202-295.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "89 Brement",
+        "lieu": "89 Brement - Noisy-le-Sec (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/noisy-le-sec-programme-89-brement-214762-295.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Iris",
+        "lieu": "Les Iris - Massy (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/massy-programme-les-iris-215352-295.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T13:45+00:00",
+    "maj": "2026-10-14T15:56+00:00",
     "type": "promoteur"
   },
   "kaufman-et-broad": {
@@ -2706,12 +3036,36 @@
         "lieu": "Les Jardins d'Aragon - Villejuif (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/villejuif-programme-les-jardins-daragon-209374-361.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Vue en Scène",
+        "lieu": "Vue en Scène - Meudon (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meudon-programme-vue-en-scene-214595-361.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Nouvelle Résidence",
+        "lieu": "Nouvelle Résidence - Noisy-le-Sec (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/noisy-le-sec-programme-nouvelle-residence-218897-361.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Serenova",
+        "lieu": "Serenova - Melun (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/melun-programme-serenova-210484-361.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Upside",
+        "lieu": "Upside - Bagneux (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bagneux-programme-upside-218607-361.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T13:45+00:00",
+    "maj": "2026-10-14T15:56+00:00",
     "type": "promoteur"
   },
   "edouard-denis": {
@@ -2760,6 +3114,24 @@
       "Trouver un logement neuf"
     ],
     "maj": "2026-10-13T14:34+00:00",
+    "type": "promoteur"
+  },
+  "constructa-promotion": {
+    "nom": "Constructa Promotion",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Le Rivage",
+        "lieu": "Le Rivage - Saint-Ouen-sur-Seine (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-ouen-sur-seine-programme-le-rivage-215432-12154.html",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "Trouver un logement neuf"
+    ],
+    "maj": "2026-10-14T15:56+00:00",
     "type": "promoteur"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-14T13:32+00:00",
+  "date": "2026-10-14T15:45+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -26,9 +26,9 @@
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/91/",
-      "liens_programme": 42,
+      "liens_programme": 38,
       "hors_idf": 0,
-      "idf": 21
+      "idf": 19
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -62,10 +62,10 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2698,
-      "deja_connues": 1193,
+      "deja_connues": 1343,
       "lues": 150,
-      "idf": 17,
-      "sans_localisation": 133,
+      "idf": 21,
+      "sans_localisation": 129,
       "echec": 0,
       "numero_max": 218990
     },
@@ -241,23 +241,22 @@
       }
     ],
     "sites": {
-      "interrogés": 7,
+      "interrogés": 6,
       "pages_lues": 9,
       "avec_mail": 0,
       "sans_page": [
         "https://www.nexity.fr",
-        "https://lnc.fr",
-        "https://www.eiffage-immobilier.com"
+        "https://lnc.fr"
       ]
     }
   },
-  "fiches_a_relire": 168,
+  "fiches_a_relire": 135,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 59,
+  "nouvelles_fiches": 27,
   "alertes_en_attente": 49,
   "echec_mail": true
 }
