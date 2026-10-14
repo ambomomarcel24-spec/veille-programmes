@@ -152,7 +152,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T14:26+00:00",
+    "maj": "2026-10-14T10:10+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -213,7 +213,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T14:35+00:00",
+    "maj": "2026-10-14T10:20+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -274,13 +274,19 @@
         "lieu": "L'Egérie II - Clamart (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/clamart-programme-legerie-ii-211567-11586.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Domaine des Prunais Chapitre 3",
+        "lieu": "Prunais Chapitre 3 - Villiers-sur-Marne (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/villiers-sur-marne-programme-domaine-des-prunais-chapitre-3-218986-11586.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T14:38+00:00",
+    "maj": "2026-10-14T10:17+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -329,7 +335,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T14:37+00:00",
+    "maj": "2026-10-14T10:21+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -365,7 +371,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T14:26+00:00",
+    "maj": "2026-10-14T10:10+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -383,7 +389,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T14:26+00:00",
+    "maj": "2026-10-14T10:10+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -420,7 +426,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T14:26+00:00",
+    "maj": "2026-10-14T10:10+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -438,7 +444,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T14:26+00:00",
+    "maj": "2026-10-14T10:10+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -462,7 +468,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T14:26+00:00",
+    "maj": "2026-10-14T10:10+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -685,7 +691,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T14:37+00:00",
+    "maj": "2026-10-14T10:22+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -800,7 +806,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T14:37+00:00",
+    "maj": "2026-10-14T10:21+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -945,7 +951,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T14:37+00:00",
+    "maj": "2026-10-14T10:21+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -963,7 +969,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T14:26+00:00",
+    "maj": "2026-10-14T10:10+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -981,7 +987,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T14:26+00:00",
+    "maj": "2026-10-14T10:10+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -1042,7 +1048,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T14:26+00:00",
+    "maj": "2026-10-14T10:10+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -2230,7 +2236,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T14:35+00:00",
+    "maj": "2026-10-14T10:21+00:00",
     "type": "promoteur"
   },
   "sas-capi": {
@@ -2266,7 +2272,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T14:38+00:00",
+    "maj": "2026-10-14T10:20+00:00",
     "type": "promoteur"
   },
   "bnp-paribas-real-estate": {
@@ -2356,7 +2362,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T14:38+00:00",
+    "maj": "2026-10-14T10:19+00:00",
     "type": "promoteur"
   },
   "quartus": {
@@ -2398,7 +2404,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T14:35+00:00",
+    "maj": "2026-10-14T10:21+00:00",
     "type": "promoteur"
   },
   "demathieu-bard-immobilier": {
@@ -2428,7 +2434,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T14:34+00:00",
+    "maj": "2026-10-14T10:21+00:00",
     "type": "promoteur"
   },
   "ogic": {
@@ -2470,7 +2476,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T14:37+00:00",
+    "maj": "2026-10-14T10:20+00:00",
     "type": "promoteur"
   },
   "bouygues-immobilier-national": {
@@ -2590,7 +2596,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T14:37+00:00",
+    "maj": "2026-10-14T10:21+00:00",
     "type": "promoteur"
   },
   "interconstruction-amenagement": {
@@ -2614,7 +2620,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T11:53+00:00",
+    "maj": "2026-10-14T10:21+00:00",
     "type": "promoteur"
   },
   "medicis-immobilier-neuf": {
@@ -2669,7 +2675,7 @@
       "Trouver un logement neuf",
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-13T14:38+00:00",
+    "maj": "2026-10-14T10:21+00:00",
     "type": "commercialisateur"
   },
   "vinci-immobilier-promotion": {
@@ -2735,7 +2741,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T14:38+00:00",
+    "maj": "2026-10-14T10:21+00:00",
     "type": "promoteur"
   },
   "kaufman-et-broad": {
@@ -2777,7 +2783,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T14:37+00:00",
+    "maj": "2026-10-14T10:21+00:00",
     "type": "promoteur"
   },
   "edouard-denis": {
@@ -2801,7 +2807,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-13T12:14+00:00",
+    "maj": "2026-10-14T10:21+00:00",
     "type": "promoteur"
   },
   "lelievre-immobilier": {
