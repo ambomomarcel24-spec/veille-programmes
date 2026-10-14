@@ -152,7 +152,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-14T10:10+00:00",
+    "maj": "2026-10-14T13:32+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -207,13 +207,19 @@
         "lieu": "Carré Pasteur - Sartrouville (78)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sartrouville-programme-carre-pasteur-214187-11707.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Le Domaine du Chevalier",
+        "lieu": "Domaine du Chevalier - Le Blanc Mesnil (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-blanc-mesnil-programme-le-domaine-du-chevalier-211172-11707.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:20+00:00",
+    "maj": "2026-10-14T13:45+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -280,13 +286,19 @@
         "lieu": "Prunais Chapitre 3 - Villiers-sur-Marne (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/villiers-sur-marne-programme-domaine-des-prunais-chapitre-3-218986-11586.html",
         "statut": "autre"
+      },
+      {
+        "nom": "L'Orfèvre",
+        "lieu": "L'Orfèvre - Clamart (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/clamart-programme-lorfevre-208643-11586.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:17+00:00",
+    "maj": "2026-10-14T13:45+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -329,13 +341,19 @@
         "lieu": "Avenue François Arago - BRS - Antony (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/antony-programme-avenue-francois-arago-brs-215045-11202.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Terrasses Lamartine",
+        "lieu": "Terrasses Lamartine - Villejuif (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/villejuif-programme-terrasses-lamartine-218849-11202.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:21+00:00",
+    "maj": "2026-10-14T13:45+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -371,7 +389,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-14T10:10+00:00",
+    "maj": "2026-10-14T13:32+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -389,7 +407,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-14T10:10+00:00",
+    "maj": "2026-10-14T13:32+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -426,7 +444,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:10+00:00",
+    "maj": "2026-10-14T13:32+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -444,7 +462,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-14T10:10+00:00",
+    "maj": "2026-10-14T13:32+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -468,7 +486,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-14T10:10+00:00",
+    "maj": "2026-10-14T13:32+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -685,13 +703,25 @@
         "lieu": "Villa Comtesse - Le Blanc Mesnil (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-blanc-mesnil-programme-villa-comtesse-214637-5891.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Le Clos Chapelin",
+        "lieu": "Le Clos Chapelin - Sevran (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sevran-programme-le-clos-chapelin-215695-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Terrasses de Paris",
+        "lieu": "s Terrasses de Paris - Épinay-sur-Seine (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/epinay-sur-seine-programme-les-terrasses-de-paris-212093-5891.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:22+00:00",
+    "maj": "2026-10-14T13:45+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -800,13 +830,19 @@
         "lieu": "Impasse du Parc - Clichy (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/clichy-programme-impasse-du-parc-214123-672.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Villa du Golf",
+        "lieu": "Villa du Golf - Sevran (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sevran-programme-villa-du-golf-217808-672.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:21+00:00",
+    "maj": "2026-10-14T13:45+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -945,13 +981,25 @@
         "lieu": "Le Clos Duroy - Le Blanc Mesnil (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-blanc-mesnil-programme-le-clos-duroy-204280-10.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Les Terrasses d'Ariane",
+        "lieu": "es Terrasses d'Ariane - Le Blanc Mesnil (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-blanc-mesnil-programme-les-terrasses-dariane-209753-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villa Joffre",
+        "lieu": "Villa Joffre - Épinay-sur-Seine (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/epinay-sur-seine-programme-villa-joffre-216701-10.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:21+00:00",
+    "maj": "2026-10-14T13:45+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -969,7 +1017,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-14T10:10+00:00",
+    "maj": "2026-10-14T13:32+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -987,7 +1035,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-14T10:10+00:00",
+    "maj": "2026-10-14T13:32+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -1048,7 +1096,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:10+00:00",
+    "maj": "2026-10-14T13:32+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -2231,12 +2279,30 @@
         "lieu": "Beau Chemin - Nanterre (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/nanterre-programme-beau-chemin-209908-8598.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Pavillon Morea",
+        "lieu": "Pavillon Morea - Le Blanc Mesnil (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-blanc-mesnil-programme-pavillon-morea-212309-8598.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Sepia",
+        "lieu": "Sepia - Épinay-sur-Seine (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/epinay-sur-seine-programme-sepia-215418-8598.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Aori",
+        "lieu": "Aori - Meudon (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meudon-programme-aori-211785-8598.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:21+00:00",
+    "maj": "2026-10-14T13:45+00:00",
     "type": "promoteur"
   },
   "sas-capi": {
@@ -2272,7 +2338,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:20+00:00",
+    "maj": "2026-10-14T13:40+00:00",
     "type": "promoteur"
   },
   "bnp-paribas-real-estate": {
@@ -2362,7 +2428,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:19+00:00",
+    "maj": "2026-10-14T13:44+00:00",
     "type": "promoteur"
   },
   "quartus": {
@@ -2434,7 +2500,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:21+00:00",
+    "maj": "2026-10-14T13:44+00:00",
     "type": "promoteur"
   },
   "ogic": {
@@ -2596,7 +2662,7 @@
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:21+00:00",
+    "maj": "2026-10-14T13:44+00:00",
     "type": "promoteur"
   },
   "interconstruction-amenagement": {
@@ -2669,13 +2735,19 @@
         "lieu": "Évidence - Aulnay-sous-Bois (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/aulnay-sous-bois-programme-evidence-212364-29.html",
         "statut": "autre"
+      },
+      {
+        "nom": "L'Orée des Coudriers",
+        "lieu": "L'Orée des Coudriers - Chelles (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/chelles-programme-loree-des-coudriers-218375-29.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf",
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-14T10:21+00:00",
+    "maj": "2026-10-14T13:45+00:00",
     "type": "commercialisateur"
   },
   "vinci-immobilier-promotion": {
@@ -2736,12 +2808,18 @@
         "lieu": "Le Clos Chagall - Aulnay-sous-Bois (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/aulnay-sous-bois-programme-le-clos-chagall-218678-295.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Metamorphose",
+        "lieu": "Metamorphose - Suresnes (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/suresnes-programme-metamorphose-199653-295.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:21+00:00",
+    "maj": "2026-10-14T13:45+00:00",
     "type": "promoteur"
   },
   "kaufman-et-broad": {
@@ -2778,12 +2856,18 @@
         "lieu": "Koya - Paris / Courbevoie (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/courbevoie-programme-koya-213468-361.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Les Jardins d'Aragon",
+        "lieu": "Les Jardins d'Aragon - Villejuif (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/villejuif-programme-les-jardins-daragon-209374-361.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:21+00:00",
+    "maj": "2026-10-14T13:45+00:00",
     "type": "promoteur"
   },
   "edouard-denis": {
@@ -2802,12 +2886,18 @@
         "lieu": "ence des Petits Ponts - Le Blanc Mesnil (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-blanc-mesnil-programme-la-residence-des-petits-ponts-196753-746.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Les App'Arts de l'Ourcq",
+        "lieu": "Les App'Arts de l'Ourcq - Bobigny (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bobigny-programme-les-apparts-de-lourcq-212511-746.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T10:21+00:00",
+    "maj": "2026-10-14T13:45+00:00",
     "type": "promoteur"
   },
   "lelievre-immobilier": {
