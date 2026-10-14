@@ -183,6 +183,8 @@ VENTE_PHRASES = [
     "programme complet", "vendu a 100", "complet a 100", "plus aucun lot disponible",
     "plus aucun logement disponible", "plus de lot disponible", "plus de logement disponible",
     "commercialisation terminee", "programme entierement commercialise", "sold out",
+    "programme epuise", "tous les lots ont ete vendus", "toutes les unites sont vendues",
+    "tous nos appartements sont vendus",
 ]
 VERIFICATIONS_VENTE = 25  # fiches revérifiées à chaque passage pour repérer les ventes complètes
 
