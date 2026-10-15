@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-14T23:48+00:00",
+  "date": "2026-10-15T04:02+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -62,10 +62,10 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2698,
-      "deja_connues": 1643,
+      "deja_connues": 1793,
       "lues": 150,
-      "idf": 25,
-      "sans_localisation": 125,
+      "idf": 31,
+      "sans_localisation": 119,
       "echec": 0,
       "numero_max": 218990
     },
@@ -212,10 +212,10 @@
       "avec_localisation": 0
     }
   ],
-  "fiches_relues": 49,
+  "fiches_relues": 31,
   "enrichissement": {
-    "ok": 49,
-    "echec_telechargement": 81,
+    "ok": 31,
+    "echec_telechargement": 84,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -241,23 +241,22 @@
       }
     ],
     "sites": {
-      "interrogés": 7,
-      "pages_lues": 9,
+      "interrogés": 5,
+      "pages_lues": 8,
       "avec_mail": 0,
       "sans_page": [
         "https://lnc.fr",
-        "https://www.nexity.fr",
-        "https://www.eiffage-immobilier.com"
+        "https://www.nexity.fr"
       ]
     }
   },
-  "fiches_a_relire": 81,
+  "fiches_a_relire": 84,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 29,
+  "nouvelles_fiches": 34,
   "alertes_en_attente": 50,
   "echec_mail": true
 }
