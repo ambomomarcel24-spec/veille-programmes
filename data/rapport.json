@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-15T09:42+00:00",
+  "date": "2026-10-15T14:46+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -26,16 +26,16 @@
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/91/",
-      "liens_programme": 12,
+      "liens_programme": 42,
       "hors_idf": 0,
-      "idf": 6
+      "idf": 21
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/92/",
-      "liens_programme": 42,
+      "liens_programme": 10,
       "hors_idf": 0,
-      "idf": 20
+      "idf": 5
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -61,13 +61,13 @@
     {
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
-      "urls_dans_plan": 2698,
-      "deja_connues": 1943,
+      "urls_dans_plan": 2704,
+      "deja_connues": 2074,
       "lues": 150,
-      "idf": 31,
-      "sans_localisation": 119,
+      "idf": 53,
+      "sans_localisation": 97,
       "echec": 0,
-      "numero_max": 218990
+      "numero_max": 219003
     },
     {
       "source": "Nexity",
@@ -82,7 +82,7 @@
     {
       "source": "Bouygues Immobilier",
       "page": "https://www.bouygues-immobilier.com/",
-      "blocs": 114,
+      "blocs": 120,
       "avec_declencheur": 2,
       "avec_mot_programme": 2,
       "avec_localisation": 0
@@ -212,10 +212,10 @@
       "avec_localisation": 0
     }
   ],
-  "fiches_relues": 31,
+  "fiches_relues": 53,
   "enrichissement": {
-    "ok": 31,
-    "echec_telechargement": 94,
+    "ok": 53,
+    "echec_telechargement": 98,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -245,19 +245,19 @@
       "pages_lues": 9,
       "avec_mail": 0,
       "sans_page": [
-        "https://www.eiffage-immobilier.com",
         "https://lnc.fr",
-        "https://www.nexity.fr"
+        "https://www.nexity.fr",
+        "https://www.eiffage-immobilier.com"
       ]
     }
   },
-  "fiches_a_relire": 94,
+  "fiches_a_relire": 98,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 41,
-  "alertes_en_attente": 50,
+  "nouvelles_fiches": 57,
+  "alertes_en_attente": 51,
   "echec_mail": true
 }
