@@ -26,7 +26,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-15T14:46+00:00",
+    "maj": "2026-10-15T18:58+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -219,13 +219,61 @@
         "lieu": "Promenade Campus - Cachan (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/cachan-programme-promenade-campus-212883-11707.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Villa Trianon",
+        "lieu": "Villa Trianon - L'Hay-les-Roses (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/lhay-les-roses-programme-villa-trianon-212428-11707.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Carré Coubertin",
+        "lieu": "Carré Coubertin - Goussainville (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/goussainville-programme-carre-coubertin-211875-11707.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Allure",
+        "lieu": "Allure - Pontoise (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/pontoise-programme-allure-211628-11707.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Balcons de Chilly",
+        "lieu": "Les Balcons de Chilly - Chilly-Mazarin (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/chilly-mazarin-programme-les-balcons-de-chilly-211437-11707.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "L'Entracte",
+        "lieu": "L'Entracte - Romainville (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/romainville-programme-lentracte-211416-11707.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Atrium",
+        "lieu": "Atrium - Mantes-la-Jolie / Magnanville (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/magnanville-programme-atrium-211255-11707.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Rive Nature",
+        "lieu": "Rive Nature - Villeneuve-la-Garenne (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/villeneuve-la-garenne-programme-rive-nature-211188-11707.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "L'Éclat",
+        "lieu": "L'Éclat - Versailles / Élancourt (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/elancourt-programme-leclat-211179-11707.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T15:00+00:00",
+    "maj": "2026-10-15T19:12+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -370,13 +418,31 @@
         "lieu": "Millerose 2 - L'Hay-les-Roses (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/lhay-les-roses-programme-millerose-2-212695-11586.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Central Quai",
+        "lieu": "Central Quai - Villeneuve-la-Garenne (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/villeneuve-la-garenne-programme-central-quai-211536-11586.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Flore",
+        "lieu": "Flore - Châtenay-Malabry (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/chatenay-malabry-programme-flore-211466-11586.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Millerose",
+        "lieu": "Millerose - L'Hay-les-Roses (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/lhay-les-roses-programme-millerose-211422-11586.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T15:00+00:00",
+    "maj": "2026-10-15T19:12+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -497,7 +563,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T15:00+00:00",
+    "maj": "2026-10-15T18:58+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -533,7 +599,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-15T14:46+00:00",
+    "maj": "2026-10-15T18:58+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -551,7 +617,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-15T14:46+00:00",
+    "maj": "2026-10-15T18:58+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -588,7 +654,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T14:46+00:00",
+    "maj": "2026-10-15T18:58+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -606,7 +672,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-15T14:46+00:00",
+    "maj": "2026-10-15T18:58+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -630,7 +696,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-15T14:46+00:00",
+    "maj": "2026-10-15T18:58+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1045,13 +1111,61 @@
         "lieu": "Clos du Perreux - Le Perreux-sur-Marne (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-perreux-sur-marne-programme-le-clos-du-perreux-212596-5891.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Les Marquises",
+        "lieu": "Les Marquises - Goussainville (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/goussainville-programme-les-marquises-212533-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Jardins Leclerc",
+        "lieu": "es Jardins Leclerc - Villiers-sur-Marne (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/villiers-sur-marne-programme-les-jardins-leclerc-212445-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "L'Atelier",
+        "lieu": "L'Atelier - Stains (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/stains-programme-latelier-212444-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le Dandy",
+        "lieu": "Le Dandy - Meaux / Chessy (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/chessy-programme-le-dandy-212231-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Plein Sud",
+        "lieu": "Plein Sud - Pomponne (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/pomponne-programme-plein-sud-211833-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le Clos du Centre",
+        "lieu": "Le Clos du Centre - Gonesse (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/gonesse-programme-le-clos-du-centre-211647-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "L'Ecrin du Perreux",
+        "lieu": "Ecrin du Perreux - Le Perreux-sur-Marne (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-perreux-sur-marne-programme-lecrin-du-perreux-211523-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le Liberty",
+        "lieu": "Le Liberty - Meaux / Chessy (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/chessy-programme-le-liberty-211137-5891.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T15:00+00:00",
+    "maj": "2026-10-15T19:12+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1346,13 +1460,25 @@
         "lieu": "144 Eiffel - Montmorency (95)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/montmorency-programme-144-eiffel-213145-672.html",
         "statut": "autre"
+      },
+      {
+        "nom": "L'Orée du Parc",
+        "lieu": "L'Orée du Parc - Choisy-le-Roi (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/choisy-le-roi-programme-loree-du-parc-211747-672.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Allées des Trois Ormes Chapitre 2",
+        "lieu": "s des Trois Ormes Chapitre 2 - Coupvray (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/coupvray-programme-les-allees-des-trois-ormes-chapitre-2-211428-672.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T15:00+00:00",
+    "maj": "2026-10-15T19:12+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -1695,13 +1821,37 @@
         "lieu": "Les Jardins Fajon - Villetaneuse (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/villetaneuse-programme-les-jardins-fajon-212910-10.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Escale Sand",
+        "lieu": "Sand - Viry-Châtillon / Juvisy-sur-Orge (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/juvisy-sur-orge-programme-escale-sand-212566-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Plessis Trevise",
+        "lieu": "Plessis Trevise - Le Plessis Trévise (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-plessis-trevise-programme-plessis-trevise-212501-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Althea",
+        "lieu": "Althea - Paris / Montmagny (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/montmagny-programme-althea-211534-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le Clos du Bois 2",
+        "lieu": "Le Clos du Bois 2 - BRS - Andilly (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/andilly-programme-le-clos-du-bois-2-brs-210966-10.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T15:00+00:00",
+    "maj": "2026-10-15T19:12+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -1719,7 +1869,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-15T14:46+00:00",
+    "maj": "2026-10-15T18:58+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -1737,7 +1887,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-15T14:46+00:00",
+    "maj": "2026-10-15T18:58+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -1798,7 +1948,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T14:46+00:00",
+    "maj": "2026-10-15T18:58+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -3047,12 +3197,24 @@
         "lieu": "Salomé - Le Plessis Robinson (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-plessis-robinson-programme-salome-212755-8598.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Aurea",
+        "lieu": "Aurea - Châtenay-Malabry (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/chatenay-malabry-programme-aurea-212289-8598.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Althea",
+        "lieu": "Althea - Paris / Montmagny (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/montmagny-programme-althea-211919-8598.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T15:00+00:00",
+    "maj": "2026-10-15T19:11+00:00",
     "type": "promoteur"
   },
   "sas-capi": {
@@ -3251,12 +3413,18 @@
         "lieu": "Bel Rives - Choisy-le-Roi (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/choisy-le-roi-programme-bel-rives-214786-771.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Le 1930",
+        "lieu": "Le 1930 - Neuilly-Plaisance (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/neuilly-plaisance-programme-le-1930-211885-771.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T09:54+00:00",
+    "maj": "2026-10-15T19:11+00:00",
     "type": "promoteur"
   },
   "quartus": {
@@ -4176,12 +4344,18 @@
         "lieu": "Villa Mansart - Beauchamp (95)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/beauchamp-programme-villa-mansart-212964-295.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Tellement Enghien",
+        "lieu": "ent Enghien - Paris / Enghien-les-Bains (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/enghien-les-bains-programme-tellement-enghien-212204-295.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T15:00+00:00",
+    "maj": "2026-10-15T19:11+00:00",
     "type": "promoteur"
   },
   "kaufman-et-broad": {
@@ -4344,12 +4518,42 @@
         "lieu": "Domaine des Longs Champs - Houdan (78)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/houdan-programme-domaine-des-longs-champs-212712-361.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Le Clos Gaillardet",
+        "lieu": "rdet - Argentueil / Le Plessis-Bouchard (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-plessis-bouchard-programme-le-clos-gaillardet-212489-361.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villas du Vercors",
+        "lieu": "Villas du Vercors - Orly (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/orly-programme-villas-du-vercors-211349-361.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Terrasses d'Adria",
+        "lieu": "Les Terrasses d'Adria - Ermont (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/ermont-programme-les-terrasses-dadria-211287-361.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Pavillon Mansart",
+        "lieu": "Pavillon Mansart - Sèvres (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sevres-programme-pavillon-mansart-211286-361.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "L'Orée du Square",
+        "lieu": "L'Orée du Square - Limeil-Brévannes (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/limeil-brevannes-programme-loree-du-square-210979-361.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T15:00+00:00",
+    "maj": "2026-10-15T19:12+00:00",
     "type": "promoteur"
   },
   "edouard-denis": {
@@ -4488,12 +4692,18 @@
         "lieu": "L'Allée Royale - Fontainebleau (77)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/fontainebleau-programme-lallee-royale-214540-667.html",
         "statut": "autre"
+      },
+      {
+        "nom": "L'Amaryllis",
+        "lieu": "L'Amaryllis - Dammarie-les-Lys (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/dammarie-les-lys-programme-lamaryllis-211938-667.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T09:55+00:00",
+    "maj": "2026-10-15T19:11+00:00",
     "type": "promoteur"
   },
   "interconstruction": {

@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-15T14:46+00:00",
+  "date": "2026-10-15T18:58+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -26,16 +26,16 @@
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/91/",
-      "liens_programme": 42,
+      "liens_programme": 38,
       "hors_idf": 0,
-      "idf": 21
+      "idf": 19
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/92/",
-      "liens_programme": 10,
+      "liens_programme": 42,
       "hors_idf": 0,
-      "idf": 5
+      "idf": 21
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -62,10 +62,10 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2704,
-      "deja_connues": 2074,
+      "deja_connues": 2224,
       "lues": 150,
-      "idf": 53,
-      "sans_localisation": 97,
+      "idf": 35,
+      "sans_localisation": 115,
       "echec": 0,
       "numero_max": 219003
     },
@@ -82,7 +82,7 @@
     {
       "source": "Bouygues Immobilier",
       "page": "https://www.bouygues-immobilier.com/",
-      "blocs": 120,
+      "blocs": 121,
       "avec_declencheur": 2,
       "avec_mot_programme": 2,
       "avec_localisation": 0
@@ -131,7 +131,7 @@
     {
       "source": "Emerige",
       "page": "https://www.emerige.com/",
-      "blocs": 117,
+      "blocs": 106,
       "avec_declencheur": 0,
       "avec_mot_programme": 0,
       "avec_localisation": 0
@@ -212,10 +212,10 @@
       "avec_localisation": 0
     }
   ],
-  "fiches_relues": 53,
+  "fiches_relues": 35,
   "enrichissement": {
-    "ok": 53,
-    "echec_telechargement": 98,
+    "ok": 35,
+    "echec_telechargement": 102,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -241,23 +241,23 @@
       }
     ],
     "sites": {
-      "interrogés": 7,
-      "pages_lues": 9,
+      "interrogés": 6,
+      "pages_lues": 8,
       "avec_mail": 0,
       "sans_page": [
-        "https://lnc.fr",
         "https://www.nexity.fr",
+        "https://lnc.fr",
         "https://www.eiffage-immobilier.com"
       ]
     }
   },
-  "fiches_a_relire": 98,
+  "fiches_a_relire": 102,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 57,
+  "nouvelles_fiches": 39,
   "alertes_en_attente": 51,
   "echec_mail": true
 }
