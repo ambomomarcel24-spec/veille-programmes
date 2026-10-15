@@ -4769,7 +4769,8 @@
     ],
     "promoteur_cle": "interconstruction-amenagement",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Le Fort à Aubervilliers (93) : programme neuf du T1 au T5, à partir de 179 000 €. Vendu par Interconstruction Amenagement."
+    "texte": "Découvrez Le Fort à Aubervilliers (93) : programme neuf du T1 au T5, à partir de 179 000 €. Vendu par Interconstruction Amenagement.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "4f4e56077b3c89bd",
@@ -4792,7 +4793,8 @@
     ],
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Les Allées du Parc à Aubervilliers (93) : programme neuf du T1 au T5, à partir de 223 100 €. Vendu par Les Nouveaux Constructeurs."
+    "texte": "Découvrez Les Allées du Parc à Aubervilliers (93) : programme neuf du T1 au T5, à partir de 223 100 €. Vendu par Les Nouveaux Constructeurs.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "bdbc431cd8677578",
@@ -4815,7 +4817,8 @@
     ],
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur",
-    "texte": "Découvrez Le Lumen à Aubervilliers (93) : programme neuf du T3 au T4, à partir de 259 900 €. Vendu par Medicis Immobilier Neuf."
+    "texte": "Découvrez Le Lumen à Aubervilliers (93) : programme neuf du T3 au T4, à partir de 259 900 €. Vendu par Medicis Immobilier Neuf.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "60d9352c5f82fcdb",
@@ -4838,7 +4841,8 @@
     ],
     "promoteur_cle": "cogedim",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Prochainement à Aubervilliers à Aubervilliers (93) : programme neuf du T2 au T4, à partir de 222 000 €. Vendu par Cogedim."
+    "texte": "Découvrez Prochainement à Aubervilliers à Aubervilliers (93) : programme neuf du T2 au T4, à partir de 222 000 €. Vendu par Cogedim.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "20086abbd770786c",
@@ -4861,7 +4865,8 @@
     ],
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Passerelle du Chemin Vert à Aubervilliers (93) : programme neuf du T1 au T4, à partir de 199 000 €. Vendu par VINCI Immobilier Promotion."
+    "texte": "Découvrez Passerelle du Chemin Vert à Aubervilliers (93) : programme neuf du T1 au T4, à partir de 199 000 €. Vendu par VINCI Immobilier Promotion.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "4a25f1ae124ea631",
@@ -4884,7 +4889,8 @@
     ],
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Le Domaine du Bois de la Garenne à Évry-Courcouronnes (91) : programme neuf du T2 au T6, à partir de 194 500 €. Vendu par Les Nouveaux Constructeurs."
+    "texte": "Découvrez Le Domaine du Bois de la Garenne à Évry-Courcouronnes (91) : programme neuf du T2 au T6, à partir de 194 500 €. Vendu par Les Nouveaux Constructeurs.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "edc9622cc2b2ad55",
@@ -4907,7 +4913,8 @@
     ],
     "promoteur_cle": "cogedim",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Design à Évry-Courcouronnes (91) : programme neuf T2, à partir de 174 955 €. Vendu par Cogedim."
+    "texte": "Découvrez Design à Évry-Courcouronnes (91) : programme neuf T2, à partir de 174 955 €. Vendu par Cogedim.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "6b9cbad55bbfacdb",
@@ -4930,7 +4937,8 @@
     ],
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez L'Envol à Évry-Courcouronnes (91) : programme neuf T2, à partir de 176 000 €. Vendu par Nexity."
+    "texte": "Découvrez L'Envol à Évry-Courcouronnes (91) : programme neuf T2, à partir de 176 000 €. Vendu par Nexity.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "8eaa1a36c40ace55",
@@ -4953,7 +4961,8 @@
     ],
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Helios à Évry-Courcouronnes (91) : programme neuf T3, à partir de 224 700 €. Vendu par Icade Promotion."
+    "texte": "Découvrez Helios à Évry-Courcouronnes (91) : programme neuf T3, à partir de 224 700 €. Vendu par Icade Promotion.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "264607ce62d4d4db",
@@ -4976,7 +4985,8 @@
     ],
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Néo à Évry-Courcouronnes (91) : programme neuf du T1 au T4, à partir de 139 788 €. Vendu par Bouygues Immobilier National."
+    "texte": "Découvrez Néo à Évry-Courcouronnes (91) : programme neuf du T1 au T4, à partir de 139 788 €. Vendu par Bouygues Immobilier National.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "53a7cf3885cee2a4",
@@ -4999,7 +5009,8 @@
     ],
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur",
-    "texte": "Découvrez Les Terrasses du Parc à Évry-Courcouronnes (91) : programme neuf du T1 au T5, à partir de 174 000 €. Vendu par Medicis Immobilier Neuf."
+    "texte": "Découvrez Les Terrasses du Parc à Évry-Courcouronnes (91) : programme neuf du T1 au T5, à partir de 174 000 €. Vendu par Medicis Immobilier Neuf.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "2d75c4614922779b",
@@ -5022,7 +5033,8 @@
     ],
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Vivo à Évry-Courcouronnes (91) : programme neuf du T1 au T4, à partir de 139 788 €. Vendu par Bouygues Immobilier National."
+    "texte": "Découvrez Vivo à Évry-Courcouronnes (91) : programme neuf du T1 au T4, à partir de 139 788 €. Vendu par Bouygues Immobilier National.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "ee227341434ce521",
@@ -5045,7 +5057,8 @@
     ],
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Domaine Grimau à Drancy (93) : programme neuf du T1 au T4, à partir de 169 000 €. Vendu par Nexity."
+    "texte": "Découvrez Domaine Grimau à Drancy (93) : programme neuf du T1 au T4, à partir de 169 000 €. Vendu par Nexity.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "f4c4d5cfc65d1ddf",
@@ -5068,7 +5081,8 @@
     ],
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur",
-    "texte": "Découvrez Le 139 à Drancy (93) : programme neuf du T2 au T4, à partir de 191 000 €. Vendu par Medicis Immobilier Neuf."
+    "texte": "Découvrez Le 139 à Drancy (93) : programme neuf du T2 au T4, à partir de 191 000 €. Vendu par Medicis Immobilier Neuf.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "8021bb286dd16314",
@@ -5091,7 +5105,8 @@
     ],
     "promoteur_cle": "sas-capi",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Drancy C1 à Drancy (93) : programme neuf du T1 au T4, à partir de 192 227 €. Vendu par Sas Capi."
+    "texte": "Découvrez Drancy C1 à Drancy (93) : programme neuf du T1 au T4, à partir de 192 227 €. Vendu par Sas Capi.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "bc67752efd24ccac",
@@ -5114,7 +5129,8 @@
     ],
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Green Melody 2 à Drancy (93) : programme neuf du T2 au T4, à partir de 222 000 €. Vendu par Nexity."
+    "texte": "Découvrez Green Melody 2 à Drancy (93) : programme neuf du T2 au T4, à partir de 222 000 €. Vendu par Nexity.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "34c3dd29ebea6d09",
@@ -5137,7 +5153,8 @@
     ],
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Le 225 à Drancy (93) : programme neuf du T2 au T5, à partir de 209 200 €. Vendu par Les Nouveaux Constructeurs."
+    "texte": "Découvrez Le 225 à Drancy (93) : programme neuf du T2 au T5, à partir de 209 200 €. Vendu par Les Nouveaux Constructeurs.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "4694af426d5eda97",
@@ -5160,7 +5177,8 @@
     ],
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Les Terrasses Marceau TR2 b à Drancy (93) : programme neuf T3, à partir de 264 000 €. Vendu par VINCI Immobilier Promotion."
+    "texte": "Découvrez Les Terrasses Marceau TR2 b à Drancy (93) : programme neuf T3, à partir de 264 000 €. Vendu par VINCI Immobilier Promotion.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "1c9c04bb8ea4cf7e",
@@ -5183,7 +5201,8 @@
     ],
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Le 58 Jaurès à Drancy (93) : programme neuf du T1 au T4, à partir de 172 000 €. Vendu par Marignan."
+    "texte": "Découvrez Le 58 Jaurès à Drancy (93) : programme neuf du T1 au T4, à partir de 172 000 €. Vendu par Marignan.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "5ade9e7db55d845a",
@@ -5206,7 +5225,8 @@
     ],
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Le 259 Jaurès à Drancy (93) : programme neuf du T2 au T5, à partir de 210 000 €. Vendu par Nexity."
+    "texte": "Découvrez Le 259 Jaurès à Drancy (93) : programme neuf du T2 au T5, à partir de 210 000 €. Vendu par Nexity.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "09c7828827103a3c",
@@ -5229,7 +5249,8 @@
     ],
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Esprit Marceau à Drancy (93) : programme neuf T3, à partir de 279 575 €. Vendu par Bouygues Immobilier National."
+    "texte": "Découvrez Esprit Marceau à Drancy (93) : programme neuf T3, à partir de 279 575 €. Vendu par Bouygues Immobilier National.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "ba7bf0309e157222",
@@ -5252,7 +5273,8 @@
     ],
     "promoteur_cle": "interconstruction-amenagement",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Cadence à Drancy (93) : programme neuf du T3 au T4, à partir de 245 000 €. Vendu par Interconstruction Amenagement."
+    "texte": "Découvrez Cadence à Drancy (93) : programme neuf du T3 au T4, à partir de 245 000 €. Vendu par Interconstruction Amenagement.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "5fb192609187b202",
@@ -5275,7 +5297,8 @@
     ],
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Le Palladio à Drancy (93) : programme neuf du T1 au T4, à partir de 196 933 €. Vendu par Kaufman Et Broad."
+    "texte": "Découvrez Le Palladio à Drancy (93) : programme neuf du T1 au T4, à partir de 196 933 €. Vendu par Kaufman Et Broad.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "d8a1ef4855f84ef7",
@@ -5298,7 +5321,8 @@
     ],
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur",
-    "texte": "Découvrez L'Anatole à Drancy (93) : programme neuf du T2 au T4, à partir de 220 000 €. Vendu par Medicis Immobilier Neuf."
+    "texte": "Découvrez L'Anatole à Drancy (93) : programme neuf du T2 au T4, à partir de 220 000 €. Vendu par Medicis Immobilier Neuf.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "dd8b25ee66f613ab",
@@ -5321,7 +5345,8 @@
     ],
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur",
-    "texte": "Découvrez Elegance à Drancy (93) : programme neuf du T1 au T4, à partir de 195 000 €. Vendu par VINCI Immobilier Promotion."
+    "texte": "Découvrez Elegance à Drancy (93) : programme neuf du T1 au T4, à partir de 195 000 €. Vendu par VINCI Immobilier Promotion.",
+    "verifie_le": "2026-10-14T23:48+00:00"
   },
   {
     "id": "51c6447ae0a6a5b4",
@@ -11749,14 +11774,19 @@
     "extrait": "Cour Renaissance - Viry-Châtillon / Juvisy-sur-Orge (91)",
     "numero": 217831,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Kaufman Et Broad",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Cour Renaissance à Juvisy-sur-Orge (91) : programme neuf du T1 au T4, à partir de 154 000 €. Vendu par Kaufman Et Broad.",
+    "verifie_le": "2026-10-14T23:56+00:00",
+    "promoteur_site": null,
+    "promoteur_cle": "kaufman-et-broad",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "3454185f48ca3bba",
@@ -11769,14 +11799,19 @@
     "extrait": "Les Jardins de Fréville - Egly (91)",
     "numero": 217827,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Les Nouveaux Constructeurs",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Les Jardins de Fréville à Egly (91) : programme neuf du T1 au T5, à partir de 133 000 €. Vendu par Les Nouveaux Constructeurs.",
+    "verifie_le": "2026-10-14T23:56+00:00",
+    "promoteur_site": "https://lnc.fr",
+    "promoteur_cle": "les-nouveaux-constructeurs",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "ac2054d04cb896d7",
@@ -11789,14 +11824,19 @@
     "extrait": "Accord Nature - Romainville (93)",
     "numero": 217815,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Cogedim",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Accord Nature à Romainville (93) : programme neuf du T1 au T5, à partir de 213 000 €. Vendu par Cogedim.",
+    "verifie_le": "2026-10-14T23:58+00:00",
+    "promoteur_site": "https://cogedim.com",
+    "promoteur_cle": "cogedim",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "6e11550e14be7b07",
@@ -11809,14 +11849,19 @@
     "extrait": "Aurore - Bezons (95)",
     "numero": 217807,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Icade Promotion",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Aurore à Bezons (95) : programme neuf du T1 au T4, à partir de 169 000 €. Vendu par Icade Promotion.",
+    "verifie_le": "2026-10-14T23:58+00:00",
+    "promoteur_site": "http://www.icade-immobilier.com",
+    "promoteur_cle": "icade-promotion",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "e7b90f6f29361419",
@@ -11829,14 +11874,19 @@
     "extrait": "Les Terrasses Flouquet - L'Hay-les-Roses (94)",
     "numero": 217761,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Ogic",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Les Terrasses Flouquet à L'Hay-les-Roses (94) : programme neuf du T1 au T4, à partir de 152 000 €. Vendu par Ogic.",
+    "verifie_le": "2026-10-14T23:58+00:00",
+    "promoteur_site": null,
+    "promoteur_cle": "ogic",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "4777ff954d9d70c7",
@@ -11849,14 +11899,19 @@
     "extrait": "Prochainement - Paris / Châtillon (92)",
     "numero": 217730,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Marignan",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Prochainement à Châtillon (92) : programme neuf du T1 au T3, à partir de 280 250 €. Vendu par Marignan.",
+    "verifie_le": "2026-10-14T23:58+00:00",
+    "promoteur_site": "https://marignan-immobilier.com",
+    "promoteur_cle": "marignan",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "964f82881e1398ac",
@@ -11869,14 +11924,19 @@
     "extrait": "Le Clos Saint Martin - Étampes (91)",
     "numero": 217728,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Marignan",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Le Clos Saint Martin à Étampes (91) : programme neuf du T2 au T3, à partir de 152 000 €. Vendu par Marignan.",
+    "verifie_le": "2026-10-14T23:59+00:00",
+    "promoteur_site": "https://marignan-immobilier.com",
+    "promoteur_cle": "marignan",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "0804d61d8eb861fd",
@@ -11889,14 +11949,19 @@
     "extrait": "Le Quatorze - Thiais (94)",
     "numero": 217709,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Marignan",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Le Quatorze à Thiais (94) : programme neuf du T1 au T4, à partir de 182 000 €. Vendu par Marignan.",
+    "verifie_le": "2026-10-14T23:59+00:00",
+    "promoteur_site": "https://marignan-immobilier.com",
+    "promoteur_cle": "marignan",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "846a14fd68305540",
@@ -11909,14 +11974,19 @@
     "extrait": "L'Archipel - Cormeilles-en-Parisis (95)",
     "numero": 217695,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Cogedim",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez L'Archipel à Cormeilles-en-Parisis (95) : programme neuf T5, à partir de 640 000 €. Vendu par Cogedim.",
+    "verifie_le": "2026-10-14T23:59+00:00",
+    "promoteur_site": "https://cogedim.com",
+    "promoteur_cle": "cogedim",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "0e82c429db2aaacf",
@@ -11929,14 +11999,19 @@
     "extrait": "Villa Henri - L'Hay-les-Roses (94)",
     "numero": 217661,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Marignan",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Villa Henri à L'Hay-les-Roses (94) : programme neuf du T1 au T4, à partir de 209 000 €. Vendu par Marignan.",
+    "verifie_le": "2026-10-14T23:59+00:00",
+    "promoteur_site": "https://marignan-immobilier.com",
+    "promoteur_cle": "marignan",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "4f2d7deb87553fd9",
@@ -11949,14 +12024,19 @@
     "extrait": "Les Quarante Arpents - Alfortville (94)",
     "numero": 217649,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Nexity",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Les Quarante Arpents à Alfortville (94) : programme neuf du T1 au T5, à partir de 229 000 €. Vendu par Nexity.",
+    "verifie_le": "2026-10-14T23:59+00:00",
+    "promoteur_site": "https://www.nexity.fr",
+    "promoteur_cle": "nexity",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "1093592a50a7f23c",
@@ -11969,14 +12049,19 @@
     "extrait": "Domaine de la Chesnaie - Melun / Livry-sur-Seine (77)",
     "numero": 217638,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Stradim",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Domaine de la Chesnaie à Livry-sur-Seine (77) : programme neuf du T2 au T3, à partir de 159 000 €. Vendu par Stradim.",
+    "verifie_le": "2026-10-14T23:59+00:00",
+    "promoteur_site": null,
+    "promoteur_cle": "stradim",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "cb882ec2db43af61",
@@ -11989,14 +12074,19 @@
     "extrait": "Edenia - Châtenay-Malabry (92)",
     "numero": 217606,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Eiffage Immobilier",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Edenia à Châtenay-Malabry (92) : programme neuf du T2 au T5, à partir de 311 000 €. Vendu par Eiffage Immobilier.",
+    "verifie_le": "2026-10-14T23:59+00:00",
+    "promoteur_site": "https://www.eiffage-immobilier.com",
+    "promoteur_cle": "eiffage-immobilier",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "258b25220372394a",
@@ -12009,14 +12099,19 @@
     "extrait": "Limeil-Brévannes C1 - Limeil-Brévannes (94)",
     "numero": 217582,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Sas Capi",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Limeil-Brévannes C1 à Limeil-Brévannes (94) : programme neuf du T1 au T4, à partir de 169 000 €. Vendu par Sas Capi.",
+    "verifie_le": "2026-10-14T23:59+00:00",
+    "promoteur_site": null,
+    "promoteur_cle": "sas-capi",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "a44eb6cc841c54d5",
@@ -12029,14 +12124,19 @@
     "extrait": "Le Clos de Maule - Bailly (78)",
     "numero": 217421,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Les Nouveaux Constructeurs",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Le Clos de Maule à Bailly (78) : programme neuf du T1 au T4, à partir de 226 100 €. Vendu par Les Nouveaux Constructeurs.",
+    "verifie_le": "2026-10-14T23:59+00:00",
+    "promoteur_site": "https://lnc.fr",
+    "promoteur_cle": "les-nouveaux-constructeurs",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "47139c9f93f5c8bb",
@@ -12049,14 +12149,19 @@
     "extrait": "Le Clos des Roches - Boissise-le-Roi (77)",
     "numero": 217277,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Cogedim",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Le Clos des Roches à Boissise-le-Roi (77) : programme neuf, à partir de 316 000 €. Vendu par Cogedim.",
+    "verifie_le": "2026-10-14T23:59+00:00",
+    "promoteur_site": "https://cogedim.com",
+    "promoteur_cle": "cogedim",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "ebfade7f16f437c5",
@@ -12069,14 +12174,19 @@
     "extrait": "Les Terrasses de l'Hôtel de Ville - Conflans-Sainte-Honorine (78)",
     "numero": 217270,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Interconstruction..",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Les Terrasses de l'Hôtel de Ville à Conflans-Sainte-Honorine (78) : programme neuf du T1 au T5, à partir de 143 200 €. Vendu par Interconstruction...",
+    "verifie_le": "2026-10-14T23:59+00:00",
+    "promoteur_site": null,
+    "promoteur_cle": "interconstruction",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "20de5a2af9bbc5e8",
@@ -12089,14 +12199,19 @@
     "extrait": "Prochainement - Bezons (95)",
     "numero": 217219,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Marignan",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Prochainement à Bezons (95) : programme neuf du T2 au T4, à partir de 245 900 €. Vendu par Marignan.",
+    "verifie_le": "2026-10-14T23:59+00:00",
+    "promoteur_site": "https://marignan-immobilier.com",
+    "promoteur_cle": "marignan",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "c54b271c47c7d4c8",
@@ -12109,14 +12224,19 @@
     "extrait": "Villa Louis-Alexandre - Maisons - Neauphle-le-Château (78)",
     "numero": 217203,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Marignan",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Villa Louis-Alexandre - Maisons à Neauphle-le-Château (78) : programme neuf du T4 au T5, à partir de 403 800 €. Vendu par Marignan.",
+    "verifie_le": "2026-10-14T23:59+00:00",
+    "promoteur_site": "https://marignan-immobilier.com",
+    "promoteur_cle": "marignan",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "0a9d094e0899811c",
@@ -12129,14 +12249,19 @@
     "extrait": "30 Mozart - Clichy-la-Garenne (92)",
     "numero": 217192,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Interconstruction Amenagement",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez 30 Mozart à Clichy-la-Garenne (92) : programme neuf du T1 au T5, à partir de 347 700 €. Vendu par Interconstruction Amenagement.",
+    "verifie_le": "2026-10-14T23:59+00:00",
+    "promoteur_site": null,
+    "promoteur_cle": "interconstruction-amenagement",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "f3f87398937e130f",
@@ -12149,14 +12274,19 @@
     "extrait": "90 République - Saint-Cloud (92)",
     "numero": 217176,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Emerige",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez 90 République à Saint-Cloud (92) : programme neuf du T2 au T4, à partir de 355 000 €. Vendu par Emerige.",
+    "verifie_le": "2026-10-14T23:59+00:00",
+    "promoteur_site": "https://www.emerige.com",
+    "promoteur_cle": "emerige",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "41bb9523ce1d867f",
@@ -12169,14 +12299,19 @@
     "extrait": "Villa Antoinette - Poissy (78)",
     "numero": 217170,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Icade Promotion",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Villa Antoinette à Poissy (78) : programme neuf du T1 au T5, à partir de 158 300 €. Vendu par Icade Promotion.",
+    "verifie_le": "2026-10-15T00:00+00:00",
+    "promoteur_site": "http://www.icade-immobilier.com",
+    "promoteur_cle": "icade-promotion",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "50800e38cf860d97",
@@ -12189,14 +12324,19 @@
     "extrait": "Les Terrasses d'Adria II - Ermont (95)",
     "numero": 217137,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Kaufman Et Broad",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
-    "enrichi": false,
+    "enrichi": true,
     "origine": "catalogue",
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez Les Terrasses d'Adria II à Ermont (95) : programme neuf du T1 au T5, à partir de 191 658 €. Vendu par Kaufman Et Broad.",
+    "verifie_le": "2026-10-15T00:00+00:00",
+    "promoteur_site": null,
+    "promoteur_cle": "kaufman-et-broad",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "2ac6725a0143cf35",
@@ -12209,13 +12349,725 @@
     "extrait": "Les Jardins Gabriel - Arcueil (94)",
     "numero": 217073,
     "source": "Trouver un logement neuf",
-    "promoteur": "à identifier",
+    "promoteur": "Icade Promotion",
     "contacts": [],
     "detecte_le": "2026-10-14T20:04+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ],
+    "texte": "Découvrez Les Jardins Gabriel à Arcueil (94) : programme neuf du T1 au T4, à partir de 195 700 €. Vendu par Icade Promotion.",
+    "verifie_le": "2026-10-15T00:00+00:00",
+    "promoteur_site": "http://www.icade-immobilier.com",
+    "promoteur_cle": "icade-promotion",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "ab0397a3b7834d27",
+    "nom": "PROGRAMME NEUF VILLEJUIF",
+    "lieu": "Villejuif (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/villejuif-94/240424993/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "PROGRAMME NEUF VILLEJUIF Villejuif Du studio au 5 pièces à partir de 251 000 € Jardin Terrasse Balcon Ascenseur Adapté PMR Appartements neufs à Villejuif. Vous recherchez un appartement neuf à Villejuif alliant confort, modernité et emplacement stratégique ? Dans le cadre de plusieurs programmes imm",
+    "numero": 240424993,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "contacts": [],
     "enrichi": false,
+    "promoteur": "à identifier",
     "origine": "catalogue",
     "tags": [
       "autre"
     ]
+  },
+  {
+    "id": "e0d2146730c22e03",
+    "nom": "HAUTREMENT",
+    "lieu": "L Hay les Roses (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/l-hay-les-roses-94/206758013/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Offre spéciale",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale Dernières opportunités HAUTREMENT L'Haÿ-les-Roses Du 2 pièces au 5 pièces à partir de 331 225 € Terrasse Parking Ascenseur Proposé par EIFFAGE IMMOBILIER Profitez de nos offres pour devenir propriétaire à L'Haÿ-les-Roses : Jusqu'à 25 000€ de remise !* Venez découvrir notre résidence H",
+    "numero": 206758013,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité",
+      "bons_plans"
+    ]
+  },
+  {
+    "id": "7fb7c810d5a4e9ae",
+    "nom": "Les Terrasses d'Héloise",
+    "lieu": "Saint Cyr L Ecole (78)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-cyr-l-ecole-78/239371747/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Offre spéciale",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale Travaux en cours Les Terrasses d'Héloise Saint-Cyr-l'École Du 2 pièces au 4 pièces à partir de 244 200 € Terrasse Balcon Parking Proposé par MARIGNAN DEMMARRAGE DES TRAVAUX à SAINT-CYR-L'ECOLE, à 2 pas de la gare et en lisière du parc de Versailles ! Appartements neufs du 2 au 4 pièce",
+    "numero": 239371747,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité",
+      "travaux_en_cours"
+    ]
+  },
+  {
+    "id": "bd07d3d9a9586314",
+    "nom": "LE 25 LONDRES",
+    "lieu": "Le Blanc Mesnil (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/le-blanc-mesnil-93/233156933/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Travaux en cours",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Travaux en cours LE 25 LONDRES Le Blanc-Mesnil Du studio au 4 pièces à partir de 165 400 € Jardin Terrasse Balcon Parking Adapté PMR Proposé par PREFERENCE HOME 'DEVENEZ PROPRIÉTAIRE' d'un appartement neuf au meilleur prix. A titre d'exemple : offrez-vous un superbe 2 pièces avec terrasse dans une r",
+    "numero": 233156933,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "travaux_en_cours"
+    ]
+  },
+  {
+    "id": "8695617e8190b6f7",
+    "nom": "Prochainement à Bezons",
+    "lieu": "Prochainement à Bezons - Bezons (95)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bezons-programme-prochainement-a-bezons-217016-11707.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Prochainement à Bezons - Bezons (95)",
+    "numero": 217016,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Cogedim",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Prochainement à Bezons à Bezons (95) : programme neuf du T2 au T3. Vendu par Cogedim.",
+    "verifie_le": "2026-10-15T00:00+00:00",
+    "promoteur_site": "https://cogedim.com",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "cogedim",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "fb01d9f83cdfb7a4",
+    "nom": "Coeur Jardin",
+    "lieu": "Coeur Jardin - Stains (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/stains-programme-prochainement-a-stains-216933-5891.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Coeur Jardin - Stains (93)",
+    "numero": 216933,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Les Nouveaux Constructeurs",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Coeur Jardin à Stains (93) : programme neuf du T2 au T4, à partir de 169 000 €. Vendu par Les Nouveaux Constructeurs.",
+    "verifie_le": "2026-10-15T00:00+00:00",
+    "promoteur_site": "https://lnc.fr",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "les-nouveaux-constructeurs",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "29309822a9055060",
+    "nom": "Aurore",
+    "lieu": "Aurore - Villemomble (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/villemomble-programme-aurore-216906-672.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Aurore - Villemomble (93)",
+    "numero": 216906,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Marignan",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Aurore à Villemomble (93) : programme neuf du T1 au T4, à partir de 187 300 €. Vendu par Marignan.",
+    "verifie_le": "2026-10-15T00:00+00:00",
+    "promoteur_site": "https://marignan-immobilier.com",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "marignan",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "523f69bff5873e61",
+    "nom": "L'Angle des Arts",
+    "lieu": "L'Angle des Arts - Bezons (95)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bezons-programme-langle-des-arts-216892-5891.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "L'Angle des Arts - Bezons (95)",
+    "numero": 216892,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Les Nouveaux Constructeurs",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez L'Angle des Arts à Bezons (95) : programme neuf du T2 au T4, à partir de 212 900 €. Vendu par Les Nouveaux Constructeurs.",
+    "verifie_le": "2026-10-15T00:00+00:00",
+    "promoteur_site": "https://lnc.fr",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "les-nouveaux-constructeurs",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "cfc7c465cbe7f96d",
+    "nom": "Quartier Lallier",
+    "lieu": "er Lallier - Saison 2 - L'Hay-les-Roses (94)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/lhay-les-roses-programme-quartier-lallier-saison-2-216873-11202.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Quartier Lallier - Saison 2 - L'Hay-les-Roses (94)",
+    "numero": 216873,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Emerige",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Quartier Lallier - Saison 2 à L'Hay-les-Roses (94) : programme neuf du T2 au T5, à partir de 274 000 €. Vendu par Emerige.",
+    "verifie_le": "2026-10-15T00:00+00:00",
+    "promoteur_site": "https://www.emerige.com",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "emerige",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "5ad777c498b2c648",
+    "nom": "Le Parc du Château",
+    "lieu": "Parc du Château - La Celle-Saint-Cloud (78)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/la-celle-saint-cloud-programme-le-parc-du-chateau-216844-11035.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Le Parc du Château - La Celle-Saint-Cloud (78)",
+    "numero": 216844,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Ogic",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Le Parc du Château à La Celle-Saint-Cloud (78) : programme neuf du T2 au T5, à partir de 305 000 €. Vendu par Ogic.",
+    "verifie_le": "2026-10-15T00:00+00:00",
+    "promoteur_site": null,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "ogic",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "fe443988c9ae9f35",
+    "nom": "Le Clos des Meulières",
+    "lieu": "Le Clos des Meulières - Saclay (91)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saclay-programme-le-clos-des-meulieres-216837-361.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Le Clos des Meulières - Saclay (91)",
+    "numero": 216837,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Kaufman Et Broad",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Le Clos des Meulières à Saclay (91) : programme neuf du T1 au T4, à partir de 244 000 €. Vendu par Kaufman Et Broad.",
+    "verifie_le": "2026-10-15T00:00+00:00",
+    "promoteur_site": null,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "kaufman-et-broad",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "4d6fc883c4ca5287",
+    "nom": "Coeur Royal",
+    "lieu": "Coeur Royal - Fontainebleau (77)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/fontainebleau-programme-coeur-royal-216836-361.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Coeur Royal - Fontainebleau (77)",
+    "numero": 216836,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Kaufman Et Broad",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Coeur Royal à Fontainebleau (77) : programme neuf du T1 au T4, à partir de 207 000 €. Vendu par Kaufman Et Broad.",
+    "verifie_le": "2026-10-15T00:00+00:00",
+    "promoteur_site": null,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "kaufman-et-broad",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "8c713089f33f254d",
+    "nom": "Horizon",
+    "lieu": "Horizon - Ormesson-sur-Marne (94)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/ormesson-sur-marne-programme-horizon-216821-672.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Horizon - Ormesson-sur-Marne (94)",
+    "numero": 216821,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Marignan",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Horizon à Ormesson-sur-Marne (94) : programme neuf du T2 au T4, à partir de 219 000 €. Vendu par Marignan.",
+    "verifie_le": "2026-10-15T00:00+00:00",
+    "promoteur_site": "https://marignan-immobilier.com",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "marignan",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "b4c7298fd5abd429",
+    "nom": "Oréa",
+    "lieu": "Oréa - Viroflay (78)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/viroflay-programme-orea-216818-672.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Oréa - Viroflay (78)",
+    "numero": 216818,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Marignan",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Oréa à Viroflay (78) : programme neuf du T2 au T4, à partir de 308 000 €. Vendu par Marignan.",
+    "verifie_le": "2026-10-15T00:01+00:00",
+    "promoteur_site": "https://marignan-immobilier.com",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "marignan",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "d233568855e46ac1",
+    "nom": "Les Terrasses Duparc",
+    "lieu": "Les Terrasses Duparc - Bezons (95)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bezons-programme-les-terrasses-duparc-216805-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Les Terrasses Duparc - Bezons (95)",
+    "numero": 216805,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Nexity",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Les Terrasses Duparc à Bezons (95) : programme neuf du T2 au T4, à partir de 210 000 €. Vendu par Nexity.",
+    "verifie_le": "2026-10-15T00:01+00:00",
+    "promoteur_site": "https://www.nexity.fr",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "nexity",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "36fc02707b24661b",
+    "nom": "Clos des Bleuets",
+    "lieu": "Clos des Bleuets - Beauchamp (95)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/beauchamp-programme-clos-des-bleuets-216790-11586.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Clos des Bleuets - Beauchamp (95)",
+    "numero": 216790,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Eiffage Immobilier",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Clos des Bleuets à Beauchamp (95) : programme neuf du T2 au T4, à partir de 209 000 €. Vendu par Eiffage Immobilier.",
+    "verifie_le": "2026-10-15T00:01+00:00",
+    "promoteur_site": "https://www.eiffage-immobilier.com",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "eiffage-immobilier",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "7361263b51f53560",
+    "nom": "63 Perrotin",
+    "lieu": "63 Perrotin - Paris / Châtillon (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/chatillon-programme-63-perrotin-216781-771.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "63 Perrotin - Paris / Châtillon (92)",
+    "numero": 216781,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Bnp Paribas Real Estate",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez 63 Perrotin à Châtillon (92) : programme neuf du T1 au T5, à partir de 231 000 €. Vendu par Bnp Paribas Real Estate.",
+    "verifie_le": "2026-10-15T00:01+00:00",
+    "promoteur_site": null,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "bnp-paribas-real-estate",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "f3cfd23671eb4f09",
+    "nom": "Nora",
+    "lieu": "Nora - Vanves (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/vanves-programme-nora-216736-672.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Nora - Vanves (92)",
+    "numero": 216736,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Marignan",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Nora à Vanves (92) : programme neuf du T2 au T4, à partir de 398 000 €. Vendu par Marignan.",
+    "verifie_le": "2026-10-15T00:01+00:00",
+    "promoteur_site": "https://marignan-immobilier.com",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "marignan",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "164a012a5ea170c9",
+    "nom": "Aura Parc",
+    "lieu": "Aura Parc - Saint-Leu-la-Forêt (95)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-leu-la-foret-programme-aura-parc-216705-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Aura Parc - Saint-Leu-la-Forêt (95)",
+    "numero": 216705,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Nexity",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Aura Parc à Saint-Leu-la-Forêt (95) : programme neuf du T1 au T5, à partir de 187 000 €. Vendu par Nexity.",
+    "verifie_le": "2026-10-15T00:01+00:00",
+    "promoteur_site": "https://www.nexity.fr",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "nexity",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "29425b80a239fecc",
+    "nom": "Domaine des Prunais Chapitre 2",
+    "lieu": "Prunais Chapitre 2 - Villiers-sur-Marne (94)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/villiers-sur-marne-programme-domaine-des-prunais-chapitre-2-216636-11586.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Domaine des Prunais Chapitre 2 - Villiers-sur-Marne (94)",
+    "numero": 216636,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Eiffage Immobilier",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Domaine des Prunais Chapitre 2 à Villiers-sur-Marne (94) : programme neuf du T1 au T3, à partir de 235 265 €. Vendu par Eiffage Immobilier.",
+    "verifie_le": "2026-10-15T00:01+00:00",
+    "promoteur_site": "https://www.eiffage-immobilier.com",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "eiffage-immobilier",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "ce53b0c14aaf4fc6",
+    "nom": "Hameau Gabrielle",
+    "lieu": "Hameau Gabrielle - Saint-Cloud (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-cloud-programme-hameau-gabrielle-216615-8355.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Hameau Gabrielle - Saint-Cloud (92)",
+    "numero": 216615,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Interconstruction Amenagement",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Hameau Gabrielle à Saint-Cloud (92) : programme neuf du T2 au T5, à partir de 419 000 €. Vendu par Interconstruction Amenagement.",
+    "verifie_le": "2026-10-15T00:01+00:00",
+    "promoteur_site": null,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "interconstruction-amenagement",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "08d39ccaa7668eb2",
+    "nom": "L'Orée des Vergers",
+    "lieu": "L'Orée des Vergers - Fontenay-aux-Roses (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/fontenay-aux-roses-programme-loree-des-vergers-216593-672.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "L'Orée des Vergers - Fontenay-aux-Roses (92)",
+    "numero": 216593,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Marignan",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez L'Orée des Vergers à Fontenay-aux-Roses (92) : programme neuf du T2 au T5, à partir de 253 000 €. Vendu par Marignan.",
+    "verifie_le": "2026-10-15T00:01+00:00",
+    "promoteur_site": "https://marignan-immobilier.com",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "marignan",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "1eb9268e361c64f4",
+    "nom": "Le 103",
+    "lieu": "Le 103 - Malakoff (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/malakoff-programme-le-103-216572-361.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Le 103 - Malakoff (92)",
+    "numero": 216572,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Kaufman Et Broad",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Le 103 à Malakoff (92) : programme neuf du T1 au T4, à partir de 279 000 €. Vendu par Kaufman Et Broad.",
+    "verifie_le": "2026-10-15T00:01+00:00",
+    "promoteur_site": null,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "kaufman-et-broad",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "f1760c140173b152",
+    "nom": "Scène 3",
+    "lieu": "e-Jacques Gabriel - Le Plessis Robinson (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-plessis-robinson-programme-scene-3-ange-jacques-gabriel-216418-11202.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Scène 3 - Ange-Jacques Gabriel - Le Plessis Robinson (92)",
+    "numero": 216418,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Emerige",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Scène 3 - Ange-Jacques Gabriel à Le Plessis Robinson (92) : programme neuf du T1 au T4, à partir de 184 000 €. Vendu par Emerige.",
+    "verifie_le": "2026-10-15T00:01+00:00",
+    "promoteur_site": "https://www.emerige.com",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "emerige",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "508efc5de5ba401d",
+    "nom": "Hamo",
+    "lieu": "Hamo - BRS - Igny (91)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/igny-programme-hamo-brs-216386-11586.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Hamo - BRS - Igny (91)",
+    "numero": 216386,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Eiffage Immobilier",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Hamo - BRS à Igny (91) : programme neuf T3, à partir de 252 000 €. Vendu par Eiffage Immobilier.",
+    "verifie_le": "2026-10-15T00:01+00:00",
+    "promoteur_site": "https://www.eiffage-immobilier.com",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "eiffage-immobilier",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "e9f37a6cf9c3f8b0",
+    "nom": "La Ferme",
+    "lieu": "Ferme - Appartements - Toussus-le-Noble (78)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/toussus-le-noble-programme-la-ferme-appartements-216375-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "La Ferme - Appartements - Toussus-le-Noble (78)",
+    "numero": 216375,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Nexity",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez La Ferme - Appartements à Toussus-le-Noble (78) : programme neuf T4, à partir de 362 000 €. Vendu par Nexity.",
+    "verifie_le": "2026-10-15T00:01+00:00",
+    "promoteur_site": "https://www.nexity.fr",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "nexity",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "07a9f76115e6986b",
+    "nom": "La Ferme de Chessy",
+    "lieu": "La Ferme de Chessy - Meaux / Chessy (77)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/chessy-programme-la-ferme-de-chessy-216291-11707.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "La Ferme de Chessy - Meaux / Chessy (77)",
+    "numero": 216291,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Cogedim",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez La Ferme de Chessy à Chessy (77) : programme neuf T1, à partir de 256 000 €. Vendu par Cogedim.",
+    "verifie_le": "2026-10-15T00:01+00:00",
+    "promoteur_site": "https://cogedim.com",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "cogedim",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "6c454ed14227a89c",
+    "nom": "L'Eclaircie",
+    "lieu": "L'Eclaircie - Longpont-sur-Orge (91)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/longpont-sur-orge-programme-leclaircie-216278-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "L'Eclaircie - Longpont-sur-Orge (91)",
+    "numero": 216278,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Nexity",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez L'Eclaircie à Longpont-sur-Orge (91) : programme neuf, à partir de 384 000 €. Vendu par Nexity.",
+    "verifie_le": "2026-10-15T00:01+00:00",
+    "promoteur_site": "https://www.nexity.fr",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "nexity",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "4ac723214818ab70",
+    "nom": "L'Eclaircie",
+    "lieu": "L'Eclaircie - Longpont-sur-Orge (91)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/longpont-sur-orge-programme-leclaircie-216277-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "L'Eclaircie - Longpont-sur-Orge (91)",
+    "numero": 216277,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Nexity",
+    "contacts": [],
+    "detecte_le": "2026-10-14T23:48+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez L'Eclaircie à Longpont-sur-Orge (91) : programme neuf du T2 au T4, à partir de 208 000 €. Vendu par Nexity.",
+    "verifie_le": "2026-10-15T00:01+00:00",
+    "promoteur_site": "https://www.nexity.fr",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "nexity",
+    "promoteur_type": "promoteur"
   }
 ]
