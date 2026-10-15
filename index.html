@@ -316,9 +316,9 @@
       .filter((p) => filtreProgrammes === "tous" || etiquettes(p).includes(filtreProgrammes))
       .filter((p) => !q || [p.nom, p.lieu, p.promoteur, p.source].some((c) => (c || "").toLowerCase().includes(q)))
       .sort((a, b) => {
-        const ordreStatut = (a.statut === SANS_MENTION ? 99 : STATUTS.findIndex(([c]) => c === a.statut)) -
-                            (b.statut === SANS_MENTION ? 99 : STATUTS.findIndex(([c]) => c === b.statut));
-        return ordreStatut !== 0 ? ordreStatut : (b.detecte_le || "").localeCompare(a.detecte_le || "");
+        // Le plus récemment repéré en premier ; à égalité, le numéro de programme le plus élevé.
+        const parDate = (b.detecte_le || "").localeCompare(a.detecte_le || "");
+        return parDate !== 0 ? parDate : (b.numero || 0) - (a.numero || 0);
       });
   }
 
