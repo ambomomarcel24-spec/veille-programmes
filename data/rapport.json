@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-16T01:04+00:00",
+  "date": "2026-10-16T06:54+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -62,10 +62,10 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2704,
-      "deja_connues": 2523,
-      "lues": 150,
-      "idf": 45,
-      "sans_localisation": 105,
+      "deja_connues": 2673,
+      "lues": 31,
+      "idf": 12,
+      "sans_localisation": 19,
       "echec": 0,
       "numero_max": 219003
     },
@@ -82,7 +82,7 @@
     {
       "source": "Bouygues Immobilier",
       "page": "https://www.bouygues-immobilier.com/",
-      "blocs": 120,
+      "blocs": 121,
       "avec_declencheur": 2,
       "avec_mot_programme": 2,
       "avec_localisation": 0
@@ -212,10 +212,10 @@
       "avec_localisation": 0
     }
   ],
-  "fiches_relues": 45,
+  "fiches_relues": 12,
   "enrichissement": {
-    "ok": 45,
-    "echec_telechargement": 113,
+    "ok": 12,
+    "echec_telechargement": 116,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -241,23 +241,22 @@
       }
     ],
     "sites": {
-      "interrogés": 4,
-      "pages_lues": 2,
+      "interrogés": 2,
+      "pages_lues": 0,
       "avec_mail": 0,
       "sans_page": [
         "https://www.nexity.fr",
-        "https://www.eiffage-immobilier.com",
         "https://lnc.fr"
       ]
     }
   },
-  "fiches_a_relire": 113,
+  "fiches_a_relire": 116,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 49,
+  "nouvelles_fiches": 15,
   "alertes_en_attente": 51,
   "echec_mail": true
 }

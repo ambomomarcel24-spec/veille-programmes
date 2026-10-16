@@ -26,7 +26,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-16T01:04+00:00",
+    "maj": "2026-10-16T06:54+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -273,7 +273,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-16T01:04+00:00",
+    "maj": "2026-10-16T06:54+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -478,7 +478,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-16T01:18+00:00",
+    "maj": "2026-10-16T06:54+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -599,7 +599,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-16T01:04+00:00",
+    "maj": "2026-10-16T06:54+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -635,7 +635,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-16T01:04+00:00",
+    "maj": "2026-10-16T06:54+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -653,7 +653,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-16T01:04+00:00",
+    "maj": "2026-10-16T06:54+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -690,7 +690,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-16T01:04+00:00",
+    "maj": "2026-10-16T06:54+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -708,7 +708,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-16T01:04+00:00",
+    "maj": "2026-10-16T06:54+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -732,7 +732,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-16T01:04+00:00",
+    "maj": "2026-10-16T06:54+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1363,13 +1363,43 @@
         "lieu": "Les Terrasses du Parc - Stains (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/stains-programme-les-terrasses-du-parc-194086-5891.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Les Demeures des Coteaux",
+        "lieu": "es des Coteaux - Chennevières-sur-Marne (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/chennevieres-sur-marne-programme-les-demeures-des-coteaux-192836-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Nouveau Jour",
+        "lieu": "Nouveau Jour - Roissy-en-Brie (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/roissy-en-brie-programme-nouveau-jour-190530-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le Patio des Arts",
+        "lieu": "e Patio des Arts - Le Perreux-sur-Marne (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-perreux-sur-marne-programme-le-patio-des-arts-189680-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Domaine des Lys",
+        "lieu": "Domaine des Lys - Carrières-sous-Poissy (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/carrieres-sous-poissy-programme-domaine-des-lys-188187-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villa des Ormes",
+        "lieu": "Villa des Ormes - Le Perreux-sur-Marne (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-perreux-sur-marne-programme-villa-des-ormes-178926-5891.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-16T01:18+00:00",
+    "maj": "2026-10-16T07:02+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1700,7 +1730,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-16T01:04+00:00",
+    "maj": "2026-10-16T06:54+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2151,13 +2181,31 @@
         "lieu": "Le Clos du Bois 1 et 2 - Andilly (95)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/andilly-programme-le-clos-du-bois-1-et-2-197032-10.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Les Jardins de Villevaudé",
+        "lieu": "Les Jardins de Villevaudé - Villevaude (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/villevaude-programme-les-jardins-de-villevaude-193182-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le Patio des Artistes",
+        "lieu": "Le Patio des Artistes - Chatou (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/chatou-programme-le-patio-des-artistes-185000-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Lac en Scène",
+        "lieu": "ac en Scène - Paris / Enghien-les-Bains (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/enghien-les-bains-programme-lac-en-scene-173138-10.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-16T01:18+00:00",
+    "maj": "2026-10-16T07:03+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2175,7 +2223,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-16T01:04+00:00",
+    "maj": "2026-10-16T06:54+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2193,7 +2241,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-16T01:04+00:00",
+    "maj": "2026-10-16T06:54+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2254,7 +2302,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-16T01:04+00:00",
+    "maj": "2026-10-16T06:54+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -4980,12 +5028,24 @@
         "lieu": "es Terrasses de la Madeleine - Pomponne (77)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/pomponne-programme-les-terrasses-de-la-madeleine-194006-746.html",
         "statut": "autre"
+      },
+      {
+        "nom": "L'Orée du Bois",
+        "lieu": "du Bois - Lagny-sur-Marne / Montévrain (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/montevrain-programme-loree-du-bois-172876-746.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Cottages d'Amilly",
+        "lieu": "Les Cottages d'Amilly - Meaux / Serris (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/serris-programme-les-cottages-damilly-151296-746.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-16T01:18+00:00",
+    "maj": "2026-10-16T07:03+00:00",
     "type": "promoteur"
   },
   "lelievre-immobilier": {
@@ -5196,6 +5256,30 @@
       "Trouver un logement neuf"
     ],
     "maj": "2026-10-15T22:21+00:00",
+    "type": "promoteur"
+  },
+  "edifipierre": {
+    "nom": "Edifipierre",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Villa Delacroix",
+        "lieu": "Villa Delacroix - Paris / Saint-Maurice (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-maurice-programme-villa-delacroix-186408-144.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Vertex Typ'O",
+        "lieu": "Vertex Typ'O - Paris / Vaujours (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/vaujours-programme-vertex-typo-186407-144.html",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "Trouver un logement neuf"
+    ],
+    "maj": "2026-10-16T07:02+00:00",
     "type": "promoteur"
   }
 }
