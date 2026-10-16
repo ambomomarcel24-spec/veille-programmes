@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-16T06:54+00:00",
+  "date": "2026-10-16T12:12+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -33,9 +33,9 @@
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/92/",
-      "liens_programme": 8,
+      "liens_programme": 42,
       "hors_idf": 0,
-      "idf": 4
+      "idf": 21
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -62,12 +62,12 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2704,
-      "deja_connues": 2673,
-      "lues": 31,
-      "idf": 12,
-      "sans_localisation": 19,
-      "echec": 0,
-      "numero_max": 219003
+      "deja_connues": 2690,
+      "lues": 13,
+      "idf": 1,
+      "sans_localisation": 12,
+      "echec": 1,
+      "numero_max": 219006
     },
     {
       "source": "Nexity",
@@ -82,7 +82,7 @@
     {
       "source": "Bouygues Immobilier",
       "page": "https://www.bouygues-immobilier.com/",
-      "blocs": 121,
+      "blocs": 120,
       "avec_declencheur": 2,
       "avec_mot_programme": 2,
       "avec_localisation": 0
@@ -212,10 +212,10 @@
       "avec_localisation": 0
     }
   ],
-  "fiches_relues": 12,
+  "fiches_relues": 1,
   "enrichissement": {
-    "ok": 12,
-    "echec_telechargement": 116,
+    "ok": 1,
+    "echec_telechargement": 117,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -239,24 +239,15 @@
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classified_detail_S",
         "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classi"
       }
-    ],
-    "sites": {
-      "interrogés": 2,
-      "pages_lues": 0,
-      "avec_mail": 0,
-      "sans_page": [
-        "https://www.nexity.fr",
-        "https://lnc.fr"
-      ]
-    }
+    ]
   },
-  "fiches_a_relire": 116,
+  "fiches_a_relire": 117,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 15,
-  "alertes_en_attente": 51,
+  "nouvelles_fiches": 2,
+  "alertes_en_attente": 52,
   "echec_mail": true
 }
