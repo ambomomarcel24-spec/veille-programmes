@@ -26,7 +26,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-15T22:08+00:00",
+    "maj": "2026-10-16T01:04+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -273,7 +273,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T22:08+00:00",
+    "maj": "2026-10-16T01:04+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -448,13 +448,37 @@
         "lieu": "Les Terrasses du Parc - Thiais (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/thiais-programme-les-terrasses-du-parc-208424-11586.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Hautrement",
+        "lieu": "Hautrement - L'Hay-les-Roses (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/lhay-les-roses-programme-hautrement-205530-11586.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "L'Effigie",
+        "lieu": "L'Effigie - Draveil (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/draveil-programme-leffigie-204153-11586.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le Clos du Marché",
+        "lieu": "Le Clos du Marché - Sucy-en-Brie (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sucy-en-brie-programme-le-clos-du-marche-200245-11586.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Univert",
+        "lieu": "Univert - Alfortville (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/alfortville-programme-univert-198730-11586.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T22:22+00:00",
+    "maj": "2026-10-16T01:18+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -575,7 +599,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T22:08+00:00",
+    "maj": "2026-10-16T01:04+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -611,7 +635,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-15T22:08+00:00",
+    "maj": "2026-10-16T01:04+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -629,7 +653,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-15T22:08+00:00",
+    "maj": "2026-10-16T01:04+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -666,7 +690,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T22:08+00:00",
+    "maj": "2026-10-16T01:04+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -684,7 +708,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-15T22:08+00:00",
+    "maj": "2026-10-16T01:04+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -708,7 +732,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-15T22:08+00:00",
+    "maj": "2026-10-16T01:04+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1231,13 +1255,121 @@
         "lieu": "ence Green Life 3 - Bussy-Saint-Georges (77)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bussy-saint-georges-programme-residence-green-life-3-206543-5891.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Villa Guynemer",
+        "lieu": "lla Guynemer - Villeneuve-Saint-Georges (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/villeneuve-saint-georges-programme-villa-guynemer-205426-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villa Condorcet",
+        "lieu": "Villa Condorcet - Bourg-la-Reine (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bourg-la-reine-programme-villa-condorcet-204922-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Allées de la Chesnaie",
+        "lieu": "Les Allées de la Chesnaie - Achères (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/acheres-programme-les-allees-de-la-chesnaie-204921-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Jardins Foch",
+        "lieu": "Les Jardins Foch - Orgeval (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/orgeval-programme-les-jardins-foch-203815-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Terrasses du Saule Blanc",
+        "lieu": "lanc - Viry-Châtillon / Juvisy-sur-Orge (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/juvisy-sur-orge-programme-les-terrasses-du-saule-blanc-203796-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Place et Lumières",
+        "lieu": "Place et Lumières - L'Hay-les-Roses (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/lhay-les-roses-programme-place-et-lumieres-203591-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "L'Opaline",
+        "lieu": "L'Opaline - Chennevières-sur-Marne (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/chennevieres-sur-marne-programme-lopaline-202833-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Balcons de Zola",
+        "lieu": "Les Balcons de Zola - Bezons (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bezons-programme-les-balcons-de-zola-202451-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villa Georges",
+        "lieu": "Villa Georges - Sucy-en-Brie (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sucy-en-brie-programme-villa-georges-201768-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Jardins d'Ormesson",
+        "lieu": "Les Jardins d'Ormesson - Deuil-la-Barre (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/deuil-la-barre-programme-les-jardins-dormesson-201767-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villas Flora",
+        "lieu": "illas Flora - Saint-Thibault-des-Vignes (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-thibault-des-vignes-programme-villas-flora-201538-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Terrasses de l'Hippodrome",
+        "lieu": "Les Terrasses de l'Hippodrome - Garches (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/garches-programme-les-terrasses-de-lhippodrome-201046-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Domaine des Marmousets",
+        "lieu": "Domaine des Marmousets - Noiseau (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/noiseau-programme-domaine-des-marmousets-200867-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Terrasses Renelle",
+        "lieu": "Les Terrasses Renelle - Stains (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/stains-programme-les-terrasses-renelle-200354-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le Jardin du Pont de Bry",
+        "lieu": "n du Pont de Bry - Le Perreux-sur-Marne (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-perreux-sur-marne-programme-le-jardin-du-pont-de-bry-200046-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Square Art Déco",
+        "lieu": "Square Art Déco - Bezons (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bezons-programme-square-art-deco-199240-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Hauts du Chateau",
+        "lieu": "ts du Chateau - Montigny-lès-Cormeilles (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/montigny-les-cormeilles-programme-les-hauts-du-chateau-198491-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Terrasses du Parc",
+        "lieu": "Les Terrasses du Parc - Stains (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/stains-programme-les-terrasses-du-parc-194086-5891.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T22:22+00:00",
+    "maj": "2026-10-16T01:18+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1568,7 +1700,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T22:22+00:00",
+    "maj": "2026-10-16T01:04+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -1953,13 +2085,79 @@
         "lieu": "Porte de Chambourcy Maison - Chambourcy (78)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/chambourcy-programme-la-porte-de-chambourcy-maison-208147-10.html",
         "statut": "autre"
+      },
+      {
+        "nom": "La Porte de Chambourcy",
+        "lieu": "La Porte de Chambourcy - Chambourcy (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/chambourcy-programme-la-porte-de-chambourcy-205665-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Regards sur Seine",
+        "lieu": "Regards sur Seine - Viry-Châtillon (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/viry-chatillon-programme-regards-sur-seine-205325-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Castanea",
+        "lieu": "Castanea - Bouffemont (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bouffemont-programme-castanea-204043-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Sentier Soléa : Maisons",
+        "lieu": "Sentier Soléa : Maisons - Collégien (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/collegien-programme-sentier-solea-maisons-203577-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Coeur Jaures",
+        "lieu": "Coeur Jaures - Le Kremlin Bicêtre (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-kremlin-bicetre-programme-coeur-jaures-200367-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villa Daubigny",
+        "lieu": "Villa Daubigny - La Frette-sur-Seine (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/la-frette-sur-seine-programme-villa-daubigny-200183-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "9ème Art",
+        "lieu": "9ème Art - Carrières-sur-Seine (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/carrieres-sur-seine-programme-9eme-art-200181-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Tilia",
+        "lieu": "Champigny-sur-Marne / La Queue-en-Brie (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/la-queue-en-brie-programme-tilia-200130-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Villa Mansart",
+        "lieu": "Villa Mansart - Beauchamp (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/beauchamp-programme-villa-mansart-198710-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Jardins Saint-Georges",
+        "lieu": "aint-Georges - Villeneuve-Saint-Georges (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/villeneuve-saint-georges-programme-les-jardins-saint-georges-198417-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le Clos du Bois 1 et 2",
+        "lieu": "Le Clos du Bois 1 et 2 - Andilly (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/andilly-programme-le-clos-du-bois-1-et-2-197032-10.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T22:22+00:00",
+    "maj": "2026-10-16T01:18+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -1977,7 +2175,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-15T22:08+00:00",
+    "maj": "2026-10-16T01:04+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -1995,7 +2193,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-15T22:08+00:00",
+    "maj": "2026-10-16T01:04+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2056,7 +2254,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T22:08+00:00",
+    "maj": "2026-10-16T01:04+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -3317,12 +3515,24 @@
         "lieu": "Althea - Paris / Montmagny (95)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/montmagny-programme-althea-211919-8598.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Le Domaine des Cerisiers",
+        "lieu": "des Cerisiers - Montigny-lès-Cormeilles (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/montigny-les-cormeilles-programme-le-domaine-des-cerisiers-202293-8598.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Eugénie",
+        "lieu": "Eugénie - Le Plessis Robinson (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-plessis-robinson-programme-eugenie-202231-8598.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T19:11+00:00",
+    "maj": "2026-10-16T01:17+00:00",
     "type": "promoteur"
   },
   "sas-capi": {
@@ -3527,12 +3737,18 @@
         "lieu": "Le 1930 - Neuilly-Plaisance (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/neuilly-plaisance-programme-le-1930-211885-771.html",
         "statut": "autre"
+      },
+      {
+        "nom": "L'Escale",
+        "lieu": "L'Escale - Cormeilles-en-Parisis (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/cormeilles-en-parisis-programme-lescale-198282-771.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T19:11+00:00",
+    "maj": "2026-10-16T01:18+00:00",
     "type": "promoteur"
   },
   "quartus": {
@@ -4470,12 +4686,18 @@
         "lieu": "Arborea - Champs-sur-Marne (77)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/champs-sur-marne-programme-arborea-209903-295.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Le Gabriel",
+        "lieu": "Le Gabriel - L'Hay-les-Roses (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/lhay-les-roses-programme-le-gabriel-203605-295.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T22:21+00:00",
+    "maj": "2026-10-16T01:17+00:00",
     "type": "promoteur"
   },
   "kaufman-et-broad": {
@@ -4734,12 +4956,36 @@
         "lieu": "Les Jardins de Cos - Villemomble (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/villemomble-programme-les-jardins-de-cos-213947-746.html",
         "statut": "autre"
+      },
+      {
+        "nom": "La Plage aux Champs",
+        "lieu": "Rambouillet / Saint-Arnoult-en-Yvelines (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-arnoult-en-yvelines-programme-la-plage-aux-champs-203905-746.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Ruelle aux Vignes",
+        "lieu": "Ruelle aux Vignes - Provins (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/provins-programme-ruelle-aux-vignes-201614-746.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "L'Aparté",
+        "lieu": "L'Aparté - Vigneux-sur-Seine (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/vigneux-sur-seine-programme-laparte-199591-746.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Terrasses de la Madeleine",
+        "lieu": "es Terrasses de la Madeleine - Pomponne (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/pomponne-programme-les-terrasses-de-la-madeleine-194006-746.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T09:55+00:00",
+    "maj": "2026-10-16T01:18+00:00",
     "type": "promoteur"
   },
   "lelievre-immobilier": {
@@ -4848,12 +5094,36 @@
         "lieu": "Bois et Lumière - Vaux-le-Penil (77)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/vaux-le-penil-programme-bois-et-lumiere-206015-667.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Résidence Harmonie",
+        "lieu": "Résidence Harmonie - Rambouillet (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/rambouillet-programme-residence-harmonie-202739-667.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "L'aparté",
+        "lieu": "L'aparté - Dammarie-les-Lys (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/dammarie-les-lys-programme-laparte-202720-667.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Le Parc des Lumières",
+        "lieu": "Le Parc des Lumières - Vert-Saint-Denis (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/vert-saint-denis-programme-le-parc-des-lumieres-201070-667.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Jardins de Saint Ange",
+        "lieu": "ardins de Saint Ange - Dammarie-les-Lys (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/dammarie-les-lys-programme-les-jardins-de-saint-ange-198001-667.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T22:22+00:00",
+    "maj": "2026-10-16T01:18+00:00",
     "type": "promoteur"
   },
   "interconstruction": {
