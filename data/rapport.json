@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-17T19:08+00:00",
+  "date": "2026-10-17T22:04+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -40,9 +40,9 @@
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/93/",
-      "liens_programme": 4,
+      "liens_programme": 8,
       "hors_idf": 0,
-      "idf": 2
+      "idf": 4
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -131,7 +131,7 @@
     {
       "source": "Emerige",
       "page": "https://www.emerige.com/",
-      "blocs": 106,
+      "blocs": 86,
       "avec_declencheur": 0,
       "avec_mot_programme": 0,
       "avec_localisation": 0
@@ -215,7 +215,7 @@
   "fiches_relues": 0,
   "enrichissement": {
     "ok": 0,
-    "echec_telechargement": 167,
+    "echec_telechargement": 171,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -241,13 +241,13 @@
       }
     ]
   },
-  "fiches_a_relire": 167,
+  "fiches_a_relire": 171,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 0,
+  "nouvelles_fiches": 4,
   "alertes_en_attente": 52,
   "echec_mail": true
 }
