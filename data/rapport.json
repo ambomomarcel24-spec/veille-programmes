@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-17T16:14+00:00",
+  "date": "2026-10-17T19:08+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -247,7 +247,7 @@
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 1,
+  "nouvelles_fiches": 0,
   "alertes_en_attente": 52,
   "echec_mail": true
 }
