@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18T14:24+00:00",
+  "date": "2026-10-18T17:55+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -157,7 +157,7 @@
     {
       "source": "Cogedim",
       "page": "https://www.cogedim.com/",
-      "blocs": 120,
+      "blocs": 124,
       "avec_declencheur": 0,
       "avec_mot_programme": 0,
       "avec_localisation": 0
@@ -212,9 +212,9 @@
       "avec_localisation": 0
     }
   ],
-  "fiches_relues": 1,
+  "fiches_relues": 0,
   "enrichissement": {
-    "ok": 1,
+    "ok": 0,
     "echec_telechargement": 174,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
@@ -247,7 +247,7 @@
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 3,
+  "nouvelles_fiches": 0,
   "alertes_en_attente": 54,
   "echec_mail": true
 }
