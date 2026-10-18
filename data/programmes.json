@@ -5826,7 +5826,7 @@
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Retrospective à Ivry-sur-Seine (94) : programme neuf du T1 au T5, à partir de 227 000 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-15T09:42+00:00"
+    "verifie_le": "2026-10-18T00:45+00:00"
   },
   {
     "id": "ee378833e492cca3",
@@ -5850,7 +5850,7 @@
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur",
     "texte": "Découvrez 7 rue Gaston Monmousseau à Ivry-sur-Seine (94) : programme neuf du T1 au T5, à partir de 230 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-15T09:42+00:00"
+    "verifie_le": "2026-10-18T00:45+00:00"
   },
   {
     "id": "784052be37912606",
@@ -5874,7 +5874,7 @@
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Rives de Seine à Ivry-sur-Seine (94) : programme neuf du T1 au T2, à partir de 256 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-15T09:42+00:00"
+    "verifie_le": "2026-10-18T00:45+00:00"
   },
   {
     "id": "426c1f1f8e2c1a2b",
@@ -5898,7 +5898,7 @@
     "promoteur_cle": "sas-capi",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Ivry-sur-Seine C1 à Ivry-sur-Seine (94) : programme neuf du T2 au T3, à partir de 288 910 €. Vendu par Sas Capi.",
-    "verifie_le": "2026-10-15T09:42+00:00"
+    "verifie_le": "2026-10-18T00:45+00:00"
   },
   {
     "id": "2f46e21535378e0c",
@@ -5922,7 +5922,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Ivry Confluences 1 à Ivry-sur-Seine (94) : programme neuf du T2 au T5, à partir de 253 400 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-15T09:42+00:00"
+    "verifie_le": "2026-10-18T00:45+00:00"
   },
   {
     "id": "553781a957e0399c",
@@ -14144,7 +14144,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Parenthèse à Stains (93) : programme neuf du T1 au T4, à partir de 163 200 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-15T09:51+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -14169,7 +14169,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez En aparté à Stains (93) : programme neuf du T2 au T4, à partir de 178 200 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-15T09:51+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -14194,7 +14194,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Domaine des Prunais BRS à Villiers-sur-Marne (94) : programme neuf du T2 au T5, à partir de 152 762 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-15T09:51+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -14219,7 +14219,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Pierre et Sens à Neuilly-sur-Marne (93) : programme neuf du T1 au T5, à partir de 206 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-15T09:52+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14244,7 +14244,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Flore 2 à Châtenay-Malabry (92) : programme neuf du T1 au T5, à partir de 270 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-15T09:52+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -14269,7 +14269,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Alma à L'Hay-les-Roses (94) : programme neuf du T1 au T5, à partir de 202 208 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-15T09:52+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -14294,7 +14294,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le 5 Raspail à Bagnolet (93) : programme neuf du T1 au T5, à partir de 223 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-15T09:52+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -14319,7 +14319,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Prochainement à Sainte-Geneviève-des-Bois (91) : programme neuf du T1 au T3, à partir de 159 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-15T09:52+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -14344,7 +14344,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Esprit Village à Montlhéry (91) : programme neuf du T1 au T4, à partir de 140 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-15T09:52+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -14369,7 +14369,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le 57 Republique à Châtillon (92) : programme neuf du T2 au T4, à partir de 315 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-10-15T09:54+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14394,7 +14394,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Bel Rives à Choisy-le-Roi (94) : programme neuf du T1 au T5, à partir de 165 000 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-10-15T09:54+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14419,7 +14419,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Majestic en Seine à Villeneuve-la-Garenne (92) : programme neuf du T2 au T5, à partir de 219 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-15T09:54+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -14444,7 +14444,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Rue Olympe de Gouges à Alfortville (94) : programme neuf du T1 au T4, à partir de 229 763 €. Vendu par Emerige.",
-    "verifie_le": "2026-10-15T09:54+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": "https://www.emerige.com",
     "tags": [
       "autre"
@@ -14469,7 +14469,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villanova à Ormoy (91) : programme neuf du T2 au T5, à partir de 175 400 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-15T09:55+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -14494,7 +14494,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Allée Royale à Fontainebleau (77) : programme neuf du T2 au T3, à partir de 299 000 €. Vendu par Stradim.",
-    "verifie_le": "2026-10-15T09:55+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14519,7 +14519,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Moulin de Cerçay à Brunoy (91) : programme neuf du T2 au T4, à partir de 192 010 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-15T09:55+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14544,7 +14544,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez P.a.r.c en Ville à Jouy-le-Moutier (95) : programme neuf du T1 au T4, à partir de 172 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-15T09:55+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -14569,7 +14569,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Central Quai 2 à Villeneuve-la-Garenne (92) : programme neuf du T1 au T5, à partir de 190 779 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-15T09:55+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -14594,7 +14594,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Villas Aolini à Ollainville (91) : programme neuf, à partir de 357 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-15T09:55+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14619,7 +14619,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Essencia à Ormesson-sur-Marne (94) : programme neuf du T1 au T5, à partir de 172 000 €. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-10-15T09:55+00:00",
+    "verifie_le": "2026-10-18T00:45+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
