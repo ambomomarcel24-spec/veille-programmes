@@ -7372,13 +7372,18 @@
     "source": "SeLoger Neuf (Île-de-France)",
     "detecte_le": "2026-10-13T14:26+00:00",
     "contacts": [],
-    "enrichi": false,
-    "promoteur": "à identifier",
+    "enrichi": true,
+    "promoteur": "VINCI IMMOBILIER PROMOTION",
     "origine": "alerte",
     "alerte_envoyee": false,
     "tags": [
       "autre"
-    ]
+    ],
+    "texte": "Découvrez le programme immobilier neuf LES IRIS - Programme à Massy 91300 proposé par VINCI IMMOBILIER PROMOTION. Prenez contact dès maintenant !",
+    "verifie_le": "2026-10-18T14:25+00:00",
+    "promoteur_site": null,
+    "promoteur_cle": "vinci-immobilier-promotion",
+    "promoteur_type": "promoteur"
   },
   {
     "id": "9122df729fb91735",
@@ -15352,7 +15357,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Hamo à Igny (91) : programme neuf du T2 au T4, à partir de 243 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -15377,7 +15382,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villa Hennequin à Ecquevilly (78) : programme neuf du T1 au T4, à partir de 139 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15402,7 +15407,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Reflets de Seine à Alfortville (94) : programme neuf du T1 au T5, à partir de 232 800 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -15427,7 +15432,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos des Rougeux à Jouy-le-Moutier (95) : programme neuf du T1 au T4, à partir de 149 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15452,7 +15457,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez La Cour aux Blés à Survilliers (95) : programme neuf du T2 au T4, à partir de 238 800 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -15477,7 +15482,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez La Galopee à Rambouillet (78) : programme neuf du T2 au T4, à partir de 227 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15502,7 +15507,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villa Louis-Alexandre - Appartements à Neauphle-le-Château (78) : programme neuf du T2 au T5, à partir de 263 900 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -15527,7 +15532,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Carré Noyer - Maisons à Bondoufle (91) : programme neuf, à partir de 327 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -15552,7 +15557,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Promenade de Lisle à Poissy (78) : programme neuf du T3 au T5, à partir de 309 000 €. Vendu par Emerige.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": "https://www.emerige.com",
     "tags": [
       "autre"
@@ -15577,7 +15582,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Collection 14 à Valenton (94) : programme neuf du T2 au T3, à partir de 211 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -15602,7 +15607,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Effervescence à Palaiseau (91) : programme neuf T3, à partir de 358 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -15627,7 +15632,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins de Neil à Bezons (95) : programme neuf T3, à partir de 322 001 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -15652,7 +15657,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Georges à Bussy-Saint-Georges (77) : programme neuf du T2 au T5, à partir de 239 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15677,7 +15682,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Envol à Voisins-le-Bretonneux (78) : programme neuf du T2 au T5, à partir de 169 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15702,7 +15707,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Nouvelle Vague à Le Plessis Robinson (92) : programme neuf du T3 au T5, à partir de 432 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-10-15T15:00+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15727,7 +15732,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Incontournable à Clichy-la-Garenne (92) : programme neuf T4, à partir de 899 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-10-15T15:00+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15752,7 +15757,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Ateliers de Poissy à Poissy (78) : programme neuf du T1 au T6, à partir de 209 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-10-15T15:00+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15777,7 +15782,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Ciels de Saint-Cloud à Saint-Cloud (92) : programme neuf du T3 au T5, à partir de 549 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-10-15T15:00+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15802,7 +15807,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Domaine de la Plaine à Montesson (78) : programme neuf, à partir de 637 900 €. Vendu par Ogic.",
-    "verifie_le": "2026-10-15T15:00+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15827,7 +15832,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez 144 Eiffel à Montmorency (95) : programme neuf du T2 au T4, à partir de 250 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-15T15:00+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -15852,7 +15857,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Domaine Belle Epoque à Mennecy (91) : programme neuf du T2 au T5, à partir de 177 200 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-15T15:00+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -15877,7 +15882,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Nouvel Angle à Savigny-le-Temple (77) : programme neuf du T2 au T4, à partir de 164 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-10-15T15:00+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15902,7 +15907,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Syneo à Clichy-sous-Bois (93) : programme neuf du T1 au T4, à partir de 125 721 €. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-10-15T15:00+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15927,7 +15932,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Parc des Vignes à Saint-Thibault-des-Vignes (77) : programme neuf T3, à partir de 274 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-15T15:00+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15952,7 +15957,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Carré Noyer - Appartements à Bondoufle (91) : programme neuf du T2 au T3, à partir de 180 500 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-15T15:00+00:00",
+    "verifie_le": "2026-10-18T14:24+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -20889,5 +20894,66 @@
     ],
     "promoteur_cle": "demathieu-bard-immobilier",
     "promoteur_type": "promoteur"
+  },
+  {
+    "id": "43dce2e29c2b522a",
+    "nom": "Prochainement à Puteaux",
+    "lieu": "Puteaux (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/puteaux-92/277955789/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Avant-première",
+    "statut": "avant-première",
+    "date_publication": null,
+    "extrait": "Avant-première Prochainement à Puteaux Puteaux Du studio au 5 pièces à partir de 218 000 € Ascenseur Proposé par EMERIGE RESIDENTIEL PROCHAINEMENT À PUTEAUX Idéalement située à deux pas des commerces, du boulevard Richard Wallace, et des bords de Seine, cette nouvelle résidence de grand standing dév",
+    "numero": 277955789,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-18T14:24+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "avant-première"
+    ]
+  },
+  {
+    "id": "43f1c45ee74cadca",
+    "nom": "VILLA MANSART",
+    "lieu": "Combs la Ville (77)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/combs-la-ville-77/281640067/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "VILLA MANSART Combs-la-Ville Appartement 3 pièces 245 000 € Jardin Parking Découvrez ce nouveau complexe résidentiel niché au cœur de Combs-la-Ville, située à environ quarante kilomètres de Paris. Cette ville dynamique et plaisante offre tous les atouts pour une vie [...]",
+    "numero": 281640067,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-18T14:24+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "582e8454732f56e9",
+    "nom": "ALTHEA",
+    "lieu": "Montmagny (95)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montmagny-95/232071583/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Travaux en cours",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Travaux en cours ALTHEA Montmagny Du studio au 4 pièces à partir de 194 000 € Jardin Terrasse Balcon Parking Proposé par ICADE DEMARRAGE DES TRAVAUX | RÉSIDENCE ÉLIGIBLE À LA TVA 5,5 %* DÉCOUVREZ LA MAQUETTE PHYSIQUE DANS NOTRE ESPACE DE VENTE Devenez propriétaire d'un appartement neuf grâce au disp",
+    "numero": 232071583,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-18T14:24+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "tva_reduite",
+      "travaux_en_cours"
+    ]
   }
 ]

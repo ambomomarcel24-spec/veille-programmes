@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18T10:43+00:00",
+  "date": "2026-10-18T14:24+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -62,10 +62,10 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2685,
-      "deja_connues": 2670,
-      "lues": 15,
-      "idf": 3,
-      "sans_localisation": 12,
+      "deja_connues": 2685,
+      "lues": 0,
+      "idf": 0,
+      "sans_localisation": 0,
       "echec": 0,
       "numero_max": 219023
     },
@@ -157,7 +157,7 @@
     {
       "source": "Cogedim",
       "page": "https://www.cogedim.com/",
-      "blocs": 114,
+      "blocs": 120,
       "avec_declencheur": 0,
       "avec_mot_programme": 0,
       "avec_localisation": 0
@@ -212,10 +212,10 @@
       "avec_localisation": 0
     }
   ],
-  "fiches_relues": 3,
+  "fiches_relues": 1,
   "enrichissement": {
-    "ok": 3,
-    "echec_telechargement": 172,
+    "ok": 1,
+    "echec_telechargement": 174,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -239,15 +239,9 @@
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classified_detail_S",
         "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classi"
       }
-    ],
-    "sites": {
-      "interrogés": 1,
-      "pages_lues": 1,
-      "avec_mail": 0,
-      "sans_page": []
-    }
+    ]
   },
-  "fiches_a_relire": 172,
+  "fiches_a_relire": 174,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
