@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18T00:45+00:00",
+  "date": "2026-10-18T05:36+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -82,7 +82,7 @@
     {
       "source": "Bouygues Immobilier",
       "page": "https://www.bouygues-immobilier.com/",
-      "blocs": 119,
+      "blocs": 120,
       "avec_declencheur": 2,
       "avec_mot_programme": 2,
       "avec_localisation": 0
@@ -157,7 +157,10 @@
     {
       "source": "Cogedim",
       "page": "https://www.cogedim.com/",
-      "non_lue": true
+      "blocs": 124,
+      "avec_declencheur": 0,
+      "avec_mot_programme": 0,
+      "avec_localisation": 0
     },
     {
       "source": "Cogedim",
@@ -212,7 +215,7 @@
   "fiches_relues": 0,
   "enrichissement": {
     "ok": 0,
-    "echec_telechargement": 171,
+    "echec_telechargement": 172,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -238,13 +241,13 @@
       }
     ]
   },
-  "fiches_a_relire": 171,
+  "fiches_a_relire": 172,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 0,
+  "nouvelles_fiches": 1,
   "alertes_en_attente": 52,
   "echec_mail": true
 }
