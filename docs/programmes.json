@@ -6323,7 +6323,7 @@
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Villa Charleston à Maisons-Alfort (94) : programme neuf du T1 au T5, à partir de 219 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-10-15T14:46+00:00"
+    "verifie_le": "2026-10-18T10:43+00:00"
   },
   {
     "id": "1e3d166795209405",
@@ -6347,7 +6347,7 @@
     "promoteur_cle": "bnp-paribas-real-estate",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Premier Art à Maisons-Alfort (94) : programme neuf du T3 au T4, à partir de 381 000 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-10-15T14:46+00:00"
+    "verifie_le": "2026-10-18T10:43+00:00"
   },
   {
     "id": "3aaa4d355b55098a",
@@ -6371,7 +6371,7 @@
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Promenades de l'Ourcq à Meaux (77) : programme neuf du T2 au T3, à partir de 192 537 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-15T14:46+00:00"
+    "verifie_le": "2026-10-18T10:43+00:00"
   },
   {
     "id": "220c214468c86edb",
@@ -6395,7 +6395,7 @@
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Tandem à Meaux (77) : programme neuf du T2 au T4, à partir de 172 800 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-15T14:46+00:00"
+    "verifie_le": "2026-10-18T10:43+00:00"
   },
   {
     "id": "c5be822567fe3b50",
@@ -6419,7 +6419,7 @@
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Square Foch - Tranche 2 à Meaux (77) : programme neuf du T1 au T5, à partir de 132 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-10-15T14:46+00:00"
+    "verifie_le": "2026-10-18T10:43+00:00"
   },
   {
     "id": "ac2ac0c7defb3df2",
@@ -6443,7 +6443,7 @@
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Square Foch à Meaux (77) : programme neuf du T1 au T4, à partir de 135 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-10-15T14:46+00:00"
+    "verifie_le": "2026-10-18T10:43+00:00"
   },
   {
     "id": "ab7779417b35b557",
@@ -6467,7 +6467,7 @@
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Jardins de l'Ourcq à Meaux (77) : programme neuf du T1 au T4, à partir de 136 271 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-15T14:46+00:00"
+    "verifie_le": "2026-10-18T10:43+00:00"
   },
   {
     "id": "e676cf3ed4d6c33a",
@@ -6491,7 +6491,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Proche Centre Historique à Meaux (77) : programme neuf du T2 au T4, à partir de 184 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-15T14:46+00:00"
+    "verifie_le": "2026-10-18T10:43+00:00"
   },
   {
     "id": "e5d07b5aa21bd3ee",
@@ -6515,7 +6515,7 @@
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur",
     "texte": "Découvrez L'Embellie à Meaux (77) : programme neuf du T1 au T5, à partir de 130 556 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-10-15T14:46+00:00"
+    "verifie_le": "2026-10-18T10:43+00:00"
   },
   {
     "id": "fbe377b17cd0c5e3",
@@ -6539,7 +6539,7 @@
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Jardins Kléber à Pantin (93) : programme neuf du T2 au T4, à partir de 325 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-15T14:46+00:00"
+    "verifie_le": "2026-10-18T10:43+00:00"
   },
   {
     "id": "48321c1ff1a0449e",
@@ -6563,7 +6563,7 @@
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Lumine&sens 2 à Fontenay-sous-Bois (94) : programme neuf du T1 au T5, à partir de 214 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-15T14:46+00:00"
+    "verifie_le": "2026-10-18T10:43+00:00"
   },
   {
     "id": "f1048c49d558434a",
@@ -15001,7 +15001,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Seine de Vies à Villennes-sur-Seine (78) : programme neuf du T1 au T4, à partir de 156 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-15T14:53+00:00",
+    "verifie_le": "2026-10-18T10:43+00:00",
     "promoteur_site": "https://cogedim.com",
     "alerte_envoyee": false,
     "tags": [
@@ -15027,7 +15027,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Coeur Jardin à Stains (93) : programme neuf du T2 au T4, à partir de 169 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-15T14:56+00:00",
+    "verifie_le": "2026-10-18T10:43+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -15052,7 +15052,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos Champeau à Chanteloup-les-Vignes (78) : programme neuf du T1 au T4, à partir de 142 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-15T14:58+00:00",
+    "verifie_le": "2026-10-18T10:43+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -15077,7 +15077,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez City Art à Thiais (94) : programme neuf du T1 au T5, à partir de 199 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-15T14:58+00:00",
+    "verifie_le": "2026-10-18T10:43+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -15102,7 +15102,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Horizons du Paradis à Fontenay-aux-Roses (92) : programme neuf du T2 au T4, à partir de 288 300 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-15T14:58+00:00",
+    "verifie_le": "2026-10-18T10:43+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -15127,7 +15127,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Écrin des Étangs à Ville-d'Avray (92) : programme neuf du T2 au T5, à partir de 438 300 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-15T14:58+00:00",
+    "verifie_le": "2026-10-18T10:43+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -15152,7 +15152,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Domaine des Prunais Chapitre 1 à Villiers-sur-Marne (94) : programme neuf du T1 au T4, à partir de 222 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-15T14:58+00:00",
+    "verifie_le": "2026-10-18T10:43+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -15177,7 +15177,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Ora à Dugny (93) : programme neuf du T1 au T5, à partir de 155 000 €. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T10:43+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15202,7 +15202,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez La Résidence du Chateau à Savigny-le-Temple (77) : programme neuf du T1 au T4, à partir de 146 900 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T10:43+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -15227,7 +15227,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villa Rosella à L'Hay-les-Roses (94) : programme neuf du T2 au T3, à partir de 236 700 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T10:43+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -15252,7 +15252,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Belvédère Charles Christofle à Brunoy (91) : programme neuf du T1 au T4, à partir de 182 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T10:43+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15277,7 +15277,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Solea à Coupvray (77) : programme neuf du T1 au T5, à partir de 198 100 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T10:43+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
@@ -15302,7 +15302,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Nations Avenue à Montévrain (77) : programme neuf du T2 au T4, à partir de 269 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T10:43+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -15327,7 +15327,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins Villarceaux à Thoiry (78) : programme neuf, à partir de 338 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-15T14:59+00:00",
+    "verifie_le": "2026-10-18T10:43+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -20812,5 +20812,82 @@
       "nouvelle opportunité",
       "travaux_en_cours"
     ]
+  },
+  {
+    "id": "09b5b2e9a6d2795c",
+    "nom": "Résidence La Passerelle",
+    "lieu": "Résidence La Passerelle - Melun (77)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/melun-programme-residence-la-passerelle-219018-667.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Résidence La Passerelle - Melun (77)",
+    "numero": 219018,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Stradim",
+    "contacts": [],
+    "detecte_le": "2026-10-18T10:43+00:00",
+    "enrichi": true,
+    "origine": "alerte",
+    "texte": "Découvrez Résidence La Passerelle à Melun (77) : programme neuf du T1 au T3, à partir de 145 000 €. Vendu par Stradim.",
+    "verifie_le": "2026-10-18T10:45+00:00",
+    "promoteur_site": null,
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "stradim",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "54979d4fc4623eec",
+    "nom": "Rue Pierre Chapitre 5",
+    "lieu": "ierre Chapitre 5 - Saint-Ouen-sur-Seine (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-ouen-sur-seine-programme-rue-pierre-chapitre-5-219017-11202.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Rue Pierre Chapitre 5 - Saint-Ouen-sur-Seine (93)",
+    "numero": 219017,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Emerige",
+    "contacts": [],
+    "detecte_le": "2026-10-18T10:43+00:00",
+    "enrichi": true,
+    "origine": "alerte",
+    "texte": "Découvrez Rue Pierre Chapitre 5 à Saint-Ouen-sur-Seine (93) : programme neuf du T2 au T4, à partir de 384 754 €. Vendu par Emerige.",
+    "verifie_le": "2026-10-18T10:45+00:00",
+    "promoteur_site": "https://www.emerige.com",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "emerige",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "cae42c408e7f60e9",
+    "nom": "Par Nature ...",
+    "lieu": "Par Nature ... - Nanterre (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/nanterre-programme-par-nature-218659-11636.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Par Nature ... - Nanterre (92)",
+    "numero": 218659,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Demathieu Bard Immobilier",
+    "contacts": [],
+    "detecte_le": "2026-10-18T10:43+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Par Nature ... à Nanterre (92) : programme neuf. Vendu par Demathieu Bard Immobilier.",
+    "verifie_le": "2026-10-18T10:50+00:00",
+    "promoteur_site": null,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "demathieu-bard-immobilier",
+    "promoteur_type": "promoteur"
   }
 ]

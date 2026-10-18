@@ -26,7 +26,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-18T05:36+00:00",
+    "maj": "2026-10-18T10:43+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -273,7 +273,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-18T05:36+00:00",
+    "maj": "2026-10-18T10:43+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -478,7 +478,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-18T05:36+00:00",
+    "maj": "2026-10-18T10:43+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -593,13 +593,19 @@
         "lieu": "artier de la Roseraie - L'Hay-les-Roses (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/lhay-les-roses-programme-quartier-de-la-roseraie-212757-11202.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Rue Pierre Chapitre 5",
+        "lieu": "ierre Chapitre 5 - Saint-Ouen-sur-Seine (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-ouen-sur-seine-programme-rue-pierre-chapitre-5-219017-11202.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-18T05:36+00:00",
+    "maj": "2026-10-18T10:45+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -635,7 +641,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-18T05:36+00:00",
+    "maj": "2026-10-18T10:43+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -653,7 +659,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-18T05:36+00:00",
+    "maj": "2026-10-18T10:43+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -690,7 +696,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-18T05:36+00:00",
+    "maj": "2026-10-18T10:43+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -708,7 +714,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-18T05:36+00:00",
+    "maj": "2026-10-18T10:43+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -732,7 +738,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-18T05:36+00:00",
+    "maj": "2026-10-18T10:43+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1405,7 +1411,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-18T05:36+00:00",
+    "maj": "2026-10-18T10:43+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1736,7 +1742,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-18T05:36+00:00",
+    "maj": "2026-10-18T10:43+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2211,7 +2217,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-18T05:36+00:00",
+    "maj": "2026-10-18T10:43+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2229,7 +2235,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-18T05:36+00:00",
+    "maj": "2026-10-18T10:43+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2247,7 +2253,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-18T05:36+00:00",
+    "maj": "2026-10-18T10:43+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2308,7 +2314,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-18T05:36+00:00",
+    "maj": "2026-10-18T10:43+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -3917,12 +3923,18 @@
         "lieu": "Chrysalis - Cachan (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/cachan-programme-chrysalis-212727-11636.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Par Nature ...",
+        "lieu": "Par Nature ... - Nanterre (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/nanterre-programme-par-nature-218659-11636.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T15:00+00:00",
+    "maj": "2026-10-18T10:50+00:00",
     "type": "promoteur"
   },
   "ogic": {
@@ -5184,12 +5196,18 @@
         "lieu": "ardins de Saint Ange - Dammarie-les-Lys (77)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/dammarie-les-lys-programme-les-jardins-de-saint-ange-198001-667.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Résidence La Passerelle",
+        "lieu": "Résidence La Passerelle - Melun (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/melun-programme-residence-la-passerelle-219018-667.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-16T01:18+00:00",
+    "maj": "2026-10-18T10:45+00:00",
     "type": "promoteur"
   },
   "interconstruction": {
