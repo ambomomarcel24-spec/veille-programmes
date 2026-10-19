@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-19T00:59+00:00",
+  "date": "2026-10-19T06:02+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -56,7 +56,7 @@
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/95/",
       "liens_programme": 42,
       "hors_idf": 0,
-      "idf": 21
+      "idf": 20
     },
     {
       "source": "Trouver un logement neuf",
@@ -82,7 +82,7 @@
     {
       "source": "Bouygues Immobilier",
       "page": "https://www.bouygues-immobilier.com/",
-      "blocs": 118,
+      "blocs": 120,
       "avec_declencheur": 2,
       "avec_mot_programme": 2,
       "avec_localisation": 0
@@ -247,7 +247,7 @@
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 1,
+  "nouvelles_fiches": 0,
   "alertes_en_attente": 54,
   "echec_mail": true
 }
