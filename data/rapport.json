@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-20T11:13+00:00",
+  "date": "2026-10-20T16:38+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -26,9 +26,9 @@
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/91/",
-      "liens_programme": 42,
+      "liens_programme": 24,
       "hors_idf": 0,
-      "idf": 21
+      "idf": 12
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -105,7 +105,7 @@
     {
       "source": "Vinci Immobilier",
       "page": "https://www.vinci-immobilier.com/",
-      "blocs": 164,
+      "blocs": 163,
       "avec_declencheur": 16,
       "avec_mot_programme": 16,
       "avec_localisation": 0
@@ -157,7 +157,7 @@
     {
       "source": "Cogedim",
       "page": "https://www.cogedim.com/",
-      "blocs": 124,
+      "blocs": 125,
       "avec_declencheur": 0,
       "avec_mot_programme": 0,
       "avec_localisation": 0
@@ -215,7 +215,7 @@
   "fiches_relues": 0,
   "enrichissement": {
     "ok": 0,
-    "echec_telechargement": 186,
+    "echec_telechargement": 188,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -241,13 +241,13 @@
       }
     ]
   },
-  "fiches_a_relire": 186,
+  "fiches_a_relire": 188,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 1,
+  "nouvelles_fiches": 2,
   "alertes_en_attente": 56,
   "echec_mail": true
 }
