@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-20T16:38+00:00",
+  "date": "2026-10-20T20:21+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -82,7 +82,7 @@
     {
       "source": "Bouygues Immobilier",
       "page": "https://www.bouygues-immobilier.com/",
-      "blocs": 120,
+      "blocs": 121,
       "avec_declencheur": 2,
       "avec_mot_programme": 2,
       "avec_localisation": 0
@@ -215,7 +215,7 @@
   "fiches_relues": 0,
   "enrichissement": {
     "ok": 0,
-    "echec_telechargement": 188,
+    "echec_telechargement": 190,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -241,13 +241,13 @@
       }
     ]
   },
-  "fiches_a_relire": 188,
+  "fiches_a_relire": 190,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
   "nouvelles_fiches": 2,
-  "alertes_en_attente": 56,
+  "alertes_en_attente": 57,
   "echec_mail": true
 }
