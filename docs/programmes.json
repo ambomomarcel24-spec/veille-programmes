@@ -5178,7 +5178,7 @@
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Terrasses Marceau TR2 b à Drancy (93) : programme neuf T3, à partir de 264 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-10-17T03:49+00:00"
+    "verifie_le": "2026-10-21T09:55+00:00"
   },
   {
     "id": "1c9c04bb8ea4cf7e",
@@ -5202,7 +5202,7 @@
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le 58 Jaurès à Drancy (93) : programme neuf du T1 au T4, à partir de 172 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-17T03:49+00:00"
+    "verifie_le": "2026-10-21T09:55+00:00"
   },
   {
     "id": "5ade9e7db55d845a",
@@ -5226,7 +5226,7 @@
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le 259 Jaurès à Drancy (93) : programme neuf du T2 au T5, à partir de 210 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-17T03:49+00:00"
+    "verifie_le": "2026-10-21T09:55+00:00"
   },
   {
     "id": "09c7828827103a3c",
@@ -5250,7 +5250,7 @@
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Esprit Marceau à Drancy (93) : programme neuf T3, à partir de 279 575 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-10-17T03:49+00:00"
+    "verifie_le": "2026-10-21T09:55+00:00"
   },
   {
     "id": "ba7bf0309e157222",
@@ -5274,7 +5274,7 @@
     "promoteur_cle": "interconstruction-amenagement",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Cadence à Drancy (93) : programme neuf du T3 au T4, à partir de 245 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-10-17T03:49+00:00"
+    "verifie_le": "2026-10-21T09:55+00:00"
   },
   {
     "id": "5fb192609187b202",
@@ -5298,7 +5298,7 @@
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le Palladio à Drancy (93) : programme neuf du T1 au T4, à partir de 196 933 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-17T03:49+00:00"
+    "verifie_le": "2026-10-21T09:55+00:00"
   },
   {
     "id": "d8a1ef4855f84ef7",
@@ -5322,7 +5322,7 @@
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur",
     "texte": "Découvrez L'Anatole à Drancy (93) : programme neuf du T2 au T4, à partir de 220 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-17T03:49+00:00"
+    "verifie_le": "2026-10-21T09:55+00:00"
   },
   {
     "id": "dd8b25ee66f613ab",
@@ -5346,7 +5346,7 @@
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Elegance à Drancy (93) : programme neuf du T1 au T4, à partir de 195 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-10-17T03:49+00:00"
+    "verifie_le": "2026-10-21T09:55+00:00"
   },
   {
     "id": "51c6447ae0a6a5b4",
@@ -11808,7 +11808,7 @@
       "autre"
     ],
     "texte": "Découvrez Cour Renaissance à Juvisy-sur-Orge (91) : programme neuf du T1 au T4, à partir de 154 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-17T08:25+00:00",
+    "verifie_le": "2026-10-21T09:55+00:00",
     "promoteur_site": null,
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur"
@@ -11833,7 +11833,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Jardins de Fréville à Egly (91) : programme neuf du T1 au T5, à partir de 133 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-17T08:25+00:00",
+    "verifie_le": "2026-10-21T09:55+00:00",
     "promoteur_site": "https://lnc.fr",
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur"
@@ -11858,7 +11858,7 @@
       "autre"
     ],
     "texte": "Découvrez Accord Nature à Romainville (93) : programme neuf du T1 au T5, à partir de 213 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-17T08:25+00:00",
+    "verifie_le": "2026-10-21T09:55+00:00",
     "promoteur_site": "https://cogedim.com",
     "promoteur_cle": "cogedim",
     "promoteur_type": "promoteur"
@@ -11883,7 +11883,7 @@
       "autre"
     ],
     "texte": "Découvrez Aurore à Bezons (95) : programme neuf du T1 au T4, à partir de 169 000 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-17T08:25+00:00",
+    "verifie_le": "2026-10-21T09:55+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
@@ -11908,7 +11908,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Terrasses Flouquet à L'Hay-les-Roses (94) : programme neuf du T1 au T4, à partir de 152 000 €. Vendu par Ogic.",
-    "verifie_le": "2026-10-17T08:25+00:00",
+    "verifie_le": "2026-10-21T09:55+00:00",
     "promoteur_site": null,
     "promoteur_cle": "ogic",
     "promoteur_type": "promoteur"
@@ -11933,7 +11933,7 @@
       "autre"
     ],
     "texte": "Découvrez Prochainement à Châtillon (92) : programme neuf du T1 au T3, à partir de 280 250 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-17T08:25+00:00",
+    "verifie_le": "2026-10-21T09:55+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -11958,7 +11958,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Clos Saint Martin à Étampes (91) : programme neuf du T2 au T3, à partir de 152 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-17T08:25+00:00",
+    "verifie_le": "2026-10-21T09:55+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -11983,7 +11983,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Quatorze à Thiais (94) : programme neuf du T1 au T4, à partir de 182 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-17T08:25+00:00",
+    "verifie_le": "2026-10-21T09:55+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -12008,7 +12008,7 @@
       "autre"
     ],
     "texte": "Découvrez L'Archipel à Cormeilles-en-Parisis (95) : programme neuf T5, à partir de 640 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-17T08:25+00:00",
+    "verifie_le": "2026-10-21T09:55+00:00",
     "promoteur_site": "https://cogedim.com",
     "promoteur_cle": "cogedim",
     "promoteur_type": "promoteur"
@@ -12033,7 +12033,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa Henri à L'Hay-les-Roses (94) : programme neuf du T1 au T4, à partir de 209 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-17T08:25+00:00",
+    "verifie_le": "2026-10-21T09:55+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -12058,7 +12058,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Quarante Arpents à Alfortville (94) : programme neuf du T1 au T5, à partir de 229 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-17T08:25+00:00",
+    "verifie_le": "2026-10-21T09:55+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -12083,7 +12083,7 @@
       "autre"
     ],
     "texte": "Découvrez Domaine de la Chesnaie à Livry-sur-Seine (77) : programme neuf du T2 au T3, à partir de 159 000 €. Vendu par Stradim.",
-    "verifie_le": "2026-10-17T08:25+00:00",
+    "verifie_le": "2026-10-21T09:55+00:00",
     "promoteur_site": null,
     "promoteur_cle": "stradim",
     "promoteur_type": "promoteur"
@@ -12108,7 +12108,7 @@
       "autre"
     ],
     "texte": "Découvrez Edenia à Châtenay-Malabry (92) : programme neuf du T2 au T5, à partir de 311 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-17T08:25+00:00",
+    "verifie_le": "2026-10-21T09:55+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur"
@@ -12133,7 +12133,7 @@
       "autre"
     ],
     "texte": "Découvrez Limeil-Brévannes C1 à Limeil-Brévannes (94) : programme neuf du T1 au T4, à partir de 169 000 €. Vendu par Sas Capi.",
-    "verifie_le": "2026-10-17T08:25+00:00",
+    "verifie_le": "2026-10-21T09:55+00:00",
     "promoteur_site": null,
     "promoteur_cle": "sas-capi",
     "promoteur_type": "promoteur"
@@ -12158,7 +12158,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Clos de Maule à Bailly (78) : programme neuf du T1 au T4, à partir de 226 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-17T08:25+00:00",
+    "verifie_le": "2026-10-21T09:55+00:00",
     "promoteur_site": "https://lnc.fr",
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur"
@@ -12183,7 +12183,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Clos des Roches à Boissise-le-Roi (77) : programme neuf, à partir de 316 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-17T08:25+00:00",
+    "verifie_le": "2026-10-21T09:55+00:00",
     "promoteur_site": "https://cogedim.com",
     "promoteur_cle": "cogedim",
     "promoteur_type": "promoteur"
@@ -12208,7 +12208,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Terrasses de l'Hôtel de Ville à Conflans-Sainte-Honorine (78) : programme neuf du T1 au T5, à partir de 143 200 €. Vendu par Interconstruction...",
-    "verifie_le": "2026-10-17T08:25+00:00",
+    "verifie_le": "2026-10-21T09:55+00:00",
     "promoteur_site": null,
     "promoteur_cle": "interconstruction",
     "promoteur_type": "promoteur"
@@ -21282,6 +21282,26 @@
     "alerte_envoyee": false,
     "tags": [
       "autre"
+    ]
+  },
+  {
+    "id": "c9137abd8ae311b5",
+    "nom": "Serene II",
+    "lieu": "Gennevilliers (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/gennevilliers-92/282018141/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Serene II Gennevilliers 42 logements Prix : nous contacter GRAND LANCEMENT LE 6 NOVEMBRE | FRAIS DE NOTAIRE OFFERTS* pour les 10 premiers réservataires. . A Gennevilliers, rue des Bas dans le quartier des Agnettes, découvrez notre nouvelle résidence SERENE [...]",
+    "numero": 282018141,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-21T09:55+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "frais_offerts"
     ]
   }
 ]
