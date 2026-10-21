@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-21T14:59+00:00",
+  "date": "2026-10-21T19:15+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -26,9 +26,9 @@
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/91/",
-      "liens_programme": 32,
+      "liens_programme": 38,
       "hors_idf": 0,
-      "idf": 16
+      "idf": 19
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -62,10 +62,10 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2693,
-      "deja_connues": 2681,
-      "lues": 12,
-      "idf": 4,
-      "sans_localisation": 8,
+      "deja_connues": 2693,
+      "lues": 0,
+      "idf": 0,
+      "sans_localisation": 0,
       "echec": 0,
       "numero_max": 219029
     },
@@ -212,10 +212,10 @@
       "avec_localisation": 0
     }
   ],
-  "fiches_relues": 4,
+  "fiches_relues": 0,
   "enrichissement": {
-    "ok": 4,
-    "echec_telechargement": 193,
+    "ok": 0,
+    "echec_telechargement": 194,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -239,24 +239,15 @@
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classified_detail_S",
         "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classi"
       }
-    ],
-    "sites": {
-      "interrogés": 2,
-      "pages_lues": 0,
-      "avec_mail": 0,
-      "sans_page": [
-        "https://lnc.fr",
-        "https://www.nexity.fr"
-      ]
-    }
+    ]
   },
-  "fiches_a_relire": 193,
+  "fiches_a_relire": 194,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 6,
+  "nouvelles_fiches": 1,
   "alertes_en_attente": 60,
   "echec_mail": true
 }
