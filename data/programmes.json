@@ -5658,7 +5658,7 @@
     "promoteur_cle": "emerige",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Collection Pierret à Neuilly-sur-Seine (92) : programme neuf du T1 au T5, à partir de 495 000 €. Vendu par Emerige.",
-    "verifie_le": "2026-10-17T16:14+00:00"
+    "verifie_le": "2026-10-21T23:07+00:00"
   },
   {
     "id": "7ad404497b30fda6",
@@ -5682,7 +5682,7 @@
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur",
     "texte": "Découvrez 58 Victor Hugo à Neuilly-sur-Seine (92) : programme neuf du T1 au T5, à partir de 556 000 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-17T16:14+00:00"
+    "verifie_le": "2026-10-21T23:07+00:00"
   },
   {
     "id": "0d489a3fbb3b6887",
@@ -5706,7 +5706,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Jardins Michalon à Antony (92) : programme neuf du T1 au T4, à partir de 235 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-17T16:14+00:00"
+    "verifie_le": "2026-10-21T23:07+00:00"
   },
   {
     "id": "a02ba59c1ed636d3",
@@ -5730,7 +5730,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le 115 Briand à Antony (92) : programme neuf du T1 au T4, à partir de 226 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-17T16:14+00:00"
+    "verifie_le": "2026-10-21T23:07+00:00"
   },
   {
     "id": "71604e292db128ce",
@@ -5754,7 +5754,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Cottages Léonard de Vinci à Antony (92) : programme neuf du T4 au T5, à partir de 478 500 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-17T16:14+00:00"
+    "verifie_le": "2026-10-21T23:07+00:00"
   },
   {
     "id": "b94d09f0a4f7d460",
@@ -5778,7 +5778,7 @@
     "promoteur_cle": "emerige",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Avenue François Arago - BRS à Antony (92) : programme neuf du T2 au T4, à partir de 180 000 €. Vendu par Emerige.",
-    "verifie_le": "2026-10-17T16:14+00:00"
+    "verifie_le": "2026-10-21T23:07+00:00"
   },
   {
     "id": "e0a928519c7d9646",
@@ -5802,7 +5802,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Village Garance à Sarcelles (95) : programme neuf du T2 au T5, à partir de 212 900 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-17T16:14+00:00"
+    "verifie_le": "2026-10-21T23:07+00:00"
   },
   {
     "id": "d1350a9434a01e13",
@@ -9264,7 +9264,7 @@
     ],
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur",
-    "verifie_le": "2026-10-17T16:14+00:00"
+    "verifie_le": "2026-10-21T23:07+00:00"
   },
   {
     "id": "89828ef9dc7f5bbd",
@@ -13174,7 +13174,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villas Sohana à Bussy-Saint-Georges (77) : programme neuf du T1 au T3, à partir de 167 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-17T16:14+00:00",
+    "verifie_le": "2026-10-21T23:07+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -13199,7 +13199,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Plaine Nature à Torcy (77) : programme neuf du T2 au T3, à partir de 237 375 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-17T19:08+00:00",
+    "verifie_le": "2026-10-21T23:07+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -13224,7 +13224,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Reflet du Château à Châtenay-Malabry (92) : programme neuf du T3 au T4, à partir de 347 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-17T19:08+00:00",
+    "verifie_le": "2026-10-21T23:07+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -13249,7 +13249,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez La Faïencerie à Bourg-la-Reine (92) : programme neuf du T2 au T3, à partir de 295 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-17T19:08+00:00",
+    "verifie_le": "2026-10-21T23:07+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -13274,7 +13274,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins d'Adèle (93) à Montfermeil (93) : programme neuf T3, à partir de 270 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-17T19:08+00:00",
+    "verifie_le": "2026-10-21T23:07+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -13299,7 +13299,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Résidence Albert Mourlan (93) à Montfermeil (93) : programme neuf du T1 au T4, à partir de 175 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-17T19:08+00:00",
+    "verifie_le": "2026-10-21T23:07+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -13324,7 +13324,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Jardin en Scène (95) à Louvres (95) : programme neuf du T1 au T3, à partir de 159 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-17T19:08+00:00",
+    "verifie_le": "2026-10-21T23:07+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -13349,7 +13349,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Domaine des Ormes à Coupvray (77) : programme neuf T4, à partir de 358 000 €. Vendu par Isia Immo.",
-    "verifie_le": "2026-10-17T19:08+00:00",
+    "verifie_le": "2026-10-21T23:07+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -13374,7 +13374,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Résidence de l'Ormeteau à Dugny (93) : programme neuf du T2 au T5, à partir de 167 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-17T19:08+00:00",
+    "verifie_le": "2026-10-21T23:07+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -13399,7 +13399,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Domaine de la Croix de l'Ermite - Maisons à Dugny (93) : programme neuf du T4 au T5, à partir de 367 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-17T19:08+00:00",
+    "verifie_le": "2026-10-21T23:07+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -13424,7 +13424,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Plaine Horizon à Noisy-le-Roi (78) : programme neuf du T1 au T4, à partir de 190 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-17T19:08+00:00",
+    "verifie_le": "2026-10-21T23:07+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -13449,7 +13449,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Hameau des Prés à Fontenay-Tresigny (77) : programme neuf du T2 au T4, à partir de 165 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-17T19:08+00:00",
+    "verifie_le": "2026-10-21T23:07+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -13474,7 +13474,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Domaine de la Croix de l'Ermite - Appartements à Dugny (93) : programme neuf du T2 au T4, à partir de 172 900 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-17T19:08+00:00",
+    "verifie_le": "2026-10-21T23:07+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -13499,7 +13499,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Signature à La Garenne Colombes (92) : programme neuf du T2 au T5, à partir de 400 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-17T19:08+00:00",
+    "verifie_le": "2026-10-21T23:07+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -13524,7 +13524,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villa Auréa à Élancourt (78) : programme neuf du T2 au T5, à partir de 234 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-17T19:08+00:00",
+    "verifie_le": "2026-10-21T23:07+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -13549,7 +13549,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Liaison Verte à Nangis (77) : programme neuf du T2 au T3, à partir de 152 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-17T19:08+00:00",
+    "verifie_le": "2026-10-21T23:07+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -13574,7 +13574,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Terrasses du 105 à Ozoir-la-Ferrière (77) : programme neuf du T1 au T4, à partir de 161 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-17T19:08+00:00",
+    "verifie_le": "2026-10-21T23:07+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -21467,6 +21467,26 @@
     "tags": [
       "frais_offerts",
       "bons_plans"
+    ]
+  },
+  {
+    "id": "cf343cab8f6a23ca",
+    "nom": "Upside",
+    "lieu": "Bagneux (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bagneux-92/276927065/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Offre spéciale",
+    "statut": "avant-première",
+    "date_publication": null,
+    "extrait": "Offre spéciale Avant-première Upside Bagneux Du 2 pièces au 5 pièces à partir de 233 308 € Balcon Parking Proposé par KAUFMAN & BROAD IMMO Laissez-vous séduire par une nouvelle adresse où l' élégance architecturale dialogue harmonieusement avec l' immensité de l' horizon . Idéalement située sur les ",
+    "numero": 276927065,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-21T23:07+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "avant-première"
     ]
   }
 ]
