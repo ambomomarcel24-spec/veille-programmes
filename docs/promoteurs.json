@@ -26,7 +26,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-21T09:55+00:00",
+    "maj": "2026-10-21T14:59+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -273,7 +273,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-21T09:55+00:00",
+    "maj": "2026-10-21T14:59+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -478,7 +478,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-21T09:55+00:00",
+    "maj": "2026-10-21T14:59+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -605,7 +605,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-21T09:55+00:00",
+    "maj": "2026-10-21T14:59+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -641,7 +641,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-21T09:55+00:00",
+    "maj": "2026-10-21T14:59+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -659,7 +659,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-21T09:55+00:00",
+    "maj": "2026-10-21T14:59+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -696,7 +696,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-21T09:55+00:00",
+    "maj": "2026-10-21T14:59+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -714,7 +714,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-21T09:55+00:00",
+    "maj": "2026-10-21T14:59+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -738,7 +738,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-21T09:55+00:00",
+    "maj": "2026-10-21T14:59+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1405,13 +1405,19 @@
         "lieu": "Villa du Golf - Champigny-sur-Marne (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/champigny-sur-marne-programme-villa-du-golf-189681-5891.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Entre Lac de Serris et le Centre Commercial Val d'Europe",
+        "lieu": "ommercial Val d'Europe - Meaux / Serris (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/serris-programme-entre-lac-de-serris-et-le-centre-commercial-val-deurope-219027-5891.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-21T09:55+00:00",
+    "maj": "2026-10-21T15:03+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1742,7 +1748,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-21T09:55+00:00",
+    "maj": "2026-10-21T14:59+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2211,13 +2217,19 @@
         "lieu": "ac en Scène - Paris / Enghien-les-Bains (95)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/enghien-les-bains-programme-lac-en-scene-173138-10.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Instants Nature",
+        "lieu": "Instants Nature - Poissy (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/poissy-programme-instants-nature-203508-10.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-21T09:55+00:00",
+    "maj": "2026-10-21T15:09+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2235,7 +2247,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-21T09:55+00:00",
+    "maj": "2026-10-21T14:59+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2253,7 +2265,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-21T09:55+00:00",
+    "maj": "2026-10-21T14:59+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2314,7 +2326,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-21T09:55+00:00",
+    "maj": "2026-10-21T14:59+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -3929,12 +3941,18 @@
         "lieu": "Par Nature ... - Nanterre (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/nanterre-programme-par-nature-218659-11636.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Par Nature ... BRS",
+        "lieu": "Par Nature ... BRS - Nanterre (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/nanterre-programme-par-nature-brs-219025-11636.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-18T10:50+00:00",
+    "maj": "2026-10-21T15:03+00:00",
     "type": "promoteur"
   },
   "ogic": {
@@ -4607,13 +4625,19 @@
         "lieu": "Le Moulin de Cerçay - Brunoy (91)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/brunoy-programme-le-moulin-de-cercay-214504-29.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Villa Mansart",
+        "lieu": "Villa Mansart - Combs-la-Ville (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/combs-la-ville-programme-villa-mansart-219028-29.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf",
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-15T09:55+00:00",
+    "maj": "2026-10-21T15:01+00:00",
     "type": "commercialisateur"
   },
   "vinci-immobilier-promotion": {

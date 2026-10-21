@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-21T09:55+00:00",
+  "date": "2026-10-21T14:59+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -61,13 +61,13 @@
     {
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
-      "urls_dans_plan": 2683,
-      "deja_connues": 2683,
-      "lues": 0,
-      "idf": 0,
-      "sans_localisation": 0,
+      "urls_dans_plan": 2693,
+      "deja_connues": 2681,
+      "lues": 12,
+      "idf": 4,
+      "sans_localisation": 8,
       "echec": 0,
-      "numero_max": 219024
+      "numero_max": 219029
     },
     {
       "source": "Nexity",
@@ -82,7 +82,7 @@
     {
       "source": "Bouygues Immobilier",
       "page": "https://www.bouygues-immobilier.com/",
-      "blocs": 120,
+      "blocs": 121,
       "avec_declencheur": 2,
       "avec_mot_programme": 2,
       "avec_localisation": 0
@@ -212,10 +212,10 @@
       "avec_localisation": 0
     }
   ],
-  "fiches_relues": 0,
+  "fiches_relues": 4,
   "enrichissement": {
-    "ok": 0,
-    "echec_telechargement": 191,
+    "ok": 4,
+    "echec_telechargement": 193,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -239,15 +239,24 @@
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classified_detail_S",
         "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classi"
       }
-    ]
+    ],
+    "sites": {
+      "interrogés": 2,
+      "pages_lues": 0,
+      "avec_mail": 0,
+      "sans_page": [
+        "https://lnc.fr",
+        "https://www.nexity.fr"
+      ]
+    }
   },
-  "fiches_a_relire": 191,
+  "fiches_a_relire": 193,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 1,
-  "alertes_en_attente": 57,
+  "nouvelles_fiches": 6,
+  "alertes_en_attente": 60,
   "echec_mail": true
 }
