@@ -3379,7 +3379,7 @@
     "promoteur_cle": "ogic",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le 117 Bis à Paris 20ème (75) : programme neuf du T1 au T4, à partir de 365 000 €. Vendu par Ogic.",
-    "verifie_le": "2026-10-17T22:04+00:00"
+    "verifie_le": "2026-10-22T09:55+00:00"
   },
   {
     "id": "3e54cdac02d553f4",
@@ -3403,7 +3403,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Woodeum Paris Rive Gauche à Paris 13ème (75) : programme neuf du T1 au T4, à partir de 349 000 €. Vendu par Cogedim.",
     "promoteur_site": "https://cogedim.com",
-    "verifie_le": "2026-10-17T22:04+00:00"
+    "verifie_le": "2026-10-22T09:55+00:00"
   },
   {
     "id": "4ea7bd98c7fb64c8",
@@ -3427,7 +3427,7 @@
     "promoteur_cle": "lelievre-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Jardins de Galleron à Paris 20ème (75) : programme neuf du T2 au T4, à partir de 620 000 €. Vendu par Lelievre Immobilier.",
-    "verifie_le": "2026-10-17T22:04+00:00"
+    "verifie_le": "2026-10-22T09:55+00:00"
   },
   {
     "id": "33f0bcde82d2b7f9",
@@ -3451,7 +3451,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Parc en ciel à Paris 13ème (75) : programme neuf T2, à partir de 654 200 €. Vendu par Marignan.",
     "promoteur_site": "https://marignan-immobilier.com",
-    "verifie_le": "2026-10-17T22:04+00:00"
+    "verifie_le": "2026-10-22T09:55+00:00"
   },
   {
     "id": "8ddef0d2553258a0",
@@ -5826,7 +5826,7 @@
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Retrospective à Ivry-sur-Seine (94) : programme neuf du T1 au T5, à partir de 227 000 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-18T00:45+00:00"
+    "verifie_le": "2026-10-22T09:55+00:00"
   },
   {
     "id": "ee378833e492cca3",
@@ -5850,7 +5850,7 @@
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur",
     "texte": "Découvrez 7 rue Gaston Monmousseau à Ivry-sur-Seine (94) : programme neuf du T1 au T5, à partir de 230 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-18T00:45+00:00"
+    "verifie_le": "2026-10-22T09:55+00:00"
   },
   {
     "id": "784052be37912606",
@@ -5874,7 +5874,7 @@
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Rives de Seine à Ivry-sur-Seine (94) : programme neuf du T1 au T2, à partir de 256 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-18T00:45+00:00"
+    "verifie_le": "2026-10-22T09:55+00:00"
   },
   {
     "id": "426c1f1f8e2c1a2b",
@@ -5898,7 +5898,7 @@
     "promoteur_cle": "sas-capi",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Ivry-sur-Seine C1 à Ivry-sur-Seine (94) : programme neuf du T2 au T3, à partir de 288 910 €. Vendu par Sas Capi.",
-    "verifie_le": "2026-10-18T00:45+00:00"
+    "verifie_le": "2026-10-22T09:55+00:00"
   },
   {
     "id": "2f46e21535378e0c",
@@ -5922,7 +5922,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Ivry Confluences 1 à Ivry-sur-Seine (94) : programme neuf du T2 au T5, à partir de 253 400 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-18T00:45+00:00"
+    "verifie_le": "2026-10-22T09:55+00:00"
   },
   {
     "id": "553781a957e0399c",
@@ -13824,7 +13824,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos Jardy à Vaucresson (92) : programme neuf du T1 au T5, à partir de 204 500 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-17T22:04+00:00",
+    "verifie_le": "2026-10-22T09:55+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
@@ -13849,7 +13849,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Alba à Vanves (92) : programme neuf du T2 au T4, à partir de 438 400 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-17T22:04+00:00",
+    "verifie_le": "2026-10-22T09:55+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -13874,7 +13874,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Temporelles Quincy à Quincy-sous-Senart (91) : programme neuf T2, à partir de 227 900 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-17T22:04+00:00",
+    "verifie_le": "2026-10-22T09:55+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -13899,7 +13899,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins du Moulon à Gif-sur-Yvette (91) : programme neuf du T2 au T3, à partir de 290 900 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-17T22:04+00:00",
+    "verifie_le": "2026-10-22T09:55+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -13924,7 +13924,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Student Factory Paris Saclay à Orsay (91) : programme neuf du T1 au T2, à partir de 138 661 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-10-17T22:04+00:00",
+    "verifie_le": "2026-10-22T09:55+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14149,7 +14149,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Parenthèse à Stains (93) : programme neuf du T1 au T4, à partir de 163 200 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-18T00:45+00:00",
+    "verifie_le": "2026-10-22T09:55+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -14174,7 +14174,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez En aparté à Stains (93) : programme neuf du T2 au T4, à partir de 178 200 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-18T00:45+00:00",
+    "verifie_le": "2026-10-22T09:55+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -14199,7 +14199,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Domaine des Prunais BRS à Villiers-sur-Marne (94) : programme neuf du T2 au T5, à partir de 152 762 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-18T00:45+00:00",
+    "verifie_le": "2026-10-22T09:55+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -14224,7 +14224,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Pierre et Sens à Neuilly-sur-Marne (93) : programme neuf du T1 au T5, à partir de 206 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-18T00:45+00:00",
+    "verifie_le": "2026-10-22T09:55+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14249,7 +14249,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Flore 2 à Châtenay-Malabry (92) : programme neuf du T1 au T5, à partir de 270 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-18T00:45+00:00",
+    "verifie_le": "2026-10-22T09:55+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -14274,7 +14274,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Alma à L'Hay-les-Roses (94) : programme neuf du T1 au T5, à partir de 202 208 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-18T00:45+00:00",
+    "verifie_le": "2026-10-22T09:55+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -14299,7 +14299,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le 5 Raspail à Bagnolet (93) : programme neuf du T1 au T5, à partir de 223 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-18T00:45+00:00",
+    "verifie_le": "2026-10-22T09:55+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -14324,7 +14324,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Prochainement à Sainte-Geneviève-des-Bois (91) : programme neuf du T1 au T3, à partir de 159 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-18T00:45+00:00",
+    "verifie_le": "2026-10-22T09:55+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -14349,7 +14349,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Esprit Village à Montlhéry (91) : programme neuf du T1 au T4, à partir de 140 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-18T00:45+00:00",
+    "verifie_le": "2026-10-22T09:55+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -14374,7 +14374,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le 57 Republique à Châtillon (92) : programme neuf du T2 au T4, à partir de 315 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-10-18T00:45+00:00",
+    "verifie_le": "2026-10-22T09:55+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14399,7 +14399,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Bel Rives à Choisy-le-Roi (94) : programme neuf du T1 au T5, à partir de 165 000 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-10-18T00:45+00:00",
+    "verifie_le": "2026-10-22T09:55+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
