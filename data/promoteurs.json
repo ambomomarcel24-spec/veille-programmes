@@ -152,7 +152,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-22T09:55+00:00",
+    "maj": "2026-10-22T14:59+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -393,13 +393,31 @@
         "lieu": "L'Éclat - Versailles / Élancourt (78)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/elancourt-programme-leclat-211179-11707.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Prochainement à Clichy",
+        "lieu": "Prochainement à Clichy - Clichy (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/clichy-programme-prochainement-a-clichy-219034-11707.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Maisons du Coteau",
+        "lieu": "Les Maisons du Coteau - Champlan (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/champlan-programme-les-maisons-du-coteau-219033-11707.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Tendance Canal",
+        "lieu": "Tendance Canal - Aubervilliers (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/aubervilliers-programme-tendance-canal-218978-11707.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-22T09:55+00:00",
+    "maj": "2026-10-22T15:08+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -604,7 +622,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-22T09:55+00:00",
+    "maj": "2026-10-22T14:59+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -731,7 +749,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-22T09:55+00:00",
+    "maj": "2026-10-22T14:59+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -767,7 +785,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-22T09:55+00:00",
+    "maj": "2026-10-22T14:59+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -785,7 +803,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-22T09:55+00:00",
+    "maj": "2026-10-22T14:59+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -822,7 +840,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-22T09:55+00:00",
+    "maj": "2026-10-22T14:59+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -840,7 +858,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-22T09:55+00:00",
+    "maj": "2026-10-22T14:59+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -864,7 +882,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-22T09:55+00:00",
+    "maj": "2026-10-22T14:59+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1543,7 +1561,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-22T09:55+00:00",
+    "maj": "2026-10-22T14:59+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1874,7 +1892,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-22T09:55+00:00",
+    "maj": "2026-10-22T14:59+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2355,7 +2373,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-22T09:55+00:00",
+    "maj": "2026-10-22T14:59+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2373,7 +2391,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-22T09:55+00:00",
+    "maj": "2026-10-22T14:59+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2391,7 +2409,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-22T09:55+00:00",
+    "maj": "2026-10-22T14:59+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2452,7 +2470,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-22T09:55+00:00",
+    "maj": "2026-10-22T14:59+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -5425,12 +5443,18 @@
         "lieu": "Domaine des Ormes - Coupvray (77)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/coupvray-programme-domaine-des-ormes-216147-13052.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Les Senioriales de Meaux",
+        "lieu": "Les Senioriales de Meaux - Meaux (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meaux-programme-les-senioriales-de-meaux-219035-13052.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T04:11+00:00",
+    "maj": "2026-10-22T15:02+00:00",
     "type": "promoteur"
   },
   "foncim-promotion": {
