@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-23T14:48+00:00",
+  "date": "2026-10-23T18:58+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -33,9 +33,9 @@
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/92/",
-      "liens_programme": 10,
+      "liens_programme": 42,
       "hors_idf": 0,
-      "idf": 5
+      "idf": 21
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -62,10 +62,10 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2697,
-      "deja_connues": 2682,
-      "lues": 15,
-      "idf": 4,
-      "sans_localisation": 11,
+      "deja_connues": 2697,
+      "lues": 0,
+      "idf": 0,
+      "sans_localisation": 0,
       "echec": 0,
       "numero_max": 219048
     },
@@ -82,7 +82,10 @@
     {
       "source": "Bouygues Immobilier",
       "page": "https://www.bouygues-immobilier.com/",
-      "non_lue": true
+      "blocs": 120,
+      "avec_declencheur": 2,
+      "avec_mot_programme": 2,
+      "avec_localisation": 0
     },
     {
       "source": "Bouygues Immobilier",
@@ -209,10 +212,10 @@
       "avec_localisation": 0
     }
   ],
-  "fiches_relues": 4,
+  "fiches_relues": 0,
   "enrichissement": {
-    "ok": 4,
-    "echec_telechargement": 205,
+    "ok": 0,
+    "echec_telechargement": 212,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -236,23 +239,15 @@
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classified_detail_S",
         "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classi"
       }
-    ],
-    "sites": {
-      "interrogés": 2,
-      "pages_lues": 2,
-      "avec_mail": 0,
-      "sans_page": [
-        "https://lnc.fr"
-      ]
-    }
+    ]
   },
-  "fiches_a_relire": 205,
+  "fiches_a_relire": 212,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 12,
+  "nouvelles_fiches": 7,
   "alertes_en_attente": 74,
   "echec_mail": true
 }
