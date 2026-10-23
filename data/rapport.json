@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-23T09:50+00:00",
+  "date": "2026-10-23T14:48+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -33,9 +33,9 @@
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/92/",
-      "liens_programme": 42,
+      "liens_programme": 10,
       "hors_idf": 0,
-      "idf": 21
+      "idf": 5
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -61,13 +61,13 @@
     {
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
-      "urls_dans_plan": 2681,
-      "deja_connues": 2681,
-      "lues": 0,
-      "idf": 0,
-      "sans_localisation": 0,
+      "urls_dans_plan": 2697,
+      "deja_connues": 2682,
+      "lues": 15,
+      "idf": 4,
+      "sans_localisation": 11,
       "echec": 0,
-      "numero_max": 219036
+      "numero_max": 219048
     },
     {
       "source": "Nexity",
@@ -82,10 +82,7 @@
     {
       "source": "Bouygues Immobilier",
       "page": "https://www.bouygues-immobilier.com/",
-      "blocs": 120,
-      "avec_declencheur": 2,
-      "avec_mot_programme": 2,
-      "avec_localisation": 0
+      "non_lue": true
     },
     {
       "source": "Bouygues Immobilier",
@@ -157,7 +154,7 @@
     {
       "source": "Cogedim",
       "page": "https://www.cogedim.com/",
-      "blocs": 121,
+      "blocs": 126,
       "avec_declencheur": 0,
       "avec_mot_programme": 0,
       "avec_localisation": 0
@@ -212,10 +209,10 @@
       "avec_localisation": 0
     }
   ],
-  "fiches_relues": 0,
+  "fiches_relues": 4,
   "enrichissement": {
-    "ok": 0,
-    "echec_telechargement": 197,
+    "ok": 4,
+    "echec_telechargement": 205,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -239,15 +236,23 @@
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classified_detail_S",
         "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classi"
       }
-    ]
+    ],
+    "sites": {
+      "interrogés": 2,
+      "pages_lues": 2,
+      "avec_mail": 0,
+      "sans_page": [
+        "https://lnc.fr"
+      ]
+    }
   },
-  "fiches_a_relire": 197,
+  "fiches_a_relire": 205,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 1,
-  "alertes_en_attente": 64,
+  "nouvelles_fiches": 12,
+  "alertes_en_attente": 74,
   "echec_mail": true
 }

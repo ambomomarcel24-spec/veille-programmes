@@ -26,7 +26,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-23T09:50+00:00",
+    "maj": "2026-10-23T14:48+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -291,7 +291,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-23T09:50+00:00",
+    "maj": "2026-10-23T14:48+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -496,7 +496,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-23T09:50+00:00",
+    "maj": "2026-10-23T14:48+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -623,7 +623,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-23T09:50+00:00",
+    "maj": "2026-10-23T14:48+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -659,7 +659,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-23T09:50+00:00",
+    "maj": "2026-10-23T14:48+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -677,7 +677,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-23T09:50+00:00",
+    "maj": "2026-10-23T14:48+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -714,7 +714,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-23T09:50+00:00",
+    "maj": "2026-10-23T14:48+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -732,7 +732,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-23T09:50+00:00",
+    "maj": "2026-10-23T14:48+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -756,7 +756,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-23T09:50+00:00",
+    "maj": "2026-10-23T14:48+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1429,13 +1429,19 @@
         "lieu": "ommercial Val d'Europe - Meaux / Serris (77)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/serris-programme-entre-lac-de-serris-et-le-centre-commercial-val-deurope-219027-5891.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Carré des Arts",
+        "lieu": "Carré des Arts - Sartrouville (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sartrouville-programme-carre-des-arts-219040-5891.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-23T09:50+00:00",
+    "maj": "2026-10-23T14:53+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1766,7 +1772,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-23T09:50+00:00",
+    "maj": "2026-10-23T14:48+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2247,7 +2253,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-23T09:50+00:00",
+    "maj": "2026-10-23T14:48+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2265,7 +2271,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-23T09:50+00:00",
+    "maj": "2026-10-23T14:48+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2283,7 +2289,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-23T09:50+00:00",
+    "maj": "2026-10-23T14:48+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2344,7 +2350,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-23T09:50+00:00",
+    "maj": "2026-10-23T14:48+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -3617,12 +3623,18 @@
         "lieu": "Eugénie - Le Plessis Robinson (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-plessis-robinson-programme-eugenie-202231-8598.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Villa Salucéa",
+        "lieu": "Villa Salucéa - Saulx-les-Chartreux (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saulx-les-chartreux-programme-villa-salucea-178507-8598.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-16T01:17+00:00",
+    "maj": "2026-10-23T14:59+00:00",
     "type": "promoteur"
   },
   "sas-capi": {
@@ -4355,12 +4367,18 @@
         "lieu": "L'Astrolabe - Cormeilles-en-Parisis (95)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/cormeilles-en-parisis-programme-lastrolabe-217946-13179.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Mycampus",
+        "lieu": "ycampus - Choisy-le-Roi - Choisy-le-Roi (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/choisy-le-roi-programme-mycampus-choisy-le-roi-219048-13179.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-14T20:17+00:00",
+    "maj": "2026-10-23T14:51+00:00",
     "type": "promoteur"
   },
   "interconstruction-amenagement": {
@@ -5377,6 +5395,24 @@
       "Trouver un logement neuf"
     ],
     "maj": "2026-10-16T12:14+00:00",
+    "type": "promoteur"
+  },
+  "les-nouveaux": {
+    "nom": "Les Nouveaux..",
+    "site": null,
+    "emails": [],
+    "programmes": [
+      {
+        "nom": "Carré des Arts",
+        "lieu": "ail Réel Solidaire (brs) - Sartrouville (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sartrouville-programme-carre-des-arts-bail-reel-solidaire-brs-219039-5891.html",
+        "statut": "autre"
+      }
+    ],
+    "sources": [
+      "Trouver un logement neuf"
+    ],
+    "maj": "2026-10-23T14:53+00:00",
     "type": "promoteur"
   }
 }
