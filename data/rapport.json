@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-23T04:10+00:00",
+  "date": "2026-10-23T09:50+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -26,9 +26,9 @@
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/91/",
-      "liens_programme": 20,
+      "liens_programme": 42,
       "hors_idf": 0,
-      "idf": 10
+      "idf": 21
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -157,7 +157,7 @@
     {
       "source": "Cogedim",
       "page": "https://www.cogedim.com/",
-      "blocs": 126,
+      "blocs": 121,
       "avec_declencheur": 0,
       "avec_mot_programme": 0,
       "avec_localisation": 0
@@ -215,7 +215,7 @@
   "fiches_relues": 0,
   "enrichissement": {
     "ok": 0,
-    "echec_telechargement": 196,
+    "echec_telechargement": 197,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -241,13 +241,13 @@
       }
     ]
   },
-  "fiches_a_relire": 196,
+  "fiches_a_relire": 197,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 0,
-  "alertes_en_attente": 63,
+  "nouvelles_fiches": 1,
+  "alertes_en_attente": 64,
   "echec_mail": true
 }
