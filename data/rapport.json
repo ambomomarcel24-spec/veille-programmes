@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-24T07:03+00:00",
+  "date": "2026-10-24T12:31+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -40,9 +40,9 @@
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/93/",
-      "liens_programme": 8,
+      "liens_programme": 16,
       "hors_idf": 0,
-      "idf": 4
+      "idf": 8
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -62,12 +62,12 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2697,
-      "deja_connues": 2697,
-      "lues": 0,
+      "deja_connues": 2688,
+      "lues": 9,
       "idf": 0,
-      "sans_localisation": 0,
+      "sans_localisation": 9,
       "echec": 0,
-      "numero_max": 219048
+      "numero_max": 219054
     },
     {
       "source": "Nexity",
@@ -215,7 +215,7 @@
   "fiches_relues": 0,
   "enrichissement": {
     "ok": 0,
-    "echec_telechargement": 216,
+    "echec_telechargement": 218,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -241,13 +241,13 @@
       }
     ]
   },
-  "fiches_a_relire": 216,
+  "fiches_a_relire": 218,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 4,
+  "nouvelles_fiches": 2,
   "alertes_en_attente": 74,
   "echec_mail": true
 }
