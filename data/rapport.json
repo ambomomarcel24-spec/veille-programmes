@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-23T22:00+00:00",
+  "date": "2026-10-24T01:25+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -82,7 +82,7 @@
     {
       "source": "Bouygues Immobilier",
       "page": "https://www.bouygues-immobilier.com/",
-      "blocs": 122,
+      "blocs": 120,
       "avec_declencheur": 2,
       "avec_mot_programme": 2,
       "avec_localisation": 0
