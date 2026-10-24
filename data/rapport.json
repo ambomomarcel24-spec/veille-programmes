@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-24T19:20+00:00",
+  "date": "2026-10-24T22:19+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -215,7 +215,7 @@
   "fiches_relues": 0,
   "enrichissement": {
     "ok": 0,
-    "echec_telechargement": 222,
+    "echec_telechargement": 223,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -241,7 +241,7 @@
       }
     ]
   },
-  "fiches_a_relire": 222,
+  "fiches_a_relire": 223,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
