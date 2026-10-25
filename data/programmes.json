@@ -2375,7 +2375,7 @@
     "promoteur_cle": "sas-capi",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Paris C1 à Paris (75) : programme neuf T4, à partir de 1 399 900 €. Vendu par Sas Capi.",
-    "verifie_le": "2026-10-21T14:59+00:00"
+    "verifie_le": "2026-10-25T18:48+00:00"
   },
   {
     "id": "bfa105d8c42aa877",
@@ -11933,7 +11933,7 @@
       "autre"
     ],
     "texte": "Découvrez Prochainement à Châtillon (92) : programme neuf du T1 au T3, à partir de 280 250 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-21T09:55+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -11958,7 +11958,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Clos Saint Martin à Étampes (91) : programme neuf du T2 au T3, à partir de 152 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-21T09:55+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -11983,7 +11983,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Quatorze à Thiais (94) : programme neuf du T1 au T4, à partir de 182 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-21T09:55+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -12008,7 +12008,7 @@
       "autre"
     ],
     "texte": "Découvrez L'Archipel à Cormeilles-en-Parisis (95) : programme neuf T5, à partir de 640 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-21T09:55+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "https://cogedim.com",
     "promoteur_cle": "cogedim",
     "promoteur_type": "promoteur"
@@ -12033,7 +12033,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa Henri à L'Hay-les-Roses (94) : programme neuf du T1 au T4, à partir de 209 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-21T09:55+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -12058,7 +12058,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Quarante Arpents à Alfortville (94) : programme neuf du T1 au T5, à partir de 229 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-21T09:55+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -12083,7 +12083,7 @@
       "autre"
     ],
     "texte": "Découvrez Domaine de la Chesnaie à Livry-sur-Seine (77) : programme neuf du T2 au T3, à partir de 159 000 €. Vendu par Stradim.",
-    "verifie_le": "2026-10-21T09:55+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": null,
     "promoteur_cle": "stradim",
     "promoteur_type": "promoteur"
@@ -12108,7 +12108,7 @@
       "autre"
     ],
     "texte": "Découvrez Edenia à Châtenay-Malabry (92) : programme neuf du T2 au T5, à partir de 311 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-21T09:55+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur"
@@ -12133,7 +12133,7 @@
       "autre"
     ],
     "texte": "Découvrez Limeil-Brévannes C1 à Limeil-Brévannes (94) : programme neuf du T1 au T4, à partir de 169 000 €. Vendu par Sas Capi.",
-    "verifie_le": "2026-10-21T09:55+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": null,
     "promoteur_cle": "sas-capi",
     "promoteur_type": "promoteur"
@@ -12158,7 +12158,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Clos de Maule à Bailly (78) : programme neuf du T1 au T4, à partir de 226 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-21T09:55+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "https://lnc.fr",
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur"
@@ -12183,7 +12183,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Clos des Roches à Boissise-le-Roi (77) : programme neuf, à partir de 316 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-21T09:55+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "https://cogedim.com",
     "promoteur_cle": "cogedim",
     "promoteur_type": "promoteur"
@@ -12208,7 +12208,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Terrasses de l'Hôtel de Ville à Conflans-Sainte-Honorine (78) : programme neuf du T1 au T5, à partir de 143 200 €. Vendu par Interconstruction...",
-    "verifie_le": "2026-10-21T09:55+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": null,
     "promoteur_cle": "interconstruction",
     "promoteur_type": "promoteur"
@@ -12233,7 +12233,7 @@
       "autre"
     ],
     "texte": "Découvrez Prochainement à Bezons (95) : programme neuf du T2 au T4, à partir de 245 900 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-21T14:59+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -12258,7 +12258,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa Louis-Alexandre - Maisons à Neauphle-le-Château (78) : programme neuf du T4 au T5, à partir de 403 800 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-21T14:59+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -12283,7 +12283,7 @@
       "autre"
     ],
     "texte": "Découvrez 30 Mozart à Clichy-la-Garenne (92) : programme neuf du T1 au T5, à partir de 347 700 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-10-21T14:59+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": null,
     "promoteur_cle": "interconstruction-amenagement",
     "promoteur_type": "promoteur"
@@ -12308,7 +12308,7 @@
       "autre"
     ],
     "texte": "Découvrez 90 République à Saint-Cloud (92) : programme neuf du T2 au T4, à partir de 355 000 €. Vendu par Emerige.",
-    "verifie_le": "2026-10-21T14:59+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "https://www.emerige.com",
     "promoteur_cle": "emerige",
     "promoteur_type": "promoteur"
@@ -12333,7 +12333,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa Antoinette à Poissy (78) : programme neuf du T1 au T5, à partir de 158 300 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-21T14:59+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
@@ -12358,7 +12358,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Terrasses d'Adria II à Ermont (95) : programme neuf du T1 au T5, à partir de 191 658 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-21T14:59+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": null,
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur"
@@ -12383,7 +12383,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Jardins Gabriel à Arcueil (94) : programme neuf du T1 au T4, à partir de 195 700 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-21T14:59+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
@@ -12487,7 +12487,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Prochainement à Bezons à Bezons (95) : programme neuf du T2 au T3. Vendu par Cogedim.",
-    "verifie_le": "2026-10-21T14:59+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -12512,7 +12512,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Coeur Jardin à Stains (93) : programme neuf du T2 au T4, à partir de 169 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-21T14:59+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -12537,7 +12537,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Aurore à Villemomble (93) : programme neuf du T1 au T4, à partir de 187 300 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-21T14:59+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -12562,7 +12562,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Angle des Arts à Bezons (95) : programme neuf du T2 au T4, à partir de 212 900 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-21T14:59+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -12587,7 +12587,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Quartier Lallier - Saison 2 à L'Hay-les-Roses (94) : programme neuf du T2 au T5, à partir de 274 000 €. Vendu par Emerige.",
-    "verifie_le": "2026-10-21T14:59+00:00",
+    "verifie_le": "2026-10-25T18:48+00:00",
     "promoteur_site": "https://www.emerige.com",
     "tags": [
       "autre"
@@ -22605,5 +22605,25 @@
     ],
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur"
+  },
+  {
+    "id": "efac74308a92bf93",
+    "nom": "NEUF Saint Cyr l'Ecole",
+    "lieu": "Saint Cyr L Ecole (78)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-cyr-l-ecole-78/250238891/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "NEUF Saint Cyr l'Ecole Saint-Cyr-l'École Du studio au 4 pièces à partir de 195 000 € Jardin Terrasse Balcon Parking Ascenseur Des appartements pour toutes vos envies : studios, T2, T3, T4 et T5. Mobilité optimale : 7 minutes à pied du RER. Un équilibre séduisant entre fonctionnalité, confort et conv",
+    "numero": 250238891,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-25T18:48+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
   }
 ]
