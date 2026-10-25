@@ -26,7 +26,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-25T11:02+00:00",
+    "maj": "2026-10-25T15:51+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -291,7 +291,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-25T11:02+00:00",
+    "maj": "2026-10-25T15:51+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -496,7 +496,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-25T11:02+00:00",
+    "maj": "2026-10-25T15:51+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -623,7 +623,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-25T11:02+00:00",
+    "maj": "2026-10-25T15:51+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -659,7 +659,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-25T11:02+00:00",
+    "maj": "2026-10-25T15:51+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -677,7 +677,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-25T11:02+00:00",
+    "maj": "2026-10-25T15:51+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -714,7 +714,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-25T11:02+00:00",
+    "maj": "2026-10-25T15:51+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -732,7 +732,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-25T11:02+00:00",
+    "maj": "2026-10-25T15:51+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -756,7 +756,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-25T11:02+00:00",
+    "maj": "2026-10-25T15:51+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1435,13 +1435,25 @@
         "lieu": "Carré des Arts - Sartrouville (78)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sartrouville-programme-carre-des-arts-219040-5891.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Coeur Chantereine",
+        "lieu": "oeur Chantereine - Brou-sur-Chantereine (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/brou-sur-chantereine-programme-coeur-chantereine-219061-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Jardins de Josephine",
+        "lieu": "s Jardins de Josephine - Meaux / Serris (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/serris-programme-les-jardins-de-josephine-219027-5891.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-25T11:02+00:00",
+    "maj": "2026-10-25T16:02+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1772,7 +1784,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-25T11:02+00:00",
+    "maj": "2026-10-25T15:51+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2253,7 +2265,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-25T11:02+00:00",
+    "maj": "2026-10-25T15:51+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2271,7 +2283,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-25T11:02+00:00",
+    "maj": "2026-10-25T15:51+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2289,7 +2301,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-25T11:02+00:00",
+    "maj": "2026-10-25T15:51+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2350,7 +2362,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-25T11:02+00:00",
+    "maj": "2026-10-25T15:51+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -3845,12 +3857,18 @@
         "lieu": "L'Escale - Cormeilles-en-Parisis (95)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/cormeilles-en-parisis-programme-lescale-198282-771.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Panorama Beaurivage",
+        "lieu": "Panorama Beaurivage - Trianon - Clamart (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/clamart-programme-panorama-beaurivage-trianon-219059-771.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-16T01:18+00:00",
+    "maj": "2026-10-25T15:56+00:00",
     "type": "promoteur"
   },
   "quartus": {
@@ -3977,12 +3995,18 @@
         "lieu": "Par Nature ... BRS - Nanterre (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/nanterre-programme-par-nature-brs-219025-11636.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Residence le Bas Marin",
+        "lieu": "Residence le Bas Marin - Orly (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/orly-programme-residence-le-bas-marin-219056-11636.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-21T15:03+00:00",
+    "maj": "2026-10-25T15:56+00:00",
     "type": "promoteur"
   },
   "ogic": {
@@ -4071,7 +4095,7 @@
   },
   "bouygues-immobilier-national": {
     "nom": "Bouygues Immobilier National",
-    "site": null,
+    "site": "https://bouygues-impulsion.hive-project.fr",
     "emails": [],
     "programmes": [
       {
@@ -4373,12 +4397,24 @@
         "lieu": "ycampus - Choisy-le-Roi - Choisy-le-Roi (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/choisy-le-roi-programme-mycampus-choisy-le-roi-219048-13179.html",
         "statut": "autre"
+      },
+      {
+        "nom": "My Campus",
+        "lieu": "Campus - Choisy-le-Roi - Choisy-le-Roi (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/choisy-le-roi-programme-my-campus-choisy-le-roi-219048-13179.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Impulsion",
+        "lieu": "Impulsion - Sartrouville (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sartrouville-programme-impulsion-218783-13179.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-23T14:51+00:00",
+    "maj": "2026-10-25T16:02+00:00",
     "type": "promoteur"
   },
   "interconstruction-amenagement": {
@@ -4667,13 +4703,31 @@
         "lieu": "Villa Mansart - Combs-la-Ville (77)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/combs-la-ville-programme-villa-mansart-219028-29.html",
         "statut": "autre"
+      },
+      {
+        "nom": "L Ecrin des Cantoux",
+        "lieu": "Ecrin des Cantoux - Ormesson-sur-Marne (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/ormesson-sur-marne-programme-l-ecrin-des-cantoux-219065-29.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "L Ecrin Harmonie",
+        "lieu": "L Ecrin Harmonie - Montlhéry (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/montlhery-programme-l-ecrin-harmonie-219064-29.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Grand Parc",
+        "lieu": "Grand Parc - Champigny-sur-Marne (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/champigny-sur-marne-programme-grand-parc-219062-29.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf",
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-21T15:01+00:00",
+    "maj": "2026-10-25T15:54+00:00",
     "type": "commercialisateur"
   },
   "vinci-immobilier-promotion": {
@@ -5047,12 +5101,18 @@
         "lieu": "eil-Essonnes / Saint-Fargeau-Ponthierry (77)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-fargeau-ponthierry-programme-green-central-208522-361.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Les Promenades de l'Ourcq",
+        "lieu": "Les Promenades de l'Ourcq - Meaux (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meaux-programme-les-promenades-de-lourcq-199421-361.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T22:22+00:00",
+    "maj": "2026-10-25T16:02+00:00",
     "type": "promoteur"
   },
   "edouard-denis": {
