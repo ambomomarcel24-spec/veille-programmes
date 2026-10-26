@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-26T17:12+00:00",
+  "date": "2026-10-26T22:29+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -33,9 +33,9 @@
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/92/",
-      "liens_programme": 36,
+      "liens_programme": 40,
       "hors_idf": 0,
-      "idf": 18
+      "idf": 20
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -82,7 +82,7 @@
     {
       "source": "Bouygues Immobilier",
       "page": "https://www.bouygues-immobilier.com/",
-      "blocs": 118,
+      "blocs": 114,
       "avec_declencheur": 2,
       "avec_mot_programme": 2,
       "avec_localisation": 0
