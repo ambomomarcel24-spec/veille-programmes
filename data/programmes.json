@@ -3475,7 +3475,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Quartier Nature à Montreuil (93) : programme neuf du T2 au T5, à partir de 268 000 €. Vendu par Nexity.",
     "promoteur_site": "https://www.nexity.fr",
-    "verifie_le": "2026-10-23T14:48+00:00"
+    "verifie_le": "2026-10-27T19:57+00:00"
   },
   {
     "id": "f350b9db2dfd6441",
@@ -6968,7 +6968,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Terrasses d'Ariane à Le Blanc Mesnil (93) : programme neuf du T2 au T5, à partir de 227 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -6992,7 +6992,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Domaine du Chevalier à Le Blanc Mesnil (93) : programme neuf du T2 au T4, à partir de 247 003 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://cogedim.com",
     "promoteur_cle": "cogedim",
     "promoteur_type": "promoteur"
@@ -7016,7 +7016,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Jardins d'Aragon à Villejuif (94) : programme neuf T4, à partir de 547 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": null,
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur"
@@ -7040,7 +7040,7 @@
       "autre"
     ],
     "texte": "Découvrez Terrasses Lamartine à Villejuif (94) : programme neuf du T1 au T5, à partir de 200 323 €. Vendu par Emerige.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://www.emerige.com",
     "promoteur_cle": "emerige",
     "promoteur_type": "promoteur"
@@ -7064,7 +7064,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa du Golf à Sevran (93) : programme neuf du T2 au T4, à partir de 189 100 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -7088,7 +7088,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Clos Chapelin à Sevran (93) : programme neuf du T2 au T4, à partir de 177 500 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://lnc.fr",
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur"
@@ -7112,7 +7112,7 @@
       "autre"
     ],
     "texte": "Découvrez L'Orée des Coudriers à Chelles (77) : programme neuf du T2 au T4, à partir de 212 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": null,
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur"
@@ -7136,7 +7136,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Terrasses de Paris à Épinay-sur-Seine (93) : programme neuf du T2 au T5, à partir de 215 600 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://lnc.fr",
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur"
@@ -7160,7 +7160,7 @@
       "autre"
     ],
     "texte": "Découvrez Sepia à Épinay-sur-Seine (93) : programme neuf du T1 au T5, à partir de 152 200 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-23T14:48+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
@@ -16032,7 +16032,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Jardin d'Amsterdam à Montévrain (77) : programme neuf du T2 au T5, à partir de 262 700 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -16057,7 +16057,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins Fajon à Villetaneuse (93) : programme neuf du T2 au T4, à partir de 219 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -16082,7 +16082,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Promenade Campus à Cachan (94) : programme neuf du T2 au T4, à partir de 244 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -16107,7 +16107,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Domaine du Cèdre à Saint-Martin-du-Tertre (95) : programme neuf du T1 au T4, à partir de 176 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -16132,7 +16132,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos de Lisle - BRS à Poissy (78) : programme neuf du T3 au T5, à partir de 214 000 €. Vendu par Emerige.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://www.emerige.com",
     "tags": [
       "autre"
@@ -16157,7 +16157,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Rue de Sercq à Le Plessis Robinson (92) : programme neuf du T1 au T5, à partir de 225 000 €. Vendu par Emerige.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://www.emerige.com",
     "tags": [
       "autre"
@@ -16182,7 +16182,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Quartier de la Roseraie à L'Hay-les-Roses (94) : programme neuf du T1 au T5, à partir de 222 000 €. Vendu par Emerige.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://www.emerige.com",
     "tags": [
       "autre"
@@ -16207,7 +16207,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Salomé à Le Plessis Robinson (92) : programme neuf du T2 au T5, à partir de 293 000 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
@@ -16232,7 +16232,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Chrysalis à Cachan (94) : programme neuf du T2 au T5, à partir de 297 000 €. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -16257,7 +16257,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Domaine des Longs Champs à Houdan (78) : programme neuf T3, à partir de 233 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -16282,7 +16282,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Millerose 2 à L'Hay-les-Roses (94) : programme neuf du T2 au T3, à partir de 325 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -16307,7 +16307,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos du Perreux à Le Perreux-sur-Marne (94) : programme neuf du T1 au T5, à partir de 219 700 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-23T09:50+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -16415,7 +16415,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Escale Sand à Juvisy-sur-Orge (91) : programme neuf du T1 au T4, à partir de 200 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-23T14:48+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -16440,7 +16440,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Marquises à Goussainville (95) : programme neuf du T2 au T4, à partir de 178 300 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-23T14:48+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -16465,7 +16465,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Plessis Trevise à Le Plessis Trévise (94) : programme neuf du T1 au T4, à partir de 179 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-23T14:48+00:00",
+    "verifie_le": "2026-10-27T19:57+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -22896,5 +22896,65 @@
     ],
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur"
+  },
+  {
+    "id": "0ad606d52c2cef5a",
+    "nom": "NEUF Carrières-sur-Seine",
+    "lieu": "Carrieres sur Seine (78)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/carrieres-sur-seine-78/233502985/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "NEUF Carrières-sur-Seine Carrières-sur-Seine Du studio au 5 pièces à partir de 181 000 € Jardin Terrasse Balcon Ascenseur Adapté PMR Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et transports. Les espaces extérieurs sont ma",
+    "numero": 233502985,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-27T19:57+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "b0bd359f4aa73314",
+    "nom": "NEUF LE BLANC-MESNIL",
+    "lieu": "Le Blanc Mesnil (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/le-blanc-mesnil-93/258426467/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "NEUF LE BLANC-MESNIL Le Blanc-Mesnil Du studio au 5 pièces à partir de 155 200 € Jardin Terrasse Balcon Cave Parking Des appartements pour toutes vos envies : studios, T2, T3, T4 et T5. Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, co",
+    "numero": 258426467,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-27T19:57+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "920dc6d0426922ec",
+    "nom": "NEUF CRETEIL",
+    "lieu": "Creteil (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/creteil-94/258428313/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "NEUF CRETEIL Créteil Du 2 pièces au 5 pièces à partir de 212 000 € Jardin Terrasse Balcon Parking Digicode Des appartements pour toutes vos envies : studios, T2, T3, T4 et T5. Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et",
+    "numero": 258428313,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-27T19:57+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
   }
 ]
