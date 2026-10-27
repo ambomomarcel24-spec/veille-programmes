@@ -6443,7 +6443,7 @@
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Square Foch à Meaux (77) : programme neuf du T1 au T4, à partir de 135 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-10-22T19:10+00:00"
+    "verifie_le": "2026-10-27T01:55+00:00"
   },
   {
     "id": "ab7779417b35b557",
@@ -6467,7 +6467,7 @@
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Jardins de l'Ourcq à Meaux (77) : programme neuf du T1 au T4, à partir de 136 271 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-22T19:10+00:00"
+    "verifie_le": "2026-10-27T01:55+00:00"
   },
   {
     "id": "e676cf3ed4d6c33a",
@@ -6491,7 +6491,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Proche Centre Historique à Meaux (77) : programme neuf du T2 au T4, à partir de 184 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-22T19:10+00:00"
+    "verifie_le": "2026-10-27T01:55+00:00"
   },
   {
     "id": "e5d07b5aa21bd3ee",
@@ -6515,7 +6515,7 @@
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur",
     "texte": "Découvrez L'Embellie à Meaux (77) : programme neuf du T1 au T5, à partir de 130 556 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-10-22T19:10+00:00"
+    "verifie_le": "2026-10-27T01:55+00:00"
   },
   {
     "id": "fbe377b17cd0c5e3",
@@ -6539,7 +6539,7 @@
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Jardins Kléber à Pantin (93) : programme neuf du T2 au T4, à partir de 325 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-22T19:10+00:00"
+    "verifie_le": "2026-10-27T01:55+00:00"
   },
   {
     "id": "48321c1ff1a0449e",
@@ -6563,7 +6563,7 @@
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Lumine&sens 2 à Fontenay-sous-Bois (94) : programme neuf du T1 au T5, à partir de 214 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-22T19:10+00:00"
+    "verifie_le": "2026-10-27T01:55+00:00"
   },
   {
     "id": "f1048c49d558434a",
@@ -14699,7 +14699,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Haras à Marly-la-Ville (95) : programme neuf T3, à partir de 269 900 €. Vendu par Foncim Promotion.",
-    "verifie_le": "2026-10-22T19:10+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14724,7 +14724,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Cadence à Montigny-lès-Cormeilles (95) : programme neuf du T2 au T4, à partir de 228 200 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-22T19:10+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
@@ -14749,7 +14749,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Atelier du Parc à Juvisy-sur-Orge (91) : programme neuf du T2 au T5, à partir de 200 400 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-22T19:10+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -14774,7 +14774,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez 21 Saclay à Châtenay-Malabry (92) : programme neuf du T1 au T4, à partir de 209 000 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-22T19:10+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
@@ -14799,7 +14799,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins de Cos à Villemomble (93) : programme neuf du T1 au T4, à partir de 230 000 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-10-22T19:10+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14824,7 +14824,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Hameau des Coteaux à Villabe (91) : programme neuf du T2 au T4, à partir de 190 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-22T19:10+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -14849,7 +14849,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos Herbron à Viroflay (78) : programme neuf du T1 au T3, à partir de 236 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-22T19:10+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -14874,7 +14874,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Résidence Madria à Méry-sur-Oise (95) : programme neuf du T1 au T4, à partir de 141 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-22T19:10+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -14899,7 +14899,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Lignes d'Art à Thiais (94) : programme neuf du T1 au T4, à partir de 213 400 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-22T19:10+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -15006,7 +15006,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Seine de Vies à Villennes-sur-Seine (78) : programme neuf du T1 au T4, à partir de 156 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-22T19:10+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": "https://cogedim.com",
     "alerte_envoyee": false,
     "tags": [
@@ -15032,7 +15032,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Coeur Jardin à Stains (93) : programme neuf du T2 au T4, à partir de 169 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-22T19:10+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -15057,7 +15057,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos Champeau à Chanteloup-les-Vignes (78) : programme neuf du T1 au T4, à partir de 142 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-22T19:10+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -15082,7 +15082,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez City Art à Thiais (94) : programme neuf du T1 au T5, à partir de 199 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-22T19:10+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -15107,7 +15107,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Horizons du Paradis à Fontenay-aux-Roses (92) : programme neuf du T2 au T4, à partir de 288 300 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-22T19:10+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -15132,7 +15132,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Écrin des Étangs à Ville-d'Avray (92) : programme neuf du T2 au T5, à partir de 438 300 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-22T23:07+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -15157,7 +15157,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Domaine des Prunais Chapitre 1 à Villiers-sur-Marne (94) : programme neuf du T1 au T4, à partir de 222 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-22T23:07+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -15182,7 +15182,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Ora à Dugny (93) : programme neuf du T1 au T5, à partir de 155 000 €. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-10-22T23:07+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15207,7 +15207,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez La Résidence du Chateau à Savigny-le-Temple (77) : programme neuf du T1 au T4, à partir de 146 900 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-22T23:07+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -15232,7 +15232,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villa Rosella à L'Hay-les-Roses (94) : programme neuf du T2 au T3, à partir de 236 700 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-22T23:07+00:00",
+    "verifie_le": "2026-10-27T01:55+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -22685,6 +22685,47 @@
     "origine": "catalogue",
     "tags": [
       "nouvelle opportunité"
+    ]
+  },
+  {
+    "id": "a6b6f5d0734033ce",
+    "nom": "Prochainement",
+    "lieu": "Saint Maur des Fosses (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-maur-des-fosses-94/275767151/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Avant-première",
+    "statut": "avant-première",
+    "date_publication": null,
+    "extrait": "Avant-première Prochainement Saint-Maur-des-Fossés Du studio au 4 pièces à partir de 240 000 € Proposé par MARIGNAN AVANT-PREMIERE à SAINT-MAUR-DES-FOSSES! Soyez parmi les premiers à choisir votre appartement neuf. Découvrez une nouvelle adresse d'exception dans un environnement résidentiel, verdoya",
+    "numero": 275767151,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-27T01:55+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "avant-première"
+    ]
+  },
+  {
+    "id": "b41af0edab45f287",
+    "nom": "New Art",
+    "lieu": "Asnieres sur Seine (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/asnieres-sur-seine-92/265132077/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Lancement commercial",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale Lancement commercial New Art Asnières-sur-Seine Du studio au 5 pièces à partir de 245 000 € Terrasse Balcon Parking Proposé par LES NOUVEAUX CONSTRUCTEURS PRIME NOUVEAUX PROPRIÉTAIRES : REMISE DE 3 000 EUROS PAR PIÈCE + FRAIS DE NOTAIRE ET DE COURTAGE OFFERTS*EN BONUS, JUSQU'AU 31/10 ",
+    "numero": 265132077,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-27T01:55+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité",
+      "bons_plans"
     ]
   }
 ]
