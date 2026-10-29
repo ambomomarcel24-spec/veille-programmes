@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29T18:52+00:00",
+  "date": "2026-10-29T23:10+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -26,9 +26,9 @@
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/91/",
-      "liens_programme": 10,
+      "liens_programme": 42,
       "hors_idf": 0,
-      "idf": 5
+      "idf": 21
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -106,8 +106,8 @@
       "source": "Vinci Immobilier",
       "page": "https://www.vinci-immobilier.com/",
       "blocs": 163,
-      "avec_declencheur": 16,
-      "avec_mot_programme": 16,
+      "avec_declencheur": 14,
+      "avec_mot_programme": 14,
       "avec_localisation": 0
     },
     {
@@ -215,7 +215,7 @@
   "fiches_relues": 0,
   "enrichissement": {
     "ok": 0,
-    "echec_telechargement": 244,
+    "echec_telechargement": 251,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -241,13 +241,13 @@
       }
     ]
   },
-  "fiches_a_relire": 244,
+  "fiches_a_relire": 251,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 0,
-  "alertes_en_attente": 84,
+  "nouvelles_fiches": 7,
+  "alertes_en_attente": 85,
   "echec_mail": true
 }
