@@ -4099,7 +4099,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Terrasses Voltaire à Asnières-sur-Seine (92) : programme neuf du T2 au T5, à partir de 355 100 €. Vendu par Les Nouveaux Constructeurs.",
     "promoteur_site": "https://lnc.fr",
-    "verifie_le": "2026-10-24T19:20+00:00"
+    "verifie_le": "2026-10-29T18:52+00:00"
   },
   {
     "id": "ec1a22cfe8e7c496",
@@ -4123,7 +4123,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Asnières - Quartier Bécon les Bruyères à Asnières-sur-Seine (92) : programme neuf. Vendu par Les Nouveaux Constructeurs.",
     "promoteur_site": "https://lnc.fr",
-    "verifie_le": "2026-10-24T19:20+00:00"
+    "verifie_le": "2026-10-29T18:52+00:00"
   },
   {
     "id": "f11de90e7f94f808",
@@ -4147,7 +4147,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Portes de Seine à Asnières-sur-Seine (92) : programme neuf du T2 au T4, à partir de 299 000 €. Vendu par Nexity.",
     "promoteur_site": "https://www.nexity.fr",
-    "verifie_le": "2026-10-24T19:20+00:00"
+    "verifie_le": "2026-10-29T18:52+00:00"
   },
   {
     "id": "dff589a4abc0f7a0",
@@ -4171,7 +4171,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Villa des Arts II à Asnières-sur-Seine (92) : programme neuf T1, à partir de 227 600 €. Vendu par Les Nouveaux Constructeurs.",
     "promoteur_site": "https://lnc.fr",
-    "verifie_le": "2026-10-24T19:20+00:00"
+    "verifie_le": "2026-10-29T18:52+00:00"
   },
   {
     "id": "78a697aad88fe019",
@@ -4195,7 +4195,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Valora - Val Francilia à Aulnay-sous-Bois (93) : programme neuf du T1 au T4, à partir de 171 494 €. Vendu par Eiffage Immobilier.",
     "promoteur_site": "https://www.eiffage-immobilier.com",
-    "verifie_le": "2026-10-24T19:20+00:00"
+    "verifie_le": "2026-10-29T18:52+00:00"
   },
   {
     "id": "b09bd81eba565017",
@@ -4219,7 +4219,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le Clos Chagall à Aulnay-sous-Bois (93) : programme neuf T2, à partir de 226 350 €. Vendu par VINCI Immobilier Promotion.",
     "promoteur_site": null,
-    "verifie_le": "2026-10-24T19:20+00:00"
+    "verifie_le": "2026-10-29T18:52+00:00"
   },
   {
     "id": "67bb03c0aad694fb",
@@ -4243,7 +4243,7 @@
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur",
     "texte": "Découvrez Évidence à Aulnay-sous-Bois (93) : programme neuf du T1 au T4, à partir de 146 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-24T19:20+00:00"
+    "verifie_le": "2026-10-29T18:52+00:00"
   },
   {
     "id": "d015e5d0ff533341",
@@ -4267,7 +4267,7 @@
     "promoteur_cle": "bnp-paribas-real-estate",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Origami à Rueil-Malmaison (92) : programme neuf du T2 au T5, à partir de 349 000 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-10-24T19:20+00:00"
+    "verifie_le": "2026-10-29T18:52+00:00"
   },
   {
     "id": "18e5830a3f1d5627",
@@ -4386,7 +4386,7 @@
     "promoteur_cle": "sas-capi",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Saint-Maur-des-Fossés C1 à Saint-Maur-des-Fossés (94) : programme neuf du T1 au T4, à partir de 260 000 €. Vendu par Sas Capi.",
-    "verifie_le": "2026-10-24T19:20+00:00"
+    "verifie_le": "2026-10-29T18:52+00:00"
   },
   {
     "id": "72fba8a89e21d0ac",
@@ -4410,7 +4410,7 @@
     "promoteur_cle": "emerige",
     "promoteur_type": "promoteur",
     "texte": "Découvrez 87 Bellechasse à Saint-Maur-des-Fossés (94) : programme neuf du T2 au T5, à partir de 296 000 €. Vendu par Emerige.",
-    "verifie_le": "2026-10-24T22:19+00:00"
+    "verifie_le": "2026-10-29T18:52+00:00"
   },
   {
     "id": "e49f081be2dc5659",
@@ -8646,7 +8646,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Rivage à Saint-Ouen-sur-Seine (93) : programme neuf du T2 au T5, à partir de 420 000 €. Vendu par Constructa Promotion.",
-    "verifie_le": "2026-10-24T19:20+00:00",
+    "verifie_le": "2026-10-29T18:52+00:00",
     "promoteur_site": null,
     "promoteur_cle": "constructa-promotion",
     "promoteur_type": "promoteur"
@@ -8670,7 +8670,7 @@
       "autre"
     ],
     "texte": "Découvrez So Heritage à Saint-Ouen-sur-Seine (93) : programme neuf du T1 au T4, à partir de 254 637 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-24T19:20+00:00",
+    "verifie_le": "2026-10-29T18:52+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -8694,7 +8694,7 @@
       "autre"
     ],
     "texte": "Découvrez Linéa Parc à Noisy-le-Sec (93) : programme neuf du T3 au T4, à partir de 199 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-10-24T19:20+00:00",
+    "verifie_le": "2026-10-29T18:52+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -8718,7 +8718,7 @@
       "autre"
     ],
     "texte": "Découvrez Nouvelle Résidence à Noisy-le-Sec (93) : programme neuf du T1 au T4, à partir de 159 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-24T19:20+00:00",
+    "verifie_le": "2026-10-29T18:52+00:00",
     "promoteur_site": null,
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur"
@@ -8742,7 +8742,7 @@
       "autre"
     ],
     "texte": "Découvrez Osmoz à Noisy-le-Sec (93) : programme neuf du T1 au T3, à partir de 164 083 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-10-24T19:20+00:00",
+    "verifie_le": "2026-10-29T18:52+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -8766,7 +8766,7 @@
       "autre"
     ],
     "texte": "Découvrez 89 Brement à Noisy-le-Sec (93) : programme neuf du T2 au T4, à partir de 220 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-10-24T19:20+00:00",
+    "verifie_le": "2026-10-29T18:52+00:00",
     "promoteur_site": null,
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur"
@@ -8790,7 +8790,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Terrasses Flammarion à Melun (77) : programme neuf. Vendu par Nexity.",
-    "verifie_le": "2026-10-24T19:20+00:00",
+    "verifie_le": "2026-10-29T18:52+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -8814,7 +8814,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Allées du Bois - Tva 7% à Melun (77) : programme neuf du T2 au T3, à partir de 168 224 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-24T19:20+00:00",
+    "verifie_le": "2026-10-29T18:52+00:00",
     "promoteur_site": null,
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur"
@@ -8838,7 +8838,7 @@
       "autre"
     ],
     "texte": "Découvrez Chromatic à Melun (77) : programme neuf du T3 au T4, à partir de 209 542 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-10-24T19:20+00:00",
+    "verifie_le": "2026-10-29T18:52+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -8862,7 +8862,7 @@
       "autre"
     ],
     "texte": "Découvrez Serenova à Melun (77) : programme neuf du T1 au T3, à partir de 136 270 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-24T19:20+00:00",
+    "verifie_le": "2026-10-29T18:52+00:00",
     "promoteur_site": null,
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur"
@@ -19354,7 +19354,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins de Villevaudé à Villevaude (77) : programme neuf, à partir de 363 800 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-24T19:20+00:00",
+    "verifie_le": "2026-10-29T18:52+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -19379,7 +19379,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Demeures des Coteaux à Chennevières-sur-Marne (94) : programme neuf du T4 au T5, à partir de 448 500 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-24T19:20+00:00",
+    "verifie_le": "2026-10-29T18:52+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -19404,7 +19404,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Nouveau Jour à Roissy-en-Brie (77) : programme neuf du T2 au T3, à partir de 232 700 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-24T19:20+00:00",
+    "verifie_le": "2026-10-29T18:52+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -19429,7 +19429,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Patio des Arts à Le Perreux-sur-Marne (94) : programme neuf T4, à partir de 532 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-24T19:20+00:00",
+    "verifie_le": "2026-10-29T18:52+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -19454,7 +19454,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Domaine des Lys à Carrières-sous-Poissy (78) : programme neuf du T2 au T3, à partir de 207 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-24T19:20+00:00",
+    "verifie_le": "2026-10-29T18:52+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
