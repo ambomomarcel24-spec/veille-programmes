@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-30T12:30+00:00",
+  "date": "2026-10-30T18:29+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -26,9 +26,9 @@
     {
       "source": "SeLoger Neuf (Île-de-France)",
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/91/",
-      "liens_programme": 42,
+      "liens_programme": 8,
       "hors_idf": 0,
-      "idf": 21
+      "idf": 4
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -215,7 +215,7 @@
   "fiches_relues": 0,
   "enrichissement": {
     "ok": 0,
-    "echec_telechargement": 253,
+    "echec_telechargement": 257,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -241,13 +241,13 @@
       }
     ]
   },
-  "fiches_a_relire": 253,
+  "fiches_a_relire": 257,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 1,
-  "alertes_en_attente": 86,
+  "nouvelles_fiches": 4,
+  "alertes_en_attente": 90,
   "echec_mail": true
 }
