@@ -26,7 +26,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-30T18:29+00:00",
+    "maj": "2026-10-30T22:52+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -291,7 +291,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-30T18:29+00:00",
+    "maj": "2026-10-30T22:52+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -502,7 +502,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-30T18:29+00:00",
+    "maj": "2026-10-30T22:52+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -641,7 +641,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-30T18:29+00:00",
+    "maj": "2026-10-30T22:52+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -677,7 +677,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-30T18:29+00:00",
+    "maj": "2026-10-30T22:52+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -695,7 +695,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-30T18:29+00:00",
+    "maj": "2026-10-30T22:52+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -732,7 +732,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-30T18:29+00:00",
+    "maj": "2026-10-30T22:52+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -750,7 +750,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-30T18:29+00:00",
+    "maj": "2026-10-30T22:52+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -774,7 +774,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-30T18:29+00:00",
+    "maj": "2026-10-30T22:52+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1477,7 +1477,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-30T18:29+00:00",
+    "maj": "2026-10-30T22:52+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1802,13 +1802,19 @@
         "lieu": "Le Mansart - Pierrefitte-sur-Seine (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/pierrefitte-sur-seine-programme-le-mansart-206418-672.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Les Terrasses du Chateau",
+        "lieu": "Terrasses du Chateau - Le Mesnil-le-Roi (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-mesnil-le-roi-programme-les-terrasses-du-chateau-214368-672.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-30T18:29+00:00",
+    "maj": "2026-10-30T23:02+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2295,7 +2301,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-30T18:29+00:00",
+    "maj": "2026-10-30T22:52+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2313,7 +2319,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-30T18:29+00:00",
+    "maj": "2026-10-30T22:52+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2331,7 +2337,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-30T18:29+00:00",
+    "maj": "2026-10-30T22:52+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2392,7 +2398,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-30T18:29+00:00",
+    "maj": "2026-10-30T22:52+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -4757,13 +4763,19 @@
         "lieu": "Grand Parc - Champigny-sur-Marne (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/champigny-sur-marne-programme-grand-parc-219062-29.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Grandeur Nature",
+        "lieu": "Grandeur Nature - Bussy-Saint-Georges (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bussy-saint-georges-programme-grandeur-nature-219091-29.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf",
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-25T15:54+00:00",
+    "maj": "2026-10-30T23:02+00:00",
     "type": "commercialisateur"
   },
   "vinci-immobilier-promotion": {
@@ -5227,12 +5239,18 @@
         "lieu": "Les Cottages d'Amilly - Meaux / Serris (77)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/serris-programme-les-cottages-damilly-151296-746.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Le Test Ultim",
+        "lieu": "Le Test Ultim - Clichy (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/clichy-programme-le-test-ultim-219094-746.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-16T07:03+00:00",
+    "maj": "2026-10-30T23:02+00:00",
     "type": "promoteur"
   },
   "lelievre-immobilier": {
