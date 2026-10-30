@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29T23:10+00:00",
+  "date": "2026-10-30T05:10+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -144,15 +144,18 @@
     {
       "source": "Sogeprom",
       "page": "https://www.sogeprom.com/",
-      "blocs": 52,
-      "avec_declencheur": 5,
-      "avec_mot_programme": 5,
+      "blocs": 0,
+      "avec_declencheur": 0,
+      "avec_mot_programme": 0,
       "avec_localisation": 0
     },
     {
       "source": "Sogeprom",
       "page": "https://www.sogeprom.com/programmes",
-      "non_lue": true
+      "blocs": 0,
+      "avec_declencheur": 0,
+      "avec_mot_programme": 0,
+      "avec_localisation": 0
     },
     {
       "source": "Cogedim",
@@ -215,7 +218,7 @@
   "fiches_relues": 0,
   "enrichissement": {
     "ok": 0,
-    "echec_telechargement": 251,
+    "echec_telechargement": 252,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -241,13 +244,13 @@
       }
     ]
   },
-  "fiches_a_relire": 251,
+  "fiches_a_relire": 252,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 7,
+  "nouvelles_fiches": 1,
   "alertes_en_attente": 85,
   "echec_mail": true
 }
