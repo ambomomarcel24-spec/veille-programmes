@@ -2780,7 +2780,7 @@
     "promoteur_cle": "quartus",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Reflets à Saint-Denis (93) : programme neuf du T3 au T5, à partir de 276 000 €. Vendu par Quartus.",
-    "verifie_le": "2026-10-26T04:33+00:00"
+    "verifie_le": "2026-10-31T19:49+00:00"
   },
   {
     "id": "af1015ed8edfdb64",
@@ -2804,7 +2804,7 @@
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Time à Saint-Denis (93) : programme neuf du T2 au T4, à partir de 198 800 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-26T04:33+00:00"
+    "verifie_le": "2026-10-31T19:49+00:00"
   },
   {
     "id": "b35a2ab0df778a99",
@@ -2828,7 +2828,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Saint Denis - les Venelles du Landy à Saint-Denis (93) : programme neuf du T3 au T5, à partir de 314 000 €. Vendu par Eiffage Immobilier.",
     "promoteur_site": "https://www.eiffage-immobilier.com",
-    "verifie_le": "2026-10-26T04:33+00:00"
+    "verifie_le": "2026-10-31T19:49+00:00"
   },
   {
     "id": "a7e5663d2474b4b3",
@@ -2852,7 +2852,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le Jade à Saint-Denis (93) : programme neuf du T1 au T4, à partir de 184 000 €. Vendu par Marignan.",
     "promoteur_site": "https://marignan-immobilier.com",
-    "verifie_le": "2026-10-26T04:33+00:00"
+    "verifie_le": "2026-10-31T19:49+00:00"
   },
   {
     "id": "72ac596b99b84b03",
@@ -2876,7 +2876,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Saint Denis - les Venelles du Landy - BRS à Saint-Denis (93) : programme neuf du T2 au T5, à partir de 206 680 €. Vendu par Eiffage Immobilier.",
     "promoteur_site": "https://www.eiffage-immobilier.com",
-    "verifie_le": "2026-10-26T04:33+00:00"
+    "verifie_le": "2026-10-31T19:49+00:00"
   },
   {
     "id": "50f218cee07bd73f",
@@ -2900,7 +2900,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le 5 à Argenteuil (95) : programme neuf du T2 au T4, à partir de 214 000 €. Vendu par Nexity.",
     "promoteur_site": "https://www.nexity.fr",
-    "verifie_le": "2026-10-26T04:33+00:00"
+    "verifie_le": "2026-10-31T19:49+00:00"
   },
   {
     "id": "ef7338f48711398e",
@@ -3139,7 +3139,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Passage de Lutece à Argenteuil (95) : programme neuf T1, à partir de 190 000 €. Vendu par Nexity.",
     "promoteur_site": "https://www.nexity.fr",
-    "verifie_le": "2026-10-26T04:33+00:00"
+    "verifie_le": "2026-10-31T19:49+00:00"
   },
   {
     "id": "ea92b5607f74f0fd",
@@ -3163,7 +3163,7 @@
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Villa Nymphea à Argenteuil (95) : programme neuf du T2 au T4, à partir de 249 000 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-26T04:33+00:00"
+    "verifie_le": "2026-10-31T19:49+00:00"
   },
   {
     "id": "3fb039e365fd4e4d",
@@ -3187,7 +3187,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez 15ème Merveille à Paris 15ème (75) : programme neuf du T3 au T5, à partir de 1 090 000 €. Vendu par Bouygues Immobilier National.",
     "promoteur_site": null,
-    "verifie_le": "2026-10-26T04:33+00:00"
+    "verifie_le": "2026-10-31T19:49+00:00"
   },
   {
     "id": "d3e14750e732084b",
@@ -12942,7 +12942,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le 103 à Malakoff (92) : programme neuf du T1 au T4, à partir de 279 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-25T23:59+00:00",
+    "verifie_le": "2026-10-31T19:49+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -12967,7 +12967,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Scène 3 - Ange-Jacques Gabriel à Le Plessis Robinson (92) : programme neuf du T1 au T4, à partir de 184 000 €. Vendu par Emerige.",
-    "verifie_le": "2026-10-25T23:59+00:00",
+    "verifie_le": "2026-10-31T19:49+00:00",
     "promoteur_site": "https://www.emerige.com",
     "tags": [
       "autre"
@@ -12992,7 +12992,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Hamo - BRS à Igny (91) : programme neuf T3, à partir de 252 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-25T23:59+00:00",
+    "verifie_le": "2026-10-31T19:49+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -13017,7 +13017,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez La Ferme - Appartements à Toussus-le-Noble (78) : programme neuf T4, à partir de 362 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-25T23:59+00:00",
+    "verifie_le": "2026-10-31T19:49+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -13042,7 +13042,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez La Ferme de Chessy à Chessy (77) : programme neuf T1, à partir de 256 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-25T23:59+00:00",
+    "verifie_le": "2026-10-31T19:49+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -13067,7 +13067,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Eclaircie à Longpont-sur-Orge (91) : programme neuf, à partir de 384 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-25T23:59+00:00",
+    "verifie_le": "2026-10-31T19:49+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -13092,7 +13092,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Eclaircie à Longpont-sur-Orge (91) : programme neuf du T2 au T4, à partir de 208 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-25T23:59+00:00",
+    "verifie_le": "2026-10-31T19:49+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -13179,7 +13179,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villas Sohana à Bussy-Saint-Georges (77) : programme neuf du T1 au T3, à partir de 167 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-25T23:59+00:00",
+    "verifie_le": "2026-10-31T19:49+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -13204,7 +13204,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Plaine Nature à Torcy (77) : programme neuf du T2 au T3, à partir de 237 375 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-26T04:33+00:00",
+    "verifie_le": "2026-10-31T19:49+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -13229,7 +13229,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Reflet du Château à Châtenay-Malabry (92) : programme neuf du T3 au T4, à partir de 347 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-26T04:33+00:00",
+    "verifie_le": "2026-10-31T19:49+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -13254,7 +13254,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez La Faïencerie à Bourg-la-Reine (92) : programme neuf du T2 au T3, à partir de 295 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-26T04:33+00:00",
+    "verifie_le": "2026-10-31T19:49+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -13279,7 +13279,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins d'Adèle (93) à Montfermeil (93) : programme neuf T3, à partir de 270 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-26T04:33+00:00",
+    "verifie_le": "2026-10-31T19:49+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -13304,7 +13304,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Résidence Albert Mourlan (93) à Montfermeil (93) : programme neuf du T1 au T4, à partir de 175 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-26T04:33+00:00",
+    "verifie_le": "2026-10-31T19:49+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -13329,7 +13329,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Jardin en Scène (95) à Louvres (95) : programme neuf du T1 au T3, à partir de 159 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-26T04:33+00:00",
+    "verifie_le": "2026-10-31T19:49+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -13354,7 +13354,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Domaine des Ormes à Coupvray (77) : programme neuf T4, à partir de 358 000 €. Vendu par Isia Immo.",
-    "verifie_le": "2026-10-26T04:33+00:00",
+    "verifie_le": "2026-10-31T19:49+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -20692,7 +20692,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villa du Golf à Champigny-sur-Marne (94) : programme neuf T3, à partir de 336 600 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-25T23:59+00:00",
+    "verifie_le": "2026-10-31T19:49+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -23604,5 +23604,25 @@
     ],
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur"
+  },
+  {
+    "id": "c6eae6281848fc0e",
+    "nom": "Juvisy - Collection Neuf",
+    "lieu": "Juvisy sur Orge (91)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/juvisy-sur-orge-91/281766521/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Juvisy - Collection Neuf Juvisy-sur-Orge Du studio au 5 pièces à partir de 147 000 € Terrasse Balcon Box Ascenseur Adapté PMR Votre appartement neuf à Juvisy-sur-Orge, à proximité du RER ! Spécialistes de l’immobilier neuf, nous accompagnons les futurs acquéreurs dans leur projet grâce à nos partena",
+    "numero": 281766521,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-31T19:49+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
   }
 ]
