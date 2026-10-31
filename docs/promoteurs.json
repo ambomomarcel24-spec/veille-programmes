@@ -26,7 +26,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-31T09:26+00:00",
+    "maj": "2026-10-31T15:39+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -285,13 +285,19 @@
         "lieu": "Tendance Canal - Aubervilliers (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/aubervilliers-programme-tendance-canal-218978-11707.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Prochainement au Coeur du Quartier Seine-Liberté",
+        "lieu": "oeur du Quartier Seine-Liberté - Clichy (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/clichy-programme-prochainement-au-coeur-du-quartier-seine-liberte-219034-11707.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-31T09:26+00:00",
+    "maj": "2026-10-31T15:49+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -502,7 +508,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-31T09:26+00:00",
+    "maj": "2026-10-31T15:39+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -641,7 +647,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-31T09:26+00:00",
+    "maj": "2026-10-31T15:39+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -677,7 +683,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-31T09:26+00:00",
+    "maj": "2026-10-31T15:39+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -695,7 +701,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-31T09:26+00:00",
+    "maj": "2026-10-31T15:39+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -732,7 +738,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-31T09:26+00:00",
+    "maj": "2026-10-31T15:39+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -750,7 +756,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-31T09:26+00:00",
+    "maj": "2026-10-31T15:39+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -774,7 +780,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-31T09:26+00:00",
+    "maj": "2026-10-31T15:39+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1471,13 +1477,19 @@
         "lieu": "Les Terrasses des Canotiers - Meaux (77)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meaux-programme-les-terrasses-des-canotiers-201209-5891.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Le Jardin de Josephine",
+        "lieu": "Le Jardin de Josephine - Meaux / Serris (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/serris-programme-le-jardin-de-josephine-219027-5891.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-31T09:26+00:00",
+    "maj": "2026-10-31T15:51+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1814,7 +1826,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-31T09:26+00:00",
+    "maj": "2026-10-31T15:39+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2301,7 +2313,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-31T09:26+00:00",
+    "maj": "2026-10-31T15:39+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2319,7 +2331,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-31T09:26+00:00",
+    "maj": "2026-10-31T15:39+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2337,7 +2349,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-31T09:26+00:00",
+    "maj": "2026-10-31T15:39+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2398,7 +2410,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-31T09:26+00:00",
+    "maj": "2026-10-31T15:39+00:00",
     "type": "promoteur"
   },
   "simmeo": {
