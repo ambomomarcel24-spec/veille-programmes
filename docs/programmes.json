@@ -2684,7 +2684,7 @@
     "promoteur_cle": "bnp-paribas-real-estate",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Highlife 2 à Boulogne-Billancourt (92) : programme neuf du T3 au T5, à partir de 699 000 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-10-25T21:34+00:00"
+    "verifie_le": "2026-10-31T09:26+00:00"
   },
   {
     "id": "941a8df75bb25ced",
@@ -2708,7 +2708,7 @@
     "promoteur_cle": "bnp-paribas-real-estate",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Bellevie à Boulogne-Billancourt (92) : programme neuf du T2 au T5, à partir de 450 000 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-10-25T21:34+00:00"
+    "verifie_le": "2026-10-31T09:26+00:00"
   },
   {
     "id": "90791e441cb76be6",
@@ -2732,7 +2732,7 @@
     "promoteur_cle": "bnp-paribas-real-estate",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Highlife à Boulogne-Billancourt (92) : programme neuf du T1 au T5, à partir de 424 000 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-10-25T21:34+00:00"
+    "verifie_le": "2026-10-31T09:26+00:00"
   },
   {
     "id": "5f4e5e23b8364228",
@@ -2756,7 +2756,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Apogee à Saint-Denis (93) : programme neuf T1, à partir de 239 000 €. Vendu par VINCI Immobilier Promotion.",
     "promoteur_site": null,
-    "verifie_le": "2026-10-25T21:34+00:00"
+    "verifie_le": "2026-10-31T09:26+00:00"
   },
   {
     "id": "8fb03f28006e255c",
@@ -5370,7 +5370,7 @@
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Villa Le Rolland à Drancy (93) : programme neuf du T1 au T2, à partir de 215 100 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-25T21:34+00:00"
+    "verifie_le": "2026-10-31T09:26+00:00"
   },
   {
     "id": "aaed37ffda17138e",
@@ -5394,7 +5394,7 @@
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur",
     "texte": "Découvrez Les Balcons d'Opale à Noisy-le-Grand (93) : programme neuf du T2 au T3, à partir de 229 275 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-25T21:34+00:00"
+    "verifie_le": "2026-10-31T09:26+00:00"
   },
   {
     "id": "0628b9e1c2b348ea",
@@ -5418,7 +5418,7 @@
     "promoteur_cle": "edouard-denis",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Arboresens à Noisy-le-Grand (93) : programme neuf du T1 au T3, à partir de 179 000 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-10-25T21:34+00:00"
+    "verifie_le": "2026-10-31T09:26+00:00"
   },
   {
     "id": "1cde7198e5c711e4",
@@ -5442,7 +5442,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Terrasses des Coteaux à Noisy-le-Grand (93) : programme neuf du T1 au T3, à partir de 192 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-25T21:34+00:00"
+    "verifie_le": "2026-10-31T09:26+00:00"
   },
   {
     "id": "fb28592aa6982bd1",
@@ -5466,7 +5466,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Horizon Marne à Noisy-le-Grand (93) : programme neuf du T1 au T5, à partir de 218 300 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-25T21:34+00:00"
+    "verifie_le": "2026-10-31T09:26+00:00"
   },
   {
     "id": "75d808a33d59c9c3",
@@ -12313,7 +12313,7 @@
       "autre"
     ],
     "texte": "Découvrez 90 République à Saint-Cloud (92) : programme neuf du T2 au T4, à partir de 355 000 €. Vendu par Emerige.",
-    "verifie_le": "2026-10-25T18:48+00:00",
+    "verifie_le": "2026-10-31T09:26+00:00",
     "promoteur_site": "https://www.emerige.com",
     "promoteur_cle": "emerige",
     "promoteur_type": "promoteur"
@@ -12338,7 +12338,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa Antoinette à Poissy (78) : programme neuf du T1 au T5, à partir de 158 300 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-25T18:48+00:00",
+    "verifie_le": "2026-10-31T09:26+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
@@ -12363,7 +12363,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Terrasses d'Adria II à Ermont (95) : programme neuf du T1 au T5, à partir de 191 658 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-25T18:48+00:00",
+    "verifie_le": "2026-10-31T09:26+00:00",
     "promoteur_site": null,
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur"
@@ -12388,7 +12388,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Jardins Gabriel à Arcueil (94) : programme neuf du T1 au T4, à partir de 195 700 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-25T18:48+00:00",
+    "verifie_le": "2026-10-31T09:26+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
@@ -12492,7 +12492,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Prochainement à Bezons à Bezons (95) : programme neuf du T2 au T3. Vendu par Cogedim.",
-    "verifie_le": "2026-10-25T18:48+00:00",
+    "verifie_le": "2026-10-31T09:26+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -12517,7 +12517,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Coeur Jardin à Stains (93) : programme neuf du T2 au T4, à partir de 169 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-25T18:48+00:00",
+    "verifie_le": "2026-10-31T09:26+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -12542,7 +12542,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Aurore à Villemomble (93) : programme neuf du T1 au T4, à partir de 187 300 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-25T18:48+00:00",
+    "verifie_le": "2026-10-31T09:26+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -12567,7 +12567,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Angle des Arts à Bezons (95) : programme neuf du T2 au T4, à partir de 212 900 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-25T18:48+00:00",
+    "verifie_le": "2026-10-31T09:26+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -12592,7 +12592,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Quartier Lallier - Saison 2 à L'Hay-les-Roses (94) : programme neuf du T2 au T5, à partir de 274 000 €. Vendu par Emerige.",
-    "verifie_le": "2026-10-25T18:48+00:00",
+    "verifie_le": "2026-10-31T09:26+00:00",
     "promoteur_site": "https://www.emerige.com",
     "tags": [
       "autre"
@@ -12617,7 +12617,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Parc du Château à La Celle-Saint-Cloud (78) : programme neuf du T2 au T5, à partir de 305 000 €. Vendu par Ogic.",
-    "verifie_le": "2026-10-25T21:34+00:00",
+    "verifie_le": "2026-10-31T09:26+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -12642,7 +12642,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos des Meulières à Saclay (91) : programme neuf du T1 au T4, à partir de 244 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-25T21:34+00:00",
+    "verifie_le": "2026-10-31T09:26+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -12667,7 +12667,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Coeur Royal à Fontainebleau (77) : programme neuf du T1 au T4, à partir de 207 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-25T21:34+00:00",
+    "verifie_le": "2026-10-31T09:26+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -12692,7 +12692,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Horizon à Ormesson-sur-Marne (94) : programme neuf du T2 au T4, à partir de 219 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-25T21:34+00:00",
+    "verifie_le": "2026-10-31T09:26+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -12717,7 +12717,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Oréa à Viroflay (78) : programme neuf du T2 au T4, à partir de 308 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-25T21:34+00:00",
+    "verifie_le": "2026-10-31T09:26+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -12742,7 +12742,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Terrasses Duparc à Bezons (95) : programme neuf du T2 au T4, à partir de 210 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-25T21:34+00:00",
+    "verifie_le": "2026-10-31T09:26+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -12767,7 +12767,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Clos des Bleuets à Beauchamp (95) : programme neuf du T2 au T4, à partir de 209 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-25T21:34+00:00",
+    "verifie_le": "2026-10-31T09:26+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -23533,5 +23533,26 @@
     ],
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
+  },
+  {
+    "id": "ec37756f4b12cf22",
+    "nom": "LES TERRASSES MOLIÈRE",
+    "lieu": "Montrouge (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montrouge-92/284259703/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Lancement commercial",
+    "statut": "lancement commercial",
+    "date_publication": null,
+    "extrait": "LES TERRASSES MOLIÈRE Montrouge Du studio au 5 pièces à partir de 275 000 € Terrasse Balcon Parking Ascenseur Digicode Lancement commercial – Appartements neufs du studio au 5 pièces à Montrouge (92) Située au 36 rue Molière à Montrouge et à proximité immédiate des transports, cette future résidence",
+    "numero": 284259703,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-10-31T09:26+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "lancement commercial"
+    ]
   }
 ]
