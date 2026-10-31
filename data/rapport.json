@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-31T19:49+00:00",
+  "date": "2026-10-31T23:13+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -131,7 +131,7 @@
     {
       "source": "Emerige",
       "page": "https://www.emerige.com/",
-      "blocs": 97,
+      "blocs": 93,
       "avec_declencheur": 0,
       "avec_mot_programme": 0,
       "avec_localisation": 0
@@ -247,7 +247,7 @@
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 1,
+  "nouvelles_fiches": 0,
   "alertes_en_attente": 91,
   "echec_mail": true
 }
