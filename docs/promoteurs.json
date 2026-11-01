@@ -26,7 +26,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-01T05:23+00:00",
+    "maj": "2026-11-01T12:57+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -297,7 +297,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-01T05:23+00:00",
+    "maj": "2026-11-01T12:57+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -508,7 +508,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-01T05:23+00:00",
+    "maj": "2026-11-01T12:57+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -647,7 +647,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-01T05:23+00:00",
+    "maj": "2026-11-01T12:57+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -683,7 +683,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-01T05:23+00:00",
+    "maj": "2026-11-01T12:57+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -701,7 +701,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-01T05:23+00:00",
+    "maj": "2026-11-01T12:57+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -738,7 +738,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-01T05:23+00:00",
+    "maj": "2026-11-01T12:57+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -756,7 +756,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-01T05:23+00:00",
+    "maj": "2026-11-01T12:57+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -780,7 +780,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-01T05:23+00:00",
+    "maj": "2026-11-01T12:57+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1489,7 +1489,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-01T05:23+00:00",
+    "maj": "2026-11-01T12:57+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1826,7 +1826,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-01T05:23+00:00",
+    "maj": "2026-11-01T12:57+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2313,7 +2313,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-01T05:23+00:00",
+    "maj": "2026-11-01T12:57+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2331,7 +2331,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-01T05:23+00:00",
+    "maj": "2026-11-01T12:57+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2349,7 +2349,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-01T05:23+00:00",
+    "maj": "2026-11-01T12:57+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2410,7 +2410,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-01T05:23+00:00",
+    "maj": "2026-11-01T12:57+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -3695,12 +3695,18 @@
         "lieu": "Villa Salucéa - Saulx-les-Chartreux (91)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saulx-les-chartreux-programme-villa-salucea-178507-8598.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Osmose",
+        "lieu": "Osmose - Fresnes (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/fresnes-programme-osmose-218741-8598.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-23T14:59+00:00",
+    "maj": "2026-11-01T13:08+00:00",
     "type": "promoteur"
   },
   "sas-capi": {
