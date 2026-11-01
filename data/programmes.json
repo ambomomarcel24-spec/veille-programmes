@@ -6587,7 +6587,7 @@
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Lumine&sens à Fontenay-sous-Bois (94) : programme neuf du T3 au T5, à partir de 358 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-27T07:35+00:00"
+    "verifie_le": "2026-11-01T22:38+00:00"
   },
   {
     "id": "ee55798a5dbf369a",
@@ -6611,7 +6611,7 @@
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez L'Égérie à Clamart (92) : programme neuf. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-27T07:35+00:00"
+    "verifie_le": "2026-11-01T22:38+00:00"
   },
   {
     "id": "4408a8906792d47a",
@@ -6635,7 +6635,7 @@
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez L'Egérie II à Clamart (92) : programme neuf T4, à partir de 489 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-27T07:35+00:00"
+    "verifie_le": "2026-11-01T22:38+00:00"
   },
   {
     "id": "c9fb12acc681eb1c",
@@ -6659,7 +6659,7 @@
     "promoteur_cle": "demathieu-bard-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Terrasses Mansart à Clamart (92) : programme neuf du T1 au T5, à partir de 199 500 €. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-10-27T07:35+00:00"
+    "verifie_le": "2026-11-01T22:38+00:00"
   },
   {
     "id": "32794327e6b562c8",
@@ -6683,7 +6683,7 @@
     "promoteur_cle": "bnp-paribas-real-estate",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Panorama Beaurivage - Montsouris à Clamart (92) : programme neuf du T2 au T5, à partir de 350 000 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-10-27T07:35+00:00"
+    "verifie_le": "2026-11-01T22:38+00:00"
   },
   {
     "id": "f6336e6ff1c6903e",
@@ -15037,7 +15037,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Coeur Jardin à Stains (93) : programme neuf du T2 au T4, à partir de 169 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -15062,7 +15062,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos Champeau à Chanteloup-les-Vignes (78) : programme neuf du T1 au T4, à partir de 142 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -15087,7 +15087,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez City Art à Thiais (94) : programme neuf du T1 au T5, à partir de 199 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -15112,7 +15112,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Horizons du Paradis à Fontenay-aux-Roses (92) : programme neuf du T2 au T4, à partir de 288 300 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -15137,7 +15137,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Écrin des Étangs à Ville-d'Avray (92) : programme neuf du T2 au T5, à partir de 438 300 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -15162,7 +15162,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Domaine des Prunais Chapitre 1 à Villiers-sur-Marne (94) : programme neuf du T1 au T4, à partir de 222 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -15187,7 +15187,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Ora à Dugny (93) : programme neuf du T1 au T5, à partir de 155 000 €. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15212,7 +15212,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez La Résidence du Chateau à Savigny-le-Temple (77) : programme neuf du T1 au T4, à partir de 146 900 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -15237,7 +15237,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villa Rosella à L'Hay-les-Roses (94) : programme neuf du T2 au T3, à partir de 236 700 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -15262,7 +15262,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Belvédère Charles Christofle à Brunoy (91) : programme neuf du T1 au T4, à partir de 182 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-27T07:35+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15287,7 +15287,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Solea à Coupvray (77) : programme neuf du T1 au T5, à partir de 198 100 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-27T07:35+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
@@ -15312,7 +15312,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Nations Avenue à Montévrain (77) : programme neuf du T2 au T4, à partir de 269 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-27T07:35+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -15337,7 +15337,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins Villarceaux à Thoiry (78) : programme neuf, à partir de 338 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-27T07:35+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -15362,7 +15362,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Hamo à Igny (91) : programme neuf du T2 au T4, à partir de 243 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-27T07:35+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -15387,7 +15387,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villa Hennequin à Ecquevilly (78) : programme neuf du T1 au T4, à partir de 139 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-27T07:35+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15412,7 +15412,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Reflets de Seine à Alfortville (94) : programme neuf du T1 au T5, à partir de 232 800 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-27T07:35+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -15437,7 +15437,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos des Rougeux à Jouy-le-Moutier (95) : programme neuf du T1 au T4, à partir de 149 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-27T07:35+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15462,7 +15462,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez La Cour aux Blés à Survilliers (95) : programme neuf du T2 au T4, à partir de 238 800 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-27T07:35+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -15487,7 +15487,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez La Galopee à Rambouillet (78) : programme neuf du T2 au T4, à partir de 227 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-10-27T07:35+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15512,7 +15512,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villa Louis-Alexandre - Appartements à Neauphle-le-Château (78) : programme neuf du T2 au T5, à partir de 263 900 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-27T07:35+00:00",
+    "verifie_le": "2026-11-01T22:38+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -23949,6 +23949,26 @@
     "origine": "catalogue",
     "tags": [
       "nouvelle opportunité",
+      "frais_offerts"
+    ]
+  },
+  {
+    "id": "5026b4c3a13916b6",
+    "nom": "Résidence Olympe de Gouges",
+    "lieu": "Nanterre (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/nanterre-92/230978839/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Résidence Olympe de Gouges Nanterre Du 3 pièces au 5 pièces à partir de 234 000 € Balcon Parking Duplex DERNIERES OPPORTUNITES – FRAIS DE NOTAIRE OFFERTS VENEZ VISITER votre futur appartement !! Dans la résidence Olympe de Gouges, située au 132 rue des potagers à Nanterre, il reste des appartements ",
+    "numero": 230978839,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-01T22:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
       "frais_offerts"
     ]
   }
