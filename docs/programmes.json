@@ -6443,7 +6443,7 @@
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Square Foch à Meaux (77) : programme neuf du T1 au T4, à partir de 135 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-10-27T01:55+00:00"
+    "verifie_le": "2026-11-01T18:23+00:00"
   },
   {
     "id": "ab7779417b35b557",
@@ -6467,7 +6467,7 @@
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Jardins de l'Ourcq à Meaux (77) : programme neuf du T1 au T4, à partir de 136 271 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-27T01:55+00:00"
+    "verifie_le": "2026-11-01T18:23+00:00"
   },
   {
     "id": "e676cf3ed4d6c33a",
@@ -6491,7 +6491,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Proche Centre Historique à Meaux (77) : programme neuf du T2 au T4, à partir de 184 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-27T01:55+00:00"
+    "verifie_le": "2026-11-01T18:23+00:00"
   },
   {
     "id": "e5d07b5aa21bd3ee",
@@ -6515,7 +6515,7 @@
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur",
     "texte": "Découvrez L'Embellie à Meaux (77) : programme neuf du T1 au T5, à partir de 130 556 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-10-27T01:55+00:00"
+    "verifie_le": "2026-11-01T18:23+00:00"
   },
   {
     "id": "fbe377b17cd0c5e3",
@@ -6539,7 +6539,7 @@
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Jardins Kléber à Pantin (93) : programme neuf du T2 au T4, à partir de 325 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-27T01:55+00:00"
+    "verifie_le": "2026-11-01T18:23+00:00"
   },
   {
     "id": "48321c1ff1a0449e",
@@ -6563,7 +6563,7 @@
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Lumine&sens 2 à Fontenay-sous-Bois (94) : programme neuf du T1 au T5, à partir de 214 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-27T01:55+00:00"
+    "verifie_le": "2026-11-01T18:23+00:00"
   },
   {
     "id": "f1048c49d558434a",
@@ -14579,7 +14579,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Central Quai 2 à Villeneuve-la-Garenne (92) : programme neuf du T1 au T5, à partir de 190 779 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-26T22:29+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -14604,7 +14604,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Villas Aolini à Ollainville (91) : programme neuf, à partir de 357 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-26T22:29+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14629,7 +14629,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Essencia à Ormesson-sur-Marne (94) : programme neuf du T1 au T5, à partir de 172 000 €. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-10-26T22:29+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14654,7 +14654,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Plaisancia à Neuilly-Plaisance (93) : programme neuf du T1 au T5, à partir de 160 009 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-10-26T22:29+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14679,7 +14679,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Orly Confluence à Orly (94) : programme neuf du T2 au T4, à partir de 240 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-10-26T22:29+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14704,7 +14704,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Haras à Marly-la-Ville (95) : programme neuf T3, à partir de 269 900 €. Vendu par Foncim Promotion.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14729,7 +14729,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Cadence à Montigny-lès-Cormeilles (95) : programme neuf du T2 au T4, à partir de 228 200 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
@@ -14754,7 +14754,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Atelier du Parc à Juvisy-sur-Orge (91) : programme neuf du T2 au T5, à partir de 200 400 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -14779,7 +14779,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez 21 Saclay à Châtenay-Malabry (92) : programme neuf du T1 au T4, à partir de 209 000 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
@@ -14804,7 +14804,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins de Cos à Villemomble (93) : programme neuf du T1 au T4, à partir de 230 000 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14829,7 +14829,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Hameau des Coteaux à Villabe (91) : programme neuf du T2 au T4, à partir de 190 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -14854,7 +14854,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos Herbron à Viroflay (78) : programme neuf du T1 au T3, à partir de 236 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -14879,7 +14879,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Résidence Madria à Méry-sur-Oise (95) : programme neuf du T1 au T4, à partir de 141 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -14904,7 +14904,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Lignes d'Art à Thiais (94) : programme neuf du T1 au T4, à partir de 213 400 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -15011,7 +15011,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Seine de Vies à Villennes-sur-Seine (78) : programme neuf du T1 au T4, à partir de 156 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-27T01:55+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": "https://cogedim.com",
     "alerte_envoyee": false,
     "tags": [
@@ -21532,7 +21532,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Les Senioriales de Meaux à Meaux (77) : programme neuf T2, à partir de 144 685 €. Vendu par Isia Immo.",
-    "verifie_le": "2026-10-26T22:29+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": null,
     "alerte_envoyee": false,
     "tags": [
@@ -21558,7 +21558,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Prochainement à Clichy à Clichy (92) : programme neuf du T1 au T5, à partir de 326 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-26T22:29+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": "https://cogedim.com",
     "alerte_envoyee": false,
     "tags": [
@@ -21584,7 +21584,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Les Maisons du Coteau à Champlan (91) : programme neuf, à partir de 369 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-26T22:29+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": "https://cogedim.com",
     "alerte_envoyee": false,
     "tags": [
@@ -21610,7 +21610,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Tendance Canal à Aubervilliers (93) : programme neuf du T2 au T4, à partir de 222 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-26T22:29+00:00",
+    "verifie_le": "2026-11-01T18:23+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -23809,5 +23809,147 @@
     ],
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
+  },
+  {
+    "id": "80eb290bcfbcdba8",
+    "nom": "CŒUR DE SEINE - BEZONS",
+    "lieu": "Bezons (95)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bezons-95/281821233/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Offre spéciale",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale CŒUR DE SEINE - BEZONS Bezons Du studio au 5 pièces à partir de 179 900 € Terrasse Balcon Parking Ascenseur Digicode CŒUR DE SEINE - UNE ADRESSE PRIVILÉGIÉE À BEZONS Découvrez une résidence contemporaine à taille humaine, idéalement située dans un quartier résidentiel en plein renouve",
+    "numero": 281821233,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-01T18:23+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité"
+    ]
+  },
+  {
+    "id": "9ac9d99ebdd3affa",
+    "nom": "CADENCE",
+    "lieu": "Montigny les Cormeilles (95)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montigny-les-cormeilles-95/245408619/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Travaux en cours",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "CADENCE Montigny-lès-Cormeilles Du 2 pièces au 4 pièces à partir de 228 200 € Jardin Terrasse Balcon Parking Duplex TRAVAUX EN COURS ! À seulement 200m de la gare \"Montigny - Beauchamp\" desservie par la ligne de RER C et le transilien ligne H, rejoignez Paris en 30 minutes depuis cette nouvelle rési",
+    "numero": 245408619,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-01T18:23+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "travaux_en_cours"
+    ]
+  },
+  {
+    "id": "359969388187fb2c",
+    "nom": "ONLY ONE",
+    "lieu": "Chilly Mazarin (91)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/chilly-mazarin-91/284251127/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "ONLY ONE Chilly-Mazarin Du studio au 4 pièces à partir de 181 900 € Ascenseur Digicode !! AVANT PREMIERE !! Découvrez la résidence ONLY ONE, située au 1 rue d'Athis à Chilly-Mazarin, dans un environnement résidentiel agréable, à proximité du centre-ville et de toutes les [...]",
+    "numero": 284251127,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-01T18:23+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "ddedfc329d94a905",
+    "nom": "Zoom Le Perreux-sur-Marne",
+    "lieu": "Le Perreux sur Marne (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/le-perreux-sur-marne-94/281498515/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Zoom Le Perreux-sur-Marne Le Perreux-sur-Marne Du studio au 5 pièces à partir de 212 000 € Ascenseur Adapté PMR Digicode Profitez de tous les avantages d'un appartement neuf au Perreux-sur-Marne: prestations à la carte, balcons, terrasses, parkings, jardins privatifs, résidence sécurisée, bâtiment à",
+    "numero": 281498515,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-01T18:23+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "0e79dcad8f458b56",
+    "nom": "Zoom Forêt Parc de Vilgénis",
+    "lieu": "Massy (91)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/massy-91/275435619/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Zoom Forêt Parc de Vilgénis Massy Du studio au 5 pièces à partir de 196 000 € Ascenseur Adapté PMR Digicode Profitez de tous les avantages d'un appartement neuf à Massy : prestations à la carte, balcons, terrasses, parkings, jardins privatifs, résidence sécurisée, bâtiment à basse consommation énerg",
+    "numero": 275435619,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-01T18:23+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "cae5f156fe9d9903",
+    "nom": "AXOMA",
+    "lieu": "Issy les Moulineaux (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/issy-les-moulineaux-92/249060527/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Travaux en cours",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "AXOMA Issy-les-Moulineaux Du studio au 6 pièces à partir de 325 000 € Jardin Terrasse Balcon Ascenseur Digicode Travaux en cours - dernières opportunités à saisir ! Offrez-vous l'exception à Issy-les-Moulineaux. Seulement 12 appartements haut de gamme. Pas un de plus ! Vivez au calme tout en [...]",
+    "numero": 249060527,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-01T18:23+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité",
+      "travaux_en_cours"
+    ]
+  },
+  {
+    "id": "f267f80df29503cd",
+    "nom": "Ateliers Dollfus",
+    "lieu": "Paris 18eme (75)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/paris-18eme-75/275209257/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Offre spéciale",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale Ateliers Dollfus Paris 18ème Du studio au 5 pièces à partir de 352 000 € Terrasse Balcon GRAND LANCEMENT - Les 6 et 7 novembre- contactez nous pour plus d'informations! A cette occasion, bénéficiez de vos frais de notaire offerts jusqu'au 7 novembre 2026! Ateliers Dollfus: une [...]",
+    "numero": 275209257,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-01T18:23+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité",
+      "frais_offerts"
+    ]
   }
 ]
