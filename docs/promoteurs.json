@@ -26,7 +26,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-02T10:46+00:00",
+    "maj": "2026-11-02T20:40+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -297,7 +297,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-02T10:46+00:00",
+    "maj": "2026-11-02T20:40+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -508,7 +508,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-02T10:46+00:00",
+    "maj": "2026-11-02T20:40+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -647,7 +647,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-02T10:46+00:00",
+    "maj": "2026-11-02T20:40+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -683,7 +683,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-02T10:46+00:00",
+    "maj": "2026-11-02T20:40+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -701,7 +701,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-02T10:46+00:00",
+    "maj": "2026-11-02T20:40+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -738,7 +738,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-02T10:46+00:00",
+    "maj": "2026-11-02T20:40+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -756,7 +756,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-02T10:46+00:00",
+    "maj": "2026-11-02T20:40+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -780,7 +780,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-02T10:46+00:00",
+    "maj": "2026-11-02T20:40+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1489,7 +1489,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-02T10:46+00:00",
+    "maj": "2026-11-02T20:40+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1826,7 +1826,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-02T10:46+00:00",
+    "maj": "2026-11-02T20:40+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2307,13 +2307,25 @@
         "lieu": "Instant Nature BRS - Poissy (78)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/poissy-programme-instant-nature-brs-201097-10.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Les Balcons de l'Echat",
+        "lieu": "Les Balcons de l'Echat - Créteil (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/creteil-programme-les-balcons-de-lechat-215381-10.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Parking",
+        "lieu": "Parking - Champigny-sur-Marne (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/champigny-sur-marne-programme-parking-214273-10.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-02T10:46+00:00",
+    "maj": "2026-11-02T20:52+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2331,7 +2343,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-02T10:46+00:00",
+    "maj": "2026-11-02T20:40+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2349,7 +2361,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-02T10:46+00:00",
+    "maj": "2026-11-02T20:40+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2410,7 +2422,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-02T10:46+00:00",
+    "maj": "2026-11-02T20:40+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -4571,12 +4583,18 @@
         "lieu": "Les Ciels de Saint-Cloud - Saint-Cloud (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-cloud-programme-les-ciels-de-saint-cloud-213166-8355.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Résidence Sisley",
+        "lieu": "Résidence Sisley - Pontoise (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/pontoise-programme-residence-sisley-219115-8355.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T15:00+00:00",
+    "maj": "2026-11-02T20:43+00:00",
     "type": "promoteur"
   },
   "medicis-immobilier-neuf": {
@@ -5179,12 +5197,18 @@
         "lieu": "Crescendô - Noisy-le-Sec (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/noisy-le-sec-programme-crescendo-218897-361.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Unisson",
+        "lieu": "Unisson - Paris / Wissous (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/wissous-programme-unisson-219113-361.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-28T11:23+00:00",
+    "maj": "2026-11-02T20:43+00:00",
     "type": "promoteur"
   },
   "edouard-denis": {
