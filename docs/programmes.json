@@ -3835,7 +3835,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Villa Gabrielle à Colombes (92) : programme neuf du T2 au T5, à partir de 260 800 €. Vendu par Les Nouveaux Constructeurs.",
     "promoteur_site": "https://lnc.fr",
-    "verifie_le": "2026-10-28T11:14+00:00"
+    "verifie_le": "2026-11-03T10:38+00:00"
   },
   {
     "id": "5ea5f5b4f311d434",
@@ -3859,7 +3859,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Esprit Valmy à Colombes (92) : programme neuf du T2 au T4, à partir de 252 200 €. Vendu par Marignan.",
     "promoteur_site": "https://marignan-immobilier.com",
-    "verifie_le": "2026-10-28T11:14+00:00"
+    "verifie_le": "2026-11-03T10:38+00:00"
   },
   {
     "id": "4c8280e14116e371",
@@ -3883,7 +3883,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Plurielles à Colombes (92) : programme neuf du T2 au T5, à partir de 259 000 €. Vendu par VINCI Immobilier Promotion.",
     "promoteur_site": null,
-    "verifie_le": "2026-10-28T11:14+00:00"
+    "verifie_le": "2026-11-03T10:38+00:00"
   },
   {
     "id": "5c1d8934b5578691",
@@ -3907,7 +3907,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Ovation Magellan Ilot 13 à Colombes (92) : programme neuf du T1 au T4, à partir de 205 000 €. Vendu par Nexity.",
     "promoteur_site": "https://www.nexity.fr",
-    "verifie_le": "2026-10-28T11:14+00:00"
+    "verifie_le": "2026-11-03T10:38+00:00"
   },
   {
     "id": "09a91020cb092fab",
@@ -3931,7 +3931,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Plurielles à Colombes (92) : programme neuf du T1 au T5, à partir de 209 000 €. Vendu par Bouygues Immobilier National.",
     "promoteur_site": null,
-    "verifie_le": "2026-10-28T11:14+00:00"
+    "verifie_le": "2026-11-03T10:38+00:00"
   },
   {
     "id": "16c0be36e227ef28",
@@ -3955,7 +3955,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le Clos des Tilleuls à Colombes (92) : programme neuf du T1 au T4, à partir de 186 750 €. Vendu par Emerige.",
     "promoteur_site": "https://www.emerige.com",
-    "verifie_le": "2026-10-28T11:14+00:00"
+    "verifie_le": "2026-11-03T10:38+00:00"
   },
   {
     "id": "16bf1881cf935219",
@@ -7184,7 +7184,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa Joffre à Épinay-sur-Seine (93) : programme neuf du T2 au T4, à partir de 213 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-28T11:14+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -7208,7 +7208,7 @@
       "autre"
     ],
     "texte": "Découvrez Les App'Arts de l'Ourcq à Bobigny (93) : programme neuf du T1 au T5, à partir de 209 000 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-10-28T11:14+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": null,
     "promoteur_cle": "edouard-denis",
     "promoteur_type": "promoteur"
@@ -7232,7 +7232,7 @@
       "autre"
     ],
     "texte": "Découvrez Metamorphose à Suresnes (92) : programme neuf du T2 au T5, à partir de 398 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-10-28T11:14+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": null,
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur"
@@ -7686,7 +7686,7 @@
       "autre"
     ],
     "texte": "Découvrez L'Orfèvre à Clamart (92) : programme neuf T6, à partir de 890 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-28T11:14+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur"
@@ -7710,7 +7710,7 @@
       "autre"
     ],
     "texte": "Découvrez Aori à Meudon (92) : programme neuf du T4 au T5, à partir de 849 000 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-28T11:14+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
@@ -17045,7 +17045,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Entracte à Romainville (93) : programme neuf du T3 au T4, à partir de 314 900 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-28T04:59+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -17070,7 +17070,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villas du Vercors à Orly (94) : programme neuf du T3 au T4, à partir de 315 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-28T04:59+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -17095,7 +17095,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Terrasses d'Adria à Ermont (95) : programme neuf du T1 au T5, à partir de 179 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-28T04:59+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -17120,7 +17120,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Pavillon Mansart à Sèvres (92) : programme neuf du T2 au T5, à partir de 359 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-28T04:59+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -17145,7 +17145,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Atrium à Magnanville (78) : programme neuf T2, à partir de 186 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-28T04:59+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -17170,7 +17170,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Rive Nature à Villeneuve-la-Garenne (92) : programme neuf T4, à partir de 359 900 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-28T04:59+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -17195,7 +17195,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Éclat à Élancourt (78) : programme neuf T4, à partir de 395 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-28T04:59+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -17220,7 +17220,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Liberty à Chessy (77) : programme neuf du T2 au T5, à partir de 277 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-28T04:59+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -17245,7 +17245,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Orée du Square à Limeil-Brévannes (94) : programme neuf du T1 au T4, à partir de 169 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-28T04:59+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -17270,7 +17270,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos du Bois 2 - BRS à Andilly (95) : programme neuf, à partir de 300 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-28T04:59+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -17435,7 +17435,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins de la Roseraie à Châtenay-Malabry (92) : programme neuf du T1 au T5, à partir de 230 900 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-28T11:14+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -17460,7 +17460,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Coeur de Bourg à Saint-Martin-du-Tertre (95) : programme neuf du T2 au T4, à partir de 200 500 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-28T11:14+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -17485,7 +17485,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins des Vergers à Poissy (78) : programme neuf du T2 au T5, à partir de 201 700 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-28T11:14+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -17510,7 +17510,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins d'Apolline à Plaisir (78) : programme neuf du T2 au T4, à partir de 235 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-28T11:14+00:00",
+    "verifie_le": "2026-11-03T10:38+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -24722,5 +24722,399 @@
       "frais_offerts",
       "travaux_en_cours"
     ]
+  },
+  {
+    "id": "58a6e7b52d3ff2e3",
+    "nom": "Esprit Montmartre",
+    "lieu": "Paris 18eme (75)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/paris-18eme-75/234312377/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Esprit Montmartre Paris 18ème Du studio au 4 pièces à partir de 418 000 € Terrasse Ascenseur Digicode Paris Feutrier – Pierre Promotion & Catella Découvrez notre nouvelle résidence d'exception nichée sur les hauteurs du 18e arrondissement de Paris, au cœur de l'un des quartiers les plus [...]",
+    "numero": 234312377,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "8c8af5a8726db720",
+    "nom": "Les Coteaux du Parc",
+    "lieu": "Draveil (91)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/draveil-91/270444853/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Les Coteaux du Parc Draveil 12 logements Prix : nous contacter OFFRE SUR LES DERNIERS LOGEMENTS : 2 000 euros de REMISE PAR PIECE + FRAIS DE NOTAIRE OFFERTS. LIVRAISON AUTOMNE 2026 ! Bénéficiez d'une offre commerciale exceptionnelle sur nos 3 derniers [...]",
+    "numero": 270444853,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "frais_offerts",
+      "bons_plans"
+    ]
+  },
+  {
+    "id": "76f08f24122c0089",
+    "nom": "12 avenue de la Porte de la Villette",
+    "lieu": "Paris 19eme (75)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/paris-19eme-75/278708915/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "12 avenue de la Porte de la Villette Paris 19ème Du 2 pièces au 3 pièces à partir de 190 000 € Terrasse Balcon Ascenseur A partir du 3 septembre, candidatez sur le site internet de la Foncière de la Ville de Paris pour devenir propriétaire en Bail réel solidaire de votre futur logement neuf ! Située",
+    "numero": 278708915,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "2fb92ccea4be6a35",
+    "nom": "Chapelle Charbon lot F",
+    "lieu": "Paris 18eme (75)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/paris-18eme-75/270887447/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Chapelle Charbon lot F Paris 18ème Du 2 pièces au 5 pièces à partir de 240 000 € Balcon Ascenseur Adapté PMR Duplex Situé à l’entrée Ouest du parc Chapelle Charbon, le lot F se distingue par l’originalité de son principe constructif, offrant une diversité de typologie de logements (du T2 au T5) et d",
+    "numero": 270887447,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "28b14d58bbbe1435",
+    "nom": "Les Météores",
+    "lieu": "Saint Denis (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-denis-93/205993311/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Les Météores Saint-Denis Du 3 pièces au 4 pièces à partir de 230 000 € Box Ascenseur Adapté PMR Digicode La CAPS et Plaine Commune Habitat proposent 22 logements en BRS (Bail Réel Solidaire). Grâce au BRS, devenez propriétaire de votre résidence principale en achetant 40 % moins cher que les prix [.",
+    "numero": 205993311,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "3a244f42060f3398",
+    "nom": "Le Clos Saint Martin",
+    "lieu": "Etampes (91)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/etampes-91/270950601/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Le Clos Saint Martin Étampes Du 2 pièces au 3 pièces à partir de 152 000 € AVANT-PREMIERE À ÉTAMPES ! Soyez parmi les premiers à choisir votre logement neuf avec espace extérieur et parking ! Profitez de la TVA réduite à 5,5 % pour devenir propriétaire de votre [...]",
+    "numero": 270950601,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "tva_reduite"
+    ]
+  },
+  {
+    "id": "34d9e2b1496c2766",
+    "nom": "RESIDENCE BOIS SIGNAC",
+    "lieu": "Montreuil (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montreuil-93/284617165/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "RESIDENCE BOIS SIGNAC Montreuil Du 3 pièces au 5 pièces à partir de 399 684 € Jardin Terrasse Balcon Digicode Résidence Bois Signac – Un havre de verdure et d'inspiration à Montreuil Nichée au 44 rue Rochebrune, au cœur du quartier Signac – Murs-à-Pêches, la Résidence Bois Signac propose une adresse",
+    "numero": 284617165,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "5ffa69a12c34a8bb",
+    "nom": "Villa Noja",
+    "lieu": "Epinay sur Orge (91)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/epinay-sur-orge-91/179388059/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Villa Noja Épinay-sur-Orge Du 3 pièces au 5 pièces à partir de 327 000 € Terrasse APPARTEMENT TEMOIN SUR PLACE Cette résidence de standing vous propose des appartements du F3 au F5. Elle est située au centre-ville, à deux pas de toutes commodités. Villa Noja se distingue [...]",
+    "numero": 179388059,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "973598a619f366c6",
+    "nom": "Origines",
+    "lieu": "Champs sur Marne (77)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/champs-sur-marne-77/276033131/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Origines Champs-sur-Marne Du studio au 5 pièces à partir de 155 000 € Jardin Terrasse Balcon Parking Ascenseur Résidence Origines à Champs-sur-Marne (77), dans la ZAC des Hauts de Nesles. Résidence neuve composée de 69 logements au total, dont 35 logements en accession Sogeprom et 34 logements BRS C",
+    "numero": 276033131,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "a3ee5cf376d68a7d",
+    "nom": "Le",
+    "lieu": "Neuilly Plaisance (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/neuilly-plaisance-93/245575361/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Offre spéciale",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale Le Neuilly-Plaisance Du studio au 5 pièces à partir de 173 000 € Jardin Terrasse Balcon Ascenseur Adapté PMR Profitez d'un emplacement central, à deux pas des commerces, des services du quotidien et de nombreux équipements culturels, sportifs, éducatifs et de santé. Un cadre de vie se",
+    "numero": 245575361,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité"
+    ]
+  },
+  {
+    "id": "bf86237782ea7d48",
+    "nom": "RESIDENCE DE L'ATELIER",
+    "lieu": "Le Pre Saint Gervais (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/le-pre-saint-gervais-93/273217465/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Exclusivité",
+    "statut": "exclusivité",
+    "date_publication": null,
+    "extrait": "RESIDENCE DE L'ATELIER Le Pré-Saint-Gervais Du 2 pièces au 5 pièces à partir de 334 000 € Jardin Terrasse Balcon Ascenseur Digicode BK Immobilier a le plaisir de vous présenter en exclusivité un programme immobilier d’exception situé au 20 rue Danton, au cœur du secteur le plus recherché du Pré-Sain",
+    "numero": 273217465,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "exclusivité"
+    ]
+  },
+  {
+    "id": "5d19d0f92f27395a",
+    "nom": "LE CLOS MARLON",
+    "lieu": "Sainte Genevieve des Bois (91)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/sainte-genevieve-des-bois-91/274010523/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Avant-première",
+    "statut": "avant-première",
+    "date_publication": null,
+    "extrait": "LE CLOS MARLON Sainte-Geneviève-des-Bois Du 2 pièces au 5 pièces à partir de 250 000 € Jardin Terrasse Balcon Climatisation Parking NOUVEAU À SAINTE-GENEVIÈVE-DES-BOIS – AVENUE GABRIEL PÉRI ? Découvrez en avant-première une résidence neuve intimiste de seulement 17 logements, idéalement située sur l",
+    "numero": 274010523,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "avant-première"
+    ]
+  },
+  {
+    "id": "93ee1deb46d6cae9",
+    "nom": "Les gravillons",
+    "lieu": "Massy (91)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/massy-91/203451321/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Les gravillons Massy Appartements 4 pièces à partir de 379 000 € Terrasse Parking Duplex DERNIERES OPPORTUNITES !! LES LOGEMENTS EN PSLA* A MASSY!!! Découvrez « Les Gravillons », un programme immobilier neuf idéalement situé au cœur de Massy Palaiseau, sur la rue Jean Jaurès. Ce projet [...]",
+    "numero": 203451321,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "0615e29c97d75d23",
+    "nom": "VILLA TERRANEA",
+    "lieu": "Eaubonne (95)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/eaubonne-95/282781127/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "VILLA TERRANEA Eaubonne Du studio au 4 pièces à partir de 186 420 € Jardin Terrasse Balcon Située au cœur de la vallée de Montmorency à 13km au nord de Paris, à proximité d'Enghien Les Bains, Eaubonne est parfaitement desservie par le RER C, les transiliens H et J mais aussi par les [...]",
+    "numero": 282781127,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "4f26bfd5999ac877",
+    "nom": "LA VICOMTÉ",
+    "lieu": "Chennevieres sur Marne (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/chennevieres-sur-marne-94/275069327/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Lancement commercial",
+    "statut": "lancement commercial",
+    "date_publication": null,
+    "extrait": "LA VICOMTÉ Chennevières-sur-Marne Du studio au 3 pièces à partir de 183 900 € Terrasse Balcon Parking Ascenseur Digicode LANCEMENT COMMERCIAL à Chennevières-sur-Marne !! Appartements neufs du studio au 3 pièces Adresse idéale à proximité des transports, des commerces et des écoles. Le programme LE V",
+    "numero": 275069327,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "lancement commercial"
+    ]
+  },
+  {
+    "id": "79759ca555165595",
+    "nom": "RESIDENCE DES GONDI",
+    "lieu": "Bailly (78)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bailly-78/197607221/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "RESIDENCE DES GONDI Bailly Appartement 3 pièces 203 800 € Ascenseur Digicode DERNERIES OPPORTUNITES « La Résidence des Gondi», une résidence d’exception, dans un cadre proche de la nature… 25 appartements, du 2 au 5 pièces, dans un petit immeuble de 3 étages, sont proposés [...]",
+    "numero": 197607221,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "18bbbaf283d1f3a9",
+    "nom": "ELYME",
+    "lieu": "Villemoisson sur Orge (91)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/villemoisson-sur-orge-91/278115351/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "ELYME Villemoisson-sur-Orge Appartement 2 pièces 165 000 € Terrasse Ascenseur Dernière opportunité : T2 avec terrasse à 165 000 euros* Un cadre pratique et agréable •À seulement 5 min du centre-ville de Villemoisson-sur-Orge •À 26 km au sud de Paris •Proximité immédiate [...]",
+    "numero": 278115351,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité"
+    ]
+  },
+  {
+    "id": "c50e462782eb234c",
+    "nom": "Le Camélinat",
+    "lieu": "Le Camélinat - Mantes-la-Ville (78)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/mantes-la-ville-programme-le-camelinat-219118-672.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Le Camélinat - Mantes-la-Ville (78)",
+    "numero": 219118,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Marignan",
+    "contacts": [],
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "enrichi": true,
+    "origine": "alerte",
+    "texte": "Découvrez Le Camélinat à Mantes-la-Ville (78) : programme neuf T2, à partir de 203 200 €. Vendu par Marignan.",
+    "verifie_le": "2026-11-03T10:40+00:00",
+    "promoteur_site": "https://marignan-immobilier.com",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "marignan",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "032c1d8874e562ce",
+    "nom": "Bientôt à Beauchamp",
+    "lieu": "eauchamp - Logements en BRS - Beauchamp (95)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/beauchamp-programme-bientot-a-beauchamp-logements-en-brs-219117-11586.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Bientôt à Beauchamp - Logements en BRS - Beauchamp (95)",
+    "numero": 219117,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Eiffage Immobilier",
+    "contacts": [],
+    "detecte_le": "2026-11-03T10:38+00:00",
+    "enrichi": true,
+    "origine": "alerte",
+    "texte": "Découvrez Bientôt à Beauchamp - Logements en BRS à Beauchamp (95) : programme neuf. Vendu par Eiffage Immobilier.",
+    "verifie_le": "2026-11-03T10:41+00:00",
+    "promoteur_site": "https://www.eiffage-immobilier.com",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "eiffage-immobilier",
+    "promoteur_type": "promoteur"
   }
 ]

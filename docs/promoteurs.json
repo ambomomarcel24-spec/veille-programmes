@@ -26,7 +26,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-03T02:50+00:00",
+    "maj": "2026-11-03T10:38+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -297,7 +297,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-03T02:50+00:00",
+    "maj": "2026-11-03T10:38+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -502,13 +502,19 @@
         "lieu": "Bellerose - L'Hay-les-Roses (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/lhay-les-roses-programme-bellerose-219069-11586.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Bientôt à Beauchamp",
+        "lieu": "eauchamp - Logements en BRS - Beauchamp (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/beauchamp-programme-bientot-a-beauchamp-logements-en-brs-219117-11586.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-03T02:50+00:00",
+    "maj": "2026-11-03T10:41+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -647,7 +653,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-03T02:50+00:00",
+    "maj": "2026-11-03T10:38+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -683,7 +689,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-03T02:50+00:00",
+    "maj": "2026-11-03T10:38+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -701,7 +707,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-03T02:50+00:00",
+    "maj": "2026-11-03T10:38+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -738,7 +744,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-03T02:50+00:00",
+    "maj": "2026-11-03T10:38+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -756,7 +762,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-03T02:50+00:00",
+    "maj": "2026-11-03T10:38+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -780,7 +786,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-03T02:50+00:00",
+    "maj": "2026-11-03T10:38+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1489,7 +1495,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-03T02:50+00:00",
+    "maj": "2026-11-03T10:38+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1820,13 +1826,19 @@
         "lieu": "Terrasses du Chateau - Le Mesnil-le-Roi (78)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/le-mesnil-le-roi-programme-les-terrasses-du-chateau-214368-672.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Le Camélinat",
+        "lieu": "Le Camélinat - Mantes-la-Ville (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/mantes-la-ville-programme-le-camelinat-219118-672.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-03T02:50+00:00",
+    "maj": "2026-11-03T10:41+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2325,7 +2337,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-03T02:50+00:00",
+    "maj": "2026-11-03T10:38+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2343,7 +2355,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-03T02:50+00:00",
+    "maj": "2026-11-03T10:38+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2361,7 +2373,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-03T02:50+00:00",
+    "maj": "2026-11-03T10:38+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2422,7 +2434,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-03T02:50+00:00",
+    "maj": "2026-11-03T10:38+00:00",
     "type": "promoteur"
   },
   "simmeo": {

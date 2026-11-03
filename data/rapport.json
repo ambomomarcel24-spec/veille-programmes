@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-03T02:50+00:00",
+  "date": "2026-11-03T10:38+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -61,13 +61,13 @@
     {
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
-      "urls_dans_plan": 2586,
-      "deja_connues": 2586,
-      "lues": 0,
-      "idf": 0,
+      "urls_dans_plan": 2587,
+      "deja_connues": 2585,
+      "lues": 2,
+      "idf": 2,
       "sans_localisation": 0,
       "echec": 0,
-      "numero_max": 219116
+      "numero_max": 219118
     },
     {
       "source": "Nexity",
@@ -131,7 +131,7 @@
     {
       "source": "Emerige",
       "page": "https://www.emerige.com/",
-      "blocs": 97,
+      "blocs": 89,
       "avec_declencheur": 0,
       "avec_mot_programme": 0,
       "avec_localisation": 0
@@ -157,7 +157,10 @@
     {
       "source": "Cogedim",
       "page": "https://www.cogedim.com/",
-      "non_lue": true
+      "blocs": 123,
+      "avec_declencheur": 0,
+      "avec_mot_programme": 0,
+      "avec_localisation": 0
     },
     {
       "source": "Cogedim",
@@ -209,10 +212,10 @@
       "avec_localisation": 0
     }
   ],
-  "fiches_relues": 0,
+  "fiches_relues": 2,
   "enrichissement": {
-    "ok": 0,
-    "echec_telechargement": 310,
+    "ok": 2,
+    "echec_telechargement": 327,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -236,15 +239,23 @@
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classified_detail_S",
         "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classi"
       }
-    ]
+    ],
+    "sites": {
+      "interrogés": 2,
+      "pages_lues": 5,
+      "avec_mail": 0,
+      "sans_page": [
+        "https://www.eiffage-immobilier.com"
+      ]
+    }
   },
-  "fiches_a_relire": 310,
+  "fiches_a_relire": 327,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 1,
-  "alertes_en_attente": 95,
+  "nouvelles_fiches": 19,
+  "alertes_en_attente": 98,
   "echec_mail": true
 }
