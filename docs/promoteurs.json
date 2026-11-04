@@ -26,7 +26,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-04T05:41+00:00",
+    "maj": "2026-11-04T14:05+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -297,7 +297,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-04T05:41+00:00",
+    "maj": "2026-11-04T14:05+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -514,7 +514,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-04T05:41+00:00",
+    "maj": "2026-11-04T14:05+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -653,7 +653,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-04T05:41+00:00",
+    "maj": "2026-11-04T14:05+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -689,7 +689,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-04T05:41+00:00",
+    "maj": "2026-11-04T14:05+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -707,7 +707,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-04T05:41+00:00",
+    "maj": "2026-11-04T14:05+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -744,7 +744,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-04T05:41+00:00",
+    "maj": "2026-11-04T14:05+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -762,7 +762,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-04T05:41+00:00",
+    "maj": "2026-11-04T14:05+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -786,7 +786,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-04T05:41+00:00",
+    "maj": "2026-11-04T14:05+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1495,7 +1495,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-04T05:41+00:00",
+    "maj": "2026-11-04T14:05+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1838,7 +1838,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-04T05:41+00:00",
+    "maj": "2026-11-04T14:05+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2331,13 +2331,19 @@
         "lieu": "Parking - Champigny-sur-Marne (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/champigny-sur-marne-programme-parking-214273-10.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Les Lumieres",
+        "lieu": "Les Lumieres - Savigny-le-Temple (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/savigny-le-temple-programme-les-lumieres-218743-10.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-04T05:41+00:00",
+    "maj": "2026-11-04T14:18+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2355,7 +2361,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-04T05:41+00:00",
+    "maj": "2026-11-04T14:05+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2373,7 +2379,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-04T05:41+00:00",
+    "maj": "2026-11-04T14:05+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2434,7 +2440,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-04T05:41+00:00",
+    "maj": "2026-11-04T14:05+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -4007,12 +4013,18 @@
         "lieu": "Pavillon Lakanal - Sceaux (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sceaux-programme-pavillon-lakanal-212991-10050.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Pavillon Lakanal BRS",
+        "lieu": "Pavillon Lakanal BRS - Sceaux (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sceaux-programme-pavillon-lakanal-brs-212991-10050.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-15T15:00+00:00",
+    "maj": "2026-11-04T14:18+00:00",
     "type": "promoteur"
   },
   "demathieu-bard-immobilier": {
@@ -4493,12 +4505,18 @@
         "lieu": "Impulsion - Sartrouville (78)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sartrouville-programme-impulsion-218783-13179.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Villa Charleston",
+        "lieu": "Villa Charleston - Maisons-Alfort (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/maisons-alfort-programme-villa-charleston-219129-13179.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-25T16:02+00:00",
+    "maj": "2026-11-04T14:08+00:00",
     "type": "promoteur"
   },
   "interconstruction-amenagement": {
