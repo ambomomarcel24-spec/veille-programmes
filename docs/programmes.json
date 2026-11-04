@@ -4099,7 +4099,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Terrasses Voltaire à Asnières-sur-Seine (92) : programme neuf du T2 au T5, à partir de 355 100 €. Vendu par Les Nouveaux Constructeurs.",
     "promoteur_site": "https://lnc.fr",
-    "verifie_le": "2026-10-29T18:52+00:00"
+    "verifie_le": "2026-11-04T21:09+00:00"
   },
   {
     "id": "ec1a22cfe8e7c496",
@@ -4123,7 +4123,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Asnières - Quartier Bécon les Bruyères à Asnières-sur-Seine (92) : programme neuf. Vendu par Les Nouveaux Constructeurs.",
     "promoteur_site": "https://lnc.fr",
-    "verifie_le": "2026-10-29T18:52+00:00"
+    "verifie_le": "2026-11-04T21:09+00:00"
   },
   {
     "id": "f11de90e7f94f808",
@@ -4147,7 +4147,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Portes de Seine à Asnières-sur-Seine (92) : programme neuf du T2 au T4, à partir de 299 000 €. Vendu par Nexity.",
     "promoteur_site": "https://www.nexity.fr",
-    "verifie_le": "2026-10-29T18:52+00:00"
+    "verifie_le": "2026-11-04T21:09+00:00"
   },
   {
     "id": "dff589a4abc0f7a0",
@@ -4171,7 +4171,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Villa des Arts II à Asnières-sur-Seine (92) : programme neuf T1, à partir de 227 600 €. Vendu par Les Nouveaux Constructeurs.",
     "promoteur_site": "https://lnc.fr",
-    "verifie_le": "2026-10-29T18:52+00:00"
+    "verifie_le": "2026-11-04T21:09+00:00"
   },
   {
     "id": "78a697aad88fe019",
@@ -4195,7 +4195,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Valora - Val Francilia à Aulnay-sous-Bois (93) : programme neuf du T1 au T4, à partir de 171 494 €. Vendu par Eiffage Immobilier.",
     "promoteur_site": "https://www.eiffage-immobilier.com",
-    "verifie_le": "2026-10-29T18:52+00:00"
+    "verifie_le": "2026-11-04T21:09+00:00"
   },
   {
     "id": "b09bd81eba565017",
@@ -4219,7 +4219,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le Clos Chagall à Aulnay-sous-Bois (93) : programme neuf T2, à partir de 226 350 €. Vendu par VINCI Immobilier Promotion.",
     "promoteur_site": null,
-    "verifie_le": "2026-10-29T18:52+00:00"
+    "verifie_le": "2026-11-04T21:09+00:00"
   },
   {
     "id": "67bb03c0aad694fb",
@@ -4243,7 +4243,7 @@
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur",
     "texte": "Découvrez Évidence à Aulnay-sous-Bois (93) : programme neuf du T1 au T4, à partir de 146 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-29T18:52+00:00"
+    "verifie_le": "2026-11-04T21:09+00:00"
   },
   {
     "id": "d015e5d0ff533341",
@@ -4267,7 +4267,7 @@
     "promoteur_cle": "bnp-paribas-real-estate",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Origami à Rueil-Malmaison (92) : programme neuf du T2 au T5, à partir de 349 000 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-10-29T18:52+00:00"
+    "verifie_le": "2026-11-04T21:09+00:00"
   },
   {
     "id": "18e5830a3f1d5627",
@@ -4386,7 +4386,7 @@
     "promoteur_cle": "sas-capi",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Saint-Maur-des-Fossés C1 à Saint-Maur-des-Fossés (94) : programme neuf du T1 au T4, à partir de 260 000 €. Vendu par Sas Capi.",
-    "verifie_le": "2026-10-29T18:52+00:00"
+    "verifie_le": "2026-11-04T21:09+00:00"
   },
   {
     "id": "72fba8a89e21d0ac",
@@ -4410,7 +4410,7 @@
     "promoteur_cle": "emerige",
     "promoteur_type": "promoteur",
     "texte": "Découvrez 87 Bellechasse à Saint-Maur-des-Fossés (94) : programme neuf du T2 au T5, à partir de 296 000 €. Vendu par Emerige.",
-    "verifie_le": "2026-10-29T18:52+00:00"
+    "verifie_le": "2026-11-04T21:09+00:00"
   },
   {
     "id": "e49f081be2dc5659",
@@ -8598,7 +8598,7 @@
       "autre"
     ],
     "texte": "Découvrez Mundo à Saint-Ouen-sur-Seine (93) : programme neuf du T2 au T5, à partir de 339 300 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-29T12:38+00:00",
+    "verifie_le": "2026-11-04T21:09+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
@@ -8622,7 +8622,7 @@
       "autre"
     ],
     "texte": "Découvrez So 2024 Saint-Ouen-sur-Seine à Saint-Ouen-sur-Seine (93) : programme neuf du T1 au T4, à partir de 263 886 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-29T12:38+00:00",
+    "verifie_le": "2026-11-04T21:09+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -18991,7 +18991,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Jardin du Pont de Bry à Le Perreux-sur-Marne (94) : programme neuf du T3 au T4, à partir de 464 200 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-29T12:38+00:00",
+    "verifie_le": "2026-11-04T21:09+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -19016,7 +19016,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Aparté à Vigneux-sur-Seine (91) : programme neuf du T2 au T4, à partir de 203 967 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-10-29T12:38+00:00",
+    "verifie_le": "2026-11-04T21:09+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -19041,7 +19041,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Square Art Déco à Bezons (95) : programme neuf T3, à partir de 314 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-29T12:38+00:00",
+    "verifie_le": "2026-11-04T21:09+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -19066,7 +19066,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Univert à Alfortville (94) : programme neuf T4, à partir de 383 177 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-29T12:38+00:00",
+    "verifie_le": "2026-11-04T21:09+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -19091,7 +19091,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villa Mansart à Beauchamp (95) : programme neuf du T2 au T3, à partir de 261 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-29T12:38+00:00",
+    "verifie_le": "2026-11-04T21:09+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -19116,7 +19116,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Hauts du Chateau à Montigny-lès-Cormeilles (95) : programme neuf T3, à partir de 265 900 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-29T12:38+00:00",
+    "verifie_le": "2026-11-04T21:09+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -19141,7 +19141,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins Saint-Georges à Villeneuve-Saint-Georges (94) : programme neuf T2, à partir de 245 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-29T12:38+00:00",
+    "verifie_le": "2026-11-04T21:09+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -19166,7 +19166,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Escale à Cormeilles-en-Parisis (95) : programme neuf T5, à partir de 612 000 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-10-29T12:38+00:00",
+    "verifie_le": "2026-11-04T21:09+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -19191,7 +19191,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins de Saint Ange à Dammarie-les-Lys (77) : programme neuf du T3 au T4, à partir de 214 517 €. Vendu par Stradim.",
-    "verifie_le": "2026-10-29T12:38+00:00",
+    "verifie_le": "2026-11-04T21:09+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -19216,7 +19216,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos du Bois 1 et 2 à Andilly (95) : programme neuf, à partir de 398 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-29T12:38+00:00",
+    "verifie_le": "2026-11-04T21:09+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -19241,7 +19241,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Terrasses du Parc à Stains (93) : programme neuf T3, à partir de 264 400 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-29T12:38+00:00",
+    "verifie_le": "2026-11-04T21:09+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -19266,7 +19266,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Terrasses de la Madeleine à Pomponne (77) : programme neuf du T1 au T3, à partir de 208 000 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-10-29T12:38+00:00",
+    "verifie_le": "2026-11-04T21:09+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -23120,7 +23120,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Terrasses des Canotiers à Meaux (77) : programme neuf T3, à partir de 234 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-29T12:48+00:00",
+    "verifie_le": "2026-11-04T21:09+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -25317,5 +25317,187 @@
     ],
     "promoteur_cle": "quartus",
     "promoteur_type": "promoteur"
+  },
+  {
+    "id": "90b25ab853e1d68a",
+    "nom": "Zoom Bezons",
+    "lieu": "Bezons (95)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bezons-95/265389495/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Offre spéciale",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale Zoom Bezons Bezons Du studio au 4 pièces à partir de 189 000 € Ascenseur Adapté PMR Digicode Profitez de tous les avantages d'un appartement neuf à Bezons : prestations à la carte, balcons, terrasses, jardins privatifs, parkings, résidence sécurisée, bâtiment basse consommation énergé",
+    "numero": 265389495,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-04T21:09+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité"
+    ]
+  },
+  {
+    "id": "f9634c8f29d6ef98",
+    "nom": "Clos de la longue toise",
+    "lieu": "Mere (78)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/mere-78/263279491/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Clos de la longue toise Méré Du 5 pièces au 6 pièces à partir de 585 000 € Pensées pour s'intégrer harmonieusement dans leur environnement, les 11 maisons de 5 à 6 pièces (132 à 177 m²) du Clos de la Longue Toise proposent une architecture à la fois sobre et moderne. Les [...]",
+    "numero": 263279491,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-04T21:09+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "f24052d644df0bdf",
+    "nom": "Le Cèdre Bleu",
+    "lieu": "Ballancourt sur Essonne (91)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/ballancourt-sur-essonne-91/216948417/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Le Cèdre Bleu Ballancourt-sur-Essonne Du studio au 3 pièces à partir de 169 000 € Jardin Terrasse Balcon Parking Ascenseur Ballancourt sur Essonne accueille une nouvelle résidence signée PROMO PARTE. Le confort absolu, été comme hiver : profitez d'une température intérieure idéale toute l'année grâc",
+    "numero": 216948417,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-04T21:09+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "22bc660a0b228268",
+    "nom": "VILLA AMPERE",
+    "lieu": "Saint Germain en Laye (78)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-germain-en-laye-78/218029567/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Travaux en cours",
+    "statut": "exclusivité",
+    "date_publication": null,
+    "extrait": "VILLA AMPERE Saint-Germain-en-Laye Maison 7 pièces 1 759 400 € Jardin Parking Box Digicode TRAVAUX EN COURS - LIVRAISON 1er trimestre 2027. Au cœur de la paisible rue Ampère, découvrez en exclusivité deux Villas à l’architecture singulière, et aux somptueux espaces extérieurs. Ces biens [...]",
+    "numero": 218029567,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-04T21:09+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "exclusivité",
+      "travaux_en_cours"
+    ]
+  },
+  {
+    "id": "fa988427b460fad2",
+    "nom": "Plain'itude",
+    "lieu": "Maisons Laffitte (78)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/maisons-laffitte-78/263279489/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Plain'itude Maisons-Laffitte Du studio au 4 pièces à partir de 309 000 € Jardin Terrasse Balcon Parking Ascenseur Gros œuvre terminé ! Une résidence intimiste dans un cadre privilégié ! Uniquement 10 logements, parking sous-sol pour chaque lot (possibilité d'en acquérir en plus) ascenseur, balcon, t",
+    "numero": 263279489,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-04T21:09+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "7133595612f9d2f0",
+    "nom": "Prochainement",
+    "lieu": "Sainte Genevieve des Bois (91)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/sainte-genevieve-des-bois-91/251769355/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Prochainement Sainte-Geneviève-des-Bois Du studio au 3 pièces à partir de 159 000 € AVANT-PREMIERE à Sainte-Geneviève-des-Bois ! Soyez parmi les premiers à choisir votre appartement neuf avec espace extérieur et parking ! Contactez-vite un de conseillers. 2026114 104",
+    "numero": 251769355,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-04T21:09+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "f750d06d38b11d17",
+    "nom": "Nouveauté VILLA CASOAR",
+    "lieu": "Saint Cyr L Ecole (78)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-cyr-l-ecole-78/284215155/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Nouveauté",
+    "statut": "avant-première",
+    "date_publication": null,
+    "extrait": "Nouveauté VILLA CASOAR Saint-Cyr-l'École Du 2 pièces au 4 pièces à partir de 235 000 € Terrasse Balcon EN AVANT-PREMIÈRE - NOUVELLE RESIDENCE AVEC CLIMATISATION INTEGREE DANS CHAQUE APPARTEMENT. EXCLUSIF à Saint-Cyr-L'Ecole : à seulement 10 min* à pied de la gare (RER C, Transilien N et U, [...]",
+    "numero": 284215155,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-04T21:09+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "avant-première"
+    ]
+  },
+  {
+    "id": "c6a0447c333ee202",
+    "nom": "Au Vert de Maisons BRS",
+    "lieu": "Maisons Alfort (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/maisons-alfort-94/236952215/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Lancement commercial",
+    "statut": "lancement commercial",
+    "date_publication": null,
+    "extrait": "Lancement commercial Au Vert de Maisons BRS Maisons-Alfort Du studio au 5 pièces à partir de 112 000 € Digicode Proposé par : MAISONS ALFORT HABITAT Votre appartement neuf, prêt à vous accueillir au 1er trimestre 2027 La livraison approche à Maisons-Alfort ! Découvrez Au Vert de Maisons, une résiden",
+    "numero": 236952215,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-04T21:09+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "lancement commercial"
+    ]
+  },
+  {
+    "id": "7b3c3f5b7f06e98e",
+    "nom": "Le Mansart",
+    "lieu": "Pierrefitte sur Seine (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/pierrefitte-sur-seine-93/239371631/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Offre spéciale",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale Travaux en cours Le Mansart Pierrefitte-sur-Seine Du 2 pièces au 4 pièces à partir de 219 200 € Terrasse Balcon Parking Adapté PMR Proposé par : MARIGNAN Démarrage des travaux à Saint-Denis ! Devenez propriétaire de votre appartement neuf pour le même prix que votre loyer grâce à la T",
+    "numero": 239371631,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-04T21:09+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité",
+      "travaux_en_cours"
+    ]
   }
 ]
