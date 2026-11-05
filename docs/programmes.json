@@ -4674,7 +4674,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le Clos des Vertus à Aubervilliers (93) : programme neuf du T3 au T5, à partir de 281 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-29T23:10+00:00"
+    "verifie_le": "2026-11-05T10:36+00:00"
   },
   {
     "id": "c79c5edb65feebd6",
@@ -4698,7 +4698,7 @@
     "promoteur_cle": "ogic",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Botany à Aubervilliers (93) : programme neuf du T2 au T4, à partir de 227 000 €. Vendu par Ogic.",
-    "verifie_le": "2026-10-29T23:10+00:00"
+    "verifie_le": "2026-11-05T10:36+00:00"
   },
   {
     "id": "993fb1074c0b4f95",
@@ -4722,7 +4722,7 @@
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Passage Anatole à Aubervilliers (93) : programme neuf du T2 au T4, à partir de 259 354 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-10-29T23:10+00:00"
+    "verifie_le": "2026-11-05T10:36+00:00"
   },
   {
     "id": "f87bab9dedff9b12",
@@ -4746,7 +4746,7 @@
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Villa Panorama à Aubervilliers (93) : programme neuf du T2 au T4, à partir de 242 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-30T05:10+00:00"
+    "verifie_le": "2026-11-05T10:36+00:00"
   },
   {
     "id": "da53571c64c4a88d",
@@ -8886,7 +8886,7 @@
       "autre"
     ],
     "texte": "Découvrez Green Line à Bagneux (92) : programme neuf du T1 au T5, à partir de 203 088 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-10-29T23:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bnp-paribas-real-estate",
     "promoteur_type": "promoteur"
@@ -8910,7 +8910,7 @@
       "autre"
     ],
     "texte": "Découvrez Virtuo à Bagneux (92) : programme neuf du T2 au T5, à partir de 239 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-10-29T23:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": null,
     "promoteur_cle": "interconstruction-amenagement",
     "promoteur_type": "promoteur"
@@ -8934,7 +8934,7 @@
       "autre"
     ],
     "texte": "Découvrez Upside à Bagneux (92) : programme neuf du T2 au T5, à partir de 233 308 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-29T23:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": null,
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur"
@@ -8958,7 +8958,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Iris à Massy (91) : programme neuf du T2 au T5, à partir de 227 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-10-29T23:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": null,
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur"
@@ -8982,7 +8982,7 @@
       "autre"
     ],
     "texte": "Découvrez Reminiscence à Massy (91) : programme neuf du T2 au T4, à partir de 210 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-29T23:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -9006,7 +9006,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Patterson à Massy (91) : programme neuf du T2 au T5, à partir de 256 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-10-30T05:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": null,
     "promoteur_cle": "interconstruction-amenagement",
     "promoteur_type": "promoteur"
@@ -9030,7 +9030,7 @@
       "autre"
     ],
     "texte": "Découvrez Reminiscence à Massy (91) : programme neuf T5, à partir de 495 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-30T05:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -9054,7 +9054,7 @@
       "autre"
     ],
     "texte": "Découvrez Urban Eden à Massy (91) : programme neuf du T2 au T5, à partir de 229 023 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-30T05:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -9078,7 +9078,7 @@
       "autre"
     ],
     "texte": "Découvrez Gravure à Montrouge (92) : programme neuf du T1 au T5, à partir de 269 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-10-30T05:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -9102,7 +9102,7 @@
       "autre"
     ],
     "texte": "Découvrez 8 Clos à Montrouge (92) : programme neuf du T2 au T5, à partir de 370 000 €. Vendu par Ogic.",
-    "verifie_le": "2026-10-30T05:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": null,
     "promoteur_cle": "ogic",
     "promoteur_type": "promoteur"
@@ -9126,7 +9126,7 @@
       "autre"
     ],
     "texte": "Découvrez Arbor & Home à Gagny (93) : programme neuf du T1 au T4, à partir de 185 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-30T05:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -9150,7 +9150,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa Mare à Gagny (93) : programme neuf du T2 au T3, à partir de 199 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-30T05:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -9286,7 +9286,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa Farnese à Bussy-Saint-Georges (77) : programme neuf du T1 au T5, à partir de 179 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-10-30T05:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -9311,7 +9311,7 @@
       "autre"
     ],
     "texte": "Découvrez Sensation à Saclay (91) : programme neuf du T2 au T4, à partir de 264 900 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-30T05:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -19479,7 +19479,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villa Delacroix à Saint-Maurice (94) : programme neuf T4, à partir de 736 500 €. Vendu par Edifipierre.",
-    "verifie_le": "2026-10-29T23:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -19504,7 +19504,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Vertex Typ'O à Vaujours (93) : programme neuf, à partir de 377 000 €. Vendu par Edifipierre.",
-    "verifie_le": "2026-10-29T23:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -19529,7 +19529,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Patio des Artistes à Chatou (78) : programme neuf du T3 au T4, à partir de 448 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-29T23:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -19554,7 +19554,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villa des Ormes à Le Perreux-sur-Marne (94) : programme neuf du T2 au T4, à partir de 284 900 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-29T23:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -19579,7 +19579,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Lac en Scène à Enghien-les-Bains (95) : programme neuf T4, à partir de 760 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-29T23:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -19604,7 +19604,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Orée du Bois à Montévrain (77) : programme neuf du T3 au T5, à partir de 309 000 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-10-29T23:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -19629,7 +19629,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Cottages d'Amilly à Serris (77) : programme neuf T3, à partir de 318 000 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-10-29T23:10+00:00",
+    "verifie_le": "2026-11-05T10:36+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -25759,6 +25759,69 @@
     "origine": "catalogue",
     "tags": [
       "autre"
+    ]
+  },
+  {
+    "id": "536eaea000d43cd5",
+    "nom": "Zoom Gare Sartrouville",
+    "lieu": "Sartrouville (78)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/sartrouville-78/259865275/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Offre spéciale",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale Zoom Gare Sartrouville Sartrouville Du studio au 5 pièces à partir de 165 000 € Ascenseur Adapté PMR Digicode Profitez de tous les avantages d'un appartement neuf à Sartrouville : prestations à la carte, balcons, terrasses, parkings, jardins privatifs, résidence sécurisée, bâtiment à ",
+    "numero": 259865275,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-05T10:36+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité"
+    ]
+  },
+  {
+    "id": "ba4b14c2a80c8ba8",
+    "nom": "SAINT DENIS - LES VENELLES DU LANDY - BRS",
+    "lieu": "Saint Denis (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-denis-93/250132557/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Lancement commercial",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale Lancement commercial SAINT DENIS - LES VENELLES DU LANDY - BRS Saint-Denis Du 2 pièces au 5 pièces à partir de 193 680 € Terrasse Balcon Parking Ascenseur Proposé par : EIFFAGE IMMOBILIER Profitez jusqu'à 25 000€ de remise* et devenez propriétaire avec le BRS à Saint-Denis, au cœur d'",
+    "numero": 250132557,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-05T10:36+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité",
+      "bons_plans"
+    ]
+  },
+  {
+    "id": "219f6a9008440daf",
+    "nom": "Clos Des Bleuets",
+    "lieu": "Beauchamp (95)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/beauchamp-95/263928623/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Lancement commercial",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale Lancement commercial Clos Des Bleuets Beauchamp Du studio au 4 pièces à partir de 170 000 € Jardin Terrasse Balcon Parking Ascenseur Proposé par : EIFFAGE IMMOBILIER Offres spéciales : jusqu'à 12 000€ de remise et frais de notaire offerts sur votre appartement neuf !* Dans le nouveau ",
+    "numero": 263928623,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-05T10:36+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité",
+      "frais_offerts",
+      "bons_plans"
     ]
   }
 ]
