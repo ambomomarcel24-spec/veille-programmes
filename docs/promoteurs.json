@@ -26,7 +26,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-05T10:36+00:00",
+    "maj": "2026-11-05T18:36+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -297,7 +297,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-05T10:36+00:00",
+    "maj": "2026-11-05T18:36+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -514,7 +514,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-05T10:36+00:00",
+    "maj": "2026-11-05T18:36+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -653,7 +653,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-05T10:36+00:00",
+    "maj": "2026-11-05T18:36+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -689,7 +689,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-05T10:36+00:00",
+    "maj": "2026-11-05T18:36+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -707,7 +707,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-05T10:36+00:00",
+    "maj": "2026-11-05T18:36+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -744,7 +744,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-05T10:36+00:00",
+    "maj": "2026-11-05T18:36+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -762,7 +762,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-05T10:36+00:00",
+    "maj": "2026-11-05T18:36+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -786,7 +786,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-05T10:36+00:00",
+    "maj": "2026-11-05T18:36+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1495,7 +1495,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-05T10:36+00:00",
+    "maj": "2026-11-05T18:36+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1838,7 +1838,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-05T10:36+00:00",
+    "maj": "2026-11-05T18:36+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2343,7 +2343,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-05T10:36+00:00",
+    "maj": "2026-11-05T18:36+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2361,7 +2361,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-05T10:36+00:00",
+    "maj": "2026-11-05T18:36+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2379,7 +2379,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-05T10:36+00:00",
+    "maj": "2026-11-05T18:36+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2440,7 +2440,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-05T10:36+00:00",
+    "maj": "2026-11-05T18:36+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -4511,12 +4511,18 @@
         "lieu": "Villa Charleston - Maisons-Alfort (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/maisons-alfort-programme-villa-charleston-219129-13179.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Lieusaint",
+        "lieu": "olombier - Corbeil-Essonnes / Lieusaint (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/lieusaint-programme-lieusaint-le-colombier-218616-13179.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-04T14:08+00:00",
+    "maj": "2026-11-05T18:50+00:00",
     "type": "promoteur"
   },
   "interconstruction-amenagement": {
@@ -4992,13 +4998,19 @@
         "lieu": "Massy (91)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/massy-91/254827959/#m=classified_search_results_classified_detail_top_position",
         "statut": "autre"
+      },
+      {
+        "nom": "Les Sycomores",
+        "lieu": "Les Sycomores - Massy (91)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/massy-programme-les-sycomores-219132-295.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf",
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-10-18T14:25+00:00",
+    "maj": "2026-11-05T18:39+00:00",
     "type": "promoteur"
   },
   "kaufman-et-broad": {
