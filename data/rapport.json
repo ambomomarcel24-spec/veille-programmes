@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-05T18:36+00:00",
+  "date": "2026-11-05T23:59+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -7,7 +7,7 @@
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/75/",
       "liens_programme": 42,
       "hors_idf": 0,
-      "idf": 21
+      "idf": 20
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -62,10 +62,10 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2578,
-      "deja_connues": 2573,
-      "lues": 5,
-      "idf": 2,
-      "sans_localisation": 3,
+      "deja_connues": 2578,
+      "lues": 0,
+      "idf": 0,
+      "sans_localisation": 0,
       "echec": 0,
       "numero_max": 219135
     },
@@ -212,10 +212,10 @@
       "avec_localisation": 0
     }
   ],
-  "fiches_relues": 2,
+  "fiches_relues": 0,
   "enrichissement": {
-    "ok": 2,
-    "echec_telechargement": 359,
+    "ok": 0,
+    "echec_telechargement": 362,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -239,21 +239,15 @@
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classified_detail_S",
         "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classi"
       }
-    ],
-    "sites": {
-      "interrogés": 1,
-      "pages_lues": 1,
-      "avec_mail": 0,
-      "sans_page": []
-    }
+    ]
   },
-  "fiches_a_relire": 359,
+  "fiches_a_relire": 362,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
   "nouvelles_fiches": 3,
-  "alertes_en_attente": 103,
+  "alertes_en_attente": 104,
   "echec_mail": true
 }
