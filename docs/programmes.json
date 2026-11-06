@@ -2684,7 +2684,7 @@
     "promoteur_cle": "bnp-paribas-real-estate",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Highlife 2 à Boulogne-Billancourt (92) : programme neuf du T3 au T5, à partir de 699 000 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-10-31T09:26+00:00"
+    "verifie_le": "2026-11-06T20:46+00:00"
   },
   {
     "id": "941a8df75bb25ced",
@@ -2708,7 +2708,7 @@
     "promoteur_cle": "bnp-paribas-real-estate",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Bellevie à Boulogne-Billancourt (92) : programme neuf du T2 au T5, à partir de 450 000 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-10-31T09:26+00:00"
+    "verifie_le": "2026-11-06T20:46+00:00"
   },
   {
     "id": "90791e441cb76be6",
@@ -2732,7 +2732,7 @@
     "promoteur_cle": "bnp-paribas-real-estate",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Highlife à Boulogne-Billancourt (92) : programme neuf du T1 au T5, à partir de 424 000 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-10-31T09:26+00:00"
+    "verifie_le": "2026-11-06T20:46+00:00"
   },
   {
     "id": "5f4e5e23b8364228",
@@ -2756,7 +2756,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Apogee à Saint-Denis (93) : programme neuf T1, à partir de 239 000 €. Vendu par VINCI Immobilier Promotion.",
     "promoteur_site": null,
-    "verifie_le": "2026-10-31T09:26+00:00"
+    "verifie_le": "2026-11-06T20:46+00:00"
   },
   {
     "id": "8fb03f28006e255c",
@@ -5370,7 +5370,7 @@
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Villa Le Rolland à Drancy (93) : programme neuf du T1 au T2, à partir de 215 100 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-31T09:26+00:00"
+    "verifie_le": "2026-11-06T20:46+00:00"
   },
   {
     "id": "aaed37ffda17138e",
@@ -5394,7 +5394,7 @@
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur",
     "texte": "Découvrez Les Balcons d'Opale à Noisy-le-Grand (93) : programme neuf du T2 au T3, à partir de 229 275 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-31T09:26+00:00"
+    "verifie_le": "2026-11-06T20:46+00:00"
   },
   {
     "id": "0628b9e1c2b348ea",
@@ -5418,7 +5418,7 @@
     "promoteur_cle": "edouard-denis",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Arboresens à Noisy-le-Grand (93) : programme neuf du T1 au T3, à partir de 179 000 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-10-31T09:26+00:00"
+    "verifie_le": "2026-11-06T20:46+00:00"
   },
   {
     "id": "1cde7198e5c711e4",
@@ -12088,7 +12088,7 @@
       "autre"
     ],
     "texte": "Découvrez Domaine de la Chesnaie à Livry-sur-Seine (77) : programme neuf du T2 au T3, à partir de 159 000 €. Vendu par Stradim.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": null,
     "promoteur_cle": "stradim",
     "promoteur_type": "promoteur"
@@ -12113,7 +12113,7 @@
       "autre"
     ],
     "texte": "Découvrez Edenia à Châtenay-Malabry (92) : programme neuf du T2 au T5, à partir de 311 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur"
@@ -12138,7 +12138,7 @@
       "autre"
     ],
     "texte": "Découvrez Limeil-Brévannes C1 à Limeil-Brévannes (94) : programme neuf du T1 au T4, à partir de 169 000 €. Vendu par Sas Capi.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": null,
     "promoteur_cle": "sas-capi",
     "promoteur_type": "promoteur"
@@ -12163,7 +12163,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Clos de Maule à Bailly (78) : programme neuf du T1 au T4, à partir de 226 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": "https://lnc.fr",
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur"
@@ -12188,7 +12188,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Clos des Roches à Boissise-le-Roi (77) : programme neuf, à partir de 316 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": "https://cogedim.com",
     "promoteur_cle": "cogedim",
     "promoteur_type": "promoteur"
@@ -12213,7 +12213,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Terrasses de l'Hôtel de Ville à Conflans-Sainte-Honorine (78) : programme neuf du T1 au T5, à partir de 143 200 €. Vendu par Interconstruction...",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": null,
     "promoteur_cle": "interconstruction",
     "promoteur_type": "promoteur"
@@ -12238,7 +12238,7 @@
       "autre"
     ],
     "texte": "Découvrez Prochainement à Bezons (95) : programme neuf du T2 au T4, à partir de 245 900 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -12263,7 +12263,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa Louis-Alexandre - Maisons à Neauphle-le-Château (78) : programme neuf du T4 au T5, à partir de 403 800 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -12288,7 +12288,7 @@
       "autre"
     ],
     "texte": "Découvrez 30 Mozart à Clichy-la-Garenne (92) : programme neuf du T1 au T5, à partir de 347 700 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": null,
     "promoteur_cle": "interconstruction-amenagement",
     "promoteur_type": "promoteur"
@@ -22398,7 +22398,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez L Ecrin Harmonie à Montlhéry (91) : programme neuf du T3 au T4, à partir de 234 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": null,
     "alerte_envoyee": false,
     "tags": [
@@ -22424,7 +22424,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Grand Parc à Champigny-sur-Marne (94) : programme neuf du T2 au T4, à partir de 228 923 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": null,
     "alerte_envoyee": false,
     "tags": [
@@ -22450,7 +22450,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Coeur Chantereine à Brou-sur-Chantereine (77) : programme neuf T5, à partir de 351 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": "https://lnc.fr",
     "alerte_envoyee": false,
     "tags": [
@@ -22476,7 +22476,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Panorama Beaurivage - Trianon à Clamart (92) : programme neuf, à partir de 985 999 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": null,
     "alerte_envoyee": false,
     "tags": [
@@ -22502,7 +22502,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Residence le Bas Marin à Orly (94) : programme neuf T2, à partir de 205 000 €. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": null,
     "alerte_envoyee": false,
     "tags": [
@@ -22528,7 +22528,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez My Campus - Choisy-le-Roi à Choisy-le-Roi (94) : programme neuf. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -22553,7 +22553,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins de Josephine à Serris (77) : programme neuf du T2 au T5, à partir de 226 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -22578,7 +22578,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Impulsion à Sartrouville (78) : programme neuf T3, à partir de 259 354 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": "https://bouygues-impulsion.hive-project.fr",
     "tags": [
       "autre"
@@ -22603,7 +22603,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Promenades de l'Ourcq à Meaux (77) : programme neuf du T2 au T3, à partir de 192 537 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T20:46+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -26139,5 +26139,27 @@
     ],
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
+  },
+  {
+    "id": "f34ae560e7f0ad29",
+    "nom": "Le Clos de la Montcient",
+    "lieu": "Hardricourt (78)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/hardricourt-78/252900223/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Offre spéciale",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale Le Clos de la Montcient Hardricourt Du 2 pièces au 3 pièces à partir de 195 000 € Jardin Balcon Parking [ DEMARRAGE DES TRAVAUX : FRAIS DE NOTAIRE OFFERTS + JUSQU'A 9 000 euros DE REMISE IMMEDIATE ] NOUVEAU A HARDRICOURT - Découvrez votre nouvelle résidence Le Clos de la Montcient, id",
+    "numero": 252900223,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-06T20:46+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité",
+      "frais_offerts",
+      "bons_plans"
+    ]
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06T14:53+00:00",
+  "date": "2026-11-06T20:46+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -42,7 +42,7 @@
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/93/",
       "liens_programme": 42,
       "hors_idf": 0,
-      "idf": 21
+      "idf": 20
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -62,10 +62,10 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2595,
-      "deja_connues": 2560,
-      "lues": 35,
-      "idf": 4,
-      "sans_localisation": 31,
+      "deja_connues": 2595,
+      "lues": 0,
+      "idf": 0,
+      "sans_localisation": 0,
       "echec": 0,
       "numero_max": 219139
     },
@@ -157,10 +157,7 @@
     {
       "source": "Cogedim",
       "page": "https://www.cogedim.com/",
-      "blocs": 117,
-      "avec_declencheur": 0,
-      "avec_mot_programme": 0,
-      "avec_localisation": 0
+      "non_lue": true
     },
     {
       "source": "Cogedim",
@@ -181,8 +178,8 @@
       "source": "Pichet",
       "page": "https://www.pichet.fr/",
       "blocs": 244,
-      "avec_declencheur": 10,
-      "avec_mot_programme": 10,
+      "avec_declencheur": 0,
+      "avec_mot_programme": 0,
       "avec_localisation": 0
     },
     {
@@ -212,10 +209,10 @@
       "avec_localisation": 0
     }
   ],
-  "fiches_relues": 4,
+  "fiches_relues": 0,
   "enrichissement": {
-    "ok": 4,
-    "echec_telechargement": 366,
+    "ok": 0,
+    "echec_telechargement": 367,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -239,23 +236,15 @@
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classified_detail_S",
         "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classi"
       }
-    ],
-    "sites": {
-      "interrogés": 4,
-      "pages_lues": 7,
-      "avec_mail": 0,
-      "sans_page": [
-        "https://www.eiffage-immobilier.com"
-      ]
-    }
+    ]
   },
-  "fiches_a_relire": 366,
+  "fiches_a_relire": 367,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 8,
+  "nouvelles_fiches": 1,
   "alertes_en_attente": 105,
   "echec_mail": true
 }
