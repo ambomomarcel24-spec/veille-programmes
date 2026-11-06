@@ -152,7 +152,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-06T06:25+00:00",
+    "maj": "2026-11-06T14:53+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -417,13 +417,19 @@
         "lieu": "oeur du Quartier Seine-Liberté - Clichy (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/clichy-programme-prochainement-au-coeur-du-quartier-seine-liberte-219034-11707.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Rive Liberté",
+        "lieu": "Rive Liberté - Clichy (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/clichy-programme-rive-liberte-219034-11707.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-06T06:25+00:00",
+    "maj": "2026-11-06T15:07+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -634,13 +640,19 @@
         "lieu": "eauchamp - Logements en BRS - Beauchamp (95)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/beauchamp-programme-bientot-a-beauchamp-logements-en-brs-219117-11586.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Clos des Bleuets BRS",
+        "lieu": "Clos des Bleuets BRS - Beauchamp (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/beauchamp-programme-clos-des-bleuets-brs-219117-11586.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-06T06:25+00:00",
+    "maj": "2026-11-06T15:07+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -779,7 +791,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-06T06:25+00:00",
+    "maj": "2026-11-06T14:53+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -815,7 +827,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-06T06:25+00:00",
+    "maj": "2026-11-06T14:53+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -833,7 +845,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-06T06:25+00:00",
+    "maj": "2026-11-06T14:53+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -870,7 +882,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-06T06:25+00:00",
+    "maj": "2026-11-06T14:53+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -888,7 +900,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-06T06:25+00:00",
+    "maj": "2026-11-06T14:53+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -912,7 +924,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-06T06:25+00:00",
+    "maj": "2026-11-06T14:53+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1621,7 +1633,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-06T06:25+00:00",
+    "maj": "2026-11-06T14:53+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1958,13 +1970,19 @@
         "lieu": "Le Camélinat - Mantes-la-Ville (78)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/mantes-la-ville-programme-le-camelinat-219118-672.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Solstice",
+        "lieu": "Solstice - Mantes-la-Jolie (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/mantes-la-jolie-programme-solstice-217731-672.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-06T06:25+00:00",
+    "maj": "2026-11-06T15:08+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2469,7 +2487,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-06T06:25+00:00",
+    "maj": "2026-11-06T14:53+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2487,7 +2505,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-06T06:25+00:00",
+    "maj": "2026-11-06T14:53+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2505,7 +2523,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-06T06:25+00:00",
+    "maj": "2026-11-06T14:53+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2566,7 +2584,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-06T06:25+00:00",
+    "maj": "2026-11-06T14:53+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -4673,12 +4691,18 @@
         "lieu": "olombier - Corbeil-Essonnes / Lieusaint (77)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/lieusaint-programme-lieusaint-le-colombier-218616-13179.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Voltige",
+        "lieu": "- Bail Réel et Solidaire - Sartrouville (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sartrouville-programme-voltige-bail-reel-et-solidaire-218776-13179.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-05T18:50+00:00",
+    "maj": "2026-11-06T15:08+00:00",
     "type": "promoteur"
   },
   "interconstruction-amenagement": {

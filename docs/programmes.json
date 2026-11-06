@@ -2375,7 +2375,7 @@
     "promoteur_cle": "sas-capi",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Paris C1 à Paris (75) : programme neuf T4, à partir de 1 399 900 €. Vendu par Sas Capi.",
-    "verifie_le": "2026-10-31T02:10+00:00"
+    "verifie_le": "2026-11-06T14:53+00:00"
   },
   {
     "id": "bfa105d8c42aa877",
@@ -5346,7 +5346,7 @@
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Elegance à Drancy (93) : programme neuf du T1 au T4, à partir de 195 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-10-30T22:52+00:00"
+    "verifie_le": "2026-11-06T14:53+00:00"
   },
   {
     "id": "51c6447ae0a6a5b4",
@@ -11570,7 +11570,7 @@
       "autre"
     ],
     "texte": "Découvrez L'Amiral à Cormeilles-en-Parisis (95) : programme neuf du T1 au T2, à partir de 215 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-10-30T22:52+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -11595,7 +11595,7 @@
       "autre"
     ],
     "texte": "Découvrez L'Asteria à Cormeilles-en-Parisis (95) : programme neuf du T2 au T6, à partir de 249 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-10-30T22:52+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -11620,7 +11620,7 @@
       "autre"
     ],
     "texte": "Découvrez Whitehall à Serris (77) : programme neuf du T3 au T5, à partir de 379 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-10-30T22:52+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -11645,7 +11645,7 @@
       "autre"
     ],
     "texte": "Découvrez L'Astrolabe à Cormeilles-en-Parisis (95) : programme neuf du T1 au T5, à partir de 209 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-10-30T22:52+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -11670,7 +11670,7 @@
       "autre"
     ],
     "texte": "Découvrez L Ecrin à Vaires-sur-Marne (77) : programme neuf du T2 au T4, à partir de 231 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-30T22:52+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": null,
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur"
@@ -11695,7 +11695,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Domaine de Lorraine à Le Perreux-sur-Marne (94) : programme neuf. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-30T22:52+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": "https://lnc.fr",
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur"
@@ -11720,7 +11720,7 @@
       "autre"
     ],
     "texte": "Découvrez 7 Foch à Neuilly-Plaisance (93) : programme neuf du T2 au T4, à partir de 243 630 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-30T22:52+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": null,
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur"
@@ -11745,7 +11745,7 @@
       "autre"
     ],
     "texte": "Découvrez Coté Sud | le Clos de Corbeville à Orsay (91) : programme neuf du T1 au T4, à partir de 194 000 €. Vendu par Ogic.",
-    "verifie_le": "2026-10-30T22:52+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": null,
     "promoteur_cle": "ogic",
     "promoteur_type": "promoteur"
@@ -11813,7 +11813,7 @@
       "autre"
     ],
     "texte": "Découvrez Cour Renaissance à Juvisy-sur-Orge (91) : programme neuf du T1 au T4, à partir de 154 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-10-30T22:52+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": null,
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur"
@@ -11838,7 +11838,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Jardins de Fréville à Egly (91) : programme neuf du T1 au T5, à partir de 133 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-10-30T22:52+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": "https://lnc.fr",
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur"
@@ -11863,7 +11863,7 @@
       "autre"
     ],
     "texte": "Découvrez Accord Nature à Romainville (93) : programme neuf du T1 au T5, à partir de 213 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-30T22:52+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": "https://cogedim.com",
     "promoteur_cle": "cogedim",
     "promoteur_type": "promoteur"
@@ -11888,7 +11888,7 @@
       "autre"
     ],
     "texte": "Découvrez Aurore à Bezons (95) : programme neuf du T1 au T4, à partir de 169 000 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-10-30T22:52+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
@@ -11913,7 +11913,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Terrasses Flouquet à L'Hay-les-Roses (94) : programme neuf du T1 au T4, à partir de 152 000 €. Vendu par Ogic.",
-    "verifie_le": "2026-10-30T22:52+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": null,
     "promoteur_cle": "ogic",
     "promoteur_type": "promoteur"
@@ -11938,7 +11938,7 @@
       "autre"
     ],
     "texte": "Découvrez Prochainement à Châtillon (92) : programme neuf du T1 au T3, à partir de 280 250 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -11963,7 +11963,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Clos Saint Martin à Étampes (91) : programme neuf du T2 au T3, à partir de 152 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -11988,7 +11988,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Quatorze à Thiais (94) : programme neuf du T1 au T4, à partir de 182 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -12013,7 +12013,7 @@
       "autre"
     ],
     "texte": "Découvrez L'Archipel à Cormeilles-en-Parisis (95) : programme neuf T5, à partir de 640 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": "https://cogedim.com",
     "promoteur_cle": "cogedim",
     "promoteur_type": "promoteur"
@@ -12038,7 +12038,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa Henri à L'Hay-les-Roses (94) : programme neuf du T1 au T4, à partir de 209 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -12063,7 +12063,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Quarante Arpents à Alfortville (94) : programme neuf du T1 au T5, à partir de 229 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-10-31T02:10+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -22372,7 +22372,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez L Ecrin des Cantoux à Ormesson-sur-Marne (94) : programme neuf du T2 au T3, à partir de 214 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-30T22:52+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": null,
     "alerte_envoyee": false,
     "tags": [
@@ -23476,7 +23476,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Test Ultim à Clichy (92) : programme neuf. Vendu par Edouard Denis.",
-    "verifie_le": "2026-10-30T23:02+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -23501,7 +23501,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Grandeur Nature à Bussy-Saint-Georges (77) : programme neuf T3, à partir de 354 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-10-30T23:02+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -23526,7 +23526,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Terrasses du Chateau à Le Mesnil-le-Roi (78) : programme neuf du T3 au T5, à partir de 384 800 €. Vendu par Marignan.",
-    "verifie_le": "2026-10-30T23:02+00:00",
+    "verifie_le": "2026-11-06T14:53+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -25958,5 +25958,186 @@
       "nouvelle opportunité",
       "bons_plans"
     ]
+  },
+  {
+    "id": "6953dfb5be98d48c",
+    "nom": "Rythmes",
+    "lieu": "Clichy (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/clichy-92/252407075/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Travaux en cours",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Travaux en cours Rythmes Clichy Du 2 pièces au 5 pièces à partir de 360 000 € Jardin Terrasse Balcon Parking Proposé par : BNP PARIBAS REAL ESTATE Programme immobilier neuf à Clichy-la-Garenne - Découvrez la résidence Rythmes, entre centre-ville et métro À Clichy-la-Garenne, aux portes de Paris 17e,",
+    "numero": 252407075,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-06T14:53+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "travaux_en_cours"
+    ]
+  },
+  {
+    "id": "ca9afac093186cb8",
+    "nom": "NEUF DE FRANCE",
+    "lieu": "Montreuil (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montreuil-93/233473283/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "NEUF DE FRANCE Montreuil Du studio au 5 pièces à partir de 198 000 € Jardin Terrasse Balcon Ascenseur Adapté PMR Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et transports. Les espaces extérieurs sont majoritairement fleuri",
+    "numero": 233473283,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-06T14:53+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "72d66ace7a29bc4f",
+    "nom": "NEUF Vincennes",
+    "lieu": "Vincennes (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/vincennes-94/251194287/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "NEUF Vincennes Vincennes Du 2 pièces au 5 pièces à partir de 485 000 € Jardin Terrasse Balcon Parking Ascenseur Des appartements pour toutes vos envies : studios, T2, T3, T4 et T5. À proximité immédiate des transports Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à pr",
+    "numero": 251194287,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-06T14:53+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "cc1ca36f60dcad38",
+    "nom": "Villa d'Este",
+    "lieu": "Velizy Villacoublay (78)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/velizy-villacoublay-78/285044029/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Villa d'Este Vélizy-Villacoublay Plusieurs logements Prix : nous contacter Située dans le quartier du Mail à Vélizy-Villacoublay, Villa d'Este propose des appartements du studio au 4 pièces au sein de deux bâtiments contemporains entourés d'espaces paysagers. Les logements [...]",
+    "numero": 285044029,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-06T14:53+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "7e34eb8f9f0ecb9b",
+    "nom": "Clos des Bleuets BRS",
+    "lieu": "Clos des Bleuets BRS - Beauchamp (95)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/beauchamp-programme-clos-des-bleuets-brs-219117-11586.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Clos des Bleuets BRS - Beauchamp (95)",
+    "numero": 219117,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Eiffage Immobilier",
+    "contacts": [],
+    "detecte_le": "2026-11-06T14:53+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Clos des Bleuets BRS à Beauchamp (95) : programme neuf. Vendu par Eiffage Immobilier.",
+    "verifie_le": "2026-11-06T15:07+00:00",
+    "promoteur_site": "https://www.eiffage-immobilier.com",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "eiffage-immobilier",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "13fd820a322872ca",
+    "nom": "Rive Liberté",
+    "lieu": "Rive Liberté - Clichy (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/clichy-programme-rive-liberte-219034-11707.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Rive Liberté - Clichy (92)",
+    "numero": 219034,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Cogedim",
+    "contacts": [],
+    "detecte_le": "2026-11-06T14:53+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Rive Liberté à Clichy (92) : programme neuf du T1 au T5, à partir de 326 000 €. Vendu par Cogedim.",
+    "verifie_le": "2026-11-06T15:07+00:00",
+    "promoteur_site": "https://cogedim.com",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "cogedim",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "94d243d04d12ce0f",
+    "nom": "Voltige",
+    "lieu": "- Bail Réel et Solidaire - Sartrouville (78)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sartrouville-programme-voltige-bail-reel-et-solidaire-218776-13179.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Voltige - Bail Réel et Solidaire - Sartrouville (78)",
+    "numero": 218776,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Bouygues Immobilier National",
+    "contacts": [],
+    "detecte_le": "2026-11-06T14:53+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Voltige - Bail Réel et Solidaire à Sartrouville (78) : programme neuf du T2 au T4, à partir de 156 000 €. Vendu par Bouygues Immobilier National.",
+    "verifie_le": "2026-11-06T15:07+00:00",
+    "promoteur_site": "https://bouygues-impulsion.hive-project.fr",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "bouygues-immobilier-national",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "768f73885ff437f3",
+    "nom": "Solstice",
+    "lieu": "Solstice - Mantes-la-Jolie (78)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/mantes-la-jolie-programme-solstice-217731-672.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Solstice - Mantes-la-Jolie (78)",
+    "numero": 217731,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Marignan",
+    "contacts": [],
+    "detecte_le": "2026-11-06T14:53+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Solstice à Mantes-la-Jolie (78) : programme neuf du T2 au T4, à partir de 184 300 €. Vendu par Marignan.",
+    "verifie_le": "2026-11-06T15:08+00:00",
+    "promoteur_site": "https://marignan-immobilier.com",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "marignan",
+    "promoteur_type": "promoteur"
   }
 ]
