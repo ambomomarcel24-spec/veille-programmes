@@ -6539,7 +6539,7 @@
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Jardins Kléber à Pantin (93) : programme neuf du T2 au T4, à partir de 325 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-01T18:23+00:00"
+    "verifie_le": "2026-11-08T10:00+00:00"
   },
   {
     "id": "48321c1ff1a0449e",
@@ -6563,7 +6563,7 @@
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Lumine&sens 2 à Fontenay-sous-Bois (94) : programme neuf du T1 au T5, à partir de 214 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-11-01T18:23+00:00"
+    "verifie_le": "2026-11-08T10:00+00:00"
   },
   {
     "id": "f1048c49d558434a",
@@ -6587,7 +6587,7 @@
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Lumine&sens à Fontenay-sous-Bois (94) : programme neuf du T3 au T5, à partir de 358 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-11-01T22:38+00:00"
+    "verifie_le": "2026-11-08T10:00+00:00"
   },
   {
     "id": "ee55798a5dbf369a",
@@ -6611,7 +6611,7 @@
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez L'Égérie à Clamart (92) : programme neuf. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-11-01T22:38+00:00"
+    "verifie_le": "2026-11-08T10:00+00:00"
   },
   {
     "id": "4408a8906792d47a",
@@ -6635,7 +6635,7 @@
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez L'Egérie II à Clamart (92) : programme neuf T4, à partir de 489 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-11-01T22:38+00:00"
+    "verifie_le": "2026-11-08T10:00+00:00"
   },
   {
     "id": "c9fb12acc681eb1c",
@@ -6659,7 +6659,7 @@
     "promoteur_cle": "demathieu-bard-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Terrasses Mansart à Clamart (92) : programme neuf du T1 au T5, à partir de 199 500 €. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-11-01T22:38+00:00"
+    "verifie_le": "2026-11-08T10:00+00:00"
   },
   {
     "id": "32794327e6b562c8",
@@ -14579,7 +14579,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Central Quai 2 à Villeneuve-la-Garenne (92) : programme neuf du T1 au T5, à partir de 190 779 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -14604,7 +14604,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Villas Aolini à Ollainville (91) : programme neuf, à partir de 357 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14629,7 +14629,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Essencia à Ormesson-sur-Marne (94) : programme neuf du T1 au T5, à partir de 172 000 €. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14654,7 +14654,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Plaisancia à Neuilly-Plaisance (93) : programme neuf du T1 au T5, à partir de 160 009 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14679,7 +14679,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Orly Confluence à Orly (94) : programme neuf du T2 au T4, à partir de 240 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14704,7 +14704,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Haras à Marly-la-Ville (95) : programme neuf T3, à partir de 269 900 €. Vendu par Foncim Promotion.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14729,7 +14729,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Cadence à Montigny-lès-Cormeilles (95) : programme neuf du T2 au T4, à partir de 228 200 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
@@ -14754,7 +14754,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Atelier du Parc à Juvisy-sur-Orge (91) : programme neuf du T2 au T5, à partir de 200 400 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -14779,7 +14779,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez 21 Saclay à Châtenay-Malabry (92) : programme neuf du T1 au T4, à partir de 209 000 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
@@ -14804,7 +14804,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins de Cos à Villemomble (93) : programme neuf du T1 au T4, à partir de 230 000 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14829,7 +14829,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Hameau des Coteaux à Villabe (91) : programme neuf du T2 au T4, à partir de 190 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -14854,7 +14854,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos Herbron à Viroflay (78) : programme neuf du T1 au T3, à partir de 236 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -14879,7 +14879,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Résidence Madria à Méry-sur-Oise (95) : programme neuf du T1 au T4, à partir de 141 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -14904,7 +14904,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Lignes d'Art à Thiais (94) : programme neuf du T1 au T4, à partir de 213 400 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -15011,7 +15011,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Seine de Vies à Villennes-sur-Seine (78) : programme neuf du T1 au T4, à partir de 156 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": "https://cogedim.com",
     "alerte_envoyee": false,
     "tags": [
@@ -21532,7 +21532,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Les Senioriales de Meaux à Meaux (77) : programme neuf T2, à partir de 144 685 €. Vendu par Isia Immo.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": null,
     "alerte_envoyee": false,
     "tags": [
@@ -21558,7 +21558,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Prochainement à Clichy à Clichy (92) : programme neuf du T1 au T5, à partir de 326 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": "https://cogedim.com",
     "alerte_envoyee": false,
     "tags": [
@@ -21584,7 +21584,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Les Maisons du Coteau à Champlan (91) : programme neuf, à partir de 369 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": "https://cogedim.com",
     "alerte_envoyee": false,
     "tags": [
@@ -21610,7 +21610,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Tendance Canal à Aubervilliers (93) : programme neuf du T2 au T4, à partir de 222 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-01T18:23+00:00",
+    "verifie_le": "2026-11-08T10:00+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -26200,6 +26200,26 @@
     "numero": 252305757,
     "source": "SeLoger Neuf (Île-de-France)",
     "detecte_le": "2026-11-07T22:36+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "7bb1f2820f0f4604",
+    "nom": "NOUVEAU À BAGNOLET",
+    "lieu": "Bagnolet (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bagnolet-93/284889789/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "NOUVEAU À BAGNOLET Bagnolet Du 2 pièces au 5 pièces à partir de 280 000 € Terrasse Balcon Parking Ascenseur Digicode BAGNOLET – Votre projet immobilier neuf aux portes de Paris Découvrez une sélection d'appartements neufs à Bagnolet, du studio au familial, au sein de résidences modernes proposant, s",
+    "numero": 284889789,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-08T10:00+00:00",
     "contacts": [],
     "enrichi": false,
     "promoteur": "à identifier",
