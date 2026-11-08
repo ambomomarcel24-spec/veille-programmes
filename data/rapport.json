@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-08T16:57+00:00",
+  "date": "2026-11-08T21:03+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -62,10 +62,10 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2591,
-      "deja_connues": 2584,
-      "lues": 7,
-      "idf": 1,
-      "sans_localisation": 6,
+      "deja_connues": 2591,
+      "lues": 0,
+      "idf": 0,
+      "sans_localisation": 0,
       "echec": 0,
       "numero_max": 219148
     },
@@ -212,9 +212,9 @@
       "avec_localisation": 0
     }
   ],
-  "fiches_relues": 1,
+  "fiches_relues": 0,
   "enrichissement": {
-    "ok": 1,
+    "ok": 0,
     "echec_telechargement": 369,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
@@ -247,7 +247,7 @@
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 1,
+  "nouvelles_fiches": 0,
   "alertes_en_attente": 107,
   "echec_mail": true
 }

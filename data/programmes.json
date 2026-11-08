@@ -3475,7 +3475,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Quartier Nature à Montreuil (93) : programme neuf du T2 au T5, à partir de 268 000 €. Vendu par Nexity.",
     "promoteur_site": "https://www.nexity.fr",
-    "verifie_le": "2026-11-02T10:46+00:00"
+    "verifie_le": "2026-11-08T21:03+00:00"
   },
   {
     "id": "f350b9db2dfd6441",
@@ -6803,7 +6803,7 @@
     "promoteur_cle": "bnp-paribas-real-estate",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Esprit 153 à Le Blanc Mesnil (93) : programme neuf du T1 au T5, à partir de 136 000 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-11-02T02:14+00:00"
+    "verifie_le": "2026-11-08T21:03+00:00"
   },
   {
     "id": "b2b1e2c5c37d74c5",
@@ -6827,7 +6827,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le Céleste à Le Blanc Mesnil (93) : programme neuf du T2 au T5, à partir de 198 800 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-02T02:14+00:00"
+    "verifie_le": "2026-11-08T21:03+00:00"
   },
   {
     "id": "830a9c3bdfd03dbf",
@@ -6851,7 +6851,7 @@
     "promoteur_cle": "edouard-denis",
     "promoteur_type": "promoteur",
     "texte": "Découvrez La Résidence des Petits Ponts à Le Blanc Mesnil (93) : programme neuf T2, à partir de 204 846 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-11-02T02:14+00:00"
+    "verifie_le": "2026-11-08T21:03+00:00"
   },
   {
     "id": "94f898181503fdfb",
@@ -6875,7 +6875,7 @@
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le Clos Duroy à Le Blanc Mesnil (93) : programme neuf T5, à partir de 369 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-02T02:14+00:00"
+    "verifie_le": "2026-11-08T21:03+00:00"
   },
   {
     "id": "a80fcf88375a81de",
@@ -6899,7 +6899,7 @@
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Parc Horizons à Le Blanc Mesnil (93) : programme neuf du T1 au T4, à partir de 199 571 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-02T02:14+00:00"
+    "verifie_le": "2026-11-08T21:03+00:00"
   },
   {
     "id": "d61f2531f8e5a12e",
@@ -6923,7 +6923,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Villa Comtesse à Le Blanc Mesnil (93) : programme neuf T4, à partir de 330 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-02T02:14+00:00"
+    "verifie_le": "2026-11-08T21:03+00:00"
   },
   {
     "id": "84d6e08cc0612d09",
@@ -6944,7 +6944,7 @@
       "autre"
     ],
     "texte": "Découvrez Pavillon Morea à Le Blanc Mesnil (93) : programme neuf du T1 au T5, à partir de 174 700 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-11-02T02:14+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
@@ -6968,7 +6968,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Terrasses d'Ariane à Le Blanc Mesnil (93) : programme neuf du T2 au T5, à partir de 227 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-02T10:46+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -6992,7 +6992,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Domaine du Chevalier à Le Blanc Mesnil (93) : programme neuf du T2 au T4, à partir de 247 003 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-02T10:46+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": "https://cogedim.com",
     "promoteur_cle": "cogedim",
     "promoteur_type": "promoteur"
@@ -7016,7 +7016,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Jardins d'Aragon à Villejuif (94) : programme neuf T4, à partir de 547 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-02T10:46+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": null,
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur"
@@ -15537,7 +15537,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Carré Noyer - Maisons à Bondoufle (91) : programme neuf, à partir de 327 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-02T02:14+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -15562,7 +15562,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Promenade de Lisle à Poissy (78) : programme neuf du T3 au T5, à partir de 309 000 €. Vendu par Emerige.",
-    "verifie_le": "2026-11-02T02:14+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": "https://www.emerige.com",
     "tags": [
       "autre"
@@ -15587,7 +15587,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Collection 14 à Valenton (94) : programme neuf du T2 au T3, à partir de 211 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-02T02:14+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -15612,7 +15612,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Effervescence à Palaiseau (91) : programme neuf T3, à partir de 358 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-02T02:14+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -15637,7 +15637,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins de Neil à Bezons (95) : programme neuf T3, à partir de 322 001 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-02T02:14+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -15662,7 +15662,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Georges à Bussy-Saint-Georges (77) : programme neuf du T2 au T5, à partir de 239 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-11-02T02:14+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15687,7 +15687,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Envol à Voisins-le-Bretonneux (78) : programme neuf du T2 au T5, à partir de 169 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-11-02T02:14+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15712,7 +15712,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Nouvelle Vague à Le Plessis Robinson (92) : programme neuf du T3 au T5, à partir de 432 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-11-02T02:14+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15737,7 +15737,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Incontournable à Clichy-la-Garenne (92) : programme neuf T4, à partir de 899 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-11-02T02:14+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15762,7 +15762,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Ateliers de Poissy à Poissy (78) : programme neuf du T1 au T6, à partir de 209 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-11-02T02:14+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15787,7 +15787,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Ciels de Saint-Cloud à Saint-Cloud (92) : programme neuf du T3 au T5, à partir de 549 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-11-02T02:14+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -20840,7 +20840,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Résidence La Passerelle à Melun (77) : programme neuf du T1 au T3, à partir de 145 000 €. Vendu par Stradim.",
-    "verifie_le": "2026-11-02T02:14+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": null,
     "alerte_envoyee": false,
     "tags": [
@@ -20866,7 +20866,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Rue Pierre Chapitre 5 à Saint-Ouen-sur-Seine (93) : programme neuf du T2 au T4, à partir de 384 754 €. Vendu par Emerige.",
-    "verifie_le": "2026-11-02T02:14+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": "https://www.emerige.com",
     "alerte_envoyee": false,
     "tags": [
@@ -20892,7 +20892,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Par Nature ... à Nanterre (92) : programme neuf. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-11-02T02:14+00:00",
+    "verifie_le": "2026-11-08T21:03+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
