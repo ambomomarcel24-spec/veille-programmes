@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-09T09:28+00:00",
+  "date": "2026-11-09T20:33+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -61,11 +61,11 @@
     {
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
-      "urls_dans_plan": 2591,
-      "deja_connues": 2591,
-      "lues": 0,
+      "urls_dans_plan": 2588,
+      "deja_connues": 2587,
+      "lues": 1,
       "idf": 0,
-      "sans_localisation": 0,
+      "sans_localisation": 1,
       "echec": 0,
       "numero_max": 219148
     },
@@ -131,7 +131,7 @@
     {
       "source": "Emerige",
       "page": "https://www.emerige.com/",
-      "blocs": 93,
+      "blocs": 110,
       "avec_declencheur": 0,
       "avec_mot_programme": 0,
       "avec_localisation": 0
@@ -157,7 +157,7 @@
     {
       "source": "Cogedim",
       "page": "https://www.cogedim.com/",
-      "blocs": 120,
+      "blocs": 119,
       "avec_declencheur": 0,
       "avec_mot_programme": 0,
       "avec_localisation": 0
@@ -215,7 +215,7 @@
   "fiches_relues": 0,
   "enrichissement": {
     "ok": 0,
-    "echec_telechargement": 371,
+    "echec_telechargement": 377,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -241,13 +241,13 @@
       }
     ]
   },
-  "fiches_a_relire": 371,
+  "fiches_a_relire": 377,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 0,
-  "alertes_en_attente": 107,
+  "nouvelles_fiches": 6,
+  "alertes_en_attente": 110,
   "echec_mail": true
 }
