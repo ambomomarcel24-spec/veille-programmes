@@ -3835,7 +3835,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Villa Gabrielle à Colombes (92) : programme neuf du T2 au T5, à partir de 260 800 €. Vendu par Les Nouveaux Constructeurs.",
     "promoteur_site": "https://lnc.fr",
-    "verifie_le": "2026-11-03T10:38+00:00"
+    "verifie_le": "2026-11-10T03:19+00:00"
   },
   {
     "id": "5ea5f5b4f311d434",
@@ -3859,7 +3859,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Esprit Valmy à Colombes (92) : programme neuf du T2 au T4, à partir de 252 200 €. Vendu par Marignan.",
     "promoteur_site": "https://marignan-immobilier.com",
-    "verifie_le": "2026-11-03T10:38+00:00"
+    "verifie_le": "2026-11-10T03:19+00:00"
   },
   {
     "id": "4c8280e14116e371",
@@ -3883,7 +3883,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Plurielles à Colombes (92) : programme neuf du T2 au T5, à partir de 259 000 €. Vendu par VINCI Immobilier Promotion.",
     "promoteur_site": null,
-    "verifie_le": "2026-11-03T10:38+00:00"
+    "verifie_le": "2026-11-10T03:19+00:00"
   },
   {
     "id": "5c1d8934b5578691",
@@ -3907,7 +3907,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Ovation Magellan Ilot 13 à Colombes (92) : programme neuf du T1 au T4, à partir de 205 000 €. Vendu par Nexity.",
     "promoteur_site": "https://www.nexity.fr",
-    "verifie_le": "2026-11-03T10:38+00:00"
+    "verifie_le": "2026-11-10T03:19+00:00"
   },
   {
     "id": "09a91020cb092fab",
@@ -3931,7 +3931,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Plurielles à Colombes (92) : programme neuf du T1 au T5, à partir de 209 000 €. Vendu par Bouygues Immobilier National.",
     "promoteur_site": null,
-    "verifie_le": "2026-11-03T10:38+00:00"
+    "verifie_le": "2026-11-10T03:19+00:00"
   },
   {
     "id": "16c0be36e227ef28",
@@ -3955,7 +3955,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le Clos des Tilleuls à Colombes (92) : programme neuf du T1 au T4, à partir de 186 750 €. Vendu par Emerige.",
     "promoteur_site": "https://www.emerige.com",
-    "verifie_le": "2026-11-03T10:38+00:00"
+    "verifie_le": "2026-11-10T03:19+00:00"
   },
   {
     "id": "16bf1881cf935219",
@@ -7184,7 +7184,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa Joffre à Épinay-sur-Seine (93) : programme neuf du T2 au T4, à partir de 213 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -7208,7 +7208,7 @@
       "autre"
     ],
     "texte": "Découvrez Les App'Arts de l'Ourcq à Bobigny (93) : programme neuf du T1 au T5, à partir de 209 000 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": null,
     "promoteur_cle": "edouard-denis",
     "promoteur_type": "promoteur"
@@ -7232,7 +7232,7 @@
       "autre"
     ],
     "texte": "Découvrez Metamorphose à Suresnes (92) : programme neuf du T2 au T5, à partir de 398 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": null,
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur"
@@ -7686,7 +7686,7 @@
       "autre"
     ],
     "texte": "Découvrez L'Orfèvre à Clamart (92) : programme neuf T6, à partir de 890 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur"
@@ -7710,7 +7710,7 @@
       "autre"
     ],
     "texte": "Découvrez Aori à Meudon (92) : programme neuf du T4 au T5, à partir de 849 000 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
@@ -17045,7 +17045,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Entracte à Romainville (93) : programme neuf du T3 au T4, à partir de 314 900 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -17070,7 +17070,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villas du Vercors à Orly (94) : programme neuf du T3 au T4, à partir de 315 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -17095,7 +17095,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Terrasses d'Adria à Ermont (95) : programme neuf du T1 au T5, à partir de 179 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -17120,7 +17120,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Pavillon Mansart à Sèvres (92) : programme neuf du T2 au T5, à partir de 359 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -17145,7 +17145,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Atrium à Magnanville (78) : programme neuf T2, à partir de 186 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -17170,7 +17170,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Rive Nature à Villeneuve-la-Garenne (92) : programme neuf T4, à partir de 359 900 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -17195,7 +17195,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Éclat à Élancourt (78) : programme neuf T4, à partir de 395 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -17220,7 +17220,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Liberty à Chessy (77) : programme neuf du T2 au T5, à partir de 277 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -17245,7 +17245,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Orée du Square à Limeil-Brévannes (94) : programme neuf du T1 au T4, à partir de 169 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -17270,7 +17270,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos du Bois 2 - BRS à Andilly (95) : programme neuf, à partir de 300 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -17435,7 +17435,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins de la Roseraie à Châtenay-Malabry (92) : programme neuf du T1 au T5, à partir de 230 900 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -17460,7 +17460,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Coeur de Bourg à Saint-Martin-du-Tertre (95) : programme neuf du T2 au T4, à partir de 200 500 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -17485,7 +17485,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins des Vergers à Poissy (78) : programme neuf du T2 au T5, à partir de 201 700 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -17510,7 +17510,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins d'Apolline à Plaisir (78) : programme neuf du T2 au T4, à partir de 235 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-03T10:38+00:00",
+    "verifie_le": "2026-11-10T03:19+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -26415,6 +26415,26 @@
     "origine": "catalogue",
     "tags": [
       "nouvelle opportunité"
+    ]
+  },
+  {
+    "id": "9820d2173654dcd1",
+    "nom": "Résidences Cachan",
+    "lieu": "Cachan (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/cachan-94/241351781/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Résidences Cachan Cachan Du 2 pièces au 5 pièces à partir de 248 500 € Terrasse Balcon Box Ascenseur Adapté PMR Découvrez une nouvelle vie ! Le Courtier du Neuf vous présente ce nouveau projet dans un écrin de verdure. La résidence se compose d'appartements et de maisons. La plupart de nos apparteme",
+    "numero": 241351781,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-10T03:19+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
     ]
   }
 ]
