@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-13T14:26+00:00",
+  "date": "2026-11-13T21:19+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -28,7 +28,7 @@
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/91/",
       "liens_programme": 42,
       "hors_idf": 0,
-      "idf": 20
+      "idf": 21
     },
     {
       "source": "SeLoger Neuf (Île-de-France)",
@@ -62,10 +62,10 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2586,
-      "deja_connues": 2580,
-      "lues": 6,
+      "deja_connues": 2586,
+      "lues": 0,
       "idf": 0,
-      "sans_localisation": 6,
+      "sans_localisation": 0,
       "echec": 0,
       "numero_max": 219179
     },
@@ -157,7 +157,7 @@
     {
       "source": "Cogedim",
       "page": "https://www.cogedim.com/",
-      "blocs": 120,
+      "blocs": 122,
       "avec_declencheur": 0,
       "avec_mot_programme": 0,
       "avec_localisation": 0
@@ -215,7 +215,7 @@
   "fiches_relues": 0,
   "enrichissement": {
     "ok": 0,
-    "echec_telechargement": 385,
+    "echec_telechargement": 391,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -241,13 +241,13 @@
       }
     ]
   },
-  "fiches_a_relire": 385,
+  "fiches_a_relire": 391,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 1,
-  "alertes_en_attente": 114,
+  "nouvelles_fiches": 6,
+  "alertes_en_attente": 115,
   "echec_mail": true
 }
