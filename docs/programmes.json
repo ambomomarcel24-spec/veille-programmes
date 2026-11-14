@@ -5442,7 +5442,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Terrasses des Coteaux à Noisy-le-Grand (93) : programme neuf du T1 au T3, à partir de 192 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-07T00:46+00:00"
+    "verifie_le": "2026-11-14T02:06+00:00"
   },
   {
     "id": "fb28592aa6982bd1",
@@ -5466,7 +5466,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Horizon Marne à Noisy-le-Grand (93) : programme neuf du T1 au T5, à partir de 218 300 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-07T00:46+00:00"
+    "verifie_le": "2026-11-14T02:06+00:00"
   },
   {
     "id": "75d808a33d59c9c3",
@@ -5490,7 +5490,7 @@
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Signature Levallois à Levallois-Perret (92) : programme neuf du T1 au T5, à partir de 389 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-07T00:46+00:00"
+    "verifie_le": "2026-11-14T02:06+00:00"
   },
   {
     "id": "559c399c801cee26",
@@ -5514,7 +5514,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Allées Hoche à Issy-les-Moulineaux (92) : programme neuf du T1 au T3, à partir de 367 800 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-07T00:46+00:00"
+    "verifie_le": "2026-11-14T02:06+00:00"
   },
   {
     "id": "d384f234795b7d3d",
@@ -5538,7 +5538,7 @@
     "promoteur_cle": "quartus",
     "promoteur_type": "promoteur",
     "texte": "Découvrez L'Aparté à Issy-les-Moulineaux (92) : programme neuf du T2 au T3, à partir de 405 000 €. Vendu par Quartus.",
-    "verifie_le": "2026-11-07T00:46+00:00"
+    "verifie_le": "2026-11-14T02:06+00:00"
   },
   {
     "id": "3f66bdfe93c1b725",
@@ -5562,7 +5562,7 @@
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Orion à Issy-les-Moulineaux (92) : programme neuf du T1 au T5, à partir de 323 000 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-11-07T00:46+00:00"
+    "verifie_le": "2026-11-14T02:06+00:00"
   },
   {
     "id": "d97e1cbc70b6d1b4",
@@ -5586,7 +5586,7 @@
     "promoteur_cle": "demathieu-bard-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Perle d'Issy à Issy-les-Moulineaux (92) : programme neuf du T1 au T5, à partir de 269 000 €. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-11-07T00:46+00:00"
+    "verifie_le": "2026-11-14T02:06+00:00"
   },
   {
     "id": "f9c8ac0d797bf66c",
@@ -5610,7 +5610,7 @@
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Quietude à Issy-les-Moulineaux (92) : programme neuf du T3 au T6, à partir de 529 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-07T00:46+00:00"
+    "verifie_le": "2026-11-14T02:06+00:00"
   },
   {
     "id": "42c23e1e6ea91eef",
@@ -5634,7 +5634,7 @@
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur",
     "texte": "Découvrez 29 Hoche à Issy-les-Moulineaux (92) : programme neuf T4, à partir de 798 000 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-11-07T00:46+00:00"
+    "verifie_le": "2026-11-14T02:06+00:00"
   },
   {
     "id": "794c63fbfb687fec",
@@ -12263,7 +12263,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa Louis-Alexandre - Maisons à Neauphle-le-Château (78) : programme neuf du T4 au T5, à partir de 403 800 €. Vendu par Marignan.",
-    "verifie_le": "2026-11-06T20:46+00:00",
+    "verifie_le": "2026-11-14T02:06+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -12288,7 +12288,7 @@
       "autre"
     ],
     "texte": "Découvrez 30 Mozart à Clichy-la-Garenne (92) : programme neuf du T1 au T5, à partir de 347 700 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-11-06T20:46+00:00",
+    "verifie_le": "2026-11-14T02:06+00:00",
     "promoteur_site": null,
     "promoteur_cle": "interconstruction-amenagement",
     "promoteur_type": "promoteur"
@@ -12313,7 +12313,7 @@
       "autre"
     ],
     "texte": "Découvrez 90 République à Saint-Cloud (92) : programme neuf du T2 au T4, à partir de 355 000 €. Vendu par Emerige.",
-    "verifie_le": "2026-11-07T00:46+00:00",
+    "verifie_le": "2026-11-14T02:06+00:00",
     "promoteur_site": "https://www.emerige.com",
     "promoteur_cle": "emerige",
     "promoteur_type": "promoteur"
@@ -12338,7 +12338,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa Antoinette à Poissy (78) : programme neuf du T1 au T5, à partir de 158 300 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-11-07T00:46+00:00",
+    "verifie_le": "2026-11-14T02:06+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
@@ -12363,7 +12363,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Terrasses d'Adria II à Ermont (95) : programme neuf du T1 au T5, à partir de 191 658 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-07T00:46+00:00",
+    "verifie_le": "2026-11-14T02:06+00:00",
     "promoteur_site": null,
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur"
@@ -12388,7 +12388,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Jardins Gabriel à Arcueil (94) : programme neuf du T1 au T4, à partir de 195 700 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-11-07T00:46+00:00",
+    "verifie_le": "2026-11-14T02:06+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
@@ -12492,7 +12492,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Prochainement à Bezons à Bezons (95) : programme neuf du T2 au T3. Vendu par Cogedim.",
-    "verifie_le": "2026-11-07T00:46+00:00",
+    "verifie_le": "2026-11-14T02:06+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -22398,7 +22398,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez L Ecrin Harmonie à Montlhéry (91) : programme neuf du T3 au T4, à partir de 234 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-11-06T20:46+00:00",
+    "verifie_le": "2026-11-14T02:06+00:00",
     "promoteur_site": null,
     "alerte_envoyee": false,
     "tags": [
@@ -22424,7 +22424,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Grand Parc à Champigny-sur-Marne (94) : programme neuf du T2 au T4, à partir de 228 923 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-11-06T20:46+00:00",
+    "verifie_le": "2026-11-14T02:06+00:00",
     "promoteur_site": null,
     "alerte_envoyee": false,
     "tags": [
@@ -22450,7 +22450,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Coeur Chantereine à Brou-sur-Chantereine (77) : programme neuf T5, à partir de 351 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-06T20:46+00:00",
+    "verifie_le": "2026-11-14T02:06+00:00",
     "promoteur_site": "https://lnc.fr",
     "alerte_envoyee": false,
     "tags": [
@@ -22476,7 +22476,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Panorama Beaurivage - Trianon à Clamart (92) : programme neuf, à partir de 985 999 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-11-06T20:46+00:00",
+    "verifie_le": "2026-11-14T02:06+00:00",
     "promoteur_site": null,
     "alerte_envoyee": false,
     "tags": [
@@ -22502,7 +22502,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Residence le Bas Marin à Orly (94) : programme neuf T2, à partir de 205 000 €. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-11-06T20:46+00:00",
+    "verifie_le": "2026-11-14T02:06+00:00",
     "promoteur_site": null,
     "alerte_envoyee": false,
     "tags": [
@@ -22528,7 +22528,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez My Campus - Choisy-le-Roi à Choisy-le-Roi (94) : programme neuf. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-06T20:46+00:00",
+    "verifie_le": "2026-11-14T02:06+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -22553,7 +22553,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins de Josephine à Serris (77) : programme neuf du T2 au T5, à partir de 226 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-06T20:46+00:00",
+    "verifie_le": "2026-11-14T02:06+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -22578,7 +22578,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Impulsion à Sartrouville (78) : programme neuf T3, à partir de 259 354 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-06T20:46+00:00",
+    "verifie_le": "2026-11-14T02:06+00:00",
     "promoteur_site": "https://bouygues-impulsion.hive-project.fr",
     "tags": [
       "autre"
@@ -22603,7 +22603,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Promenades de l'Ourcq à Meaux (77) : programme neuf du T2 au T3, à partir de 192 537 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-06T20:46+00:00",
+    "verifie_le": "2026-11-14T02:06+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"

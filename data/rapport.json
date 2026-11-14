@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-13T21:19+00:00",
+  "date": "2026-11-14T02:06+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -157,10 +157,7 @@
     {
       "source": "Cogedim",
       "page": "https://www.cogedim.com/",
-      "blocs": 122,
-      "avec_declencheur": 0,
-      "avec_mot_programme": 0,
-      "avec_localisation": 0
+      "non_lue": true
     },
     {
       "source": "Cogedim",
@@ -247,7 +244,7 @@
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 6,
+  "nouvelles_fiches": 0,
   "alertes_en_attente": 115,
   "echec_mail": true
 }
