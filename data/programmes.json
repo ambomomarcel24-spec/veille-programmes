@@ -6539,7 +6539,7 @@
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Jardins Kléber à Pantin (93) : programme neuf du T2 au T4, à partir de 325 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-08T10:00+00:00"
+    "verifie_le": "2026-11-15T16:16+00:00"
   },
   {
     "id": "48321c1ff1a0449e",
@@ -6563,7 +6563,7 @@
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Lumine&sens 2 à Fontenay-sous-Bois (94) : programme neuf du T1 au T5, à partir de 214 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-11-08T10:00+00:00"
+    "verifie_le": "2026-11-15T16:16+00:00"
   },
   {
     "id": "f1048c49d558434a",
@@ -6587,7 +6587,7 @@
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Lumine&sens à Fontenay-sous-Bois (94) : programme neuf du T3 au T5, à partir de 358 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-11-08T10:00+00:00"
+    "verifie_le": "2026-11-15T16:16+00:00"
   },
   {
     "id": "ee55798a5dbf369a",
@@ -6611,7 +6611,7 @@
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez L'Égérie à Clamart (92) : programme neuf. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-11-08T10:00+00:00"
+    "verifie_le": "2026-11-15T16:16+00:00"
   },
   {
     "id": "4408a8906792d47a",
@@ -6635,7 +6635,7 @@
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez L'Egérie II à Clamart (92) : programme neuf T4, à partir de 489 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-11-08T10:00+00:00"
+    "verifie_le": "2026-11-15T16:16+00:00"
   },
   {
     "id": "c9fb12acc681eb1c",
@@ -6659,7 +6659,7 @@
     "promoteur_cle": "demathieu-bard-immobilier",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Terrasses Mansart à Clamart (92) : programme neuf du T1 au T5, à partir de 199 500 €. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-11-08T10:00+00:00"
+    "verifie_le": "2026-11-15T16:16+00:00"
   },
   {
     "id": "32794327e6b562c8",
@@ -14304,7 +14304,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le 5 Raspail à Bagnolet (93) : programme neuf du T1 au T5, à partir de 223 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-08T02:12+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -14329,7 +14329,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Prochainement à Sainte-Geneviève-des-Bois (91) : programme neuf du T1 au T3, à partir de 159 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-11-08T02:12+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -14354,7 +14354,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Esprit Village à Montlhéry (91) : programme neuf du T1 au T4, à partir de 140 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-08T02:12+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -14379,7 +14379,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le 57 Republique à Châtillon (92) : programme neuf du T2 au T4, à partir de 315 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-11-08T02:12+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14404,7 +14404,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Bel Rives à Choisy-le-Roi (94) : programme neuf du T1 au T5, à partir de 165 000 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-11-08T02:12+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14429,7 +14429,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Majestic en Seine à Villeneuve-la-Garenne (92) : programme neuf du T2 au T5, à partir de 219 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-08T02:12+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -14454,7 +14454,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Rue Olympe de Gouges à Alfortville (94) : programme neuf du T1 au T4, à partir de 229 763 €. Vendu par Emerige.",
-    "verifie_le": "2026-11-08T02:12+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": "https://www.emerige.com",
     "tags": [
       "autre"
@@ -14479,7 +14479,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villanova à Ormoy (91) : programme neuf du T2 au T5, à partir de 175 400 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-08T02:12+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -14504,7 +14504,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Allée Royale à Fontainebleau (77) : programme neuf du T2 au T3, à partir de 299 000 €. Vendu par Stradim.",
-    "verifie_le": "2026-11-08T02:12+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14529,7 +14529,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Moulin de Cerçay à Brunoy (91) : programme neuf du T2 au T4, à partir de 192 010 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-11-08T02:12+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14554,7 +14554,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez P.a.r.c en Ville à Jouy-le-Moutier (95) : programme neuf du T1 au T4, à partir de 172 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-08T02:12+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -14579,7 +14579,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Central Quai 2 à Villeneuve-la-Garenne (92) : programme neuf du T1 au T5, à partir de 190 779 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-11-08T10:00+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -14604,7 +14604,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Villas Aolini à Ollainville (91) : programme neuf, à partir de 357 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-08T10:00+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14629,7 +14629,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Essencia à Ormesson-sur-Marne (94) : programme neuf du T1 au T5, à partir de 172 000 €. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-11-08T10:00+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14654,7 +14654,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Plaisancia à Neuilly-Plaisance (93) : programme neuf du T1 au T5, à partir de 160 009 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-11-08T10:00+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14679,7 +14679,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Orly Confluence à Orly (94) : programme neuf du T2 au T4, à partir de 240 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-11-08T10:00+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14704,7 +14704,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Haras à Marly-la-Ville (95) : programme neuf T3, à partir de 269 900 €. Vendu par Foncim Promotion.",
-    "verifie_le": "2026-11-08T10:00+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -14729,7 +14729,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Cadence à Montigny-lès-Cormeilles (95) : programme neuf du T2 au T4, à partir de 228 200 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-11-08T10:00+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
@@ -23807,7 +23807,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Osmose à Fresnes (94) : programme neuf du T1 au T5. Vendu par Icade Promotion.",
-    "verifie_le": "2026-11-08T02:12+00:00",
+    "verifie_le": "2026-11-15T16:16+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
@@ -27153,6 +27153,84 @@
       "autre"
     ],
     "promoteur_cle": "nexity",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "89b8721bbf5ad482",
+    "nom": "Domaine Héritage",
+    "lieu": "Domaine Héritage - Châtenay-Malabry (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/chatenay-malabry-programme-domaine-heritage-219189-11707.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Domaine Héritage - Châtenay-Malabry (92)",
+    "numero": 219189,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Cogedim",
+    "contacts": [],
+    "detecte_le": "2026-11-15T16:16+00:00",
+    "enrichi": true,
+    "origine": "alerte",
+    "texte": "Découvrez Domaine Héritage à Châtenay-Malabry (92) : programme neuf du T2 au T3. Vendu par Cogedim.",
+    "verifie_le": "2026-11-15T16:19+00:00",
+    "promoteur_site": "https://cogedim.com",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "cogedim",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "b2c0aad7a3d383e9",
+    "nom": "Clos Aragon",
+    "lieu": "Clos Aragon - Malakoff (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/malakoff-programme-clos-aragon-219188-11707.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Clos Aragon - Malakoff (92)",
+    "numero": 219188,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Cogedim",
+    "contacts": [],
+    "detecte_le": "2026-11-15T16:16+00:00",
+    "enrichi": true,
+    "origine": "alerte",
+    "texte": "Découvrez Clos Aragon à Malakoff (92) : programme neuf du T2 au T4, à partir de 276 000 €. Vendu par Cogedim.",
+    "verifie_le": "2026-11-15T16:19+00:00",
+    "promoteur_site": "https://cogedim.com",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "cogedim",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "f7022ad709eb41c8",
+    "nom": "Node",
+    "lieu": "Node - La Courneuve (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/la-courneuve-programme-node-219186-11636.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Node - La Courneuve (93)",
+    "numero": 219186,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Demathieu Bard Immobilier",
+    "contacts": [],
+    "detecte_le": "2026-11-15T16:16+00:00",
+    "enrichi": true,
+    "origine": "alerte",
+    "texte": "Découvrez Node à La Courneuve (93) : programme neuf du T1 au T5, à partir de 165 000 €. Vendu par Demathieu Bard Immobilier.",
+    "verifie_le": "2026-11-15T16:19+00:00",
+    "promoteur_site": null,
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "demathieu-bard-immobilier",
     "promoteur_type": "promoteur"
   }
 ]

@@ -152,7 +152,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-15T09:00+00:00",
+    "maj": "2026-11-15T16:16+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -423,13 +423,25 @@
         "lieu": "Rive Liberté - Clichy (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/clichy-programme-rive-liberte-219034-11707.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Domaine Héritage",
+        "lieu": "Domaine Héritage - Châtenay-Malabry (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/chatenay-malabry-programme-domaine-heritage-219189-11707.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Clos Aragon",
+        "lieu": "Clos Aragon - Malakoff (92)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/malakoff-programme-clos-aragon-219188-11707.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-15T09:00+00:00",
+    "maj": "2026-11-15T16:19+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -652,7 +664,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-15T09:00+00:00",
+    "maj": "2026-11-15T16:16+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -791,7 +803,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-15T09:00+00:00",
+    "maj": "2026-11-15T16:16+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -827,7 +839,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-15T09:00+00:00",
+    "maj": "2026-11-15T16:16+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -845,7 +857,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-15T09:00+00:00",
+    "maj": "2026-11-15T16:16+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -882,7 +894,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-15T09:00+00:00",
+    "maj": "2026-11-15T16:16+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -900,7 +912,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-15T09:00+00:00",
+    "maj": "2026-11-15T16:16+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -924,7 +936,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-15T09:00+00:00",
+    "maj": "2026-11-15T16:16+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1639,7 +1651,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-15T09:00+00:00",
+    "maj": "2026-11-15T16:16+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1988,7 +2000,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-15T09:00+00:00",
+    "maj": "2026-11-15T16:16+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2505,7 +2517,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-15T09:00+00:00",
+    "maj": "2026-11-15T16:16+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2523,7 +2535,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-15T09:00+00:00",
+    "maj": "2026-11-15T16:16+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2541,7 +2553,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-15T09:00+00:00",
+    "maj": "2026-11-15T16:16+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2602,7 +2614,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-15T09:00+00:00",
+    "maj": "2026-11-15T16:16+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -4295,12 +4307,18 @@
         "lieu": "Residence le Bas Marin - Orly (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/orly-programme-residence-le-bas-marin-219056-11636.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Node",
+        "lieu": "Node - La Courneuve (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/la-courneuve-programme-node-219186-11636.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-10-25T15:56+00:00",
+    "maj": "2026-11-15T16:19+00:00",
     "type": "promoteur"
   },
   "ogic": {
