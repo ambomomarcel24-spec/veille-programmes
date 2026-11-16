@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16T09:17+00:00",
+  "date": "2026-11-16T20:09+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -56,18 +56,18 @@
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/95/",
       "liens_programme": 42,
       "hors_idf": 0,
-      "idf": 21
+      "idf": 20
     },
     {
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
-      "urls_dans_plan": 2603,
-      "deja_connues": 2603,
-      "lues": 0,
+      "urls_dans_plan": 2602,
+      "deja_connues": 2598,
+      "lues": 4,
       "idf": 0,
-      "sans_localisation": 0,
+      "sans_localisation": 4,
       "echec": 0,
-      "numero_max": 219191
+      "numero_max": 219196
     },
     {
       "source": "Nexity",
@@ -145,8 +145,8 @@
       "source": "Sogeprom",
       "page": "https://www.sogeprom.com/",
       "blocs": 52,
-      "avec_declencheur": 5,
-      "avec_mot_programme": 5,
+      "avec_declencheur": 7,
+      "avec_mot_programme": 7,
       "avec_localisation": 0
     },
     {
@@ -157,7 +157,7 @@
     {
       "source": "Cogedim",
       "page": "https://www.cogedim.com/",
-      "blocs": 115,
+      "blocs": 122,
       "avec_declencheur": 0,
       "avec_mot_programme": 0,
       "avec_localisation": 0
@@ -247,7 +247,7 @@
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 1,
+  "nouvelles_fiches": 0,
   "alertes_en_attente": 118,
   "echec_mail": true
 }
