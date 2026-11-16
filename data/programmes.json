@@ -3499,7 +3499,7 @@
     "promoteur_cle": "quartus",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Jardin Hanaé - Petit Nanterre à Nanterre (92) : programme neuf du T1 au T5, à partir de 215 000 €. Vendu par Quartus.",
-    "verifie_le": "2026-11-09T01:31+00:00"
+    "verifie_le": "2026-11-16T09:17+00:00"
   },
   {
     "id": "ca810ffbcf05129c",
@@ -7040,7 +7040,7 @@
       "autre"
     ],
     "texte": "Découvrez Terrasses Lamartine à Villejuif (94) : programme neuf du T1 au T5, à partir de 200 323 €. Vendu par Emerige.",
-    "verifie_le": "2026-11-09T01:31+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": "https://www.emerige.com",
     "promoteur_cle": "emerige",
     "promoteur_type": "promoteur"
@@ -7064,7 +7064,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa du Golf à Sevran (93) : programme neuf du T2 au T4, à partir de 189 100 €. Vendu par Marignan.",
-    "verifie_le": "2026-11-09T01:31+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -7088,7 +7088,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Clos Chapelin à Sevran (93) : programme neuf du T2 au T4, à partir de 177 500 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-09T01:31+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": "https://lnc.fr",
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur"
@@ -7112,7 +7112,7 @@
       "autre"
     ],
     "texte": "Découvrez L'Orée des Coudriers à Chelles (77) : programme neuf du T2 au T4, à partir de 212 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-11-09T01:31+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": null,
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur"
@@ -7136,7 +7136,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Terrasses de Paris à Épinay-sur-Seine (93) : programme neuf du T2 au T5, à partir de 215 600 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-09T01:31+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": "https://lnc.fr",
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur"
@@ -7160,7 +7160,7 @@
       "autre"
     ],
     "texte": "Découvrez Sepia à Épinay-sur-Seine (93) : programme neuf du T1 au T5, à partir de 152 200 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-11-09T01:31+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
@@ -15562,7 +15562,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Promenade de Lisle à Poissy (78) : programme neuf du T3 au T5, à partir de 309 000 €. Vendu par Emerige.",
-    "verifie_le": "2026-11-08T21:03+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": "https://www.emerige.com",
     "tags": [
       "autre"
@@ -15587,7 +15587,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Collection 14 à Valenton (94) : programme neuf du T2 au T3, à partir de 211 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-08T21:03+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -15612,7 +15612,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Effervescence à Palaiseau (91) : programme neuf T3, à partir de 358 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-08T21:03+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -15637,7 +15637,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins de Neil à Bezons (95) : programme neuf T3, à partir de 322 001 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-08T21:03+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -15662,7 +15662,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Georges à Bussy-Saint-Georges (77) : programme neuf du T2 au T5, à partir de 239 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-11-08T21:03+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15687,7 +15687,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Envol à Voisins-le-Bretonneux (78) : programme neuf du T2 au T5, à partir de 169 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-11-08T21:03+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15712,7 +15712,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Nouvelle Vague à Le Plessis Robinson (92) : programme neuf du T3 au T5, à partir de 432 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-11-08T21:03+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15737,7 +15737,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Incontournable à Clichy-la-Garenne (92) : programme neuf T4, à partir de 899 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-11-08T21:03+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15762,7 +15762,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Ateliers de Poissy à Poissy (78) : programme neuf du T1 au T6, à partir de 209 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-11-08T21:03+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15787,7 +15787,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Ciels de Saint-Cloud à Saint-Cloud (92) : programme neuf du T3 au T5, à partir de 549 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-11-08T21:03+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15812,7 +15812,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Domaine de la Plaine à Montesson (78) : programme neuf, à partir de 637 900 €. Vendu par Ogic.",
-    "verifie_le": "2026-11-09T01:31+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15837,7 +15837,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez 144 Eiffel à Montmorency (95) : programme neuf du T2 au T4, à partir de 250 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-11-09T01:31+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -15862,7 +15862,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Domaine Belle Epoque à Mennecy (91) : programme neuf du T2 au T5, à partir de 177 200 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-09T01:31+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -15887,7 +15887,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Nouvel Angle à Savigny-le-Temple (77) : programme neuf du T2 au T4, à partir de 164 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-11-09T01:31+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -15912,7 +15912,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Syneo à Clichy-sous-Bois (93) : programme neuf du T1 au T4, à partir de 125 721 €. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-11-09T01:31+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -20840,7 +20840,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Résidence La Passerelle à Melun (77) : programme neuf du T1 au T3, à partir de 145 000 €. Vendu par Stradim.",
-    "verifie_le": "2026-11-08T21:03+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": null,
     "alerte_envoyee": false,
     "tags": [
@@ -20866,7 +20866,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Rue Pierre Chapitre 5 à Saint-Ouen-sur-Seine (93) : programme neuf du T2 au T4, à partir de 384 754 €. Vendu par Emerige.",
-    "verifie_le": "2026-11-08T21:03+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": "https://www.emerige.com",
     "alerte_envoyee": false,
     "tags": [
@@ -20892,7 +20892,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Par Nature ... à Nanterre (92) : programme neuf. Vendu par Demathieu Bard Immobilier.",
-    "verifie_le": "2026-11-08T21:03+00:00",
+    "verifie_le": "2026-11-16T09:17+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -27232,5 +27232,27 @@
     ],
     "promoteur_cle": "demathieu-bard-immobilier",
     "promoteur_type": "promoteur"
+  },
+  {
+    "id": "d406ce0244089f86",
+    "nom": "TAMARA",
+    "lieu": "Montlhery (91)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montlhery-91/272622251/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Offre spéciale",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale Travaux en cours TAMARA Montlhéry Du 2 pièces au 3 pièces à partir de 168 000 € Jardin Balcon Parking Ascenseur Adapté PMR Proposé par : TAS GROUPE MONTLHÉRY (91) : JUSQU’À 180 000 € À TAUX 0 % POUR VOTRE APPARTEMENT NEUF ! FRAIS DE NOTAIRE OFFERTS + CUISINE ÉQUIPÉE OFFERTE JUSQU’AU 3",
+    "numero": 272622251,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-16T09:17+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité",
+      "frais_offerts",
+      "travaux_en_cours"
+    ]
   }
 ]
