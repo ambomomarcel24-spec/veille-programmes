@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16T20:09+00:00",
+  "date": "2026-11-17T03:33+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -56,16 +56,16 @@
       "page": "https://www.selogerneuf.com/immobilier/neuf/bien-programme/ile-de-france/95/",
       "liens_programme": 42,
       "hors_idf": 0,
-      "idf": 20
+      "idf": 21
     },
     {
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2602,
-      "deja_connues": 2598,
-      "lues": 4,
+      "deja_connues": 2602,
+      "lues": 0,
       "idf": 0,
-      "sans_localisation": 4,
+      "sans_localisation": 0,
       "echec": 0,
       "numero_max": 219196
     },
@@ -215,7 +215,7 @@
   "fiches_relues": 0,
   "enrichissement": {
     "ok": 0,
-    "echec_telechargement": 402,
+    "echec_telechargement": 403,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -241,13 +241,13 @@
       }
     ]
   },
-  "fiches_a_relire": 402,
+  "fiches_a_relire": 403,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 0,
+  "nouvelles_fiches": 1,
   "alertes_en_attente": 118,
   "echec_mail": true
 }
