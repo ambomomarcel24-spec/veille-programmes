@@ -4554,7 +4554,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le Paris de l'Elégance à Champigny-sur-Marne (94) : programme neuf du T1 au T5, à partir de 241 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-12T00:19+00:00"
+    "verifie_le": "2026-11-19T21:15+00:00"
   },
   {
     "id": "9400ccc64bef4552",
@@ -4578,7 +4578,7 @@
     "promoteur_cle": "bnp-paribas-real-estate",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Infinity à Aubervilliers (93) : programme neuf T3, à partir de 399 500 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-11-12T00:19+00:00"
+    "verifie_le": "2026-11-19T21:15+00:00"
   },
   {
     "id": "42d6faeec1752355",
@@ -4602,7 +4602,7 @@
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Ateliers 63 à Aubervilliers (93) : programme neuf du T1 au T5, à partir de 239 420 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-12T00:19+00:00"
+    "verifie_le": "2026-11-19T21:15+00:00"
   },
   {
     "id": "971f3833bf930aa7",
@@ -4626,7 +4626,7 @@
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le Léopold à Aubervilliers (93) : programme neuf du T1 au T4, à partir de 182 900 €. Vendu par Marignan.",
-    "verifie_le": "2026-11-12T00:19+00:00"
+    "verifie_le": "2026-11-19T21:15+00:00"
   },
   {
     "id": "0069e52927162eb3",
@@ -4650,7 +4650,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Terrasses du Canal à Aubervilliers (93) : programme neuf du T1 au T5, à partir de 175 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-12T00:19+00:00"
+    "verifie_le": "2026-11-19T21:15+00:00"
   },
   {
     "id": "e66b723954809337",
@@ -4674,7 +4674,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le Clos des Vertus à Aubervilliers (93) : programme neuf du T3 au T5, à partir de 281 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-12T08:04+00:00"
+    "verifie_le": "2026-11-19T21:15+00:00"
   },
   {
     "id": "c79c5edb65feebd6",
@@ -4698,7 +4698,7 @@
     "promoteur_cle": "ogic",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Botany à Aubervilliers (93) : programme neuf du T2 au T4, à partir de 227 000 €. Vendu par Ogic.",
-    "verifie_le": "2026-11-12T08:04+00:00"
+    "verifie_le": "2026-11-19T21:15+00:00"
   },
   {
     "id": "993fb1074c0b4f95",
@@ -4722,7 +4722,7 @@
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Passage Anatole à Aubervilliers (93) : programme neuf du T2 au T4, à partir de 259 354 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-12T08:04+00:00"
+    "verifie_le": "2026-11-19T21:15+00:00"
   },
   {
     "id": "f87bab9dedff9b12",
@@ -4746,7 +4746,7 @@
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Villa Panorama à Aubervilliers (93) : programme neuf du T2 au T4, à partir de 242 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-11-12T08:04+00:00"
+    "verifie_le": "2026-11-19T21:15+00:00"
   },
   {
     "id": "da53571c64c4a88d",
@@ -8646,7 +8646,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Rivage à Saint-Ouen-sur-Seine (93) : programme neuf du T2 au T5, à partir de 420 000 €. Vendu par Constructa Promotion.",
-    "verifie_le": "2026-11-12T00:19+00:00",
+    "verifie_le": "2026-11-19T21:15+00:00",
     "promoteur_site": null,
     "promoteur_cle": "constructa-promotion",
     "promoteur_type": "promoteur"
@@ -8670,7 +8670,7 @@
       "autre"
     ],
     "texte": "Découvrez So Heritage à Saint-Ouen-sur-Seine (93) : programme neuf du T1 au T4, à partir de 254 637 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-12T00:19+00:00",
+    "verifie_le": "2026-11-19T21:15+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -8694,7 +8694,7 @@
       "autre"
     ],
     "texte": "Découvrez Linéa Parc à Noisy-le-Sec (93) : programme neuf du T3 au T4, à partir de 199 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-12T00:19+00:00",
+    "verifie_le": "2026-11-19T21:15+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -8718,7 +8718,7 @@
       "autre"
     ],
     "texte": "Découvrez Nouvelle Résidence à Noisy-le-Sec (93) : programme neuf du T1 au T4, à partir de 159 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-12T00:19+00:00",
+    "verifie_le": "2026-11-19T21:15+00:00",
     "promoteur_site": null,
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur"
@@ -8742,7 +8742,7 @@
       "autre"
     ],
     "texte": "Découvrez Osmoz à Noisy-le-Sec (93) : programme neuf du T1 au T3, à partir de 164 083 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-12T00:19+00:00",
+    "verifie_le": "2026-11-19T21:15+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -8766,7 +8766,7 @@
       "autre"
     ],
     "texte": "Découvrez 89 Brement à Noisy-le-Sec (93) : programme neuf du T2 au T4, à partir de 220 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-11-12T00:19+00:00",
+    "verifie_le": "2026-11-19T21:15+00:00",
     "promoteur_site": null,
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur"
@@ -8790,7 +8790,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Terrasses Flammarion à Melun (77) : programme neuf. Vendu par Nexity.",
-    "verifie_le": "2026-11-12T00:19+00:00",
+    "verifie_le": "2026-11-19T21:15+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -8814,7 +8814,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Allées du Bois - Tva 7% à Melun (77) : programme neuf du T2 au T3, à partir de 168 224 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-11-12T00:19+00:00",
+    "verifie_le": "2026-11-19T21:15+00:00",
     "promoteur_site": null,
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur"
@@ -8838,7 +8838,7 @@
       "autre"
     ],
     "texte": "Découvrez Chromatic à Melun (77) : programme neuf du T3 au T4, à partir de 209 542 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-12T00:19+00:00",
+    "verifie_le": "2026-11-19T21:15+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -8862,7 +8862,7 @@
       "autre"
     ],
     "texte": "Découvrez Serenova à Melun (77) : programme neuf du T1 au T3, à partir de 136 270 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-12T00:19+00:00",
+    "verifie_le": "2026-11-19T21:15+00:00",
     "promoteur_site": null,
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur"
@@ -8886,7 +8886,7 @@
       "autre"
     ],
     "texte": "Découvrez Green Line à Bagneux (92) : programme neuf du T1 au T5, à partir de 203 088 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-11-12T08:04+00:00",
+    "verifie_le": "2026-11-19T21:15+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bnp-paribas-real-estate",
     "promoteur_type": "promoteur"
@@ -19191,7 +19191,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins de Saint Ange à Dammarie-les-Lys (77) : programme neuf du T3 au T4, à partir de 214 517 €. Vendu par Stradim.",
-    "verifie_le": "2026-11-12T00:19+00:00",
+    "verifie_le": "2026-11-19T21:15+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -19216,7 +19216,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos du Bois 1 et 2 à Andilly (95) : programme neuf, à partir de 398 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-12T00:19+00:00",
+    "verifie_le": "2026-11-19T21:15+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -19241,7 +19241,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Terrasses du Parc à Stains (93) : programme neuf T3, à partir de 264 400 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-12T00:19+00:00",
+    "verifie_le": "2026-11-19T21:15+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -19266,7 +19266,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Terrasses de la Madeleine à Pomponne (77) : programme neuf du T1 au T3, à partir de 208 000 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-11-12T00:19+00:00",
+    "verifie_le": "2026-11-19T21:15+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -23125,7 +23125,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Terrasses des Canotiers à Meaux (77) : programme neuf T3, à partir de 234 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-12T00:19+00:00",
+    "verifie_le": "2026-11-19T21:15+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -27650,5 +27650,320 @@
     ],
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur"
+  },
+  {
+    "id": "0847198bf2ea2414",
+    "nom": "NAIA - COLOMBES",
+    "lieu": "Colombes (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/colombes-92/286795353/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "NAIA - COLOMBES Colombes Du 2 pièces au 5 pièces à partir de 216 900 € Terrasse Balcon Parking Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et transports. Les espaces extérieurs sont majoritairement fleuris ou [...]",
+    "numero": 286795353,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-19T21:15+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "ecf4a3b8ca80eaef",
+    "nom": "LUMEO - PARIS 18",
+    "lieu": "Paris 18eme (75)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/paris-18eme-75/286795333/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "LUMEO - PARIS 18 Paris 18ème Du 2 pièces au 5 pièces à partir de 284 200 € Balcon Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et transports. Les espaces extérieurs sont majoritairement fleuris ou [...]",
+    "numero": 286795333,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-19T21:15+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "33c01c9929e333b2",
+    "nom": "CALISTA - PARIS 14EME",
+    "lieu": "Paris 14eme (75)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/paris-14eme-75/286795329/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "CALISTA - PARIS 14EME Paris 14ème Du 2 pièces au 3 pièces à partir de 398 500 € Terrasse Balcon Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et transports. Les espaces extérieurs sont majoritairement fleuris ou [...]",
+    "numero": 286795329,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-19T21:15+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "96381f45b60fc8e8",
+    "nom": "ORIA - ANTONY",
+    "lieu": "Antony (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/antony-92/286795321/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "ORIA - ANTONY Antony Du 2 pièces au 5 pièces à partir de 247 150 € Terrasse Balcon Cave Parking Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et transports. Les espaces extérieurs sont majoritairement fleuris ou [...]",
+    "numero": 286795321,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-19T21:15+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "5ae88caf36a6ce91",
+    "nom": "ELORA - SAINT MAUR",
+    "lieu": "Saint Maur des Fosses (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-maur-des-fosses-94/286795319/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "ELORA - SAINT MAUR Saint-Maur-des-Fossés Du 2 pièces au 5 pièces à partir de 334 400 € Terrasse Balcon Parking Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et transports. Les espaces extérieurs sont majoritairement fleuris ",
+    "numero": 286795319,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-19T21:15+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "0d980fb87ab1f011",
+    "nom": "NORIA - CLICHY",
+    "lieu": "Clichy (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/clichy-92/286795317/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "NORIA - CLICHY Clichy Du 2 pièces au 5 pièces à partir de 289 900 € Balcon Parking Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et transports. Les espaces extérieurs sont majoritairement fleuris ou [...]",
+    "numero": 286795317,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-19T21:15+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "402915e04aea744a",
+    "nom": "ALTO - MONTROUGE",
+    "lieu": "Montrouge (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montrouge-92/286795315/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "ALTO - MONTROUGE Montrouge Du 2 pièces au 5 pièces à partir de 354 800 € Terrasse Balcon Parking Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et transports. Les espaces extérieurs sont majoritairement fleuris ou [...]",
+    "numero": 286795315,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-19T21:15+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "a483997f55690956",
+    "nom": "ALMA - MONTREUIL",
+    "lieu": "Montreuil (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montreuil-93/286795301/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "ALMA - MONTREUIL Montreuil Du 3 pièces au 5 pièces à partir de 354 400 € Terrasse Balcon Parking Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et transports. Les espaces extérieurs sont majoritairement fleuris ou [...]",
+    "numero": 286795301,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-19T21:15+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "ad412e58f59bae60",
+    "nom": "ARIA - PANTIN",
+    "lieu": "Pantin (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/pantin-93/286795295/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "ARIA - PANTIN Pantin Du 2 pièces au 4 pièces à partir de 273 300 € Terrasse Balcon Parking Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et transports. Les espaces extérieurs sont majoritairement fleuris ou [...]",
+    "numero": 286795295,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-19T21:15+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "4c1df7314b9c48ad",
+    "nom": "SOLEA - GENNEVILLIERS",
+    "lieu": "Gennevilliers (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/gennevilliers-92/286795283/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "SOLEA - GENNEVILLIERS Gennevilliers Du 2 pièces au 4 pièces à partir de 244 500 € Terrasse Balcon Parking Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et transports. Les espaces extérieurs sont majoritairement fleuris ou [.",
+    "numero": 286795283,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-19T21:15+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "6de8a7a243f4df3f",
+    "nom": "VELA - SAINT OUEN",
+    "lieu": "Saint Ouen (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/saint-ouen-93/286795281/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "VELA - SAINT OUEN Saint-Ouen Du 2 pièces au 4 pièces à partir de 322 300 € Terrasse Balcon Parking Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et transports. Les espaces extérieurs sont majoritairement fleuris ou [...]",
+    "numero": 286795281,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-19T21:15+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "4237cce4e7121911",
+    "nom": "LUMA - RUEIL",
+    "lieu": "Rueil Malmaison (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/rueil-malmaison-92/286795279/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "LUMA - RUEIL Rueil-Malmaison Du 2 pièces au 5 pièces à partir de 285 600 € Terrasse Balcon Parking Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et transports. Les espaces extérieurs sont majoritairement fleuris ou [...]",
+    "numero": 286795279,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-19T21:15+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "65e7e4b831f48d40",
+    "nom": "ELIA - ARCUEIL",
+    "lieu": "Arcueil (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/arcueil-94/286795275/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "ELIA - ARCUEIL Arcueil Du studio au 5 pièces à partir de 243 300 € Terrasse Balcon Parking Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et transports. Les espaces extérieurs sont majoritairement fleuris ou [...]",
+    "numero": 286795275,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-19T21:15+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "20e1a29f7e915577",
+    "nom": "TILIA - BAGNEUX",
+    "lieu": "Bagneux (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bagneux-92/286795273/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "TILIA - BAGNEUX Bagneux Du 2 pièces au 5 pièces à partir de 312 200 € Balcon Parking Un équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et transports. Les espaces extérieurs sont majoritairement fleuris ou [...]",
+    "numero": 286795273,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-19T21:15+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "36d9552217d9d0cb",
+    "nom": "Iris",
+    "lieu": "Boissy Saint Leger (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/boissy-saint-leger-94/286556085/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Travaux en cours",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Iris Boissy-Saint-Léger Du 2 pièces au 4 pièces à partir de 219 526 € Jardin Terrasse Balcon Piscine Parking A deux pas du RER A, découvrez Iris, au cœur du nouveau quartier de la Charmeraie TRAVAUX EN COURS – Profitez d'une TVA réduite à 5,5% au lieu de 20% sur la résidence Iris propose 86 appartem",
+    "numero": 286556085,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-19T21:15+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "tva_reduite",
+      "travaux_en_cours"
+    ]
   }
 ]
