@@ -26,7 +26,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-19T03:01+00:00",
+    "maj": "2026-11-19T12:41+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -315,7 +315,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-19T03:01+00:00",
+    "maj": "2026-11-19T12:41+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -538,7 +538,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-19T03:01+00:00",
+    "maj": "2026-11-19T12:41+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -677,7 +677,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-19T03:01+00:00",
+    "maj": "2026-11-19T12:41+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -713,7 +713,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-19T03:01+00:00",
+    "maj": "2026-11-19T12:41+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -731,7 +731,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-19T03:01+00:00",
+    "maj": "2026-11-19T12:41+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -768,7 +768,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-19T03:01+00:00",
+    "maj": "2026-11-19T12:41+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -786,7 +786,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-19T03:01+00:00",
+    "maj": "2026-11-19T12:41+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -810,7 +810,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-19T03:01+00:00",
+    "maj": "2026-11-19T12:41+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1519,13 +1519,19 @@
         "lieu": "Chatenay Malabry (92)",
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/chatenay-malabry-92/265132029/#m=classified_search_results_classified_detail_top_position",
         "statut": "nouvelle opportunité"
+      },
+      {
+        "nom": "Les Balcons Clémenceau",
+        "lieu": "Les Balcons Clémenceau - Meaux (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meaux-programme-les-balcons-clemenceau-217059-5891.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-19T03:01+00:00",
+    "maj": "2026-11-19T12:59+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1880,7 +1886,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-19T03:01+00:00",
+    "maj": "2026-11-19T12:41+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2397,7 +2403,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-19T03:01+00:00",
+    "maj": "2026-11-19T12:41+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2415,7 +2421,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-19T03:01+00:00",
+    "maj": "2026-11-19T12:41+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2433,7 +2439,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-19T03:01+00:00",
+    "maj": "2026-11-19T12:41+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2494,7 +2500,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-19T03:01+00:00",
+    "maj": "2026-11-19T12:41+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -4601,12 +4607,18 @@
         "lieu": "L'Ecrin - Saint-Maur-des-Fossés (94)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/saint-maur-des-fosses-programme-lecrin-218563-13179.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Sienne",
+        "lieu": "Sienne - Sartrouville (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sartrouville-programme-sienne-219230-13179.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-12T17:41+00:00",
+    "maj": "2026-11-19T12:45+00:00",
     "type": "promoteur"
   },
   "interconstruction-amenagement": {
@@ -4949,13 +4961,19 @@
         "lieu": "Rooftop Elegance - Antony (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/antony-programme-rooftop-elegance-218565-29.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Le Panoramic",
+        "lieu": "Le Panoramic - Champigny-sur-Marne (94)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/champigny-sur-marne-programme-le-panoramic-219214-29.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf",
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-11T18:01+00:00",
+    "maj": "2026-11-19T12:45+00:00",
     "type": "commercialisateur"
   },
   "vinci-immobilier-promotion": {
