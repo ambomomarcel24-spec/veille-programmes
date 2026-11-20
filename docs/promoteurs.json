@@ -26,7 +26,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-20T11:09+00:00",
+    "maj": "2026-11-20T19:49+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -309,13 +309,19 @@
         "lieu": "Clos Aragon - Malakoff (92)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/malakoff-programme-clos-aragon-219188-11707.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Central Nature",
+        "lieu": "Central Nature - Melun (77)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/melun-programme-central-nature-219238-11707.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-20T11:09+00:00",
+    "maj": "2026-11-20T19:54+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -538,7 +544,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-20T11:09+00:00",
+    "maj": "2026-11-20T19:49+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -677,7 +683,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-20T11:09+00:00",
+    "maj": "2026-11-20T19:49+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -713,7 +719,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-20T11:09+00:00",
+    "maj": "2026-11-20T19:49+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -731,7 +737,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-20T11:09+00:00",
+    "maj": "2026-11-20T19:49+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -768,7 +774,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-20T11:09+00:00",
+    "maj": "2026-11-20T19:49+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -786,7 +792,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-20T11:09+00:00",
+    "maj": "2026-11-20T19:49+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -810,7 +816,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-20T11:09+00:00",
+    "maj": "2026-11-20T19:49+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1525,13 +1531,25 @@
         "lieu": "Les Balcons Clémenceau - Meaux (77)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/meaux-programme-les-balcons-clemenceau-217059-5891.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Les Jardins Réaubourg",
+        "lieu": "Les Jardins Réaubourg - Mantes-la-Jolie (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/mantes-la-jolie-programme-les-jardins-reaubourg-218972-5891.html",
+        "statut": "autre"
+      },
+      {
+        "nom": "Les Allées du Roi",
+        "lieu": "Les Allées du Roi - Versailles (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/versailles-programme-les-allees-du-roi-218650-5891.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-20T11:09+00:00",
+    "maj": "2026-11-20T20:08+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -1886,7 +1904,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-20T11:09+00:00",
+    "maj": "2026-11-20T19:49+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2397,13 +2415,19 @@
         "lieu": "Unisson - Paris / Wissous (91)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/wissous-programme-unisson-185016-10.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Green Melody",
+        "lieu": "Green Melody - Drancy (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/drancy-programme-green-melody-199660-10.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-20T11:09+00:00",
+    "maj": "2026-11-20T20:08+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2421,7 +2445,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-20T11:09+00:00",
+    "maj": "2026-11-20T19:49+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2439,7 +2463,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-20T11:09+00:00",
+    "maj": "2026-11-20T19:49+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2500,7 +2524,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-20T11:09+00:00",
+    "maj": "2026-11-20T19:49+00:00",
     "type": "promoteur"
   },
   "simmeo": {
@@ -4613,12 +4637,18 @@
         "lieu": "Sienne - Sartrouville (78)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/sartrouville-programme-sienne-219230-13179.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Villa d'Este",
+        "lieu": "Villa d'Este - Vélizy-Villacoublay (78)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/velizy-villacoublay-programme-villa-deste-219240-13179.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-19T12:45+00:00",
+    "maj": "2026-11-20T19:54+00:00",
     "type": "promoteur"
   },
   "interconstruction-amenagement": {
