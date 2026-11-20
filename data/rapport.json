@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-19T21:15+00:00",
+  "date": "2026-11-20T02:53+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -215,7 +215,7 @@
   "fiches_relues": 0,
   "enrichissement": {
     "ok": 0,
-    "echec_telechargement": 431,
+    "echec_telechargement": 434,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -241,13 +241,13 @@
       }
     ]
   },
-  "fiches_a_relire": 431,
+  "fiches_a_relire": 434,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 15,
+  "nouvelles_fiches": 3,
   "alertes_en_attente": 146,
   "echec_mail": true
 }
