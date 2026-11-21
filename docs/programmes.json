@@ -5370,7 +5370,7 @@
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Villa Le Rolland à Drancy (93) : programme neuf du T1 au T2, à partir de 215 100 €. Vendu par Marignan.",
-    "verifie_le": "2026-11-13T21:19+00:00"
+    "verifie_le": "2026-11-21T17:14+00:00"
   },
   {
     "id": "aaed37ffda17138e",
@@ -5394,7 +5394,7 @@
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur",
     "texte": "Découvrez Les Balcons d'Opale à Noisy-le-Grand (93) : programme neuf du T2 au T3, à partir de 229 275 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-11-13T21:19+00:00"
+    "verifie_le": "2026-11-21T17:14+00:00"
   },
   {
     "id": "0628b9e1c2b348ea",
@@ -5418,7 +5418,7 @@
     "promoteur_cle": "edouard-denis",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Arboresens à Noisy-le-Grand (93) : programme neuf du T1 au T3, à partir de 179 000 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-11-13T21:19+00:00"
+    "verifie_le": "2026-11-21T17:14+00:00"
   },
   {
     "id": "1cde7198e5c711e4",
@@ -5442,7 +5442,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Terrasses des Coteaux à Noisy-le-Grand (93) : programme neuf du T1 au T3, à partir de 192 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-14T02:06+00:00"
+    "verifie_le": "2026-11-21T17:14+00:00"
   },
   {
     "id": "fb28592aa6982bd1",
@@ -5466,7 +5466,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Horizon Marne à Noisy-le-Grand (93) : programme neuf du T1 au T5, à partir de 218 300 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-14T02:06+00:00"
+    "verifie_le": "2026-11-21T17:14+00:00"
   },
   {
     "id": "75d808a33d59c9c3",
@@ -5490,7 +5490,7 @@
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Signature Levallois à Levallois-Perret (92) : programme neuf du T1 au T5, à partir de 389 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-14T02:06+00:00"
+    "verifie_le": "2026-11-21T17:14+00:00"
   },
   {
     "id": "559c399c801cee26",
@@ -5514,7 +5514,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Allées Hoche à Issy-les-Moulineaux (92) : programme neuf du T1 au T3, à partir de 367 800 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-14T02:06+00:00"
+    "verifie_le": "2026-11-21T17:14+00:00"
   },
   {
     "id": "d384f234795b7d3d",
@@ -12013,7 +12013,7 @@
       "autre"
     ],
     "texte": "Découvrez L'Archipel à Cormeilles-en-Parisis (95) : programme neuf T5, à partir de 640 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": "https://cogedim.com",
     "promoteur_cle": "cogedim",
     "promoteur_type": "promoteur"
@@ -12038,7 +12038,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa Henri à L'Hay-les-Roses (94) : programme neuf du T1 au T4, à partir de 209 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -12063,7 +12063,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Quarante Arpents à Alfortville (94) : programme neuf du T1 au T5, à partir de 229 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -12088,7 +12088,7 @@
       "autre"
     ],
     "texte": "Découvrez Domaine de la Chesnaie à Livry-sur-Seine (77) : programme neuf du T2 au T3, à partir de 159 000 €. Vendu par Stradim.",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": null,
     "promoteur_cle": "stradim",
     "promoteur_type": "promoteur"
@@ -12113,7 +12113,7 @@
       "autre"
     ],
     "texte": "Découvrez Edenia à Châtenay-Malabry (92) : programme neuf du T2 au T5, à partir de 311 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "promoteur_cle": "eiffage-immobilier",
     "promoteur_type": "promoteur"
@@ -12138,7 +12138,7 @@
       "autre"
     ],
     "texte": "Découvrez Limeil-Brévannes C1 à Limeil-Brévannes (94) : programme neuf du T1 au T4, à partir de 169 000 €. Vendu par Sas Capi.",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": null,
     "promoteur_cle": "sas-capi",
     "promoteur_type": "promoteur"
@@ -12163,7 +12163,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Clos de Maule à Bailly (78) : programme neuf du T1 au T4, à partir de 226 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": "https://lnc.fr",
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur"
@@ -12188,7 +12188,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Clos des Roches à Boissise-le-Roi (77) : programme neuf, à partir de 316 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": "https://cogedim.com",
     "promoteur_cle": "cogedim",
     "promoteur_type": "promoteur"
@@ -12213,7 +12213,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Terrasses de l'Hôtel de Ville à Conflans-Sainte-Honorine (78) : programme neuf du T1 au T5, à partir de 143 200 €. Vendu par Interconstruction...",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": null,
     "promoteur_cle": "interconstruction",
     "promoteur_type": "promoteur"
@@ -12238,7 +12238,7 @@
       "autre"
     ],
     "texte": "Découvrez Prochainement à Bezons (95) : programme neuf du T2 au T4, à partir de 245 900 €. Vendu par Marignan.",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -22377,7 +22377,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez L Ecrin des Cantoux à Ormesson-sur-Marne (94) : programme neuf du T2 au T3, à partir de 214 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": null,
     "alerte_envoyee": false,
     "tags": [
@@ -23481,7 +23481,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Test Ultim à Clichy (92) : programme neuf. Vendu par Edouard Denis.",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -23506,7 +23506,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Grandeur Nature à Bussy-Saint-Georges (77) : programme neuf T3, à partir de 354 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -23531,7 +23531,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Terrasses du Chateau à Le Mesnil-le-Roi (78) : programme neuf du T3 au T5, à partir de 384 800 €. Vendu par Marignan.",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
@@ -26062,7 +26062,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Clos des Bleuets BRS à Beauchamp (95) : programme neuf. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -26087,7 +26087,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Rive Liberté à Clichy (92) : programme neuf du T1 au T5, à partir de 326 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -26112,7 +26112,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Voltige - Bail Réel et Solidaire à Sartrouville (78) : programme neuf du T2 au T4, à partir de 156 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": "https://bouygues-impulsion.hive-project.fr",
     "tags": [
       "autre"
@@ -26137,7 +26137,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Solstice à Mantes-la-Jolie (78) : programme neuf du T2 au T4, à partir de 184 300 €. Vendu par Marignan.",
-    "verifie_le": "2026-11-13T21:19+00:00",
+    "verifie_le": "2026-11-21T17:14+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "tags": [
       "autre"
