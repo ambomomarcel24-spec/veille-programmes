@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21T17:14+00:00",
+  "date": "2026-11-21T22:56+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -62,10 +62,10 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2611,
-      "deja_connues": 2608,
-      "lues": 3,
+      "deja_connues": 2611,
+      "lues": 0,
       "idf": 0,
-      "sans_localisation": 3,
+      "sans_localisation": 0,
       "echec": 0,
       "numero_max": 219244
     },
