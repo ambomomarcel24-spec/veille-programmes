@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-20T19:49+00:00",
+  "date": "2026-11-21T01:13+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -62,10 +62,10 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2612,
-      "deja_connues": 2597,
-      "lues": 15,
-      "idf": 5,
-      "sans_localisation": 10,
+      "deja_connues": 2612,
+      "lues": 0,
+      "idf": 0,
+      "sans_localisation": 0,
       "echec": 0,
       "numero_max": 219242
     },
@@ -212,10 +212,10 @@
       "avec_localisation": 0
     }
   ],
-  "fiches_relues": 5,
+  "fiches_relues": 0,
   "enrichissement": {
-    "ok": 5,
-    "echec_telechargement": 447,
+    "ok": 0,
+    "echec_telechargement": 449,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -239,24 +239,15 @@
         "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classified_detail_S",
         "erreur": "HTTPError: 403 Client Error: Forbidden for url: https://www.selogerneuf.com/annonces/neuf/programme/montfermeil-93/256318565/#m=classified_search_results_classified_classi"
       }
-    ],
-    "sites": {
-      "interrogés": 4,
-      "pages_lues": 2,
-      "avec_mail": 0,
-      "sans_page": [
-        "https://lnc.fr",
-        "https://www.nexity.fr"
-      ]
-    }
+    ]
   },
-  "fiches_a_relire": 447,
+  "fiches_a_relire": 449,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 15,
-  "alertes_en_attente": 151,
+  "nouvelles_fiches": 2,
+  "alertes_en_attente": 152,
   "echec_mail": true
 }

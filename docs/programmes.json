@@ -2375,7 +2375,7 @@
     "promoteur_cle": "sas-capi",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Paris C1 à Paris (75) : programme neuf T4, à partir de 1 399 900 €. Vendu par Sas Capi.",
-    "verifie_le": "2026-11-13T14:26+00:00"
+    "verifie_le": "2026-11-21T01:13+00:00"
   },
   {
     "id": "bfa105d8c42aa877",
@@ -5130,7 +5130,7 @@
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Green Melody 2 à Drancy (93) : programme neuf du T2 au T4, à partir de 222 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-13T05:56+00:00"
+    "verifie_le": "2026-11-21T01:13+00:00"
   },
   {
     "id": "34c3dd29ebea6d09",
@@ -5154,7 +5154,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le 225 à Drancy (93) : programme neuf du T2 au T5, à partir de 209 200 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-13T05:56+00:00"
+    "verifie_le": "2026-11-21T01:13+00:00"
   },
   {
     "id": "4694af426d5eda97",
@@ -5178,7 +5178,7 @@
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Terrasses Marceau TR2 b à Drancy (93) : programme neuf T3, à partir de 264 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-11-13T05:56+00:00"
+    "verifie_le": "2026-11-21T01:13+00:00"
   },
   {
     "id": "1c9c04bb8ea4cf7e",
@@ -5202,7 +5202,7 @@
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le 58 Jaurès à Drancy (93) : programme neuf du T1 au T4, à partir de 172 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-11-13T05:56+00:00"
+    "verifie_le": "2026-11-21T01:13+00:00"
   },
   {
     "id": "5ade9e7db55d845a",
@@ -5226,7 +5226,7 @@
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le 259 Jaurès à Drancy (93) : programme neuf du T2 au T5, à partir de 210 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-13T05:56+00:00"
+    "verifie_le": "2026-11-21T01:13+00:00"
   },
   {
     "id": "09c7828827103a3c",
@@ -5250,7 +5250,7 @@
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Esprit Marceau à Drancy (93) : programme neuf T3, à partir de 279 575 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-13T05:56+00:00"
+    "verifie_le": "2026-11-21T01:13+00:00"
   },
   {
     "id": "ba7bf0309e157222",
@@ -5274,7 +5274,7 @@
     "promoteur_cle": "interconstruction-amenagement",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Cadence à Drancy (93) : programme neuf du T3 au T4, à partir de 245 000 €. Vendu par Interconstruction Amenagement.",
-    "verifie_le": "2026-11-13T05:56+00:00"
+    "verifie_le": "2026-11-21T01:13+00:00"
   },
   {
     "id": "5fb192609187b202",
@@ -5298,7 +5298,7 @@
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le Palladio à Drancy (93) : programme neuf du T1 au T4, à partir de 196 933 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-13T05:56+00:00"
+    "verifie_le": "2026-11-21T01:13+00:00"
   },
   {
     "id": "d8a1ef4855f84ef7",
@@ -5322,7 +5322,7 @@
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur",
     "texte": "Découvrez L'Anatole à Drancy (93) : programme neuf du T2 au T4, à partir de 220 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-11-13T05:56+00:00"
+    "verifie_le": "2026-11-21T01:13+00:00"
   },
   {
     "id": "dd8b25ee66f613ab",
@@ -5346,7 +5346,7 @@
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Elegance à Drancy (93) : programme neuf du T1 au T4, à partir de 195 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-11-13T14:26+00:00"
+    "verifie_le": "2026-11-21T01:13+00:00"
   },
   {
     "id": "51c6447ae0a6a5b4",
@@ -10967,7 +10967,7 @@
       "autre"
     ],
     "texte": "Découvrez La Vicomté à Chennevières-sur-Marne (94) : programme neuf du T1 au T3, à partir de 183 900 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-11-13T05:56+00:00",
+    "verifie_le": "2026-11-21T01:13+00:00",
     "promoteur_site": null,
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur"
@@ -10992,7 +10992,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Allées des Lys à Dammarie-les-Lys (77) : programme neuf du T2 au T4, à partir de 189 600 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-13T05:56+00:00",
+    "verifie_le": "2026-11-21T01:13+00:00",
     "promoteur_site": "https://lnc.fr",
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur"
@@ -11017,7 +11017,7 @@
       "autre"
     ],
     "texte": "Découvrez Les Jardins de Montespan - TR Libre à Bussy-Saint-Georges (77) : programme neuf du T2 au T3, à partir de 261 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-11-13T05:56+00:00",
+    "verifie_le": "2026-11-21T01:13+00:00",
     "promoteur_site": null,
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur"
@@ -11042,7 +11042,7 @@
       "autre"
     ],
     "texte": "Découvrez Bougival C1 à Bougival (78) : programme neuf du T1 au T5, à partir de 302 000 €. Vendu par Sas Capi.",
-    "verifie_le": "2026-11-13T05:56+00:00",
+    "verifie_le": "2026-11-21T01:13+00:00",
     "promoteur_site": null,
     "promoteur_cle": "sas-capi",
     "promoteur_type": "promoteur"
@@ -11067,7 +11067,7 @@
       "autre"
     ],
     "texte": "Découvrez Pontoise C1 à Pontoise (95) : programme neuf du T2 au T4, à partir de 210 000 €. Vendu par Sas Capi.",
-    "verifie_le": "2026-11-13T05:56+00:00",
+    "verifie_le": "2026-11-21T01:13+00:00",
     "promoteur_site": null,
     "promoteur_cle": "sas-capi",
     "promoteur_type": "promoteur"
@@ -11092,7 +11092,7 @@
       "autre"
     ],
     "texte": "Découvrez L'Écrin de Longjumeau à Longjumeau (91) : programme neuf du T2 au T4, à partir de 190 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-13T05:56+00:00",
+    "verifie_le": "2026-11-21T01:13+00:00",
     "promoteur_site": "https://lnc.fr",
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur"
@@ -11245,7 +11245,7 @@
       "autre"
     ],
     "texte": "Découvrez Ikigaï à Neuilly-sur-Marne (93) : programme neuf du T1 au T5, à partir de 173 250 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-13T05:56+00:00",
+    "verifie_le": "2026-11-21T01:13+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -11270,7 +11270,7 @@
       "autre"
     ],
     "texte": "Découvrez Oxyvia à Brétigny-sur-Orge (91) : programme neuf du T1 au T5, à partir de 149 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-13T05:56+00:00",
+    "verifie_le": "2026-11-21T01:13+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -11295,7 +11295,7 @@
       "autre"
     ],
     "texte": "Découvrez Evidence à Villeneuve-la-Garenne (92) : programme neuf du T1 au T5, à partir de 169 679 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-13T05:56+00:00",
+    "verifie_le": "2026-11-21T01:13+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -11320,7 +11320,7 @@
       "autre"
     ],
     "texte": "Découvrez Terra Nova à Vanves (92) : programme neuf du T1 au T5, à partir de 269 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-13T05:56+00:00",
+    "verifie_le": "2026-11-21T01:13+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -11345,7 +11345,7 @@
       "autre"
     ],
     "texte": "Découvrez L'Essentiel à Bussy-Saint-Georges (77) : programme neuf du T3 au T4, à partir de 349 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-13T05:56+00:00",
+    "verifie_le": "2026-11-21T01:13+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -11370,7 +11370,7 @@
       "autre"
     ],
     "texte": "Découvrez Domaine des Fauvettes à Étampes (91) : programme neuf. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-13T05:56+00:00",
+    "verifie_le": "2026-11-21T01:13+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -11395,7 +11395,7 @@
       "autre"
     ],
     "texte": "Découvrez Beloria à Andresy (78) : programme neuf du T2 au T4, à partir de 207 166 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-13T14:26+00:00",
+    "verifie_le": "2026-11-21T01:13+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -11420,7 +11420,7 @@
       "autre"
     ],
     "texte": "Découvrez 88 rue de Paris à Gonesse (95) : programme neuf T4, à partir de 309 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-13T14:26+00:00",
+    "verifie_le": "2026-11-21T01:13+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -28416,5 +28416,48 @@
     ],
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
+  },
+  {
+    "id": "598241e6a92fbb21",
+    "nom": "Le Floréal",
+    "lieu": "Aulnay sous Bois (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/aulnay-sous-bois-93/225061477/#m=classified_search_results_classified_detail_top_position",
+    "mention": "Offre spéciale",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale Travaux en cours Le Floréal Aulnay-sous-Bois Du studio au 4 pièces à partir de 140 000 € Jardin Terrasse Balcon Parking Box Proposé par : AIC ILE DE FRANCE CONTACTEZ-NOUS ! - FRAIS DE NOTAIRE OFFERTS (Hors Frais Bancaires, d'hypothèque, EDD, RCP) - Etude de financement gratuite Idéale",
+    "numero": 225061477,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-21T01:13+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité",
+      "frais_offerts",
+      "travaux_en_cours"
+    ]
+  },
+  {
+    "id": "2d903ecf27f38947",
+    "nom": "MANAROLA",
+    "lieu": "Bussy Saint Georges (77)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bussy-saint-georges-77/287042237/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Offre spéciale",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale MANAROLA Bussy-Saint-Georges Du studio au 5 pièces à partir de 175 000 € Terrasse Balcon Parking Ascenseur Digicode DEVENEZ ENFIN PROPRIÉTAIRE DANS UN ÉCRIN DE VERDURE À 5 MIN* À PIED DE LA GARE RER A Au sein du quartier du centre ville, à 5 minutes à pied de la gare RER A*, la réside",
+    "numero": 287042237,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-21T01:13+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "alerte",
+    "alerte_envoyee": false,
+    "tags": [
+      "nouvelle opportunité"
+    ]
   }
 ]
