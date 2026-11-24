@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-24T05:48+00:00",
+  "date": "2026-11-24T17:18+00:00",
   "premier_passage": false,
   "sources": [
     {
@@ -62,12 +62,12 @@
       "source": "Trouver un logement neuf",
       "page": "https://www.trouver-un-logement-neuf.com/sitemap-programmes.txt",
       "urls_dans_plan": 2599,
-      "deja_connues": 2599,
-      "lues": 0,
+      "deja_connues": 2595,
+      "lues": 4,
       "idf": 0,
-      "sans_localisation": 0,
+      "sans_localisation": 4,
       "echec": 0,
-      "numero_max": 219259
+      "numero_max": 219261
     },
     {
       "source": "Nexity",
@@ -157,7 +157,7 @@
     {
       "source": "Cogedim",
       "page": "https://www.cogedim.com/",
-      "blocs": 119,
+      "blocs": 124,
       "avec_declencheur": 0,
       "avec_mot_programme": 0,
       "avec_localisation": 0
@@ -215,7 +215,7 @@
   "fiches_relues": 0,
   "enrichissement": {
     "ok": 0,
-    "echec_telechargement": 458,
+    "echec_telechargement": 464,
     "sans_promoteur": 0,
     "exemples_sans_promoteur": [],
     "erreurs": [
@@ -241,13 +241,13 @@
       }
     ]
   },
-  "fiches_a_relire": 458,
+  "fiches_a_relire": 464,
   "ventes": {
     "verifiees": 25,
     "vendus_detectes": 0,
     "declares_a_la_main": 0
   },
-  "nouvelles_fiches": 0,
-  "alertes_en_attente": 155,
+  "nouvelles_fiches": 6,
+  "alertes_en_attente": 157,
   "echec_mail": true
 }
