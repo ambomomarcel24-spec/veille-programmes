@@ -3979,7 +3979,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Central C à Colombes (92) : programme neuf T2, à partir de 317 077 €. Vendu par Marignan.",
     "promoteur_site": "https://marignan-immobilier.com",
-    "verifie_le": "2026-11-17T21:39+00:00"
+    "verifie_le": "2026-11-26T14:51+00:00"
   },
   {
     "id": "68ec6dc6aef1460f",
@@ -4003,7 +4003,7 @@
     "promoteur_cle": "ogic",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Jardins en Seine à Vitry-sur-Seine (94) : programme neuf du T2 au T5, à partir de 233 500 €. Vendu par Ogic.",
-    "verifie_le": "2026-11-17T21:39+00:00"
+    "verifie_le": "2026-11-26T14:51+00:00"
   },
   {
     "id": "261cebe01a5822cb",
@@ -4027,7 +4027,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Koya à Courbevoie (92) : programme neuf du T1 au T4, à partir de 286 000 €. Vendu par Kaufman Et Broad.",
     "promoteur_site": null,
-    "verifie_le": "2026-11-17T21:39+00:00"
+    "verifie_le": "2026-11-26T14:51+00:00"
   },
   {
     "id": "4efeec2701db8b98",
@@ -4051,7 +4051,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez New Art à Asnières-sur-Seine (92) : programme neuf du T1 au T5, à partir de 245 000 €. Vendu par Les Nouveaux Constructeurs.",
     "promoteur_site": "https://lnc.fr",
-    "verifie_le": "2026-11-17T21:39+00:00"
+    "verifie_le": "2026-11-26T14:51+00:00"
   },
   {
     "id": "04bf9b1da7526053",
@@ -7734,7 +7734,7 @@
       "autre"
     ],
     "texte": "Découvrez Solen à Meudon (92) : programme neuf du T1 au T4, à partir de 280 000 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
@@ -7758,7 +7758,7 @@
       "autre"
     ],
     "texte": "Découvrez Vue en Scène à Meudon (92) : programme neuf du T1 au T4, à partir de 379 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": null,
     "promoteur_cle": "kaufman-et-broad",
     "promoteur_type": "promoteur"
@@ -7782,7 +7782,7 @@
       "autre"
     ],
     "texte": "Découvrez Vue en Scene à Meudon (92) : programme neuf du T1 au T4, à partir de 379 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": null,
     "promoteur_cle": "vinci-immobilier-promotion",
     "promoteur_type": "promoteur"
@@ -7806,7 +7806,7 @@
       "autre"
     ],
     "texte": "Découvrez Chrome à Meudon (92) : programme neuf du T2 au T4, à partir de 236 000 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
@@ -7830,7 +7830,7 @@
       "autre"
     ],
     "texte": "Découvrez Jolie Seine à Mantes-la-Jolie (78) : programme neuf du T1 au T4, à partir de 108 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": "https://cogedim.com",
     "promoteur_cle": "cogedim",
     "promoteur_type": "promoteur"
@@ -7854,7 +7854,7 @@
       "autre"
     ],
     "texte": "Découvrez Prochainement à Mantes-la-Jolie (78) : programme neuf du T2 au T4, à partir de 184 300 €. Vendu par Marignan.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur"
@@ -7878,7 +7878,7 @@
       "autre"
     ],
     "texte": "Découvrez Villas Gassicourt à Mantes-la-Jolie (78) : programme neuf du T2 au T4, à partir de 165 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -17070,7 +17070,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villas du Vercors à Orly (94) : programme neuf du T3 au T4, à partir de 315 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -17095,7 +17095,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Terrasses d'Adria à Ermont (95) : programme neuf du T1 au T5, à partir de 179 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -17120,7 +17120,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Pavillon Mansart à Sèvres (92) : programme neuf du T2 au T5, à partir de 359 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -17145,7 +17145,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Atrium à Magnanville (78) : programme neuf T2, à partir de 186 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -17170,7 +17170,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Rive Nature à Villeneuve-la-Garenne (92) : programme neuf T4, à partir de 359 900 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -17195,7 +17195,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Éclat à Élancourt (78) : programme neuf T4, à partir de 395 000 €. Vendu par Cogedim.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": "https://cogedim.com",
     "tags": [
       "autre"
@@ -17220,7 +17220,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Liberty à Chessy (77) : programme neuf du T2 au T5, à partir de 277 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -17245,7 +17245,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Orée du Square à Limeil-Brévannes (94) : programme neuf du T1 au T4, à partir de 169 000 €. Vendu par Kaufman Et Broad.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -17270,7 +17270,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos du Bois 2 - BRS à Andilly (95) : programme neuf, à partir de 300 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -17435,7 +17435,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins de la Roseraie à Châtenay-Malabry (92) : programme neuf du T1 au T5, à partir de 230 900 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -17460,7 +17460,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Coeur de Bourg à Saint-Martin-du-Tertre (95) : programme neuf du T2 au T4, à partir de 200 500 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -17485,7 +17485,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins des Vergers à Poissy (78) : programme neuf du T2 au T5, à partir de 201 700 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -17510,7 +17510,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins d'Apolline à Plaisir (78) : programme neuf du T2 au T4, à partir de 235 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-17T21:39+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -27312,7 +27312,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez LE 65 à Champigny-sur-Marne (94) : programme neuf. Vendu par Marignan.",
-    "verifie_le": "2026-11-17T12:59+00:00",
+    "verifie_le": "2026-11-26T14:51+00:00",
     "promoteur_site": "https://marignan-immobilier.com",
     "alerte_envoyee": false,
     "tags": [
@@ -28976,5 +28976,83 @@
     "tags": [
       "autre"
     ]
+  },
+  {
+    "id": "10fb312f53126faf",
+    "nom": "Neuilly-sur-Seine",
+    "lieu": "Quartier Parmentier - Neuilly-sur-Seine (92)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/neuilly-sur-seine-programme-neuilly-sur-seine-quartier-parmentier-219268-13179.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Neuilly-sur-Seine - Quartier Parmentier - Neuilly-sur-Seine (92)",
+    "numero": 219268,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Bouygues Immobilier National",
+    "contacts": [],
+    "detecte_le": "2026-11-26T14:51+00:00",
+    "enrichi": true,
+    "origine": "alerte",
+    "texte": "Découvrez Neuilly-sur-Seine - Quartier Parmentier à Neuilly-sur-Seine (92) : programme neuf. Vendu par Bouygues Immobilier National.",
+    "verifie_le": "2026-11-26T14:55+00:00",
+    "promoteur_site": "https://bouygues-impulsion.hive-project.fr",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "bouygues-immobilier-national",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "07261988c046648a",
+    "nom": "Bucolia",
+    "lieu": "Bucolia - Pontoise / Cergy (95)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/cergy-programme-bucolia-219267-13179.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Bucolia - Pontoise / Cergy (95)",
+    "numero": 219267,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Bouygues Immobilier National",
+    "contacts": [],
+    "detecte_le": "2026-11-26T14:51+00:00",
+    "enrichi": true,
+    "origine": "alerte",
+    "texte": "Découvrez Bucolia à Cergy (95) : programme neuf T3, à partir de 289 246 €. Vendu par Bouygues Immobilier National.",
+    "verifie_le": "2026-11-26T14:56+00:00",
+    "promoteur_site": "https://bouygues-impulsion.hive-project.fr",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "bouygues-immobilier-national",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "28c5068b3a4569f6",
+    "nom": "Le Hameau des Impressionnistes",
+    "lieu": "Hameau des Impressionnistes - Bougival (78)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bougival-programme-le-hameau-des-impressionnistes-219266-361.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Le Hameau des Impressionnistes - Bougival (78)",
+    "numero": 219266,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Kaufman Et Broad",
+    "contacts": [],
+    "detecte_le": "2026-11-26T14:51+00:00",
+    "enrichi": true,
+    "origine": "alerte",
+    "texte": "Découvrez Le Hameau des Impressionnistes à Bougival (78) : programme neuf. Vendu par Kaufman Et Broad.",
+    "verifie_le": "2026-11-26T14:56+00:00",
+    "promoteur_site": null,
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "kaufman-et-broad",
+    "promoteur_type": "promoteur"
   }
 ]
