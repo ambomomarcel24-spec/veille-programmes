@@ -152,7 +152,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-27T07:41+00:00",
+    "maj": "2026-11-27T17:58+00:00",
     "type": "promoteur"
   },
   "cogedim": {
@@ -447,7 +447,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-27T07:41+00:00",
+    "maj": "2026-11-27T17:58+00:00",
     "type": "promoteur"
   },
   "eiffage-immobilier": {
@@ -670,7 +670,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-27T07:41+00:00",
+    "maj": "2026-11-27T17:58+00:00",
     "type": "promoteur"
   },
   "emerige": {
@@ -809,7 +809,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-27T07:41+00:00",
+    "maj": "2026-11-27T17:58+00:00",
     "type": "promoteur"
   },
   "fair-promotion": {
@@ -845,7 +845,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-27T07:41+00:00",
+    "maj": "2026-11-27T17:58+00:00",
     "type": "promoteur"
   },
   "groupe-edouard-denis": {
@@ -863,7 +863,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-27T07:41+00:00",
+    "maj": "2026-11-27T17:58+00:00",
     "type": "promoteur"
   },
   "kaufman-broad": {
@@ -900,7 +900,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-27T07:41+00:00",
+    "maj": "2026-11-27T17:58+00:00",
     "type": "promoteur"
   },
   "legendre-immobilier": {
@@ -918,7 +918,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-27T07:41+00:00",
+    "maj": "2026-11-27T17:58+00:00",
     "type": "promoteur"
   },
   "lutetia-promotion": {
@@ -942,7 +942,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-27T07:41+00:00",
+    "maj": "2026-11-27T17:58+00:00",
     "type": "promoteur"
   },
   "les-nouveaux-constructeurs": {
@@ -1669,13 +1669,19 @@
         "lieu": "Les Allées du Roi - Versailles (78)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/versailles-programme-les-allees-du-roi-218650-5891.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Les Jardins du Parc",
+        "lieu": "Les Jardins du Parc - Stains (93)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/stains-programme-les-jardins-du-parc-219273-5891.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-27T07:41+00:00",
+    "maj": "2026-11-27T18:05+00:00",
     "type": "promoteur"
   },
   "marignan": {
@@ -2030,7 +2036,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-27T07:41+00:00",
+    "maj": "2026-11-27T17:58+00:00",
     "type": "promoteur"
   },
   "nexity": {
@@ -2547,13 +2553,19 @@
         "lieu": "Green Melody - Drancy (93)",
         "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/drancy-programme-green-melody-199660-10.html",
         "statut": "autre"
+      },
+      {
+        "nom": "Bezons Rouget de l'Isle",
+        "lieu": "Bezons Rouget de l'Isle - Bezons (95)",
+        "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bezons-programme-bezons-rouget-de-lisle-216805-10.html",
+        "statut": "autre"
       }
     ],
     "sources": [
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-27T07:41+00:00",
+    "maj": "2026-11-27T18:18+00:00",
     "type": "promoteur"
   },
   "sogeprom-realisations": {
@@ -2571,7 +2583,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-27T07:41+00:00",
+    "maj": "2026-11-27T17:58+00:00",
     "type": "promoteur"
   },
   "valloire-habitat": {
@@ -2589,7 +2601,7 @@
     "sources": [
       "SeLoger Neuf (Île-de-France)"
     ],
-    "maj": "2026-11-27T07:41+00:00",
+    "maj": "2026-11-27T17:58+00:00",
     "type": "promoteur"
   },
   "vinci-immobilier": {
@@ -2650,7 +2662,7 @@
       "SeLoger Neuf (Île-de-France)",
       "Trouver un logement neuf"
     ],
-    "maj": "2026-11-27T07:41+00:00",
+    "maj": "2026-11-27T17:58+00:00",
     "type": "promoteur"
   },
   "simmeo": {

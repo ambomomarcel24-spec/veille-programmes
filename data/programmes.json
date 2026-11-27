@@ -4075,7 +4075,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Arche Vive à Asnières-sur-Seine (92) : programme neuf du T1 au T5, à partir de 228 250 €. Vendu par Bouygues Immobilier National.",
     "promoteur_site": null,
-    "verifie_le": "2026-11-18T21:13+00:00"
+    "verifie_le": "2026-11-27T17:58+00:00"
   },
   {
     "id": "64c1b0e5c81e7edc",
@@ -8358,7 +8358,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa Collin à Puteaux (92) : programme neuf du T1 au T5, à partir de 311 700 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": "https://lnc.fr",
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur"
@@ -8382,7 +8382,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa Marius à Puteaux (92) : programme neuf du T2 au T6, à partir de 489 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -8406,7 +8406,7 @@
       "autre"
     ],
     "texte": "Découvrez Villa Majesty à Puteaux (92) : programme neuf du T1 au T5, à partir de 231 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": "https://lnc.fr",
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur"
@@ -8430,7 +8430,7 @@
       "autre"
     ],
     "texte": "Découvrez Prochainement à Puteaux à Puteaux (92) : programme neuf. Vendu par Emerige.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": "https://www.emerige.com",
     "promoteur_cle": "emerige",
     "promoteur_type": "promoteur"
@@ -8454,7 +8454,7 @@
       "autre"
     ],
     "texte": "Découvrez Jardin Cézanne à Corbeil-Essonnes (91) : programme neuf du T1 au T5, à partir de 139 788 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -8478,7 +8478,7 @@
       "autre"
     ],
     "texte": "Découvrez Atelier Gauguin à Corbeil-Essonnes (91) : programme neuf du T1 au T5, à partir de 99 346 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -8502,7 +8502,7 @@
       "autre"
     ],
     "texte": "Découvrez So Green à Corbeil-Essonnes (91) : programme neuf T1, à partir de 175 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -8526,7 +8526,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Jardin d'Aurea à Livry-Gargan (93) : programme neuf du T1 au T4, à partir de 142 083 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur"
@@ -8550,7 +8550,7 @@
       "autre"
     ],
     "texte": "Découvrez Green Harmony à Livry-Gargan (93) : programme neuf T4, à partir de 364 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": null,
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur"
@@ -8574,7 +8574,7 @@
       "autre"
     ],
     "texte": "Découvrez Le Village des Rosiers à Saint-Ouen-sur-Seine (93) : programme neuf du T4 au T5, à partir de 934 500 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": null,
     "promoteur_cle": "bnp-paribas-real-estate",
     "promoteur_type": "promoteur"
@@ -18266,7 +18266,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villa Condorcet à Bourg-la-Reine (92) : programme neuf T3, à partir de 440 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -18291,7 +18291,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Allées de la Chesnaie à Achères (78) : programme neuf T2, à partir de 253 600 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -18316,7 +18316,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Effigie à Draveil (91) : programme neuf du T1 au T4, à partir de 205 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -18341,7 +18341,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Castanea à Bouffemont (95) : programme neuf du T1 au T3, à partir de 203 909 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -18366,7 +18366,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez La Plage aux Champs à Saint-Arnoult-en-Yvelines (78) : programme neuf du T2 au T3, à partir de 175 000 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -18391,7 +18391,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins Foch à Orgeval (78) : programme neuf du T2 au T5, à partir de 250 000 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -18416,7 +18416,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Terrasses du Saule Blanc à Juvisy-sur-Orge (91) : programme neuf du T2 au T5, à partir de 222 600 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -18441,7 +18441,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Gabriel à L'Hay-les-Roses (94) : programme neuf T2, à partir de 225 000 €. Vendu par VINCI Immobilier Promotion.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -18466,7 +18466,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Place et Lumières à L'Hay-les-Roses (94) : programme neuf du T1 au T4, à partir de 270 800 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -18491,7 +18491,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Sentier Soléa : Maisons à Collégien (77) : programme neuf, à partir de 399 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -18516,7 +18516,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Opaline à Chennevières-sur-Marne (94) : programme neuf du T1 au T4, à partir de 207 200 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -18541,7 +18541,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Résidence Harmonie à Rambouillet (78) : programme neuf du T2 au T3, à partir de 249 000 €. Vendu par Stradim.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -18566,7 +18566,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'aparté à Dammarie-les-Lys (77) : programme neuf T4, à partir de 289 246 €. Vendu par Stradim.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -23079,7 +23079,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Instant Nature BRS à Poissy (78) : programme neuf T3, à partir de 227 024 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-18T12:50+00:00",
+    "verifie_le": "2026-11-27T17:58+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -29195,5 +29195,118 @@
     "tags": [
       "travaux_en_cours"
     ]
+  },
+  {
+    "id": "c5d35f2c94e60b81",
+    "nom": "Villas les Perrières",
+    "lieu": "Orly (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/orly-94/201040853/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Offre spéciale",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Villas les Perrières Orly Du 3 pièces au 4 pièces à partir de 325 000 € Terrasse Parking Offre spéciale pour la livraison de l'opération REMISE EXCEPTIONNELLE DE 2.000 EUROS PAR PIÈCE \"Comme une maison individuelle\" : prochainement à ORLY (94), dans l'éco-quartier Chemin des Carrières, [...]",
+    "numero": 201040853,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-27T17:58+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité"
+    ]
+  },
+  {
+    "id": "bfe004a3ec7772dd",
+    "nom": "Marmaison",
+    "lieu": "Plaisir (78)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/plaisir-78/255555221/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Travaux en cours",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Marmaison Plaisir Du 4 pièces au 5 pièces à partir de 424 000 € Jardin Terrasse Parking Box Adapté PMR TRAVAUX EN COURS Découvrez Le Domaine de Marmaison, une adresse singulière en lisière de forêt composée de 21 maisons en pleine propriété qui disposent d’un terrain privatif, avec des surfaces [...",
+    "numero": 255555221,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-27T17:58+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "travaux_en_cours"
+    ]
+  },
+  {
+    "id": "37ab7a3d03c6f573",
+    "nom": "VERY COSY",
+    "lieu": "Villejuif (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/villejuif-94/229765117/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "Offre spéciale",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Offre spéciale VERY COSY Villejuif Appartement 4 pièces 408 000 € Balcon VISITEZ L'APPARTEMENT DECORE SUR RENDEZ-VOUS. Quatre résidences à découvrir dès maintenant ! ELIGIBLE TVA 5,5% ! FRAIS DE NOTAIRE OFFERTS * Idéalement située aux portes de Paris et sublimée [...]",
+    "numero": 229765117,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-27T17:58+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité",
+      "tva_reduite",
+      "frais_offerts"
+    ]
+  },
+  {
+    "id": "84d68be9bbc762a8",
+    "nom": "Les Jardins du Parc",
+    "lieu": "Les Jardins du Parc - Stains (93)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/stains-programme-les-jardins-du-parc-219273-5891.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Les Jardins du Parc - Stains (93)",
+    "numero": 219273,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Les Nouveaux Constructeurs",
+    "contacts": [],
+    "detecte_le": "2026-11-27T17:58+00:00",
+    "enrichi": true,
+    "origine": "alerte",
+    "texte": "Découvrez Les Jardins du Parc à Stains (93) : programme neuf T3, à partir de 244 900 €. Vendu par Les Nouveaux Constructeurs.",
+    "verifie_le": "2026-11-27T18:03+00:00",
+    "promoteur_site": "https://lnc.fr",
+    "alerte_envoyee": false,
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "les-nouveaux-constructeurs",
+    "promoteur_type": "promoteur"
+  },
+  {
+    "id": "c015dc562844eda7",
+    "nom": "Bezons Rouget de l'Isle",
+    "lieu": "Bezons Rouget de l'Isle - Bezons (95)",
+    "lien": "https://www.trouver-un-logement-neuf.com/immobilier-neuf/bezons-programme-bezons-rouget-de-lisle-216805-10.html",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Bezons Rouget de l'Isle - Bezons (95)",
+    "numero": 216805,
+    "source": "Trouver un logement neuf",
+    "promoteur": "Nexity",
+    "contacts": [],
+    "detecte_le": "2026-11-27T17:58+00:00",
+    "enrichi": true,
+    "origine": "catalogue",
+    "texte": "Découvrez Bezons Rouget de l'Isle à Bezons (95) : programme neuf du T2 au T4, à partir de 210 000 €. Vendu par Nexity.",
+    "verifie_le": "2026-11-27T18:18+00:00",
+    "promoteur_site": "https://www.nexity.fr",
+    "tags": [
+      "autre"
+    ],
+    "promoteur_cle": "nexity",
+    "promoteur_type": "promoteur"
   }
 ]
