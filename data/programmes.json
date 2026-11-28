@@ -4099,7 +4099,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Terrasses Voltaire à Asnières-sur-Seine (92) : programme neuf du T2 au T5, à partir de 355 100 €. Vendu par Les Nouveaux Constructeurs.",
     "promoteur_site": "https://lnc.fr",
-    "verifie_le": "2026-11-19T03:01+00:00"
+    "verifie_le": "2026-11-28T01:22+00:00"
   },
   {
     "id": "ec1a22cfe8e7c496",
@@ -4123,7 +4123,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Asnières - Quartier Bécon les Bruyères à Asnières-sur-Seine (92) : programme neuf. Vendu par Les Nouveaux Constructeurs.",
     "promoteur_site": "https://lnc.fr",
-    "verifie_le": "2026-11-19T03:01+00:00"
+    "verifie_le": "2026-11-28T01:22+00:00"
   },
   {
     "id": "f11de90e7f94f808",
@@ -4147,7 +4147,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Les Portes de Seine à Asnières-sur-Seine (92) : programme neuf du T2 au T4, à partir de 299 000 €. Vendu par Nexity.",
     "promoteur_site": "https://www.nexity.fr",
-    "verifie_le": "2026-11-19T03:01+00:00"
+    "verifie_le": "2026-11-28T01:22+00:00"
   },
   {
     "id": "dff589a4abc0f7a0",
@@ -4171,7 +4171,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Villa des Arts II à Asnières-sur-Seine (92) : programme neuf T1, à partir de 227 600 €. Vendu par Les Nouveaux Constructeurs.",
     "promoteur_site": "https://lnc.fr",
-    "verifie_le": "2026-11-19T03:01+00:00"
+    "verifie_le": "2026-11-28T01:22+00:00"
   },
   {
     "id": "78a697aad88fe019",
@@ -4195,7 +4195,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Valora - Val Francilia à Aulnay-sous-Bois (93) : programme neuf du T1 au T4, à partir de 171 494 €. Vendu par Eiffage Immobilier.",
     "promoteur_site": "https://www.eiffage-immobilier.com",
-    "verifie_le": "2026-11-19T03:01+00:00"
+    "verifie_le": "2026-11-28T01:22+00:00"
   },
   {
     "id": "b09bd81eba565017",
@@ -4219,7 +4219,7 @@
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le Clos Chagall à Aulnay-sous-Bois (93) : programme neuf T2, à partir de 226 350 €. Vendu par VINCI Immobilier Promotion.",
     "promoteur_site": null,
-    "verifie_le": "2026-11-19T03:01+00:00"
+    "verifie_le": "2026-11-28T01:22+00:00"
   },
   {
     "id": "67bb03c0aad694fb",
@@ -4243,7 +4243,7 @@
     "promoteur_cle": "medicis-immobilier-neuf",
     "promoteur_type": "commercialisateur",
     "texte": "Découvrez Évidence à Aulnay-sous-Bois (93) : programme neuf du T1 au T4, à partir de 146 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-11-19T03:01+00:00"
+    "verifie_le": "2026-11-28T01:22+00:00"
   },
   {
     "id": "d015e5d0ff533341",
@@ -4267,7 +4267,7 @@
     "promoteur_cle": "bnp-paribas-real-estate",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Origami à Rueil-Malmaison (92) : programme neuf du T2 au T5, à partir de 349 000 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-11-19T03:01+00:00"
+    "verifie_le": "2026-11-28T01:22+00:00"
   },
   {
     "id": "18e5830a3f1d5627",
@@ -4386,7 +4386,7 @@
     "promoteur_cle": "sas-capi",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Saint-Maur-des-Fossés C1 à Saint-Maur-des-Fossés (94) : programme neuf du T1 au T4, à partir de 260 000 €. Vendu par Sas Capi.",
-    "verifie_le": "2026-11-19T03:01+00:00"
+    "verifie_le": "2026-11-28T01:22+00:00"
   },
   {
     "id": "72fba8a89e21d0ac",
@@ -4410,7 +4410,7 @@
     "promoteur_cle": "emerige",
     "promoteur_type": "promoteur",
     "texte": "Découvrez 87 Bellechasse à Saint-Maur-des-Fossés (94) : programme neuf du T2 au T5, à partir de 296 000 €. Vendu par Emerige.",
-    "verifie_le": "2026-11-19T03:01+00:00"
+    "verifie_le": "2026-11-28T01:22+00:00"
   },
   {
     "id": "e49f081be2dc5659",
@@ -8598,7 +8598,7 @@
       "autre"
     ],
     "texte": "Découvrez Mundo à Saint-Ouen-sur-Seine (93) : programme neuf du T2 au T5, à partir de 339 300 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-11-19T03:01+00:00",
+    "verifie_le": "2026-11-28T01:22+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "promoteur_cle": "icade-promotion",
     "promoteur_type": "promoteur"
@@ -8622,7 +8622,7 @@
       "autre"
     ],
     "texte": "Découvrez So 2024 Saint-Ouen-sur-Seine à Saint-Ouen-sur-Seine (93) : programme neuf du T1 au T4, à partir de 263 886 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-19T03:01+00:00",
+    "verifie_le": "2026-11-28T01:22+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
@@ -18591,7 +18591,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Balcons de Zola à Bezons (95) : programme neuf du T1 au T4, à partir de 179 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-18T21:13+00:00",
+    "verifie_le": "2026-11-28T01:22+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -18616,7 +18616,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Domaine des Cerisiers à Montigny-lès-Cormeilles (95) : programme neuf du T2 au T5, à partir de 237 400 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-11-19T03:01+00:00",
+    "verifie_le": "2026-11-28T01:22+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
@@ -18641,7 +18641,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Eugénie à Le Plessis Robinson (92) : programme neuf du T1 au T5, à partir de 229 900 €. Vendu par Icade Promotion.",
-    "verifie_le": "2026-11-19T03:01+00:00",
+    "verifie_le": "2026-11-28T01:22+00:00",
     "promoteur_site": "http://www.icade-immobilier.com",
     "tags": [
       "autre"
@@ -18666,7 +18666,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villa Georges à Sucy-en-Brie (94) : programme neuf du T2 au T4, à partir de 203 600 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-19T03:01+00:00",
+    "verifie_le": "2026-11-28T01:22+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -18691,7 +18691,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins d'Ormesson à Deuil-la-Barre (95) : programme neuf du T2 au T4, à partir de 242 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-19T03:01+00:00",
+    "verifie_le": "2026-11-28T01:22+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -18716,7 +18716,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Ruelle aux Vignes à Provins (77) : programme neuf du T2 au T4, à partir de 159 000 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-11-19T03:01+00:00",
+    "verifie_le": "2026-11-28T01:22+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -18741,7 +18741,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villas Flora à Saint-Thibault-des-Vignes (77) : programme neuf du T2 au T3, à partir de 212 800 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-19T03:01+00:00",
+    "verifie_le": "2026-11-28T01:22+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -18766,7 +18766,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Parc des Lumières à Vert-Saint-Denis (77) : programme neuf du T2 au T3, à partir de 179 000 €. Vendu par Stradim.",
-    "verifie_le": "2026-11-19T03:01+00:00",
+    "verifie_le": "2026-11-28T01:22+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -18791,7 +18791,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Terrasses de l'Hippodrome à Garches (92) : programme neuf du T2 au T5, à partir de 421 300 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-19T03:01+00:00",
+    "verifie_le": "2026-11-28T01:22+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -18816,7 +18816,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Domaine des Marmousets à Noiseau (94) : programme neuf du T2 au T4, à partir de 223 500 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-19T03:01+00:00",
+    "verifie_le": "2026-11-28T01:22+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -18841,7 +18841,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Coeur Jaures à Le Kremlin Bicêtre (94) : programme neuf T4, à partir de 773 800 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-19T03:01+00:00",
+    "verifie_le": "2026-11-28T01:22+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -18866,7 +18866,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Terrasses Renelle à Stains (93) : programme neuf T3, à partir de 260 900 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-19T03:01+00:00",
+    "verifie_le": "2026-11-28T01:22+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -18891,7 +18891,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Clos du Marché à Sucy-en-Brie (94) : programme neuf du T3 au T4, à partir de 322 000 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-11-19T03:01+00:00",
+    "verifie_le": "2026-11-28T01:22+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -29308,5 +29308,188 @@
     ],
     "promoteur_cle": "nexity",
     "promoteur_type": "promoteur"
+  },
+  {
+    "id": "9f6f97618626af16",
+    "nom": "BUCOLIA",
+    "lieu": "Cergy (95)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/cergy-95/287629865/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "BUCOLIA Cergy Maison 3 pièces 289 246 € La Résidence Bucolia à Cergy propose des appartements et villa-appartements neufs avec des prestations haut de gamme. Située dans l'écoquartier des Doux Épis, elle offre une proximité avec les [...]",
+    "numero": 287629865,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-28T01:22+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "920c24b77a792369",
+    "nom": "Buttes-Chaumont Confidentiel",
+    "lieu": "Paris 10eme (75)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/paris-10eme-75/286033769/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Buttes-Chaumont Confidentiel Paris 10ème Du studio au 3 pièces à partir de 272 100 € Terrasse Vivre entre les Buttes-Chaumont et le canal Saint-Martin, dans un immeuble faubourien entièrement restauré. Au cœur de l'un des secteurs les plus recherchés de l'Est parisien, cet immeuble de [...]",
+    "numero": 286033769,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-28T01:22+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "2fd2f999d499c2a1",
+    "nom": "Bagneux - Terrasses Sarrail - Nouvelle résidence",
+    "lieu": "Bagneux (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/bagneux-92/243257473/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Bagneux - Terrasses Sarrail - Nouvelle résidence Bagneux Du 2 pièces au 5 pièces à partir de 171 000 € Jardin Terrasse Balcon Parking Appartement neuf à Bagneux : achetez jusqu'à 35 % en dessous du prix du marché grâce au BRS(2) Grâce au Bail Réel Solidaire, achetez votre résidence principale jusqu'",
+    "numero": 243257473,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-28T01:22+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "eaea2d0eba5bda36",
+    "nom": "Nanterre - Beau Chemin - BRS",
+    "lieu": "Nanterre (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/nanterre-92/242682573/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Nanterre - Beau Chemin - BRS Nanterre Du 2 pièces au 5 pièces à partir de 135 000 € Jardin Terrasse Balcon Parking Ascenseur VENTE FLASH !! La résidence BEAU CHEMIN- BRS propose des appartements en Bail Réel Solidaire – Idéal pour un premier achat, le BRS (Bail Réel Solidaire) transforme l'accès à l",
+    "numero": 242682573,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-28T01:22+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "48aee9fb67109ece",
+    "nom": "INVESTIR A PUTEAUX",
+    "lieu": "Puteaux (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/puteaux-92/284085211/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "INVESTIR A PUTEAUX Puteaux Du 2 pièces au 5 pièces à partir de 515 000 € Terrasse Parking Ascenseur Digicode Duplex Venez découvrir un écoquartier idéalement situé à seulement 500 m de la gare SNCF, à 10 minutes à pied du centre-ville de Puteaux et à 5 minutes de Paris La Défense ainsi que du centre",
+    "numero": 284085211,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-28T01:22+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "e87eb9c4de5e2223",
+    "nom": "RESPIRE",
+    "lieu": "Rueil Malmaison (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/rueil-malmaison-92/204885867/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "RESPIRE Rueil-Malmaison 30 logements Prix : nous contacter EMMÉNAGEZ IMMÉDIATEMENT DANS VOTRE APPARTEMENT NEUF ! Découvrez cette belle résidence neuve déjà livrée, idéalement située à Rueil-Malmaison, sur l’Avenue du Président Pompidou. Du studio au 5 [...]",
+    "numero": 204885867,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-28T01:22+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "b46a7ff45a099e83",
+    "nom": "Les Terrasses des Muguets",
+    "lieu": "Nanterre (92)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/nanterre-92/252599003/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "nouveau",
+    "date_publication": null,
+    "extrait": "Les Terrasses des Muguets Nanterre Du 2 pièces au 5 pièces à partir de 225 067 € Jardin Terrasse Balcon NOUVEAU PROGRAMME « LES TERRASSES DES MUGUETS » À NANTERRE ! Frais de notaire offerts et remise de 2 500 € /pièce pour les 8 premiers réservataires! Bénéficiez d’un dispositif fiscal avantageux [.",
+    "numero": 252599003,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-28T01:22+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouveau",
+      "frais_offerts",
+      "bons_plans"
+    ]
+  },
+  {
+    "id": "3d9d273d6fa825ef",
+    "nom": "Le Domaine",
+    "lieu": "Osny (95)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/osny-95/209199095/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "nouvelle opportunité",
+    "date_publication": null,
+    "extrait": "Le Domaine Osny Appartement 3 pièces 276 500 € Terrasse Ascenseur Digicode Dernière opportunité en livraison immédiate : Appartement 3 pièces de 64 m², situé au dernier étage, avec une exceptionnelle terrasse panoramique de 40 m² exposée sud-ouest. À Osny, au nord de Cergy [...]",
+    "numero": 209199095,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-28T01:22+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "nouvelle opportunité",
+      "livraison_immediate"
+    ]
+  },
+  {
+    "id": "21edaca3e1f7eee6",
+    "nom": "RESIDENCE BOIS SIGNAC",
+    "lieu": "Montreuil (93)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/montreuil-93/287042125/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "RESIDENCE BOIS SIGNAC Montreuil Du 3 pièces au 5 pièces à partir de 399 684 € Jardin Terrasse Balcon Digicode Résidence Bois Signac – Un havre de verdure et d'inspiration à Montreuil Nichée au 44 rue Rochebrune, au cœur du quartier Signac – Murs-à-Pêches, la Résidence Bois Signac propose une adresse",
+    "numero": 287042125,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-28T01:22+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
   }
 ]
