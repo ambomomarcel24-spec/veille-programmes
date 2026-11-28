@@ -4434,7 +4434,7 @@
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Prochainement à Saint-Maur-des-Fossés (94) : programme neuf du T1 au T4, à partir de 240 000 €. Vendu par Marignan.",
-    "verifie_le": "2026-11-19T12:41+00:00"
+    "verifie_le": "2026-11-28T10:00+00:00"
   },
   {
     "id": "8e3ca67e6e08a358",
@@ -4458,7 +4458,7 @@
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Duo Verde à Champigny-sur-Marne (94) : programme neuf du T2 au T4, à partir de 263 100 €. Vendu par Marignan.",
-    "verifie_le": "2026-11-19T12:41+00:00"
+    "verifie_le": "2026-11-28T10:00+00:00"
   },
   {
     "id": "f702921b40fb5048",
@@ -4482,7 +4482,7 @@
     "promoteur_cle": "bouygues-immobilier-national",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Pietrasanta à Champigny-sur-Marne (94) : programme neuf du T2 au T5, à partir de 240 892 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-19T12:41+00:00"
+    "verifie_le": "2026-11-28T10:00+00:00"
   },
   {
     "id": "077dbb9ef424c2f9",
@@ -4506,7 +4506,7 @@
     "promoteur_cle": "les-nouveaux-constructeurs",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le Dôme de Verdun à Champigny-sur-Marne (94) : programme neuf du T2 au T5, à partir de 261 800 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-19T12:41+00:00"
+    "verifie_le": "2026-11-28T10:00+00:00"
   },
   {
     "id": "f17a32d65886d4f4",
@@ -4530,7 +4530,7 @@
     "promoteur_cle": "marignan",
     "promoteur_type": "promoteur",
     "texte": "Découvrez Le Clos 86 à Champigny-sur-Marne (94) : programme neuf du T2 au T5, à partir de 249 500 €. Vendu par Marignan.",
-    "verifie_le": "2026-11-19T12:41+00:00"
+    "verifie_le": "2026-11-28T10:00+00:00"
   },
   {
     "id": "d25a3d321a89a619",
@@ -18916,7 +18916,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villa Daubigny à La Frette-sur-Seine (95) : programme neuf du T2 au T3, à partir de 275 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-19T03:01+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -18941,7 +18941,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez 9ème Art à Carrières-sur-Seine (78) : programme neuf du T2 au T5, à partir de 243 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -18966,7 +18966,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Tilia à La Queue-en-Brie (94) : programme neuf T2, à partir de 220 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -18991,7 +18991,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Jardin du Pont de Bry à Le Perreux-sur-Marne (94) : programme neuf du T3 au T4, à partir de 464 200 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -19016,7 +19016,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Aparté à Vigneux-sur-Seine (91) : programme neuf du T2 au T4, à partir de 203 967 €. Vendu par Edouard Denis.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -19041,7 +19041,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Square Art Déco à Bezons (95) : programme neuf T3, à partir de 314 100 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -19066,7 +19066,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Univert à Alfortville (94) : programme neuf T4, à partir de 383 177 €. Vendu par Eiffage Immobilier.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": "https://www.eiffage-immobilier.com",
     "tags": [
       "autre"
@@ -19091,7 +19091,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Villa Mansart à Beauchamp (95) : programme neuf du T2 au T3, à partir de 261 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -19116,7 +19116,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Hauts du Chateau à Montigny-lès-Cormeilles (95) : programme neuf T3, à partir de 265 900 €. Vendu par Les Nouveaux Constructeurs.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": "https://lnc.fr",
     "tags": [
       "autre"
@@ -19141,7 +19141,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Jardins Saint-Georges à Villeneuve-Saint-Georges (94) : programme neuf T2, à partir de 245 000 €. Vendu par Nexity.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -19166,7 +19166,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez L'Escale à Cormeilles-en-Parisis (95) : programme neuf T5, à partir de 612 000 €. Vendu par Bnp Paribas Real Estate.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -25264,7 +25264,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Villa Charleston à Maisons-Alfort (94) : programme neuf du T1 au T5, à partir de 219 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": "https://bouygues-impulsion.hive-project.fr",
     "alerte_envoyee": false,
     "tags": [
@@ -25290,7 +25290,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Les Lumieres à Savigny-le-Temple (77) : programme neuf. Vendu par Nexity.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": "https://www.nexity.fr",
     "tags": [
       "autre"
@@ -25315,7 +25315,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Pavillon Lakanal BRS à Sceaux (92) : programme neuf du T1 au T5, à partir de 158 000 €. Vendu par Quartus.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -26582,7 +26582,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez Qadence à Lieusaint (77) : programme neuf du T3 au T5, à partir de 276 000 €. Vendu par Quartus.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": null,
     "alerte_envoyee": false,
     "tags": [
@@ -26608,7 +26608,7 @@
     "enrichi": true,
     "origine": "alerte",
     "texte": "Découvrez La Marquette à Antony (92) : programme neuf T2, à partir de 330 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": null,
     "alerte_envoyee": false,
     "tags": [
@@ -26634,7 +26634,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Colombier à Lieusaint (77) : programme neuf du T1 au T5, à partir de 129 000 €. Vendu par Bouygues Immobilier National.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": "https://bouygues-impulsion.hive-project.fr",
     "tags": [
       "autre"
@@ -26659,7 +26659,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Le Domaine de l'Aparthe à Châteaufort (78) : programme neuf T2, à partir de 265 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -26684,7 +26684,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Bricklane à Bagneux (92) : programme neuf du T2 au T5, à partir de 327 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -26709,7 +26709,7 @@
     "enrichi": true,
     "origine": "catalogue",
     "texte": "Découvrez Rooftop Elegance à Antony (92) : programme neuf T2, à partir de 390 000 €. Vendu par Medicis Immobilier Neuf.",
-    "verifie_le": "2026-11-19T12:41+00:00",
+    "verifie_le": "2026-11-28T10:00+00:00",
     "promoteur_site": null,
     "tags": [
       "autre"
@@ -29484,6 +29484,46 @@
     "numero": 287042125,
     "source": "SeLoger Neuf (Île-de-France)",
     "detecte_le": "2026-11-28T01:22+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "dd6122394eb7e8f9",
+    "nom": "Programme Neuf : 15ème MERVEILLE",
+    "lieu": "Paris 15eme (75)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/paris-15eme-75/274516203/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Programme Neuf : 15ème MERVEILLE Paris 15ème Du 3 pièces au 5 pièces à partir de 1 199 000 € Terrasse Balcon 15ème merveille est un programme neuf situé au cœur du 15e arrondissement de Paris et à proximité du 7e. La résidence propose 13 appartements du studio au 5 pièces, tous dotés d'un espace ext",
+    "numero": 274516203,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-28T10:00+00:00",
+    "contacts": [],
+    "enrichi": false,
+    "promoteur": "à identifier",
+    "origine": "catalogue",
+    "tags": [
+      "autre"
+    ]
+  },
+  {
+    "id": "4f9dd5b651f11e66",
+    "nom": "Investissez dans une résidence étudiante gérée !",
+    "lieu": "Ivry sur Seine (94)",
+    "lien": "https://www.selogerneuf.com/annonces/neuf/programme/ivry-sur-seine-94/265166359/#m=classified_search_results_classified_classified_detail_S",
+    "mention": "",
+    "statut": "autre",
+    "date_publication": null,
+    "extrait": "Investissez dans une résidence étudiante gérée ! Ivry-sur-Seine Studios à partir de 154 872 € Terrasse Balcon À Ivry-sur-Seine, investissez dans une résidence étudiante gérée au cœur d'une commune dynamique du Grand Paris ! Stud'Ivry propose des studios et studios évolutifs entièrement meublés et éq",
+    "numero": 265166359,
+    "source": "SeLoger Neuf (Île-de-France)",
+    "detecte_le": "2026-11-28T10:00+00:00",
     "contacts": [],
     "enrichi": false,
     "promoteur": "à identifier",
